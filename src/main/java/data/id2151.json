@@ -1,0 +1,422 @@
+[
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": -32480,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Breunerstraße",
+        "id": 15084,
+        "strassenbezeichnung": "Breunerstraße"
+    },
+    {
+        "kurzbezeichnung": "Rathausstraße",
+        "id": 15105,
+        "strassenbezeichnung": "Rathausstraße"
+    },
+    {
+        "kurzbezeichnung": "Michelstetten",
+        "id": 56268,
+        "strassenbezeichnung": "Michelstetten"
+    },
+    {
+        "kurzbezeichnung": "Waldrandsiedlung",
+        "id": 56269,
+        "strassenbezeichnung": "Waldrandsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Hardtmuthstraße",
+        "id": 63931,
+        "strassenbezeichnung": "Hardtmuthstraße"
+    },
+    {
+        "kurzbezeichnung": "Altmanns",
+        "id": 80009,
+        "strassenbezeichnung": "Altmanns"
+    },
+    {
+        "kurzbezeichnung": "Asparn an der Zaya",
+        "id": 80010,
+        "strassenbezeichnung": "Asparn an der Zaya"
+    },
+    {
+        "kurzbezeichnung": "Schletz",
+        "id": 80011,
+        "strassenbezeichnung": "Schletz"
+    },
+    {
+        "kurzbezeichnung": "Olgersdorf",
+        "id": 80081,
+        "strassenbezeichnung": "Olgersdorf"
+    },
+    {
+        "kurzbezeichnung": "Meierhofstraße",
+        "id": 117004,
+        "strassenbezeichnung": "Meierhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Hopfengarten",
+        "id": 117005,
+        "strassenbezeichnung": "Am Hopfengarten"
+    },
+    {
+        "kurzbezeichnung": "Metternichstraße",
+        "id": 117006,
+        "strassenbezeichnung": "Metternichstraße"
+    },
+    {
+        "kurzbezeichnung": "Ortsstraße",
+        "id": 120542,
+        "strassenbezeichnung": "Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Ringstraße",
+        "id": 120543,
+        "strassenbezeichnung": "Ringstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Ortsstraße",
+        "id": 120544,
+        "strassenbezeichnung": "Obere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 120546,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Akazienweg",
+        "id": 120547,
+        "strassenbezeichnung": "Akazienweg"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 120548,
+        "strassenbezeichnung": "Lindengasse"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 120549,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 120551,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Untere Hauptstraße",
+        "id": 120552,
+        "strassenbezeichnung": "Untere Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosengartenweg",
+        "id": 120553,
+        "strassenbezeichnung": "Rosengartenweg"
+    },
+    {
+        "kurzbezeichnung": "Gerichtsweg",
+        "id": 120554,
+        "strassenbezeichnung": "Gerichtsweg"
+    },
+    {
+        "kurzbezeichnung": "Mariengasse",
+        "id": 120555,
+        "strassenbezeichnung": "Mariengasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Hauptstraße",
+        "id": 120558,
+        "strassenbezeichnung": "Obere Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": 120559,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Hörersdorfer Straße",
+        "id": 120560,
+        "strassenbezeichnung": "Hörersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 120561,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Kiesweg",
+        "id": 120562,
+        "strassenbezeichnung": "Kiesweg"
+    },
+    {
+        "kurzbezeichnung": "Lagerhausweg",
+        "id": 120563,
+        "strassenbezeichnung": "Lagerhausweg"
+    },
+    {
+        "kurzbezeichnung": "Am Ententeich",
+        "id": 120564,
+        "strassenbezeichnung": "Am Ententeich"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 120565,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 120566,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Hirschengasse",
+        "id": 120567,
+        "strassenbezeichnung": "Hirschengasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 120568,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Maurergasse",
+        "id": 120569,
+        "strassenbezeichnung": "Maurergasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 120570,
+        "strassenbezeichnung": "Schlossgasse"
+    },
+    {
+        "kurzbezeichnung": "Breitenweg",
+        "id": 120571,
+        "strassenbezeichnung": "Breitenweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 120572,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnzeile",
+        "id": 120573,
+        "strassenbezeichnung": "Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Bauernzeile",
+        "id": 120574,
+        "strassenbezeichnung": "Bauernzeile"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 120575,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 120576,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 120577,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Zayaweg",
+        "id": 120578,
+        "strassenbezeichnung": "Zayaweg"
+    },
+    {
+        "kurzbezeichnung": "Am Schletzer Bach",
+        "id": 120579,
+        "strassenbezeichnung": "Am Schletzer Bach"
+    },
+    {
+        "kurzbezeichnung": "Schletzer Straße",
+        "id": 120580,
+        "strassenbezeichnung": "Schletzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 120581,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Sandgraben",
+        "id": 120582,
+        "strassenbezeichnung": "Am Sandgraben"
+    },
+    {
+        "kurzbezeichnung": "Lindenhof",
+        "id": 120583,
+        "strassenbezeichnung": "Lindenhof"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 120584,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Im Unterort",
+        "id": 120585,
+        "strassenbezeichnung": "Im Unterort"
+    },
+    {
+        "kurzbezeichnung": "Brückenweg",
+        "id": 120586,
+        "strassenbezeichnung": "Brückenweg"
+    },
+    {
+        "kurzbezeichnung": "In der Dorfwiese",
+        "id": 120587,
+        "strassenbezeichnung": "In der Dorfwiese"
+    },
+    {
+        "kurzbezeichnung": "Im Oberort",
+        "id": 120588,
+        "strassenbezeichnung": "Im Oberort"
+    },
+    {
+        "kurzbezeichnung": "Alter Hof",
+        "id": 120589,
+        "strassenbezeichnung": "Alter Hof"
+    },
+    {
+        "kurzbezeichnung": "Im Kirchenort",
+        "id": 120590,
+        "strassenbezeichnung": "Im Kirchenort"
+    },
+    {
+        "kurzbezeichnung": "Schulberg",
+        "id": 120591,
+        "strassenbezeichnung": "Schulberg"
+    },
+    {
+        "kurzbezeichnung": "Buschbergweg",
+        "id": 120592,
+        "strassenbezeichnung": "Buschbergweg"
+    },
+    {
+        "kurzbezeichnung": "Sankt-Vitus-Platz",
+        "id": 120593,
+        "strassenbezeichnung": "Sankt-Vitus-Platz"
+    },
+    {
+        "kurzbezeichnung": "Hainthal",
+        "id": 120594,
+        "strassenbezeichnung": "Hainthal"
+    },
+    {
+        "kurzbezeichnung": "Quellengasse",
+        "id": 120595,
+        "strassenbezeichnung": "Quellengasse"
+    },
+    {
+        "kurzbezeichnung": "Teichtlberg",
+        "id": 120596,
+        "strassenbezeichnung": "Teichtlberg"
+    },
+    {
+        "kurzbezeichnung": "Am Feldrand",
+        "id": 120597,
+        "strassenbezeichnung": "Am Feldrand"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 120598,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Steinberg",
+        "id": 120599,
+        "strassenbezeichnung": "Am Steinberg"
+    },
+    {
+        "kurzbezeichnung": "Heidegasse",
+        "id": 120600,
+        "strassenbezeichnung": "Heidegasse"
+    },
+    {
+        "kurzbezeichnung": "Altmannser Straße",
+        "id": 120601,
+        "strassenbezeichnung": "Altmannser Straße"
+    },
+    {
+        "kurzbezeichnung": "Wintergasse",
+        "id": 120602,
+        "strassenbezeichnung": "Wintergasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlberggasse",
+        "id": 120603,
+        "strassenbezeichnung": "Mühlberggasse"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 120604,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Florianistraße",
+        "id": 120605,
+        "strassenbezeichnung": "Florianistraße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 120606,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachzeile",
+        "id": 120607,
+        "strassenbezeichnung": "Bachzeile"
+    },
+    {
+        "kurzbezeichnung": "Alte Schule",
+        "id": 120608,
+        "strassenbezeichnung": "Alte Schule"
+    },
+    {
+        "kurzbezeichnung": "Herrengasse",
+        "id": 120609,
+        "strassenbezeichnung": "Herrengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Kellerberg",
+        "id": 120610,
+        "strassenbezeichnung": "Am Kellerberg"
+    },
+    {
+        "kurzbezeichnung": "Am Angerl",
+        "id": 120611,
+        "strassenbezeichnung": "Am Angerl"
+    },
+    {
+        "kurzbezeichnung": "Johannesgasse",
+        "id": 120612,
+        "strassenbezeichnung": "Johannesgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Bahnberg",
+        "id": 120613,
+        "strassenbezeichnung": "Am Bahnberg"
+    },
+    {
+        "kurzbezeichnung": "Triftweg",
+        "id": 120614,
+        "strassenbezeichnung": "Triftweg"
+    },
+    {
+        "kurzbezeichnung": "Siedlung",
+        "id": 120615,
+        "strassenbezeichnung": "Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Keltenweg",
+        "id": 127702,
+        "strassenbezeichnung": "Keltenweg"
+    }
+]

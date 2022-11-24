@@ -1,0 +1,552 @@
+[
+    {
+        "kurzbezeichnung": "Meeting Waters",
+        "id": -33305,
+        "strassenbezeichnung": "Meeting Waters"
+    },
+    {
+        "kurzbezeichnung": "Kienburg",
+        "id": -31268,
+        "strassenbezeichnung": "Kienburg"
+    },
+    {
+        "kurzbezeichnung": "Nilltalweg",
+        "id": -20468,
+        "strassenbezeichnung": "Nilltalweg"
+    },
+    {
+        "kurzbezeichnung": "Wohnpark Felbertauern",
+        "id": -20466,
+        "strassenbezeichnung": "Wohnpark Felbertauern"
+    },
+    {
+        "kurzbezeichnung": "Oberer Steineralm",
+        "id": -20461,
+        "strassenbezeichnung": "Oberer Steineralm"
+    },
+    {
+        "kurzbezeichnung": "Hermann-Obwexer-Straße",
+        "id": -15698,
+        "strassenbezeichnung": "Hermann-Obwexer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz-Eichhorst-Weg",
+        "id": 1395,
+        "strassenbezeichnung": "Franz-Eichhorst-Weg"
+    },
+    {
+        "kurzbezeichnung": "Zunigalm",
+        "id": 11191,
+        "strassenbezeichnung": "Zunigalm"
+    },
+    {
+        "kurzbezeichnung": "Auenweg",
+        "id": 41576,
+        "strassenbezeichnung": "Auenweg"
+    },
+    {
+        "kurzbezeichnung": "Bichler Straße",
+        "id": 41577,
+        "strassenbezeichnung": "Bichler Straße"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 41578,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Bründlweg",
+        "id": 41579,
+        "strassenbezeichnung": "Bründlweg"
+    },
+    {
+        "kurzbezeichnung": "Edenweg",
+        "id": 41580,
+        "strassenbezeichnung": "Edenweg"
+    },
+    {
+        "kurzbezeichnung": "Gerichtsplatz",
+        "id": 41581,
+        "strassenbezeichnung": "Gerichtsplatz"
+    },
+    {
+        "kurzbezeichnung": "Rosa-Ghedina-Straße",
+        "id": 41582,
+        "strassenbezeichnung": "Rosa-Ghedina-Straße"
+    },
+    {
+        "kurzbezeichnung": "Grabenweg",
+        "id": 41583,
+        "strassenbezeichnung": "Grabenweg"
+    },
+    {
+        "kurzbezeichnung": "Josef-Gridling-Weg",
+        "id": 41584,
+        "strassenbezeichnung": "Josef-Gridling-Weg"
+    },
+    {
+        "kurzbezeichnung": "Grießstraße",
+        "id": 41585,
+        "strassenbezeichnung": "Grießstraße"
+    },
+    {
+        "kurzbezeichnung": "Hildenweg",
+        "id": 41586,
+        "strassenbezeichnung": "Hildenweg"
+    },
+    {
+        "kurzbezeichnung": "Hintermarkt",
+        "id": 41587,
+        "strassenbezeichnung": "Hintermarkt"
+    },
+    {
+        "kurzbezeichnung": "Honiggasse",
+        "id": 41588,
+        "strassenbezeichnung": "Honiggasse"
+    },
+    {
+        "kurzbezeichnung": "Kircherweg",
+        "id": 41589,
+        "strassenbezeichnung": "Kircherweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatz",
+        "id": 41590,
+        "strassenbezeichnung": "Kirchplatz"
+    },
+    {
+        "kurzbezeichnung": "Köflerweg",
+        "id": 41591,
+        "strassenbezeichnung": "Köflerweg"
+    },
+    {
+        "kurzbezeichnung": "Dekan-Kurzthaler-Weg",
+        "id": 41592,
+        "strassenbezeichnung": "Dekan-Kurzthaler-Weg"
+    },
+    {
+        "kurzbezeichnung": "Lienzer Straße",
+        "id": 41593,
+        "strassenbezeichnung": "Lienzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 41595,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Marstallweg",
+        "id": 41596,
+        "strassenbezeichnung": "Marstallweg"
+    },
+    {
+        "kurzbezeichnung": "J.-Mattersberger-Str.",
+        "id": 41597,
+        "strassenbezeichnung": "Josef-Mattersberger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Neumarktstraße",
+        "id": 41598,
+        "strassenbezeichnung": "Neumarktstraße"
+    },
+    {
+        "kurzbezeichnung": "Obersamergasse",
+        "id": 41599,
+        "strassenbezeichnung": "Obersamergasse"
+    },
+    {
+        "kurzbezeichnung": "Natalis-Obwexer-Straße",
+        "id": 41600,
+        "strassenbezeichnung": "Natalis-Obwexer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Johann-Panzl-Straße",
+        "id": 41601,
+        "strassenbezeichnung": "Johann-Panzl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Pattergasse",
+        "id": 41602,
+        "strassenbezeichnung": "Pattergasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrangerweg",
+        "id": 41603,
+        "strassenbezeichnung": "Pfarrangerweg"
+    },
+    {
+        "kurzbezeichnung": "Proßeggweg",
+        "id": 41604,
+        "strassenbezeichnung": "Proßeggweg"
+    },
+    {
+        "kurzbezeichnung": "Virgil-Rainer-Straße",
+        "id": 41605,
+        "strassenbezeichnung": "Virgil-Rainer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Rauterplatz",
+        "id": 41606,
+        "strassenbezeichnung": "Rauterplatz"
+    },
+    {
+        "kurzbezeichnung": "Remlerstraße",
+        "id": 41607,
+        "strassenbezeichnung": "Remlerstraße"
+    },
+    {
+        "kurzbezeichnung": "Siedlerweg",
+        "id": 41608,
+        "strassenbezeichnung": "Siedlerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 41609,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Simon-v.-Stampfer-Str.",
+        "id": 41610,
+        "strassenbezeichnung": "Simon-von-Stampfer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Tauerntalstraße",
+        "id": 41611,
+        "strassenbezeichnung": "Tauerntalstraße"
+    },
+    {
+        "kurzbezeichnung": "Dekan-Unterpranger-Weg",
+        "id": 41612,
+        "strassenbezeichnung": "Dekan-Unterpranger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Virgener Straße",
+        "id": 41613,
+        "strassenbezeichnung": "Virgener Straße"
+    },
+    {
+        "kurzbezeichnung": "Wallnerstraße",
+        "id": 41614,
+        "strassenbezeichnung": "Wallnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Webergasse",
+        "id": 41615,
+        "strassenbezeichnung": "Webergasse"
+    },
+    {
+        "kurzbezeichnung": "Wohlgemuthsweg",
+        "id": 41616,
+        "strassenbezeichnung": "Wohlgemuthsweg"
+    },
+    {
+        "kurzbezeichnung": "Johann-Wolsegger-Str.",
+        "id": 41617,
+        "strassenbezeichnung": "Johann-Wolsegger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Moosweg",
+        "id": 52401,
+        "strassenbezeichnung": "Moosweg"
+    },
+    {
+        "kurzbezeichnung": "Zedlacher Straße",
+        "id": 52765,
+        "strassenbezeichnung": "Zedlacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Johann-Amoser-Straße",
+        "id": 52995,
+        "strassenbezeichnung": "Johann-Amoser-Straße"
+    },
+    {
+        "kurzbezeichnung": "Auerfeld",
+        "id": 56164,
+        "strassenbezeichnung": "Auerfeld"
+    },
+    {
+        "kurzbezeichnung": "Bruggen",
+        "id": 56165,
+        "strassenbezeichnung": "Bruggen"
+    },
+    {
+        "kurzbezeichnung": "Waier",
+        "id": 56166,
+        "strassenbezeichnung": "Waier"
+    },
+    {
+        "kurzbezeichnung": "Goldriedstraße",
+        "id": 62713,
+        "strassenbezeichnung": "Goldriedstraße"
+    },
+    {
+        "kurzbezeichnung": "Panlostraße",
+        "id": 62714,
+        "strassenbezeichnung": "Panlostraße"
+    },
+    {
+        "kurzbezeichnung": "Gereitstraße",
+        "id": 62715,
+        "strassenbezeichnung": "Gereitstraße"
+    },
+    {
+        "kurzbezeichnung": "Walcheggerstraße",
+        "id": 62905,
+        "strassenbezeichnung": "Walcheggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Korberplatz",
+        "id": 62906,
+        "strassenbezeichnung": "Korberplatz"
+    },
+    {
+        "kurzbezeichnung": "Sparkassenplatz",
+        "id": 72103,
+        "strassenbezeichnung": "Sparkassenplatz"
+    },
+    {
+        "kurzbezeichnung": "Leopold-Figl-Straße",
+        "id": 72916,
+        "strassenbezeichnung": "Leopold-Figl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Eduard-Wallnöfer-Str.",
+        "id": 74581,
+        "strassenbezeichnung": "Eduard-Wallnöfer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bichl",
+        "id": 89946,
+        "strassenbezeichnung": "Bichl"
+    },
+    {
+        "kurzbezeichnung": "Feld",
+        "id": 89947,
+        "strassenbezeichnung": "Feld"
+    },
+    {
+        "kurzbezeichnung": "Ganz",
+        "id": 89948,
+        "strassenbezeichnung": "Ganz"
+    },
+    {
+        "kurzbezeichnung": "Glanz",
+        "id": 89949,
+        "strassenbezeichnung": "Glanz"
+    },
+    {
+        "kurzbezeichnung": "Gruben",
+        "id": 89950,
+        "strassenbezeichnung": "Gruben"
+    },
+    {
+        "kurzbezeichnung": "Hinterburg",
+        "id": 89951,
+        "strassenbezeichnung": "Hinterburg"
+    },
+    {
+        "kurzbezeichnung": "Hinteregg",
+        "id": 89952,
+        "strassenbezeichnung": "Hinteregg"
+    },
+    {
+        "kurzbezeichnung": "Huben",
+        "id": 89953,
+        "strassenbezeichnung": "Huben"
+    },
+    {
+        "kurzbezeichnung": "Kaltenhaus",
+        "id": 89954,
+        "strassenbezeichnung": "Kaltenhaus"
+    },
+    {
+        "kurzbezeichnung": "Kienburg",
+        "id": 89955,
+        "strassenbezeichnung": "Kienburg"
+    },
+    {
+        "kurzbezeichnung": "Klaunz",
+        "id": 89956,
+        "strassenbezeichnung": "Klaunz"
+    },
+    {
+        "kurzbezeichnung": "Klausen",
+        "id": 89957,
+        "strassenbezeichnung": "Klausen"
+    },
+    {
+        "kurzbezeichnung": "Mattersberg",
+        "id": 89959,
+        "strassenbezeichnung": "Mattersberg"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 89960,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Proßegg",
+        "id": 89961,
+        "strassenbezeichnung": "Proßegg"
+    },
+    {
+        "kurzbezeichnung": "Raneburg",
+        "id": 89962,
+        "strassenbezeichnung": "Raneburg"
+    },
+    {
+        "kurzbezeichnung": "Seblas",
+        "id": 89963,
+        "strassenbezeichnung": "Seblas"
+    },
+    {
+        "kurzbezeichnung": "Tauer",
+        "id": 89964,
+        "strassenbezeichnung": "Tauer"
+    },
+    {
+        "kurzbezeichnung": "Zedlach",
+        "id": 89965,
+        "strassenbezeichnung": "Zedlach"
+    },
+    {
+        "kurzbezeichnung": "Berg",
+        "id": 90218,
+        "strassenbezeichnung": "Berg"
+    },
+    {
+        "kurzbezeichnung": "Dekan-Holaus-Weg",
+        "id": 92119,
+        "strassenbezeichnung": "Dekan-Holaus-Weg"
+    },
+    {
+        "kurzbezeichnung": "Schloß-Weißenstein-Str",
+        "id": 92120,
+        "strassenbezeichnung": "Schloß-Weißenstein-Straße"
+    },
+    {
+        "kurzbezeichnung": "Innergschlöß",
+        "id": 104300,
+        "strassenbezeichnung": "Innergschlöß"
+    },
+    {
+        "kurzbezeichnung": "Außergschlöß",
+        "id": 104301,
+        "strassenbezeichnung": "Außergschlöß"
+    },
+    {
+        "kurzbezeichnung": "Wohlgemuthsalm",
+        "id": 104302,
+        "strassenbezeichnung": "Wohlgemuthsalm"
+    },
+    {
+        "kurzbezeichnung": "Schildalm",
+        "id": 104303,
+        "strassenbezeichnung": "Schildalm"
+    },
+    {
+        "kurzbezeichnung": "Landeckalm",
+        "id": 104304,
+        "strassenbezeichnung": "Landeckalm"
+    },
+    {
+        "kurzbezeichnung": "Obertaxeralm",
+        "id": 104305,
+        "strassenbezeichnung": "Obertaxeralm"
+    },
+    {
+        "kurzbezeichnung": "Untertaxeralm",
+        "id": 104306,
+        "strassenbezeichnung": "Untertaxeralm"
+    },
+    {
+        "kurzbezeichnung": "Katalalm",
+        "id": 104307,
+        "strassenbezeichnung": "Katalalm"
+    },
+    {
+        "kurzbezeichnung": "Innersteineralm",
+        "id": 104308,
+        "strassenbezeichnung": "Innersteineralm"
+    },
+    {
+        "kurzbezeichnung": "Arnitzalm",
+        "id": 104309,
+        "strassenbezeichnung": "Arnitzalm"
+    },
+    {
+        "kurzbezeichnung": "Äußere Steiner-Alm",
+        "id": 104310,
+        "strassenbezeichnung": "Äußere Steiner-Alm"
+    },
+    {
+        "kurzbezeichnung": "Zedlacher Ochsenalm",
+        "id": 104311,
+        "strassenbezeichnung": "Zedlacher Ochsenalm"
+    },
+    {
+        "kurzbezeichnung": "Zedlacher Frossnitzalm",
+        "id": 104312,
+        "strassenbezeichnung": "Zedlacher Frossnitzalm"
+    },
+    {
+        "kurzbezeichnung": "Mitteldo. Frossnitzalm",
+        "id": 104313,
+        "strassenbezeichnung": "Mitteldorfer Frossnitzalm"
+    },
+    {
+        "kurzbezeichnung": "Frögealm",
+        "id": 104314,
+        "strassenbezeichnung": "Frögealm"
+    },
+    {
+        "kurzbezeichnung": "Raneburg-Alm",
+        "id": 104315,
+        "strassenbezeichnung": "Raneburg-Alm"
+    },
+    {
+        "kurzbezeichnung": "Landeck",
+        "id": 104316,
+        "strassenbezeichnung": "Landeck"
+    },
+    {
+        "kurzbezeichnung": "Wodenalm",
+        "id": 104317,
+        "strassenbezeichnung": "Wodenalm"
+    },
+    {
+        "kurzbezeichnung": "Jakob-Wibmer-Straße",
+        "id": 107031,
+        "strassenbezeichnung": "Jakob-Wibmer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Alban-Bichler-Straße",
+        "id": 108587,
+        "strassenbezeichnung": "Alban-Bichler-Straße"
+    },
+    {
+        "kurzbezeichnung": "Europastraße",
+        "id": 110035,
+        "strassenbezeichnung": "Europastraße"
+    },
+    {
+        "kurzbezeichnung": "Kastelruther Straße",
+        "id": 111182,
+        "strassenbezeichnung": "Kastelruther Straße"
+    },
+    {
+        "kurzbezeichnung": "Nußdorfer Straße",
+        "id": 111212,
+        "strassenbezeichnung": "Nußdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Andreas-Brugger-Straße",
+        "id": 112611,
+        "strassenbezeichnung": "Andreas-Brugger-Straße"
+    },
+    {
+        "kurzbezeichnung": "KR-Hermann Obwexer-Str.",
+        "id": 122032,
+        "strassenbezeichnung": "KR-Hermann Obwexer-Straße"
+    }
+]

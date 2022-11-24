@@ -1,0 +1,287 @@
+[
+    {
+        "kurzbezeichnung": "Nussbolterweg",
+        "id": -32343,
+        "strassenbezeichnung": "Nussbolterweg"
+    },
+    {
+        "kurzbezeichnung": "Kopackaweg",
+        "id": -31439,
+        "strassenbezeichnung": "Kopackaweg"
+    },
+    {
+        "kurzbezeichnung": "Reissstraße",
+        "id": -20110,
+        "strassenbezeichnung": "Reissstraße"
+    },
+    {
+        "kurzbezeichnung": "Apfelberg",
+        "id": 37014,
+        "strassenbezeichnung": "Apfelberg"
+    },
+    {
+        "kurzbezeichnung": "Einödhofweg",
+        "id": 37016,
+        "strassenbezeichnung": "Einödhofweg"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 37019,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Heimfahrtsbachweg",
+        "id": 37020,
+        "strassenbezeichnung": "Heimfahrtsbachweg"
+    },
+    {
+        "kurzbezeichnung": "Stubalpenstraße",
+        "id": 37030,
+        "strassenbezeichnung": "Stubalpenstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 37033,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 37034,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 37035,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 37036,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 37037,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 37038,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kornweg",
+        "id": 37039,
+        "strassenbezeichnung": "Kornweg"
+    },
+    {
+        "kurzbezeichnung": "Kurzweg",
+        "id": 37040,
+        "strassenbezeichnung": "Kurzweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 37041,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Lobmingerstraße",
+        "id": 37042,
+        "strassenbezeichnung": "Lobmingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Murhof",
+        "id": 37043,
+        "strassenbezeichnung": "Murhof"
+    },
+    {
+        "kurzbezeichnung": "Mursiedlung",
+        "id": 37044,
+        "strassenbezeichnung": "Mursiedlung"
+    },
+    {
+        "kurzbezeichnung": "Murweg",
+        "id": 37045,
+        "strassenbezeichnung": "Murweg"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": 37046,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Siedlung II",
+        "id": 37047,
+        "strassenbezeichnung": "Siedlung II"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsstraße",
+        "id": 37048,
+        "strassenbezeichnung": "Siedlungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportgasse",
+        "id": 37049,
+        "strassenbezeichnung": "Sportgasse"
+    },
+    {
+        "kurzbezeichnung": "Wagnergasse",
+        "id": 37050,
+        "strassenbezeichnung": "Wagnergasse"
+    },
+    {
+        "kurzbezeichnung": "Weißkirchnerstraße",
+        "id": 37051,
+        "strassenbezeichnung": "Weißkirchnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 37052,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Großlobming",
+        "id": 46472,
+        "strassenbezeichnung": "Großlobming"
+    },
+    {
+        "kurzbezeichnung": "Mitterlobming",
+        "id": 58880,
+        "strassenbezeichnung": "Mitterlobming"
+    },
+    {
+        "kurzbezeichnung": "Hausergraben",
+        "id": 58881,
+        "strassenbezeichnung": "Hausergraben"
+    },
+    {
+        "kurzbezeichnung": "Hintertal",
+        "id": 58882,
+        "strassenbezeichnung": "Hintertal"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 58883,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Gaberlstraße",
+        "id": 58884,
+        "strassenbezeichnung": "Gaberlstraße"
+    },
+    {
+        "kurzbezeichnung": "Liftstraße",
+        "id": 58885,
+        "strassenbezeichnung": "Liftstraße"
+    },
+    {
+        "kurzbezeichnung": "Gaberl-Siedlung-Süd",
+        "id": 58886,
+        "strassenbezeichnung": "Gaberl-Siedlung-Süd"
+    },
+    {
+        "kurzbezeichnung": "Gaberl",
+        "id": 58887,
+        "strassenbezeichnung": "Gaberl"
+    },
+    {
+        "kurzbezeichnung": "Sonnengasse",
+        "id": 58888,
+        "strassenbezeichnung": "Sonnengasse"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 58889,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnberg I",
+        "id": 58890,
+        "strassenbezeichnung": "Sonnberg I"
+    },
+    {
+        "kurzbezeichnung": "Meranstraße",
+        "id": 58948,
+        "strassenbezeichnung": "Meranstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 60538,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 60539,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Werksgasse",
+        "id": 60540,
+        "strassenbezeichnung": "Werksgasse"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 63845,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnberg II",
+        "id": 66571,
+        "strassenbezeichnung": "Sonnberg II"
+    },
+    {
+        "kurzbezeichnung": "Hauserweg",
+        "id": 66572,
+        "strassenbezeichnung": "Hauserweg"
+    },
+    {
+        "kurzbezeichnung": "Thann",
+        "id": 88865,
+        "strassenbezeichnung": "Thann"
+    },
+    {
+        "kurzbezeichnung": "Am Goldhügel",
+        "id": 94729,
+        "strassenbezeichnung": "Am Goldhügel"
+    },
+    {
+        "kurzbezeichnung": "Schlossweg",
+        "id": 95873,
+        "strassenbezeichnung": "Schlossweg"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 100305,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Karl Wimpffenweg",
+        "id": 108028,
+        "strassenbezeichnung": "Karl Wimpffenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Rain",
+        "id": 112555,
+        "strassenbezeichnung": "Am Rain"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 121932,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Maigoldplatz",
+        "id": 122485,
+        "strassenbezeichnung": "Maigoldplatz"
+    },
+    {
+        "kurzbezeichnung": "Ackerweg",
+        "id": 122950,
+        "strassenbezeichnung": "Ackerweg"
+    },
+    {
+        "kurzbezeichnung": "Tulpenweg",
+        "id": 124021,
+        "strassenbezeichnung": "Tulpenweg"
+    }
+]

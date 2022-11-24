@@ -1,0 +1,527 @@
+[
+    {
+        "kurzbezeichnung": "Baschlief",
+        "id": -16866,
+        "strassenbezeichnung": "Baschlief"
+    },
+    {
+        "kurzbezeichnung": "Latz",
+        "id": 8353,
+        "strassenbezeichnung": "Latz"
+    },
+    {
+        "kurzbezeichnung": "Alte Siedlung",
+        "id": 42233,
+        "strassenbezeichnung": "Alte Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Alte Straße",
+        "id": 42234,
+        "strassenbezeichnung": "Alte Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Kanal",
+        "id": 42235,
+        "strassenbezeichnung": "Am Kanal"
+    },
+    {
+        "kurzbezeichnung": "Am Platz",
+        "id": 42236,
+        "strassenbezeichnung": "Am Platz"
+    },
+    {
+        "kurzbezeichnung": "Am Rain",
+        "id": 42237,
+        "strassenbezeichnung": "Am Rain"
+    },
+    {
+        "kurzbezeichnung": "Andreas-Gaßner-Straße",
+        "id": 42238,
+        "strassenbezeichnung": "Andreas-Gaßner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 42240,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bardiel",
+        "id": 42241,
+        "strassenbezeichnung": "Bardiel"
+    },
+    {
+        "kurzbezeichnung": "Bazul",
+        "id": 42242,
+        "strassenbezeichnung": "Bazul"
+    },
+    {
+        "kurzbezeichnung": "Bazulstraße",
+        "id": 42243,
+        "strassenbezeichnung": "Bazulstraße"
+    },
+    {
+        "kurzbezeichnung": "Beschlingerstraße",
+        "id": 42244,
+        "strassenbezeichnung": "Beschlingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumeneggstraße",
+        "id": 42245,
+        "strassenbezeichnung": "Blumeneggstraße"
+    },
+    {
+        "kurzbezeichnung": "Bragadella",
+        "id": 42246,
+        "strassenbezeichnung": "Bragadella"
+    },
+    {
+        "kurzbezeichnung": "Brandweg",
+        "id": 42247,
+        "strassenbezeichnung": "Brandweg"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 42248,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Christian-Hummel-Weg",
+        "id": 42250,
+        "strassenbezeichnung": "Christian-Hummel-Weg"
+    },
+    {
+        "kurzbezeichnung": "Eichenstraße",
+        "id": 42251,
+        "strassenbezeichnung": "Eichenstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlenau",
+        "id": 42252,
+        "strassenbezeichnung": "Erlenau"
+    },
+    {
+        "kurzbezeichnung": "Eugen Getzner-Straße",
+        "id": 42253,
+        "strassenbezeichnung": "Eugen Getzner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Feschaweg",
+        "id": 42254,
+        "strassenbezeichnung": "Feschaweg"
+    },
+    {
+        "kurzbezeichnung": "Fingaweg",
+        "id": 42255,
+        "strassenbezeichnung": "Fingaweg"
+    },
+    {
+        "kurzbezeichnung": "Gaisstraße",
+        "id": 42256,
+        "strassenbezeichnung": "Gaisstraße"
+    },
+    {
+        "kurzbezeichnung": "Galetschaweg",
+        "id": 42257,
+        "strassenbezeichnung": "Galetschaweg"
+    },
+    {
+        "kurzbezeichnung": "Gamperdonaweg",
+        "id": 42258,
+        "strassenbezeichnung": "Gamperdonaweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 42260,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Grav",
+        "id": 42261,
+        "strassenbezeichnung": "Grav"
+    },
+    {
+        "kurzbezeichnung": "Grienegg",
+        "id": 42262,
+        "strassenbezeichnung": "Grienegg"
+    },
+    {
+        "kurzbezeichnung": "Gurtnielweg",
+        "id": 42263,
+        "strassenbezeichnung": "Gurtnielweg"
+    },
+    {
+        "kurzbezeichnung": "Hanfland",
+        "id": 42264,
+        "strassenbezeichnung": "Hanfland"
+    },
+    {
+        "kurzbezeichnung": "Hofstattweg",
+        "id": 42265,
+        "strassenbezeichnung": "Hofstattweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptmann-Jutz-Straße",
+        "id": 42266,
+        "strassenbezeichnung": "Hauptmann-Jutz-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hauptmann-Nenn-Straße",
+        "id": 42267,
+        "strassenbezeichnung": "Hauptmann-Nenn-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ignaz-Greber-Straße",
+        "id": 42268,
+        "strassenbezeichnung": "Ignaz-Greber-Straße"
+    },
+    {
+        "kurzbezeichnung": "Illstraße",
+        "id": 42269,
+        "strassenbezeichnung": "Illstraße"
+    },
+    {
+        "kurzbezeichnung": "Im Bruel",
+        "id": 42270,
+        "strassenbezeichnung": "Im Bruel"
+    },
+    {
+        "kurzbezeichnung": "Im Winkel",
+        "id": 42271,
+        "strassenbezeichnung": "Im Winkel"
+    },
+    {
+        "kurzbezeichnung": "Inatschina",
+        "id": 42272,
+        "strassenbezeichnung": "Inatschina"
+    },
+    {
+        "kurzbezeichnung": "Johanniterstraße",
+        "id": 42273,
+        "strassenbezeichnung": "Johanniterstraße"
+    },
+    {
+        "kurzbezeichnung": "Jonas-Egger-Weg",
+        "id": 42274,
+        "strassenbezeichnung": "Jonas-Egger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Kesseweg",
+        "id": 42275,
+        "strassenbezeichnung": "Kesseweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchgasse",
+        "id": 42276,
+        "strassenbezeichnung": "Kirchgasse"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 42277,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Luzebild",
+        "id": 42278,
+        "strassenbezeichnung": "Luzebild"
+    },
+    {
+        "kurzbezeichnung": "Mengschlucht",
+        "id": 42279,
+        "strassenbezeichnung": "Mengschlucht"
+    },
+    {
+        "kurzbezeichnung": "Mengstraße",
+        "id": 42280,
+        "strassenbezeichnung": "Mengstraße"
+    },
+    {
+        "kurzbezeichnung": "Montfortstraße",
+        "id": 42281,
+        "strassenbezeichnung": "Montfortstraße"
+    },
+    {
+        "kurzbezeichnung": "Muttenbühel",
+        "id": 42282,
+        "strassenbezeichnung": "Muttenbühel"
+    },
+    {
+        "kurzbezeichnung": "Nagrand",
+        "id": 42283,
+        "strassenbezeichnung": "Nagrand"
+    },
+    {
+        "kurzbezeichnung": "Nenzingerstraße",
+        "id": 42285,
+        "strassenbezeichnung": "Nenzingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Nitidon",
+        "id": 42286,
+        "strassenbezeichnung": "Nitidon"
+    },
+    {
+        "kurzbezeichnung": "Rätikonstraße",
+        "id": 42287,
+        "strassenbezeichnung": "Rätikonstraße"
+    },
+    {
+        "kurzbezeichnung": "Ramschwagstraße",
+        "id": 42288,
+        "strassenbezeichnung": "Ramschwagstraße"
+    },
+    {
+        "kurzbezeichnung": "Reuteweg",
+        "id": 42289,
+        "strassenbezeichnung": "Reuteweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 42290,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Schwedenstraße",
+        "id": 42291,
+        "strassenbezeichnung": "Schwedenstraße"
+    },
+    {
+        "kurzbezeichnung": "Simmesgasse",
+        "id": 42292,
+        "strassenbezeichnung": "Simmesgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonneck",
+        "id": 42293,
+        "strassenbezeichnung": "Sonneck"
+    },
+    {
+        "kurzbezeichnung": "Sonnenbergstraße",
+        "id": 42294,
+        "strassenbezeichnung": "Sonnenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Tannenbildstraße",
+        "id": 42295,
+        "strassenbezeichnung": "Tannenbildstraße"
+    },
+    {
+        "kurzbezeichnung": "Trienzenstraße",
+        "id": 42296,
+        "strassenbezeichnung": "Trienzenstraße"
+    },
+    {
+        "kurzbezeichnung": "Wassertrete",
+        "id": 42297,
+        "strassenbezeichnung": "Wassertrete"
+    },
+    {
+        "kurzbezeichnung": "Werdenbergstraße",
+        "id": 42298,
+        "strassenbezeichnung": "Werdenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesengrund",
+        "id": 42299,
+        "strassenbezeichnung": "Wiesengrund"
+    },
+    {
+        "kurzbezeichnung": "Wuhrgang",
+        "id": 42300,
+        "strassenbezeichnung": "Wuhrgang"
+    },
+    {
+        "kurzbezeichnung": "Kellabühel",
+        "id": 52582,
+        "strassenbezeichnung": "Kellabühel"
+    },
+    {
+        "kurzbezeichnung": "Tschalenga",
+        "id": 52583,
+        "strassenbezeichnung": "Tschalenga"
+    },
+    {
+        "kurzbezeichnung": "Fasel",
+        "id": 52759,
+        "strassenbezeichnung": "Fasel"
+    },
+    {
+        "kurzbezeichnung": "Auf der Wiese",
+        "id": 52760,
+        "strassenbezeichnung": "Auf der Wiese"
+    },
+    {
+        "kurzbezeichnung": "Löchera",
+        "id": 52761,
+        "strassenbezeichnung": "Löchera"
+    },
+    {
+        "kurzbezeichnung": "Tschöppis",
+        "id": 52763,
+        "strassenbezeichnung": "Tschöppis"
+    },
+    {
+        "kurzbezeichnung": "Burgweg",
+        "id": 52849,
+        "strassenbezeichnung": "Burgweg"
+    },
+    {
+        "kurzbezeichnung": "Garfrenga",
+        "id": 52850,
+        "strassenbezeichnung": "Garfrenga"
+    },
+    {
+        "kurzbezeichnung": "Austraße",
+        "id": 52851,
+        "strassenbezeichnung": "Austraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 55982,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Gamp",
+        "id": 55983,
+        "strassenbezeichnung": "Gamp"
+    },
+    {
+        "kurzbezeichnung": "Grafaweg",
+        "id": 67090,
+        "strassenbezeichnung": "Grafaweg"
+    },
+    {
+        "kurzbezeichnung": "Ramschwagplatz",
+        "id": 67095,
+        "strassenbezeichnung": "Ramschwagplatz"
+    },
+    {
+        "kurzbezeichnung": "Bodawingert",
+        "id": 68255,
+        "strassenbezeichnung": "Bodawingert"
+    },
+    {
+        "kurzbezeichnung": "Dölschweg",
+        "id": 68256,
+        "strassenbezeichnung": "Dölschweg"
+    },
+    {
+        "kurzbezeichnung": "Badaila",
+        "id": 68770,
+        "strassenbezeichnung": "Badaila"
+    },
+    {
+        "kurzbezeichnung": "Gaija",
+        "id": 68771,
+        "strassenbezeichnung": "Gaija"
+    },
+    {
+        "kurzbezeichnung": "Bartells",
+        "id": 68772,
+        "strassenbezeichnung": "Bartells"
+    },
+    {
+        "kurzbezeichnung": "Vaistliweg",
+        "id": 68773,
+        "strassenbezeichnung": "Vaistliweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 68774,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Turgelweg",
+        "id": 68775,
+        "strassenbezeichnung": "Turgelweg"
+    },
+    {
+        "kurzbezeichnung": "Burggasse",
+        "id": 68776,
+        "strassenbezeichnung": "Burggasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 68777,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Sandgrube",
+        "id": 68778,
+        "strassenbezeichnung": "Sandgrube"
+    },
+    {
+        "kurzbezeichnung": "Gampweg",
+        "id": 68779,
+        "strassenbezeichnung": "Gampweg"
+    },
+    {
+        "kurzbezeichnung": "Rainweg",
+        "id": 68780,
+        "strassenbezeichnung": "Rainweg"
+    },
+    {
+        "kurzbezeichnung": "Bofelweg",
+        "id": 68781,
+        "strassenbezeichnung": "Bofelweg"
+    },
+    {
+        "kurzbezeichnung": "Bengileng",
+        "id": 68782,
+        "strassenbezeichnung": "Bengileng"
+    },
+    {
+        "kurzbezeichnung": "Brüelweg",
+        "id": 68783,
+        "strassenbezeichnung": "Brüelweg"
+    },
+    {
+        "kurzbezeichnung": "Badrus",
+        "id": 68784,
+        "strassenbezeichnung": "Badrus"
+    },
+    {
+        "kurzbezeichnung": "Habre",
+        "id": 68785,
+        "strassenbezeichnung": "Habre"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 68786,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Ritschaweg",
+        "id": 68787,
+        "strassenbezeichnung": "Ritschaweg"
+    },
+    {
+        "kurzbezeichnung": "Eichholz",
+        "id": 70922,
+        "strassenbezeichnung": "Eichholz"
+    },
+    {
+        "kurzbezeichnung": "Funkaweg",
+        "id": 73309,
+        "strassenbezeichnung": "Funkaweg"
+    },
+    {
+        "kurzbezeichnung": "Am Gräble",
+        "id": 96738,
+        "strassenbezeichnung": "Am Gräble"
+    },
+    {
+        "kurzbezeichnung": "Baschlief",
+        "id": 99887,
+        "strassenbezeichnung": "Baschlief"
+    },
+    {
+        "kurzbezeichnung": "Pfrundacker",
+        "id": 100084,
+        "strassenbezeichnung": "Pfrundacker"
+    },
+    {
+        "kurzbezeichnung": "Dr. Hans-Liebherr Str.",
+        "id": 111201,
+        "strassenbezeichnung": "Dr. Hans-Liebherr Straße"
+    }
+]

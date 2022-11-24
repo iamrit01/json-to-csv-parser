@@ -1,0 +1,597 @@
+[
+    {
+        "kurzbezeichnung": "Alois-Fragner-Platz",
+        "id": 19547,
+        "strassenbezeichnung": "Alois-Fragner-Platz"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 19548,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 19550,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Baderweg",
+        "id": 19551,
+        "strassenbezeichnung": "Baderweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 19552,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Binderweg",
+        "id": 19553,
+        "strassenbezeichnung": "Binderweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 19554,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Busatisstraße",
+        "id": 19555,
+        "strassenbezeichnung": "Busatisstraße"
+    },
+    {
+        "kurzbezeichnung": "C.-Schachinger-Str.",
+        "id": 19556,
+        "strassenbezeichnung": "Cölestin-Schachinger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dörrgasse",
+        "id": 19557,
+        "strassenbezeichnung": "Dörrgasse"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Bergwald-Gasse",
+        "id": 19558,
+        "strassenbezeichnung": "Dr.-Bergwald-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Eisenring",
+        "id": 19560,
+        "strassenbezeichnung": "Eisenring"
+    },
+    {
+        "kurzbezeichnung": "Erlauftalstraße",
+        "id": 19562,
+        "strassenbezeichnung": "Erlauftalstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlaufweg",
+        "id": 19563,
+        "strassenbezeichnung": "Erlaufweg"
+    },
+    {
+        "kurzbezeichnung": "Fasangartengasse",
+        "id": 19564,
+        "strassenbezeichnung": "Fasangartengasse"
+    },
+    {
+        "kurzbezeichnung": "Feichsenstraße",
+        "id": 19566,
+        "strassenbezeichnung": "Feichsenstraße"
+    },
+    {
+        "kurzbezeichnung": "Feilenweg",
+        "id": 19567,
+        "strassenbezeichnung": "Feilenweg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 19568,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischerweg",
+        "id": 19569,
+        "strassenbezeichnung": "Fischerweg"
+    },
+    {
+        "kurzbezeichnung": "Flintgasse",
+        "id": 19570,
+        "strassenbezeichnung": "Flintgasse"
+    },
+    {
+        "kurzbezeichnung": "Flößerweg",
+        "id": 19571,
+        "strassenbezeichnung": "Flößerweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrengasse",
+        "id": 19572,
+        "strassenbezeichnung": "Föhrengasse"
+    },
+    {
+        "kurzbezeichnung": "Franz-Eder-Straße",
+        "id": 19574,
+        "strassenbezeichnung": "Franz-Eder-Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz-Zehetgruber-Pl.",
+        "id": 19575,
+        "strassenbezeichnung": "Franz-Zehetgruber-Platz"
+    },
+    {
+        "kurzbezeichnung": "Friedhofstraße",
+        "id": 19576,
+        "strassenbezeichnung": "Friedhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Gaisbergweg",
+        "id": 19578,
+        "strassenbezeichnung": "Gaisbergweg"
+    },
+    {
+        "kurzbezeichnung": "Graf-Schaffgotsch-G.",
+        "id": 19581,
+        "strassenbezeichnung": "Graf-Schaffgotsch-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Heidegasse",
+        "id": 19584,
+        "strassenbezeichnung": "Heidegasse"
+    },
+    {
+        "kurzbezeichnung": "Hochrießer Straße",
+        "id": 19587,
+        "strassenbezeichnung": "Hochrießer Straße"
+    },
+    {
+        "kurzbezeichnung": "Hornsteingasse",
+        "id": 19589,
+        "strassenbezeichnung": "Hornsteingasse"
+    },
+    {
+        "kurzbezeichnung": "J.-Pretzenberger-Str.",
+        "id": 19590,
+        "strassenbezeichnung": "Johann-Pretzenberger-Straße"
+    },
+    {
+        "kurzbezeichnung": "J.-Streimetweger-G.",
+        "id": 19591,
+        "strassenbezeichnung": "Johann-Streimetweger-Gasse"
+    },
+    {
+        "kurzbezeichnung": "J.-Krottendorfer-Str.",
+        "id": 19592,
+        "strassenbezeichnung": "Josef-Krottendorfer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef-Fitzinger-Straße",
+        "id": 19593,
+        "strassenbezeichnung": "Josef-Fitzinger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Jubiläumsstraße",
+        "id": 19594,
+        "strassenbezeichnung": "Jubiläumsstraße"
+    },
+    {
+        "kurzbezeichnung": "Kapellengasse",
+        "id": 19595,
+        "strassenbezeichnung": "Kapellengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 19596,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kirchenstraße",
+        "id": 19597,
+        "strassenbezeichnung": "Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Klingengasse",
+        "id": 19598,
+        "strassenbezeichnung": "Klingengasse"
+    },
+    {
+        "kurzbezeichnung": "Lagerstraße",
+        "id": 19601,
+        "strassenbezeichnung": "Lagerstraße"
+    },
+    {
+        "kurzbezeichnung": "Mariazeller Straße",
+        "id": 19603,
+        "strassenbezeichnung": "Mariazeller Straße"
+    },
+    {
+        "kurzbezeichnung": "Max-Fasching-Straße",
+        "id": 19604,
+        "strassenbezeichnung": "Max-Fasching-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 19605,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Oberndorfer Straße",
+        "id": 19607,
+        "strassenbezeichnung": "Oberndorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Parkgasse",
+        "id": 19610,
+        "strassenbezeichnung": "Parkgasse"
+    },
+    {
+        "kurzbezeichnung": "Paul-Abl-Straße",
+        "id": 19611,
+        "strassenbezeichnung": "Paul-Abl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Petzelsdorfer Straße",
+        "id": 19613,
+        "strassenbezeichnung": "Petzelsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfeilgasse",
+        "id": 19614,
+        "strassenbezeichnung": "Pfeilgasse"
+    },
+    {
+        "kurzbezeichnung": "Pöchlarner Straße",
+        "id": 19615,
+        "strassenbezeichnung": "Pöchlarner Straße"
+    },
+    {
+        "kurzbezeichnung": "Praterstraße",
+        "id": 19617,
+        "strassenbezeichnung": "Praterstraße"
+    },
+    {
+        "kurzbezeichnung": "Raßgasse",
+        "id": 19618,
+        "strassenbezeichnung": "Raßgasse"
+    },
+    {
+        "kurzbezeichnung": "Robotgasse",
+        "id": 19620,
+        "strassenbezeichnung": "Robotgasse"
+    },
+    {
+        "kurzbezeichnung": "Römerring",
+        "id": 19621,
+        "strassenbezeichnung": "Römerring"
+    },
+    {
+        "kurzbezeichnung": "Rosmarinweg",
+        "id": 19623,
+        "strassenbezeichnung": "Rosmarinweg"
+    },
+    {
+        "kurzbezeichnung": "Rudolf-Krammer-Straße",
+        "id": 19624,
+        "strassenbezeichnung": "Rudolf-Krammer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Safrangasse",
+        "id": 19625,
+        "strassenbezeichnung": "Safrangasse"
+    },
+    {
+        "kurzbezeichnung": "Sandgrubengasse",
+        "id": 19626,
+        "strassenbezeichnung": "Sandgrubengasse"
+    },
+    {
+        "kurzbezeichnung": "Schießstattring",
+        "id": 19628,
+        "strassenbezeichnung": "Schießstattring"
+    },
+    {
+        "kurzbezeichnung": "Schotterweg",
+        "id": 19629,
+        "strassenbezeichnung": "Schotterweg"
+    },
+    {
+        "kurzbezeichnung": "Schubertgasse",
+        "id": 19630,
+        "strassenbezeichnung": "Schubertgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 19631,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Serpentingasse",
+        "id": 19632,
+        "strassenbezeichnung": "Serpentingasse"
+    },
+    {
+        "kurzbezeichnung": "Typoltgasse",
+        "id": 19636,
+        "strassenbezeichnung": "Typoltgasse"
+    },
+    {
+        "kurzbezeichnung": "Vogelgasse",
+        "id": 19638,
+        "strassenbezeichnung": "Vogelgasse"
+    },
+    {
+        "kurzbezeichnung": "Waaggasse",
+        "id": 19639,
+        "strassenbezeichnung": "Waaggasse"
+    },
+    {
+        "kurzbezeichnung": "Zehentweg",
+        "id": 19642,
+        "strassenbezeichnung": "Zehentweg"
+    },
+    {
+        "kurzbezeichnung": "Zehnbach",
+        "id": 19643,
+        "strassenbezeichnung": "Zehnbach"
+    },
+    {
+        "kurzbezeichnung": "Zehnbachweg",
+        "id": 19644,
+        "strassenbezeichnung": "Zehnbachweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofenstraße",
+        "id": 19645,
+        "strassenbezeichnung": "Ziegelofenstraße"
+    },
+    {
+        "kurzbezeichnung": "Öd bei Purgstall",
+        "id": 48638,
+        "strassenbezeichnung": "Öd bei Purgstall"
+    },
+    {
+        "kurzbezeichnung": "Gaisberg",
+        "id": 48645,
+        "strassenbezeichnung": "Gaisberg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Josef-Straif-Str.",
+        "id": 48930,
+        "strassenbezeichnung": "Dr.-Josef-Straif-Straße"
+    },
+    {
+        "kurzbezeichnung": "Im Rosenbichl",
+        "id": 50209,
+        "strassenbezeichnung": "Im Rosenbichl"
+    },
+    {
+        "kurzbezeichnung": "Ellershofstraße",
+        "id": 63162,
+        "strassenbezeichnung": "Ellershofstraße"
+    },
+    {
+        "kurzbezeichnung": "Ötscherlandstraße",
+        "id": 63163,
+        "strassenbezeichnung": "Ötscherlandstraße"
+    },
+    {
+        "kurzbezeichnung": "Othmar-Burker-Straße",
+        "id": 63164,
+        "strassenbezeichnung": "Othmar-Burker-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Erlaufufer",
+        "id": 63165,
+        "strassenbezeichnung": "Am Erlaufufer"
+    },
+    {
+        "kurzbezeichnung": "Heinrich-Schläger-Str.",
+        "id": 70970,
+        "strassenbezeichnung": "Heinrich-Schläger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 71494,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Ameishaufen",
+        "id": 80810,
+        "strassenbezeichnung": "Ameishaufen"
+    },
+    {
+        "kurzbezeichnung": "Edelbach bei Purgstall",
+        "id": 80811,
+        "strassenbezeichnung": "Edelbach bei Purgstall"
+    },
+    {
+        "kurzbezeichnung": "Erb",
+        "id": 80812,
+        "strassenbezeichnung": "Erb"
+    },
+    {
+        "kurzbezeichnung": "Feichsen",
+        "id": 80813,
+        "strassenbezeichnung": "Feichsen"
+    },
+    {
+        "kurzbezeichnung": "Föhrenhain",
+        "id": 80814,
+        "strassenbezeichnung": "Föhrenhain"
+    },
+    {
+        "kurzbezeichnung": "Galtbrunn",
+        "id": 80815,
+        "strassenbezeichnung": "Galtbrunn"
+    },
+    {
+        "kurzbezeichnung": "Haag",
+        "id": 80816,
+        "strassenbezeichnung": "Haag"
+    },
+    {
+        "kurzbezeichnung": "Harmersdorf",
+        "id": 80817,
+        "strassenbezeichnung": "Harmersdorf"
+    },
+    {
+        "kurzbezeichnung": "Heidegrund",
+        "id": 80818,
+        "strassenbezeichnung": "Heidegrund"
+    },
+    {
+        "kurzbezeichnung": "Hochrieß",
+        "id": 80819,
+        "strassenbezeichnung": "Hochrieß"
+    },
+    {
+        "kurzbezeichnung": "Höfl",
+        "id": 80820,
+        "strassenbezeichnung": "Höfl"
+    },
+    {
+        "kurzbezeichnung": "Koth",
+        "id": 80821,
+        "strassenbezeichnung": "Koth"
+    },
+    {
+        "kurzbezeichnung": "Kroißenberg",
+        "id": 80822,
+        "strassenbezeichnung": "Kroißenberg"
+    },
+    {
+        "kurzbezeichnung": "Mayerhof",
+        "id": 80823,
+        "strassenbezeichnung": "Mayerhof"
+    },
+    {
+        "kurzbezeichnung": "Nottendorf",
+        "id": 80824,
+        "strassenbezeichnung": "Nottendorf"
+    },
+    {
+        "kurzbezeichnung": "Söllingerwald",
+        "id": 80825,
+        "strassenbezeichnung": "Söllingerwald"
+    },
+    {
+        "kurzbezeichnung": "Petzelsdorf",
+        "id": 80826,
+        "strassenbezeichnung": "Petzelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Reichersau",
+        "id": 80827,
+        "strassenbezeichnung": "Reichersau"
+    },
+    {
+        "kurzbezeichnung": "Rogatsboden",
+        "id": 80828,
+        "strassenbezeichnung": "Rogatsboden"
+    },
+    {
+        "kurzbezeichnung": "Schauboden",
+        "id": 80829,
+        "strassenbezeichnung": "Schauboden"
+    },
+    {
+        "kurzbezeichnung": "Sölling",
+        "id": 80830,
+        "strassenbezeichnung": "Sölling"
+    },
+    {
+        "kurzbezeichnung": "Stock",
+        "id": 80831,
+        "strassenbezeichnung": "Stock"
+    },
+    {
+        "kurzbezeichnung": "Unternberg",
+        "id": 80832,
+        "strassenbezeichnung": "Unternberg"
+    },
+    {
+        "kurzbezeichnung": "Weigstatt",
+        "id": 80833,
+        "strassenbezeichnung": "Weigstatt"
+    },
+    {
+        "kurzbezeichnung": "Weinberg",
+        "id": 80834,
+        "strassenbezeichnung": "Weinberg"
+    },
+    {
+        "kurzbezeichnung": "Gimpering",
+        "id": 80890,
+        "strassenbezeichnung": "Gimpering"
+    },
+    {
+        "kurzbezeichnung": "Pögling",
+        "id": 80901,
+        "strassenbezeichnung": "Pögling"
+    },
+    {
+        "kurzbezeichnung": "Gumprechtsfelden",
+        "id": 80941,
+        "strassenbezeichnung": "Gumprechtsfelden"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Florianweg",
+        "id": 93981,
+        "strassenbezeichnung": "Dr.-Florianweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 93982,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Getreidegasse",
+        "id": 95001,
+        "strassenbezeichnung": "Getreidegasse"
+    },
+    {
+        "kurzbezeichnung": "Ötscherweg",
+        "id": 95002,
+        "strassenbezeichnung": "Ötscherweg"
+    },
+    {
+        "kurzbezeichnung": "Badfeldstraße",
+        "id": 95684,
+        "strassenbezeichnung": "Badfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Im Gewerbepark",
+        "id": 100023,
+        "strassenbezeichnung": "Im Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Eschenstraße",
+        "id": 102827,
+        "strassenbezeichnung": "Eschenstraße"
+    },
+    {
+        "kurzbezeichnung": "Freithöhstraße",
+        "id": 102828,
+        "strassenbezeichnung": "Freithöhstraße"
+    },
+    {
+        "kurzbezeichnung": "Johann-Strobl-Straße",
+        "id": 102829,
+        "strassenbezeichnung": "Johann-Strobl-Straße"
+    },
+    {
+        "kurzbezeichnung": "An der Wehr",
+        "id": 110849,
+        "strassenbezeichnung": "An der Wehr"
+    },
+    {
+        "kurzbezeichnung": "An der Feichsen",
+        "id": 120056,
+        "strassenbezeichnung": "An der Feichsen"
+    },
+    {
+        "kurzbezeichnung": "Schlosssiedlung",
+        "id": 122987,
+        "strassenbezeichnung": "Schlosssiedlung"
+    }
+]

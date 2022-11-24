@@ -1,0 +1,577 @@
+[
+    {
+        "kurzbezeichnung": "Schweinbergerstraße",
+        "id": -33710,
+        "strassenbezeichnung": "Schweinbergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Klostergrund",
+        "id": -30655,
+        "strassenbezeichnung": "Am Klostergrund"
+    },
+    {
+        "kurzbezeichnung": "Holbeingasse",
+        "id": -725,
+        "strassenbezeichnung": "Holbeingasse"
+    },
+    {
+        "kurzbezeichnung": "Am Bahnhof",
+        "id": 685,
+        "strassenbezeichnung": "Am Bahnhof"
+    },
+    {
+        "kurzbezeichnung": "Bindergasserl",
+        "id": 686,
+        "strassenbezeichnung": "Bindergasserl"
+    },
+    {
+        "kurzbezeichnung": "Blumenthalerstraße",
+        "id": 689,
+        "strassenbezeichnung": "Blumenthalerstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofberg",
+        "id": 691,
+        "strassenbezeichnung": "Friedhofberg"
+    },
+    {
+        "kurzbezeichnung": "Gutshof",
+        "id": 694,
+        "strassenbezeichnung": "Gutshof"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 696,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenstraße",
+        "id": 697,
+        "strassenbezeichnung": "Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Klause",
+        "id": 700,
+        "strassenbezeichnung": "Klause"
+    },
+    {
+        "kurzbezeichnung": "Lagerhausstraße",
+        "id": 702,
+        "strassenbezeichnung": "Lagerhausstraße"
+    },
+    {
+        "kurzbezeichnung": "Loidesthaler Hauptstr.",
+        "id": 704,
+        "strassenbezeichnung": "Loidesthaler Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Lußweg",
+        "id": 717,
+        "strassenbezeichnung": "Lußweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 722,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Niedersulzerstraße",
+        "id": 725,
+        "strassenbezeichnung": "Niedersulzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Sommerseite",
+        "id": 726,
+        "strassenbezeichnung": "Sommerseite"
+    },
+    {
+        "kurzbezeichnung": "Winterseite",
+        "id": 728,
+        "strassenbezeichnung": "Winterseite"
+    },
+    {
+        "kurzbezeichnung": "Albrechtsstraße",
+        "id": 12987,
+        "strassenbezeichnung": "Albrechtsstraße"
+    },
+    {
+        "kurzbezeichnung": "Alte Marktstraße",
+        "id": 12988,
+        "strassenbezeichnung": "Alte Marktstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Sportplatz",
+        "id": 12989,
+        "strassenbezeichnung": "Am Sportplatz"
+    },
+    {
+        "kurzbezeichnung": "Am Wenzelberg",
+        "id": 12990,
+        "strassenbezeichnung": "Am Wenzelberg"
+    },
+    {
+        "kurzbezeichnung": "Andreas-Hofer-Gasse",
+        "id": 12991,
+        "strassenbezeichnung": "Andreas-Hofer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Anton-Bruckner-Gasse",
+        "id": 12992,
+        "strassenbezeichnung": "Anton-Bruckner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Auf der Schießstätte",
+        "id": 12993,
+        "strassenbezeichnung": "Auf der Schießstätte"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 12994,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 12995,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 12996,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Beethovengasse",
+        "id": 12997,
+        "strassenbezeichnung": "Beethovengasse"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 12998,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Karl-Renner-Gasse",
+        "id": 13000,
+        "strassenbezeichnung": "Dr.-Karl-Renner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Dreifaltigkeitsgasse",
+        "id": 13001,
+        "strassenbezeichnung": "Dreifaltigkeitsgasse"
+    },
+    {
+        "kurzbezeichnung": "Dürnkruter Straße",
+        "id": 13002,
+        "strassenbezeichnung": "Dürnkruter Straße"
+    },
+    {
+        "kurzbezeichnung": "Dürrweg",
+        "id": 13003,
+        "strassenbezeichnung": "Dürrweg"
+    },
+    {
+        "kurzbezeichnung": "Friedensgasse",
+        "id": 13006,
+        "strassenbezeichnung": "Friedensgasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 13007,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Frimbergergasse",
+        "id": 13008,
+        "strassenbezeichnung": "Frimbergergasse"
+    },
+    {
+        "kurzbezeichnung": "Gaiselberger Straße",
+        "id": 13010,
+        "strassenbezeichnung": "Gaiselberger Straße"
+    },
+    {
+        "kurzbezeichnung": "Göstingerstraße",
+        "id": 13012,
+        "strassenbezeichnung": "Göstingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Großinzersdorfer Str.",
+        "id": 13013,
+        "strassenbezeichnung": "Großinzersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Grillparzergasse",
+        "id": 13014,
+        "strassenbezeichnung": "Grillparzergasse"
+    },
+    {
+        "kurzbezeichnung": "Hanggasse",
+        "id": 13016,
+        "strassenbezeichnung": "Hanggasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 13017,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Haydngasse",
+        "id": 13018,
+        "strassenbezeichnung": "Haydngasse"
+    },
+    {
+        "kurzbezeichnung": "Hintere Bahnstraße",
+        "id": 13019,
+        "strassenbezeichnung": "Hintere Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Hinterlanggasse",
+        "id": 13020,
+        "strassenbezeichnung": "Hinterlanggasse"
+    },
+    {
+        "kurzbezeichnung": "Im Albrechtstal",
+        "id": 13021,
+        "strassenbezeichnung": "Im Albrechtstal"
+    },
+    {
+        "kurzbezeichnung": "Im Meierhof",
+        "id": 13022,
+        "strassenbezeichnung": "Im Meierhof"
+    },
+    {
+        "kurzbezeichnung": "Iselberggasse",
+        "id": 13023,
+        "strassenbezeichnung": "Iselberggasse"
+    },
+    {
+        "kurzbezeichnung": "Johann-Strauß-Gasse",
+        "id": 13024,
+        "strassenbezeichnung": "Johann-Strauß-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Josef-Lanner-Gasse",
+        "id": 13025,
+        "strassenbezeichnung": "Josef-Lanner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Jungblutgasse",
+        "id": 13026,
+        "strassenbezeichnung": "Jungblutgasse"
+    },
+    {
+        "kurzbezeichnung": "Kaiserstraße",
+        "id": 13027,
+        "strassenbezeichnung": "Kaiserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 13028,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 13029,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Johann-Kudlich-Gasse",
+        "id": 13030,
+        "strassenbezeichnung": "Johann-Kudlich-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Leopold-Kunschak-Gasse",
+        "id": 13031,
+        "strassenbezeichnung": "Leopold-Kunschak-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 13032,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Lehargasse",
+        "id": 13033,
+        "strassenbezeichnung": "Lehargasse"
+    },
+    {
+        "kurzbezeichnung": "Lisslweg",
+        "id": 13035,
+        "strassenbezeichnung": "Lisslweg"
+    },
+    {
+        "kurzbezeichnung": "Meierhofgasse",
+        "id": 13038,
+        "strassenbezeichnung": "Meierhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Missongasse",
+        "id": 13039,
+        "strassenbezeichnung": "Missongasse"
+    },
+    {
+        "kurzbezeichnung": "Moosgasse",
+        "id": 13040,
+        "strassenbezeichnung": "Moosgasse"
+    },
+    {
+        "kurzbezeichnung": "Mozartgasse",
+        "id": 13041,
+        "strassenbezeichnung": "Mozartgasse"
+    },
+    {
+        "kurzbezeichnung": "Mundtgasse",
+        "id": 13042,
+        "strassenbezeichnung": "Mundtgasse"
+    },
+    {
+        "kurzbezeichnung": "Naglergasse",
+        "id": 13043,
+        "strassenbezeichnung": "Naglergasse"
+    },
+    {
+        "kurzbezeichnung": "Neurissgasse",
+        "id": 13044,
+        "strassenbezeichnung": "Neurissgasse"
+    },
+    {
+        "kurzbezeichnung": "Neustiftgasse",
+        "id": 13045,
+        "strassenbezeichnung": "Neustiftgasse"
+    },
+    {
+        "kurzbezeichnung": "Petzmayergasse",
+        "id": 13046,
+        "strassenbezeichnung": "Petzmayergasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrgartengasse",
+        "id": 13047,
+        "strassenbezeichnung": "Pfarrgartengasse"
+    },
+    {
+        "kurzbezeichnung": "Robert-Stolz-Platz",
+        "id": 13049,
+        "strassenbezeichnung": "Robert-Stolz-Platz"
+    },
+    {
+        "kurzbezeichnung": "Roseggergasse",
+        "id": 13050,
+        "strassenbezeichnung": "Roseggergasse"
+    },
+    {
+        "kurzbezeichnung": "Schalthausgasse",
+        "id": 13052,
+        "strassenbezeichnung": "Schalthausgasse"
+    },
+    {
+        "kurzbezeichnung": "Schlossberggasse",
+        "id": 13053,
+        "strassenbezeichnung": "Schlossberggasse"
+    },
+    {
+        "kurzbezeichnung": "Schlossgasse",
+        "id": 13055,
+        "strassenbezeichnung": "Schlossgasse"
+    },
+    {
+        "kurzbezeichnung": "Schlossplatz",
+        "id": 13056,
+        "strassenbezeichnung": "Schlossplatz"
+    },
+    {
+        "kurzbezeichnung": "Schubertgasse",
+        "id": 13057,
+        "strassenbezeichnung": "Schubertgasse"
+    },
+    {
+        "kurzbezeichnung": "Schwemmstraße",
+        "id": 13059,
+        "strassenbezeichnung": "Schwemmstraße"
+    },
+    {
+        "kurzbezeichnung": "Siemensstraße",
+        "id": 13060,
+        "strassenbezeichnung": "Siemensstraße"
+    },
+    {
+        "kurzbezeichnung": "Spitalgasse",
+        "id": 13061,
+        "strassenbezeichnung": "Spitalgasse"
+    },
+    {
+        "kurzbezeichnung": "Stadtgrabengasse",
+        "id": 13062,
+        "strassenbezeichnung": "Stadtgrabengasse"
+    },
+    {
+        "kurzbezeichnung": "Umfahrungsstraße",
+        "id": 13063,
+        "strassenbezeichnung": "Umfahrungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 13064,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Wenzelberggasse",
+        "id": 13065,
+        "strassenbezeichnung": "Wenzelberggasse"
+    },
+    {
+        "kurzbezeichnung": "Wiedengasse",
+        "id": 13066,
+        "strassenbezeichnung": "Wiedengasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 13067,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Windmühlgasse",
+        "id": 13069,
+        "strassenbezeichnung": "Windmühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Ziehrergasse",
+        "id": 13070,
+        "strassenbezeichnung": "Ziehrergasse"
+    },
+    {
+        "kurzbezeichnung": "Johann-Steineck-Gasse",
+        "id": 50623,
+        "strassenbezeichnung": "Johann-Steineck-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Im Schloßgarten",
+        "id": 63893,
+        "strassenbezeichnung": "Im Schloßgarten"
+    },
+    {
+        "kurzbezeichnung": "Bockstallerweg",
+        "id": 63894,
+        "strassenbezeichnung": "Bockstallerweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Hans-Schadn-Gasse",
+        "id": 63895,
+        "strassenbezeichnung": "Dr.-Hans-Schadn-Gasse"
+    },
+    {
+        "kurzbezeichnung": "W. Baumgartner Straße",
+        "id": 63896,
+        "strassenbezeichnung": "Windisch Baumgartner Straße"
+    },
+    {
+        "kurzbezeichnung": "Webergasse",
+        "id": 63898,
+        "strassenbezeichnung": "Webergasse"
+    },
+    {
+        "kurzbezeichnung": "Haidäckergasse",
+        "id": 63900,
+        "strassenbezeichnung": "Haidäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Pröbstlgasse",
+        "id": 63901,
+        "strassenbezeichnung": "Pröbstlgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Steinberg",
+        "id": 71008,
+        "strassenbezeichnung": "Am Steinberg"
+    },
+    {
+        "kurzbezeichnung": "Eichhorner Straße",
+        "id": 71009,
+        "strassenbezeichnung": "Eichhorner Straße"
+    },
+    {
+        "kurzbezeichnung": "Göstinger Remise",
+        "id": 71010,
+        "strassenbezeichnung": "Göstinger Remise"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 71011,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Industrieweg",
+        "id": 74031,
+        "strassenbezeichnung": "Industrieweg"
+    },
+    {
+        "kurzbezeichnung": "Am Ziegelofen",
+        "id": 74476,
+        "strassenbezeichnung": "Am Ziegelofen"
+    },
+    {
+        "kurzbezeichnung": "Carl-Zeller-Gasse",
+        "id": 74478,
+        "strassenbezeichnung": "Carl-Zeller-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Präs.-Ferd.-Reiter-Hof",
+        "id": 74479,
+        "strassenbezeichnung": "Präs.-Ferd.-Reiter-Hof"
+    },
+    {
+        "kurzbezeichnung": "Blumenthal",
+        "id": 78771,
+        "strassenbezeichnung": "Blumenthal"
+    },
+    {
+        "kurzbezeichnung": "Gaiselberg",
+        "id": 78786,
+        "strassenbezeichnung": "Gaiselberg"
+    },
+    {
+        "kurzbezeichnung": "Gösting",
+        "id": 78788,
+        "strassenbezeichnung": "Gösting"
+    },
+    {
+        "kurzbezeichnung": "Großinzersdorf",
+        "id": 78792,
+        "strassenbezeichnung": "Großinzersdorf"
+    },
+    {
+        "kurzbezeichnung": "Maustrenk",
+        "id": 78809,
+        "strassenbezeichnung": "Maustrenk"
+    },
+    {
+        "kurzbezeichnung": "Windisch Baumgarten",
+        "id": 78831,
+        "strassenbezeichnung": "Windisch Baumgarten"
+    },
+    {
+        "kurzbezeichnung": "Eichhorn",
+        "id": 78832,
+        "strassenbezeichnung": "Eichhorn"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 98165,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzsiedlung",
+        "id": 101910,
+        "strassenbezeichnung": "Sportplatzsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Am Ziegelwerk",
+        "id": 115691,
+        "strassenbezeichnung": "Am Ziegelwerk"
+    },
+    {
+        "kurzbezeichnung": "Hacheweg",
+        "id": 119121,
+        "strassenbezeichnung": "Hacheweg"
+    }
+]

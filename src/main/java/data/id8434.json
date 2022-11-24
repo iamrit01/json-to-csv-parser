@@ -1,0 +1,337 @@
+[
+    {
+        "kurzbezeichnung": "Gewerbepark West",
+        "id": -33727,
+        "strassenbezeichnung": "Gewerbepark West"
+    },
+    {
+        "kurzbezeichnung": "Waldstromgasse",
+        "id": -33414,
+        "strassenbezeichnung": "Waldstromgasse"
+    },
+    {
+        "kurzbezeichnung": "Laßnitzweg",
+        "id": -32125,
+        "strassenbezeichnung": "Laßnitzweg"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": -31156,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Pappelweg",
+        "id": -31155,
+        "strassenbezeichnung": "Pappelweg"
+    },
+    {
+        "kurzbezeichnung": "Novakweg",
+        "id": -30818,
+        "strassenbezeichnung": "Novakweg"
+    },
+    {
+        "kurzbezeichnung": "Am Kogelplan",
+        "id": -30817,
+        "strassenbezeichnung": "Am Kogelplan"
+    },
+    {
+        "kurzbezeichnung": "Königweg",
+        "id": -30527,
+        "strassenbezeichnung": "Königweg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnengrund",
+        "id": -30039,
+        "strassenbezeichnung": "Am Sonnengrund"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": -17659,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Hergweg",
+        "id": 37269,
+        "strassenbezeichnung": "Hergweg"
+    },
+    {
+        "kurzbezeichnung": "Altenberg",
+        "id": 49587,
+        "strassenbezeichnung": "Altenberg"
+    },
+    {
+        "kurzbezeichnung": "Altenbergerstraße",
+        "id": 49588,
+        "strassenbezeichnung": "Altenbergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Hochsteg",
+        "id": 49589,
+        "strassenbezeichnung": "Am Hochsteg"
+    },
+    {
+        "kurzbezeichnung": "Arztweg",
+        "id": 49590,
+        "strassenbezeichnung": "Arztweg"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 49591,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 49592,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Ebnerweg",
+        "id": 49593,
+        "strassenbezeichnung": "Ebnerweg"
+    },
+    {
+        "kurzbezeichnung": "Feiertagweg",
+        "id": 49594,
+        "strassenbezeichnung": "Feiertagweg"
+    },
+    {
+        "kurzbezeichnung": "Fiedlerstraße",
+        "id": 49595,
+        "strassenbezeichnung": "Fiedlerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gemeindestraße",
+        "id": 49596,
+        "strassenbezeichnung": "Gemeindestraße"
+    },
+    {
+        "kurzbezeichnung": "Grazerstraße",
+        "id": 49597,
+        "strassenbezeichnung": "Grazerstraße"
+    },
+    {
+        "kurzbezeichnung": "Grössing",
+        "id": 49598,
+        "strassenbezeichnung": "Grössing"
+    },
+    {
+        "kurzbezeichnung": "Gruberweg",
+        "id": 49599,
+        "strassenbezeichnung": "Gruberweg"
+    },
+    {
+        "kurzbezeichnung": "Hammerweg",
+        "id": 49600,
+        "strassenbezeichnung": "Hammerweg"
+    },
+    {
+        "kurzbezeichnung": "Heidenstraße",
+        "id": 49601,
+        "strassenbezeichnung": "Heidenstraße"
+    },
+    {
+        "kurzbezeichnung": "Heidenwaldweg",
+        "id": 49602,
+        "strassenbezeichnung": "Heidenwaldweg"
+    },
+    {
+        "kurzbezeichnung": "Hofäckerweg",
+        "id": 49603,
+        "strassenbezeichnung": "Hofäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Innerberg",
+        "id": 49604,
+        "strassenbezeichnung": "Innerberg"
+    },
+    {
+        "kurzbezeichnung": "Jösserstraße",
+        "id": 49605,
+        "strassenbezeichnung": "Jösserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kramerstraße",
+        "id": 49606,
+        "strassenbezeichnung": "Kramerstraße"
+    },
+    {
+        "kurzbezeichnung": "Liebitzweg",
+        "id": 49607,
+        "strassenbezeichnung": "Liebitzweg"
+    },
+    {
+        "kurzbezeichnung": "Karl Listweg",
+        "id": 49608,
+        "strassenbezeichnung": "Karl Listweg"
+    },
+    {
+        "kurzbezeichnung": "Loppitschweg",
+        "id": 49609,
+        "strassenbezeichnung": "Loppitschweg"
+    },
+    {
+        "kurzbezeichnung": "Maggastraße",
+        "id": 49610,
+        "strassenbezeichnung": "Maggastraße"
+    },
+    {
+        "kurzbezeichnung": "Maxlon",
+        "id": 49611,
+        "strassenbezeichnung": "Maxlon"
+    },
+    {
+        "kurzbezeichnung": "Maxlonerstraße",
+        "id": 49612,
+        "strassenbezeichnung": "Maxlonerstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 49613,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Müllerwirtweg",
+        "id": 49614,
+        "strassenbezeichnung": "Müllerwirtweg"
+    },
+    {
+        "kurzbezeichnung": "Neue Welt",
+        "id": 49615,
+        "strassenbezeichnung": "Neue Welt"
+    },
+    {
+        "kurzbezeichnung": "Pirkheimweg",
+        "id": 49616,
+        "strassenbezeichnung": "Pirkheimweg"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 49617,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Rohrbacherweg",
+        "id": 49618,
+        "strassenbezeichnung": "Rohrbacherweg"
+    },
+    {
+        "kurzbezeichnung": "Ruppweg",
+        "id": 49619,
+        "strassenbezeichnung": "Ruppweg"
+    },
+    {
+        "kurzbezeichnung": "Sabathiweg",
+        "id": 49620,
+        "strassenbezeichnung": "Sabathiweg"
+    },
+    {
+        "kurzbezeichnung": "Schirkastraße",
+        "id": 49621,
+        "strassenbezeichnung": "Schirkastraße"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 49622,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Steingrub",
+        "id": 49623,
+        "strassenbezeichnung": "Steingrub"
+    },
+    {
+        "kurzbezeichnung": "Supperweg",
+        "id": 49624,
+        "strassenbezeichnung": "Supperweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 49625,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelwerkweg",
+        "id": 49626,
+        "strassenbezeichnung": "Ziegelwerkweg"
+    },
+    {
+        "kurzbezeichnung": "Edelried",
+        "id": 63951,
+        "strassenbezeichnung": "Edelried"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 63955,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 72836,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Paulweg",
+        "id": 90386,
+        "strassenbezeichnung": "Paulweg"
+    },
+    {
+        "kurzbezeichnung": "Geräckerweg",
+        "id": 94457,
+        "strassenbezeichnung": "Geräckerweg"
+    },
+    {
+        "kurzbezeichnung": "Trattenried",
+        "id": 106134,
+        "strassenbezeichnung": "Trattenried"
+    },
+    {
+        "kurzbezeichnung": "Lori-Hartl-Weg",
+        "id": 107504,
+        "strassenbezeichnung": "Lori-Hartl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Am Rehgrund",
+        "id": 109293,
+        "strassenbezeichnung": "Am Rehgrund"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 109893,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Himmeltau",
+        "id": 112343,
+        "strassenbezeichnung": "Am Himmeltau"
+    },
+    {
+        "kurzbezeichnung": "Zimmermannweg",
+        "id": 120332,
+        "strassenbezeichnung": "Zimmermannweg"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 122975,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 125002,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 125982,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenplatz",
+        "id": 125983,
+        "strassenbezeichnung": "Sonnenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kaiserweg",
+        "id": 126627,
+        "strassenbezeichnung": "Kaiserweg"
+    }
+]

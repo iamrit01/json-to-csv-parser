@@ -1,0 +1,972 @@
+[
+    {
+        "kurzbezeichnung": "Zeiselweg",
+        "id": -32416,
+        "strassenbezeichnung": "Zeiselweg"
+    },
+    {
+        "kurzbezeichnung": "Gerichtsweg",
+        "id": -32292,
+        "strassenbezeichnung": "Gerichtsweg"
+    },
+    {
+        "kurzbezeichnung": "Haydn-Weg",
+        "id": -32187,
+        "strassenbezeichnung": "Haydn-Weg"
+    },
+    {
+        "kurzbezeichnung": "Grenzweg",
+        "id": -31231,
+        "strassenbezeichnung": "Grenzweg"
+    },
+    {
+        "kurzbezeichnung": "Am Pflanzsteig",
+        "id": -30258,
+        "strassenbezeichnung": "Am Pflanzsteig"
+    },
+    {
+        "kurzbezeichnung": "Groisbachstraße",
+        "id": -18467,
+        "strassenbezeichnung": "Groisbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Cornidesgasse",
+        "id": -18289,
+        "strassenbezeichnung": "Cornidesgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": -18279,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Hinter der Mühle",
+        "id": -16812,
+        "strassenbezeichnung": "Hinter der Mühle"
+    },
+    {
+        "kurzbezeichnung": "Perlmooser Zementwerke",
+        "id": 10417,
+        "strassenbezeichnung": "Perlmooser Zementwerke"
+    },
+    {
+        "kurzbezeichnung": "Neuhofgasse",
+        "id": 10419,
+        "strassenbezeichnung": "Neuhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Militärsdl. Sommerein",
+        "id": 10426,
+        "strassenbezeichnung": "Militärsiedlung Sommerein"
+    },
+    {
+        "kurzbezeichnung": "Wallensteinkaserne",
+        "id": 10427,
+        "strassenbezeichnung": "Wallensteinkaserne"
+    },
+    {
+        "kurzbezeichnung": "An der Weide",
+        "id": 11567,
+        "strassenbezeichnung": "An der Weide"
+    },
+    {
+        "kurzbezeichnung": "Am Bahnhof",
+        "id": 11568,
+        "strassenbezeichnung": "Am Bahnhof"
+    },
+    {
+        "kurzbezeichnung": "Margarethnerstraße",
+        "id": 11569,
+        "strassenbezeichnung": "Margarethnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Batthyanystraße",
+        "id": 11570,
+        "strassenbezeichnung": "Batthyanystraße"
+    },
+    {
+        "kurzbezeichnung": "Corethgasse",
+        "id": 11571,
+        "strassenbezeichnung": "Corethgasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Heidrichgasse",
+        "id": 11572,
+        "strassenbezeichnung": "Dr. Heidrichgasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 11574,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Gregorigasse",
+        "id": 11575,
+        "strassenbezeichnung": "Gregorigasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 11576,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 11577,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Kastanienallee",
+        "id": 11579,
+        "strassenbezeichnung": "Kastanienallee"
+    },
+    {
+        "kurzbezeichnung": "Mannersdorferstraße",
+        "id": 11580,
+        "strassenbezeichnung": "Mannersdorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Neustiftgasse",
+        "id": 11583,
+        "strassenbezeichnung": "Neustiftgasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 11584,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 11585,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Fohlenstandgasse",
+        "id": 11586,
+        "strassenbezeichnung": "Fohlenstandgasse"
+    },
+    {
+        "kurzbezeichnung": "Weingartenstraße",
+        "id": 11587,
+        "strassenbezeichnung": "Weingartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Äußere Schütten",
+        "id": 11686,
+        "strassenbezeichnung": "Äußere Schütten"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 11687,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Berg",
+        "id": 11688,
+        "strassenbezeichnung": "Am Berg"
+    },
+    {
+        "kurzbezeichnung": "Am Kirchberg",
+        "id": 11689,
+        "strassenbezeichnung": "Am Kirchberg"
+    },
+    {
+        "kurzbezeichnung": "Arbachmühle",
+        "id": 11690,
+        "strassenbezeichnung": "Arbachmühle"
+    },
+    {
+        "kurzbezeichnung": "Bei den 5 Häuseln",
+        "id": 11691,
+        "strassenbezeichnung": "Bei den 5 Häuseln"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 11692,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Eisgrube",
+        "id": 11693,
+        "strassenbezeichnung": "Eisgrube"
+    },
+    {
+        "kurzbezeichnung": "Enzianergasse",
+        "id": 11694,
+        "strassenbezeichnung": "Enzianergasse"
+    },
+    {
+        "kurzbezeichnung": "Fabriksgasse",
+        "id": 11695,
+        "strassenbezeichnung": "Fabriksgasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 11696,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 11697,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Halterzeile",
+        "id": 11698,
+        "strassenbezeichnung": "Halterzeile"
+    },
+    {
+        "kurzbezeichnung": "Hanfretzweg",
+        "id": 11699,
+        "strassenbezeichnung": "Hanfretzweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 11700,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 11701,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintausstraße",
+        "id": 11702,
+        "strassenbezeichnung": "Hintausstraße"
+    },
+    {
+        "kurzbezeichnung": "Hochleiten",
+        "id": 11703,
+        "strassenbezeichnung": "Hochleiten"
+    },
+    {
+        "kurzbezeichnung": "Hoferstraße",
+        "id": 11705,
+        "strassenbezeichnung": "Hoferstraße"
+    },
+    {
+        "kurzbezeichnung": "Hubertusgasse",
+        "id": 11706,
+        "strassenbezeichnung": "Hubertusgasse"
+    },
+    {
+        "kurzbezeichnung": "Hofstadl",
+        "id": 11707,
+        "strassenbezeichnung": "Hofstadl"
+    },
+    {
+        "kurzbezeichnung": "Jägerzeile",
+        "id": 11708,
+        "strassenbezeichnung": "Jägerzeile"
+    },
+    {
+        "kurzbezeichnung": "Kinderheimstraße",
+        "id": 11709,
+        "strassenbezeichnung": "Kinderheimstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 11710,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Laternenweg",
+        "id": 11711,
+        "strassenbezeichnung": "Laternenweg"
+    },
+    {
+        "kurzbezeichnung": "Leithaweg",
+        "id": 11712,
+        "strassenbezeichnung": "Leithaweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Adolf Schärf-Gasse",
+        "id": 11714,
+        "strassenbezeichnung": "Dr. Adolf Schärf-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Spielplatzweg",
+        "id": 11715,
+        "strassenbezeichnung": "Spielplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 11716,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Neustiftgasse",
+        "id": 11717,
+        "strassenbezeichnung": "Neustiftgasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Hochleiten",
+        "id": 11718,
+        "strassenbezeichnung": "Obere Hochleiten"
+    },
+    {
+        "kurzbezeichnung": "Obere Kirchengasse",
+        "id": 11719,
+        "strassenbezeichnung": "Obere Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": 11720,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Peergasse",
+        "id": 11721,
+        "strassenbezeichnung": "Peergasse"
+    },
+    {
+        "kurzbezeichnung": "Perlmooserweg",
+        "id": 11722,
+        "strassenbezeichnung": "Perlmooserweg"
+    },
+    {
+        "kurzbezeichnung": "Platte",
+        "id": 11723,
+        "strassenbezeichnung": "Platte"
+    },
+    {
+        "kurzbezeichnung": "Roseggergasse",
+        "id": 11724,
+        "strassenbezeichnung": "Roseggergasse"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 11725,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Roter Weg",
+        "id": 11726,
+        "strassenbezeichnung": "Roter Weg"
+    },
+    {
+        "kurzbezeichnung": "Sandberg",
+        "id": 11727,
+        "strassenbezeichnung": "Sandberg"
+    },
+    {
+        "kurzbezeichnung": "Scharfeneckgasse",
+        "id": 11728,
+        "strassenbezeichnung": "Scharfeneckgasse"
+    },
+    {
+        "kurzbezeichnung": "Schubertplatz",
+        "id": 11729,
+        "strassenbezeichnung": "Schubertplatz"
+    },
+    {
+        "kurzbezeichnung": "Schwemmgasse",
+        "id": 11730,
+        "strassenbezeichnung": "Schwemmgasse"
+    },
+    {
+        "kurzbezeichnung": "Seegasse",
+        "id": 11731,
+        "strassenbezeichnung": "Seegasse"
+    },
+    {
+        "kurzbezeichnung": "Siedlerg. Mannersdorf",
+        "id": 11732,
+        "strassenbezeichnung": "Siedlergasse Mannersdorf"
+    },
+    {
+        "kurzbezeichnung": "Sommereinerstraße",
+        "id": 11733,
+        "strassenbezeichnung": "Sommereinerstraße"
+    },
+    {
+        "kurzbezeichnung": "Steinbruchstraße",
+        "id": 11735,
+        "strassenbezeichnung": "Steinbruchstraße"
+    },
+    {
+        "kurzbezeichnung": "Tattendorfgasse",
+        "id": 11736,
+        "strassenbezeichnung": "Tattendorfgasse"
+    },
+    {
+        "kurzbezeichnung": "Untere Kirchengasse",
+        "id": 11737,
+        "strassenbezeichnung": "Untere Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Wählamtgasse",
+        "id": 11738,
+        "strassenbezeichnung": "Wählamtgasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 11739,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 11740,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Werksiedlung",
+        "id": 11741,
+        "strassenbezeichnung": "Werksiedlung"
+    },
+    {
+        "kurzbezeichnung": "Wienerstraße",
+        "id": 11742,
+        "strassenbezeichnung": "Wienerstraße"
+    },
+    {
+        "kurzbezeichnung": "Windgasse",
+        "id": 11743,
+        "strassenbezeichnung": "Windgasse"
+    },
+    {
+        "kurzbezeichnung": "Wüste",
+        "id": 11744,
+        "strassenbezeichnung": "Wüste"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofengasse",
+        "id": 11745,
+        "strassenbezeichnung": "Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Zwischen den Weingärt.",
+        "id": 11747,
+        "strassenbezeichnung": "Zwischen den Weingärten"
+    },
+    {
+        "kurzbezeichnung": "Anger",
+        "id": 11773,
+        "strassenbezeichnung": "Anger"
+    },
+    {
+        "kurzbezeichnung": "Aussiedlerhof",
+        "id": 11774,
+        "strassenbezeichnung": "Aussiedlerhof"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 11775,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Brauhausgasse",
+        "id": 11776,
+        "strassenbezeichnung": "Brauhausgasse"
+    },
+    {
+        "kurzbezeichnung": "Dorfbrunn",
+        "id": 11777,
+        "strassenbezeichnung": "Dorfbrunn"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 11778,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 11779,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Gärtnergasse",
+        "id": 11780,
+        "strassenbezeichnung": "Gärtnergasse"
+    },
+    {
+        "kurzbezeichnung": "Graben",
+        "id": 11781,
+        "strassenbezeichnung": "Graben"
+    },
+    {
+        "kurzbezeichnung": "Halterzeile",
+        "id": 11782,
+        "strassenbezeichnung": "Halterzeile"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 11783,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintausgasse",
+        "id": 11784,
+        "strassenbezeichnung": "Hintausgasse"
+    },
+    {
+        "kurzbezeichnung": "Kindergartenweg",
+        "id": 11785,
+        "strassenbezeichnung": "Kindergartenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 11786,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Krautgarten",
+        "id": 11787,
+        "strassenbezeichnung": "Krautgarten"
+    },
+    {
+        "kurzbezeichnung": "Lindau",
+        "id": 11788,
+        "strassenbezeichnung": "Lindau"
+    },
+    {
+        "kurzbezeichnung": "Markt",
+        "id": 11789,
+        "strassenbezeichnung": "Markt"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 11790,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Sarasdorferweg",
+        "id": 11791,
+        "strassenbezeichnung": "Sarasdorferweg"
+    },
+    {
+        "kurzbezeichnung": "Schloßstraße",
+        "id": 11792,
+        "strassenbezeichnung": "Schloßstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 11793,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Steinbruchgasse",
+        "id": 11794,
+        "strassenbezeichnung": "Steinbruchgasse"
+    },
+    {
+        "kurzbezeichnung": "Tegelberg",
+        "id": 11795,
+        "strassenbezeichnung": "Tegelberg"
+    },
+    {
+        "kurzbezeichnung": "Trautmannsdorfer Str.",
+        "id": 11796,
+        "strassenbezeichnung": "Trautmannsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 11797,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischastraße",
+        "id": 43589,
+        "strassenbezeichnung": "Fischastraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenstraße",
+        "id": 47093,
+        "strassenbezeichnung": "Birkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Teichgasse",
+        "id": 51056,
+        "strassenbezeichnung": "Teichgasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrweg",
+        "id": 51057,
+        "strassenbezeichnung": "Pfarrweg"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 51058,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Müllerstraße",
+        "id": 51059,
+        "strassenbezeichnung": "Müllerstraße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Karl Renner-Gasse",
+        "id": 51103,
+        "strassenbezeichnung": "Dr. Karl Renner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Theodor Körner-G.",
+        "id": 51104,
+        "strassenbezeichnung": "Dr. Theodor Körner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Siedlerg. Wasenbruck",
+        "id": 51106,
+        "strassenbezeichnung": "Siedlergasse Wasenbruck"
+    },
+    {
+        "kurzbezeichnung": "Mauthausstraße",
+        "id": 52870,
+        "strassenbezeichnung": "Mauthausstraße"
+    },
+    {
+        "kurzbezeichnung": "Schüttberg",
+        "id": 52871,
+        "strassenbezeichnung": "Schüttberg"
+    },
+    {
+        "kurzbezeichnung": "Kuppelstand",
+        "id": 58738,
+        "strassenbezeichnung": "Kuppelstand"
+    },
+    {
+        "kurzbezeichnung": "Lagerhausgasse",
+        "id": 60841,
+        "strassenbezeichnung": "Lagerhausgasse"
+    },
+    {
+        "kurzbezeichnung": "Wenzlberg",
+        "id": 60842,
+        "strassenbezeichnung": "Wenzlberg"
+    },
+    {
+        "kurzbezeichnung": "Gradnerweg",
+        "id": 61446,
+        "strassenbezeichnung": "Gradnerweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchensteig",
+        "id": 61447,
+        "strassenbezeichnung": "Kirchensteig"
+    },
+    {
+        "kurzbezeichnung": "Leithafeldgasse",
+        "id": 61448,
+        "strassenbezeichnung": "Leithafeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 61449,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 61451,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Bründlfeldgasse",
+        "id": 61452,
+        "strassenbezeichnung": "Bründlfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Wehrgasse",
+        "id": 61453,
+        "strassenbezeichnung": "Wehrgasse"
+    },
+    {
+        "kurzbezeichnung": "Alt Kirchberg",
+        "id": 61511,
+        "strassenbezeichnung": "Alt Kirchberg"
+    },
+    {
+        "kurzbezeichnung": "Tachlern",
+        "id": 61512,
+        "strassenbezeichnung": "Tachlern"
+    },
+    {
+        "kurzbezeichnung": "In 5 Vierteln",
+        "id": 61513,
+        "strassenbezeichnung": "In 5 Vierteln"
+    },
+    {
+        "kurzbezeichnung": "Seeschlachten",
+        "id": 61514,
+        "strassenbezeichnung": "Seeschlachten"
+    },
+    {
+        "kurzbezeichnung": "Neue Werksiedlung",
+        "id": 61515,
+        "strassenbezeichnung": "Neue Werksiedlung"
+    },
+    {
+        "kurzbezeichnung": "Im Reinthal",
+        "id": 61516,
+        "strassenbezeichnung": "Im Reinthal"
+    },
+    {
+        "kurzbezeichnung": "Donatiweg",
+        "id": 61517,
+        "strassenbezeichnung": "Donatiweg"
+    },
+    {
+        "kurzbezeichnung": "Hausfeld",
+        "id": 61518,
+        "strassenbezeichnung": "Hausfeld"
+    },
+    {
+        "kurzbezeichnung": "Reihenhaussiedlung",
+        "id": 61519,
+        "strassenbezeichnung": "Reihenhaussiedlung"
+    },
+    {
+        "kurzbezeichnung": "Franz Jonas-Gasse",
+        "id": 61520,
+        "strassenbezeichnung": "Franz Jonas-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hofgartenweg",
+        "id": 66877,
+        "strassenbezeichnung": "Hofgartenweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Eduard Richter-G.",
+        "id": 67102,
+        "strassenbezeichnung": "Dr. Eduard Richter-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Dr.R. Kirchschläger-G.",
+        "id": 67103,
+        "strassenbezeichnung": "Dr. Rudolf Kirchschläger-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 67104,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlbachstraße",
+        "id": 67480,
+        "strassenbezeichnung": "Mühlbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Teich",
+        "id": 71606,
+        "strassenbezeichnung": "Am Teich"
+    },
+    {
+        "kurzbezeichnung": "Schwemmwiese",
+        "id": 72550,
+        "strassenbezeichnung": "Schwemmwiese"
+    },
+    {
+        "kurzbezeichnung": "Edward Heller-Straße",
+        "id": 75330,
+        "strassenbezeichnung": "Edward Heller-Straße"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 75331,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Fleischgasse",
+        "id": 75692,
+        "strassenbezeichnung": "Fleischgasse"
+    },
+    {
+        "kurzbezeichnung": "Perlmooserplatz",
+        "id": 91330,
+        "strassenbezeichnung": "Perlmooserplatz"
+    },
+    {
+        "kurzbezeichnung": "Neu Kirchberg",
+        "id": 91684,
+        "strassenbezeichnung": "Neu Kirchberg"
+    },
+    {
+        "kurzbezeichnung": "Mathiasgasse",
+        "id": 92843,
+        "strassenbezeichnung": "Mathiasgasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 92844,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Moosgasse",
+        "id": 93887,
+        "strassenbezeichnung": "Moosgasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Wessely Gasse",
+        "id": 93891,
+        "strassenbezeichnung": "Dr. Wessely Gasse"
+    },
+    {
+        "kurzbezeichnung": "Edmund Adler-Weg",
+        "id": 93892,
+        "strassenbezeichnung": "Edmund Adler-Weg"
+    },
+    {
+        "kurzbezeichnung": "Johannesgasse",
+        "id": 93897,
+        "strassenbezeichnung": "Johannesgasse"
+    },
+    {
+        "kurzbezeichnung": "Getreidegasse",
+        "id": 94975,
+        "strassenbezeichnung": "Getreidegasse"
+    },
+    {
+        "kurzbezeichnung": "Oberes Dammfeld",
+        "id": 96616,
+        "strassenbezeichnung": "Oberes Dammfeld"
+    },
+    {
+        "kurzbezeichnung": "Antwiese",
+        "id": 98058,
+        "strassenbezeichnung": "Antwiese"
+    },
+    {
+        "kurzbezeichnung": "Severingasse",
+        "id": 99313,
+        "strassenbezeichnung": "Severingasse"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 99314,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Heideweg",
+        "id": 99334,
+        "strassenbezeichnung": "Heideweg"
+    },
+    {
+        "kurzbezeichnung": "Hochofen",
+        "id": 101735,
+        "strassenbezeichnung": "Hochofen"
+    },
+    {
+        "kurzbezeichnung": "Trautmannsdorferstraße",
+        "id": 104218,
+        "strassenbezeichnung": "Trautmannsdorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Krautgarten",
+        "id": 106108,
+        "strassenbezeichnung": "Krautgarten"
+    },
+    {
+        "kurzbezeichnung": "Breinerweg",
+        "id": 108887,
+        "strassenbezeichnung": "Breinerweg"
+    },
+    {
+        "kurzbezeichnung": "Schickgasse",
+        "id": 108888,
+        "strassenbezeichnung": "Schickgasse"
+    },
+    {
+        "kurzbezeichnung": "Gamizweg",
+        "id": 108889,
+        "strassenbezeichnung": "Gamizweg"
+    },
+    {
+        "kurzbezeichnung": "Richardisweg",
+        "id": 108890,
+        "strassenbezeichnung": "Richardisweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.Zaussinger-Ring",
+        "id": 108891,
+        "strassenbezeichnung": "Dr.Zaussinger-Ring"
+    },
+    {
+        "kurzbezeichnung": "Schilfgasse",
+        "id": 110174,
+        "strassenbezeichnung": "Schilfgasse"
+    },
+    {
+        "kurzbezeichnung": "Wassergasse",
+        "id": 110175,
+        "strassenbezeichnung": "Wassergasse"
+    },
+    {
+        "kurzbezeichnung": "Teichgasse",
+        "id": 110176,
+        "strassenbezeichnung": "Teichgasse"
+    },
+    {
+        "kurzbezeichnung": "Lagerhausweg",
+        "id": 110216,
+        "strassenbezeichnung": "Lagerhausweg"
+    },
+    {
+        "kurzbezeichnung": "Kalkofengasse",
+        "id": 110217,
+        "strassenbezeichnung": "Kalkofengasse"
+    },
+    {
+        "kurzbezeichnung": "Baxaweg",
+        "id": 110218,
+        "strassenbezeichnung": "Baxaweg"
+    },
+    {
+        "kurzbezeichnung": "Ernst Sollak-Straße",
+        "id": 111914,
+        "strassenbezeichnung": "Ernst Sollak-Straße"
+    },
+    {
+        "kurzbezeichnung": "Eichengasse",
+        "id": 114687,
+        "strassenbezeichnung": "Eichengasse"
+    },
+    {
+        "kurzbezeichnung": "Burgunderweg",
+        "id": 115583,
+        "strassenbezeichnung": "Burgunderweg"
+    },
+    {
+        "kurzbezeichnung": "Buchengasse",
+        "id": 115584,
+        "strassenbezeichnung": "Buchengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Golfplatz",
+        "id": 115843,
+        "strassenbezeichnung": "Am Golfplatz"
+    },
+    {
+        "kurzbezeichnung": "Rosaliagasse",
+        "id": 115845,
+        "strassenbezeichnung": "Rosaliagasse"
+    },
+    {
+        "kurzbezeichnung": "Wolfsbrunn",
+        "id": 121238,
+        "strassenbezeichnung": "Wolfsbrunn"
+    },
+    {
+        "kurzbezeichnung": "Fasangasse",
+        "id": 121500,
+        "strassenbezeichnung": "Fasangasse"
+    },
+    {
+        "kurzbezeichnung": "Johann Strobl-Gasse",
+        "id": 126745,
+        "strassenbezeichnung": "Johann Strobl-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenpark",
+        "id": 126789,
+        "strassenbezeichnung": "Am Sonnenpark"
+    },
+    {
+        "kurzbezeichnung": "Dr. Karl Gottschy-Str.",
+        "id": 126823,
+        "strassenbezeichnung": "Dr. Karl Gottschy-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 127837,
+        "strassenbezeichnung": "Gartengasse"
+    }
+]

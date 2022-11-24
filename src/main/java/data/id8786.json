@@ -1,0 +1,422 @@
+[
+    {
+        "kurzbezeichnung": "Rathausgasse",
+        "id": -31259,
+        "strassenbezeichnung": "Rathausgasse"
+    },
+    {
+        "kurzbezeichnung": "Melzen",
+        "id": -18474,
+        "strassenbezeichnung": "Melzen"
+    },
+    {
+        "kurzbezeichnung": "Sonnberg",
+        "id": -18473,
+        "strassenbezeichnung": "Sonnberg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 46851,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bindergasse",
+        "id": 46852,
+        "strassenbezeichnung": "Bindergasse"
+    },
+    {
+        "kurzbezeichnung": "Burgtorgasse",
+        "id": 46853,
+        "strassenbezeichnung": "Burgtorgasse"
+    },
+    {
+        "kurzbezeichnung": "Burgtorsiedlung",
+        "id": 46854,
+        "strassenbezeichnung": "Burgtorsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Fürstgasse",
+        "id": 46855,
+        "strassenbezeichnung": "Fürstgasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 46856,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 46857,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintergasse",
+        "id": 46858,
+        "strassenbezeichnung": "Hintergasse"
+    },
+    {
+        "kurzbezeichnung": "Pro-Juventute-Straße",
+        "id": 46859,
+        "strassenbezeichnung": "Pro-Juventute-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 46860,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Koloman-Wallisch-Str.",
+        "id": 46861,
+        "strassenbezeichnung": "Koloman-Wallisch-Straße"
+    },
+    {
+        "kurzbezeichnung": "Lederergasse",
+        "id": 46862,
+        "strassenbezeichnung": "Lederergasse"
+    },
+    {
+        "kurzbezeichnung": "Pesendorfergasse",
+        "id": 46864,
+        "strassenbezeichnung": "Pesendorfergasse"
+    },
+    {
+        "kurzbezeichnung": "Pestalozzigasse",
+        "id": 46865,
+        "strassenbezeichnung": "Pestalozzigasse"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Rudolf-Tyrolt-G.",
+        "id": 46866,
+        "strassenbezeichnung": "Dr.-Rudolf-Tyrolt-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Schulallee",
+        "id": 46867,
+        "strassenbezeichnung": "Schulallee"
+    },
+    {
+        "kurzbezeichnung": "Stadtwaldsiedlung",
+        "id": 46868,
+        "strassenbezeichnung": "Stadtwaldsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Westrandsiedlung",
+        "id": 46869,
+        "strassenbezeichnung": "Westrandsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Werksgasse",
+        "id": 46870,
+        "strassenbezeichnung": "Werksgasse"
+    },
+    {
+        "kurzbezeichnung": "Messnergasse",
+        "id": 47466,
+        "strassenbezeichnung": "Messnergasse"
+    },
+    {
+        "kurzbezeichnung": "Bruckmühl",
+        "id": 47477,
+        "strassenbezeichnung": "Bruckmühl"
+    },
+    {
+        "kurzbezeichnung": "Sankt Georgen",
+        "id": 47483,
+        "strassenbezeichnung": "Sankt Georgen"
+    },
+    {
+        "kurzbezeichnung": "Aignerstraße",
+        "id": 55558,
+        "strassenbezeichnung": "Aignerstraße"
+    },
+    {
+        "kurzbezeichnung": "Tienenweg",
+        "id": 55559,
+        "strassenbezeichnung": "Tienenweg"
+    },
+    {
+        "kurzbezeichnung": "Alte Gesäusestraße",
+        "id": 55560,
+        "strassenbezeichnung": "Alte Gesäusestraße"
+    },
+    {
+        "kurzbezeichnung": "Mittlere Bachgasse",
+        "id": 55561,
+        "strassenbezeichnung": "Mittlere Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bachpromenade",
+        "id": 55562,
+        "strassenbezeichnung": "Bachpromenade"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofsiedlung",
+        "id": 55563,
+        "strassenbezeichnung": "Bahnhofsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 55564,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Stift",
+        "id": 55565,
+        "strassenbezeichnung": "Stift"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 55566,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Eichelauweg",
+        "id": 55567,
+        "strassenbezeichnung": "Eichelauweg"
+    },
+    {
+        "kurzbezeichnung": "Lilienweg",
+        "id": 55568,
+        "strassenbezeichnung": "Lilienweg"
+    },
+    {
+        "kurzbezeichnung": "Ennsweg",
+        "id": 55569,
+        "strassenbezeichnung": "Ennsweg"
+    },
+    {
+        "kurzbezeichnung": "Ev. Kirchenstraße",
+        "id": 55570,
+        "strassenbezeichnung": "Ev. Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofweg",
+        "id": 55571,
+        "strassenbezeichnung": "Friedhofweg"
+    },
+    {
+        "kurzbezeichnung": "Gesäusestraße",
+        "id": 55572,
+        "strassenbezeichnung": "Gesäusestraße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 55573,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hoffeldweg",
+        "id": 55574,
+        "strassenbezeichnung": "Hoffeldweg"
+    },
+    {
+        "kurzbezeichnung": "Paradiesstraße",
+        "id": 55575,
+        "strassenbezeichnung": "Paradiesstraße"
+    },
+    {
+        "kurzbezeichnung": "Kematenstraße",
+        "id": 55576,
+        "strassenbezeichnung": "Kematenstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Bachgasse",
+        "id": 55577,
+        "strassenbezeichnung": "Obere Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Liftstraße",
+        "id": 55578,
+        "strassenbezeichnung": "Liftstraße"
+    },
+    {
+        "kurzbezeichnung": "Maierhof",
+        "id": 55579,
+        "strassenbezeichnung": "Maierhof"
+    },
+    {
+        "kurzbezeichnung": "Marienpark",
+        "id": 55580,
+        "strassenbezeichnung": "Marienpark"
+    },
+    {
+        "kurzbezeichnung": "Oberhofallee",
+        "id": 55581,
+        "strassenbezeichnung": "Oberhofallee"
+    },
+    {
+        "kurzbezeichnung": "Oberhofsiedlung",
+        "id": 55582,
+        "strassenbezeichnung": "Oberhofsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Petermühlstraße",
+        "id": 55583,
+        "strassenbezeichnung": "Petermühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Bachgasse",
+        "id": 55584,
+        "strassenbezeichnung": "Untere Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Röthelsteinweg",
+        "id": 55585,
+        "strassenbezeichnung": "Röthelsteinweg"
+    },
+    {
+        "kurzbezeichnung": "Sägestraße",
+        "id": 55586,
+        "strassenbezeichnung": "Sägestraße"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgasse",
+        "id": 55587,
+        "strassenbezeichnung": "Schmiedgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 55588,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 55589,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Steinfeldsiedlung",
+        "id": 55590,
+        "strassenbezeichnung": "Steinfeldsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Wagnerstraße",
+        "id": 55591,
+        "strassenbezeichnung": "Wagnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Webergasse",
+        "id": 55592,
+        "strassenbezeichnung": "Webergasse"
+    },
+    {
+        "kurzbezeichnung": "Boder Sonnenhang",
+        "id": 58852,
+        "strassenbezeichnung": "Boder Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Dr. Genger-Platz",
+        "id": 63369,
+        "strassenbezeichnung": "Dr. Genger-Platz"
+    },
+    {
+        "kurzbezeichnung": "Garbenteichring",
+        "id": 63370,
+        "strassenbezeichnung": "Garbenteichring"
+    },
+    {
+        "kurzbezeichnung": "Edelweißstraße",
+        "id": 63371,
+        "strassenbezeichnung": "Edelweißstraße"
+    },
+    {
+        "kurzbezeichnung": "Admont",
+        "id": 63372,
+        "strassenbezeichnung": "Admont"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatz",
+        "id": 63885,
+        "strassenbezeichnung": "Kirchplatz"
+    },
+    {
+        "kurzbezeichnung": "Beim Burgtor",
+        "id": 66806,
+        "strassenbezeichnung": "Beim Burgtor"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 66807,
+        "strassenbezeichnung": "Schloßgasse"
+    },
+    {
+        "kurzbezeichnung": "Olympiastraße",
+        "id": 66808,
+        "strassenbezeichnung": "Olympiastraße"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 70213,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Oppenberg",
+        "id": 89234,
+        "strassenbezeichnung": "Oppenberg"
+    },
+    {
+        "kurzbezeichnung": "Bärndorf",
+        "id": 89236,
+        "strassenbezeichnung": "Bärndorf"
+    },
+    {
+        "kurzbezeichnung": "Edlach",
+        "id": 89237,
+        "strassenbezeichnung": "Edlach"
+    },
+    {
+        "kurzbezeichnung": "Singsdorf",
+        "id": 89238,
+        "strassenbezeichnung": "Singsdorf"
+    },
+    {
+        "kurzbezeichnung": "Boder",
+        "id": 89253,
+        "strassenbezeichnung": "Boder"
+    },
+    {
+        "kurzbezeichnung": "Büschendorf",
+        "id": 89254,
+        "strassenbezeichnung": "Büschendorf"
+    },
+    {
+        "kurzbezeichnung": "Klamm",
+        "id": 89255,
+        "strassenbezeichnung": "Klamm"
+    },
+    {
+        "kurzbezeichnung": "Strechau",
+        "id": 89256,
+        "strassenbezeichnung": "Strechau"
+    },
+    {
+        "kurzbezeichnung": "Strechen",
+        "id": 89257,
+        "strassenbezeichnung": "Strechen"
+    },
+    {
+        "kurzbezeichnung": "Villmannsdorf",
+        "id": 89258,
+        "strassenbezeichnung": "Villmannsdorf"
+    },
+    {
+        "kurzbezeichnung": "Versbichl",
+        "id": 89265,
+        "strassenbezeichnung": "Versbichl"
+    },
+    {
+        "kurzbezeichnung": "Gstatterboden",
+        "id": 89282,
+        "strassenbezeichnung": "Gstatterboden"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 103822,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Technologiepark",
+        "id": 103893,
+        "strassenbezeichnung": "Technologiepark"
+    }
+]

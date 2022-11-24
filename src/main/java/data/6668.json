@@ -1,0 +1,412 @@
+[
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 45272,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Badnerstraße",
+        "id": 45273,
+        "strassenbezeichnung": "Badnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 45274,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Beethovenstraße",
+        "id": 45275,
+        "strassenbezeichnung": "Beethovenstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": 45276,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Birkenhofweg",
+        "id": 91773,
+        "strassenbezeichnung": "Birkenhofweg"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 45277,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Brucknerweg",
+        "id": -33888,
+        "strassenbezeichnung": "Brucknerweg"
+    },
+    {
+        "kurzbezeichnung": "Buchengasse",
+        "id": 45278,
+        "strassenbezeichnung": "Buchengasse"
+    },
+    {
+        "kurzbezeichnung": "Dieselweg",
+        "id": 45279,
+        "strassenbezeichnung": "Dieselweg"
+    },
+    {
+        "kurzbezeichnung": "Ebner-Eschenbachweg",
+        "id": 120137,
+        "strassenbezeichnung": "Ebner-Eschenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Edisongasse",
+        "id": 45280,
+        "strassenbezeichnung": "Edisongasse"
+    },
+    {
+        "kurzbezeichnung": "Eggendorferstraße",
+        "id": 45281,
+        "strassenbezeichnung": "Eggendorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Eisengasse",
+        "id": 120135,
+        "strassenbezeichnung": "Eisengasse"
+    },
+    {
+        "kurzbezeichnung": "Engerthstraße",
+        "id": 45282,
+        "strassenbezeichnung": "Engerthstraße"
+    },
+    {
+        "kurzbezeichnung": "Etrichgasse",
+        "id": 45284,
+        "strassenbezeichnung": "Etrichgasse"
+    },
+    {
+        "kurzbezeichnung": "Felixdorferstraße",
+        "id": 99614,
+        "strassenbezeichnung": "Felixdorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Fichtengasse",
+        "id": 45286,
+        "strassenbezeichnung": "Fichtengasse"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 45287,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Flugfeldstraße",
+        "id": 104204,
+        "strassenbezeichnung": "Flugfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Föhrengasse",
+        "id": 45289,
+        "strassenbezeichnung": "Föhrengasse"
+    },
+    {
+        "kurzbezeichnung": "Fourlanigasse",
+        "id": 45290,
+        "strassenbezeichnung": "Fourlanigasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 60625,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Getreidegasse",
+        "id": 45293,
+        "strassenbezeichnung": "Getreidegasse"
+    },
+    {
+        "kurzbezeichnung": "Gewerbeparkstraße",
+        "id": 70185,
+        "strassenbezeichnung": "Gewerbeparkstraße"
+    },
+    {
+        "kurzbezeichnung": "Ghegagasse",
+        "id": 45294,
+        "strassenbezeichnung": "Ghegagasse"
+    },
+    {
+        "kurzbezeichnung": "Grazerstraße",
+        "id": 45295,
+        "strassenbezeichnung": "Grazerstraße"
+    },
+    {
+        "kurzbezeichnung": "Grillparzerstraße",
+        "id": 45296,
+        "strassenbezeichnung": "Grillparzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gutenberggasse",
+        "id": 112043,
+        "strassenbezeichnung": "Gutenberggasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 45297,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Haydngasse",
+        "id": 45298,
+        "strassenbezeichnung": "Haydngasse"
+    },
+    {
+        "kurzbezeichnung": "Heidegasse",
+        "id": 45299,
+        "strassenbezeichnung": "Heidegasse"
+    },
+    {
+        "kurzbezeichnung": "Imstergasse",
+        "id": 45300,
+        "strassenbezeichnung": "Imstergasse"
+    },
+    {
+        "kurzbezeichnung": "Inngasse",
+        "id": 96258,
+        "strassenbezeichnung": "Inngasse"
+    },
+    {
+        "kurzbezeichnung": "Kaplangasse",
+        "id": 45301,
+        "strassenbezeichnung": "Kaplangasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenackerweg",
+        "id": 91775,
+        "strassenbezeichnung": "Kirchenackerweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 45302,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Klostergasse",
+        "id": 112039,
+        "strassenbezeichnung": "Klostergasse"
+    },
+    {
+        "kurzbezeichnung": "Kressgasse",
+        "id": 45303,
+        "strassenbezeichnung": "Kressgasse"
+    },
+    {
+        "kurzbezeichnung": "Kupfergasse",
+        "id": -20653,
+        "strassenbezeichnung": "Kupfergasse"
+    },
+    {
+        "kurzbezeichnung": "Lannergasse",
+        "id": 45305,
+        "strassenbezeichnung": "Lannergasse"
+    },
+    {
+        "kurzbezeichnung": "Lärchengasse",
+        "id": 45304,
+        "strassenbezeichnung": "Lärchengasse"
+    },
+    {
+        "kurzbezeichnung": "Lehargasse",
+        "id": 45306,
+        "strassenbezeichnung": "Lehargasse"
+    },
+    {
+        "kurzbezeichnung": "Lenaugasse",
+        "id": 45307,
+        "strassenbezeichnung": "Lenaugasse"
+    },
+    {
+        "kurzbezeichnung": "Lichtenwörtherstraße",
+        "id": 45308,
+        "strassenbezeichnung": "Lichtenwörtherstraße"
+    },
+    {
+        "kurzbezeichnung": "Maderspergerstraße",
+        "id": 45309,
+        "strassenbezeichnung": "Maderspergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Maria Theresiengasse",
+        "id": 45310,
+        "strassenbezeichnung": "Maria Theresiengasse"
+    },
+    {
+        "kurzbezeichnung": "Marienhofweg",
+        "id": 112040,
+        "strassenbezeichnung": "Marienhofweg"
+    },
+    {
+        "kurzbezeichnung": "Markusgasse",
+        "id": 45311,
+        "strassenbezeichnung": "Markusgasse"
+    },
+    {
+        "kurzbezeichnung": "Mitterhofergasse",
+        "id": 112044,
+        "strassenbezeichnung": "Mitterhofergasse"
+    },
+    {
+        "kurzbezeichnung": "Mozartgasse",
+        "id": 45312,
+        "strassenbezeichnung": "Mozartgasse"
+    },
+    {
+        "kurzbezeichnung": "Nassereithweg",
+        "id": 45313,
+        "strassenbezeichnung": "Nassereithweg"
+    },
+    {
+        "kurzbezeichnung": "Negrelligasse",
+        "id": 100849,
+        "strassenbezeichnung": "Negrelligasse"
+    },
+    {
+        "kurzbezeichnung": "Nestroygasse",
+        "id": 60626,
+        "strassenbezeichnung": "Nestroygasse"
+    },
+    {
+        "kurzbezeichnung": "Ottoweg",
+        "id": 45315,
+        "strassenbezeichnung": "Ottoweg"
+    },
+    {
+        "kurzbezeichnung": "Petrigasse",
+        "id": 108040,
+        "strassenbezeichnung": "Petrigasse"
+    },
+    {
+        "kurzbezeichnung": "Porschegasse",
+        "id": 45316,
+        "strassenbezeichnung": "Porschegasse"
+    },
+    {
+        "kurzbezeichnung": "Raimundweg",
+        "id": 45317,
+        "strassenbezeichnung": "Raimundweg"
+    },
+    {
+        "kurzbezeichnung": "Renngasse",
+        "id": 45318,
+        "strassenbezeichnung": "Renngasse"
+    },
+    {
+        "kurzbezeichnung": "Resselgasse",
+        "id": 45319,
+        "strassenbezeichnung": "Resselgasse"
+    },
+    {
+        "kurzbezeichnung": "Rilkegasse",
+        "id": 60624,
+        "strassenbezeichnung": "Rilkegasse"
+    },
+    {
+        "kurzbezeichnung": "Roseggerstraße",
+        "id": 45320,
+        "strassenbezeichnung": "Roseggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Saargasse",
+        "id": 67832,
+        "strassenbezeichnung": "Saargasse"
+    },
+    {
+        "kurzbezeichnung": "Schnitzlergasse",
+        "id": 71017,
+        "strassenbezeichnung": "Schnitzlergasse"
+    },
+    {
+        "kurzbezeichnung": "Schubertplatz",
+        "id": 45321,
+        "strassenbezeichnung": "Schubertplatz"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzgasse",
+        "id": 45322,
+        "strassenbezeichnung": "Sportplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Steinfeldgasse",
+        "id": 91776,
+        "strassenbezeichnung": "Steinfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Stiftergasse",
+        "id": 45323,
+        "strassenbezeichnung": "Stiftergasse"
+    },
+    {
+        "kurzbezeichnung": "Straußgasse",
+        "id": 45324,
+        "strassenbezeichnung": "Straußgasse"
+    },
+    {
+        "kurzbezeichnung": "Tenniszeile",
+        "id": 60623,
+        "strassenbezeichnung": "Tenniszeile"
+    },
+    {
+        "kurzbezeichnung": "Tirolerbachgasse",
+        "id": 45325,
+        "strassenbezeichnung": "Tirolerbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Tonpfeifengasse",
+        "id": 112041,
+        "strassenbezeichnung": "Tonpfeifengasse"
+    },
+    {
+        "kurzbezeichnung": "Tritolgasse",
+        "id": 45327,
+        "strassenbezeichnung": "Tritolgasse"
+    },
+    {
+        "kurzbezeichnung": "Uchatiusgasse",
+        "id": 45328,
+        "strassenbezeichnung": "Uchatiusgasse"
+    },
+    {
+        "kurzbezeichnung": "Viertelkanalzeile",
+        "id": 112042,
+        "strassenbezeichnung": "Viertelkanalzeile"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 45329,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Wattgasse",
+        "id": 45330,
+        "strassenbezeichnung": "Wattgasse"
+    },
+    {
+        "kurzbezeichnung": "Weidegasse",
+        "id": 45331,
+        "strassenbezeichnung": "Weidegasse"
+    },
+    {
+        "kurzbezeichnung": "Wienerstraße",
+        "id": 45332,
+        "strassenbezeichnung": "Wienerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenackerweg",
+        "id": 91772,
+        "strassenbezeichnung": "Wiesenackerweg"
+    },
+    {
+        "kurzbezeichnung": "Ziehrergasse",
+        "id": 45333,
+        "strassenbezeichnung": "Ziehrergasse"
+    },
+    {
+        "kurzbezeichnung": "Zinkstraße",
+        "id": 120134,
+        "strassenbezeichnung": "Zinkstrasse"
+    }
+]

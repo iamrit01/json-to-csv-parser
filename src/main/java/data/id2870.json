@@ -1,0 +1,562 @@
+[
+    {
+        "kurzbezeichnung": "Am Viadukt",
+        "id": -32871,
+        "strassenbezeichnung": "Am Viadukt"
+    },
+    {
+        "kurzbezeichnung": "Kletten",
+        "id": -32829,
+        "strassenbezeichnung": "Kletten"
+    },
+    {
+        "kurzbezeichnung": "Am Kreisverkehr",
+        "id": -20886,
+        "strassenbezeichnung": "Am Kreisverkehr"
+    },
+    {
+        "kurzbezeichnung": "Langegger Straße",
+        "id": -17807,
+        "strassenbezeichnung": "Langegger Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Gerichtsberg",
+        "id": 17993,
+        "strassenbezeichnung": "Am Gerichtsberg"
+    },
+    {
+        "kurzbezeichnung": "Andreas Hofer-Straße",
+        "id": 17994,
+        "strassenbezeichnung": "Andreas Hofer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 17995,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Ausschlag Zöbern",
+        "id": 17996,
+        "strassenbezeichnung": "Ausschlag Zöbern"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 17997,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofplatz",
+        "id": 17998,
+        "strassenbezeichnung": "Bahnhofplatz"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 17999,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 18000,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Chotekpromenade",
+        "id": 18001,
+        "strassenbezeichnung": "Chotekpromenade"
+    },
+    {
+        "kurzbezeichnung": "Dammgasse",
+        "id": 18002,
+        "strassenbezeichnung": "Dammgasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 18003,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischkaltergasse",
+        "id": 18004,
+        "strassenbezeichnung": "Fischkaltergasse"
+    },
+    {
+        "kurzbezeichnung": "Friedrichgasse",
+        "id": 18005,
+        "strassenbezeichnung": "Friedrichgasse"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 18006,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 18007,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gottsbergergasse",
+        "id": 18008,
+        "strassenbezeichnung": "Gottsbergergasse"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 18009,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Hammergasse",
+        "id": 18010,
+        "strassenbezeichnung": "Hammergasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 18011,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 18012,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintergasse",
+        "id": 18013,
+        "strassenbezeichnung": "Hintergasse"
+    },
+    {
+        "kurzbezeichnung": "Hofwiesenstraße",
+        "id": 18014,
+        "strassenbezeichnung": "Hofwiesenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hottmannsgrabenstraße",
+        "id": 18015,
+        "strassenbezeichnung": "Hottmannsgrabenstraße"
+    },
+    {
+        "kurzbezeichnung": "Johann Auerböck-Gasse",
+        "id": 18016,
+        "strassenbezeichnung": "Johann Auerböck-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Johanna Pergen-Straße",
+        "id": 18017,
+        "strassenbezeichnung": "Johanna Pergen-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 18018,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Königsberger Straße",
+        "id": 18019,
+        "strassenbezeichnung": "Königsberger Straße"
+    },
+    {
+        "kurzbezeichnung": "Kulmastraße",
+        "id": 18020,
+        "strassenbezeichnung": "Kulmastraße"
+    },
+    {
+        "kurzbezeichnung": "Marienplatz",
+        "id": 18021,
+        "strassenbezeichnung": "Marienplatz"
+    },
+    {
+        "kurzbezeichnung": "Marienseer Straße",
+        "id": 18022,
+        "strassenbezeichnung": "Marienseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Merangasse",
+        "id": 18023,
+        "strassenbezeichnung": "Merangasse"
+    },
+    {
+        "kurzbezeichnung": "Mönichkirchner Straße",
+        "id": 18024,
+        "strassenbezeichnung": "Mönichkirchner Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 18025,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Murtalgasse",
+        "id": 18026,
+        "strassenbezeichnung": "Murtalgasse"
+    },
+    {
+        "kurzbezeichnung": "Naglschmiedgasse",
+        "id": 18027,
+        "strassenbezeichnung": "Naglschmiedgasse"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 18028,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Pergenpromenade",
+        "id": 18030,
+        "strassenbezeichnung": "Pergenpromenade"
+    },
+    {
+        "kurzbezeichnung": "Pfarrgasse",
+        "id": 18031,
+        "strassenbezeichnung": "Pfarrgasse"
+    },
+    {
+        "kurzbezeichnung": "Roseggergasse",
+        "id": 18032,
+        "strassenbezeichnung": "Roseggergasse"
+    },
+    {
+        "kurzbezeichnung": "Rottlergasse",
+        "id": 18033,
+        "strassenbezeichnung": "Rottlergasse"
+    },
+    {
+        "kurzbezeichnung": "Sandgasse",
+        "id": 18034,
+        "strassenbezeichnung": "Sandgasse"
+    },
+    {
+        "kurzbezeichnung": "Scheibelgarten",
+        "id": 18035,
+        "strassenbezeichnung": "Scheibelgarten"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 18036,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Schwingerpromenade",
+        "id": 18037,
+        "strassenbezeichnung": "Schwingerpromenade"
+    },
+    {
+        "kurzbezeichnung": "Badeau",
+        "id": 18038,
+        "strassenbezeichnung": "Badeau"
+    },
+    {
+        "kurzbezeichnung": "Steggasse",
+        "id": 18039,
+        "strassenbezeichnung": "Steggasse"
+    },
+    {
+        "kurzbezeichnung": "Sterzlgasse",
+        "id": 18040,
+        "strassenbezeichnung": "Sterzlgasse"
+    },
+    {
+        "kurzbezeichnung": "Trommelschlägergraben",
+        "id": 18041,
+        "strassenbezeichnung": "Trommelschlägergraben"
+    },
+    {
+        "kurzbezeichnung": "Ufergasse",
+        "id": 18042,
+        "strassenbezeichnung": "Ufergasse"
+    },
+    {
+        "kurzbezeichnung": "Werkgasse",
+        "id": 18044,
+        "strassenbezeichnung": "Werkgasse"
+    },
+    {
+        "kurzbezeichnung": "Wochesländergasse",
+        "id": 18045,
+        "strassenbezeichnung": "Wochesländergasse"
+    },
+    {
+        "kurzbezeichnung": "Zöbernstraße",
+        "id": 18046,
+        "strassenbezeichnung": "Zöbernstraße"
+    },
+    {
+        "kurzbezeichnung": "Bauhofgasse",
+        "id": 51283,
+        "strassenbezeichnung": "Bauhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 51284,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 51286,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kulmaleitenweg",
+        "id": 51287,
+        "strassenbezeichnung": "Kulmaleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrplatz",
+        "id": 51288,
+        "strassenbezeichnung": "Pfarrplatz"
+    },
+    {
+        "kurzbezeichnung": "Schloßparkstraße",
+        "id": 51289,
+        "strassenbezeichnung": "Schloßparkstraße"
+    },
+    {
+        "kurzbezeichnung": "Wechselstraße",
+        "id": 51290,
+        "strassenbezeichnung": "Wechselstraße"
+    },
+    {
+        "kurzbezeichnung": "Einfahrt Mitte",
+        "id": 52916,
+        "strassenbezeichnung": "Einfahrt Mitte"
+    },
+    {
+        "kurzbezeichnung": "Ausschlag",
+        "id": 56272,
+        "strassenbezeichnung": "Ausschlag"
+    },
+    {
+        "kurzbezeichnung": "Langegg",
+        "id": 56275,
+        "strassenbezeichnung": "Langegg"
+    },
+    {
+        "kurzbezeichnung": "Außerneuwald",
+        "id": 56278,
+        "strassenbezeichnung": "Außerneuwald"
+    },
+    {
+        "kurzbezeichnung": "Innerneuwald",
+        "id": 56279,
+        "strassenbezeichnung": "Innerneuwald"
+    },
+    {
+        "kurzbezeichnung": "Mariensee",
+        "id": 56280,
+        "strassenbezeichnung": "Mariensee"
+    },
+    {
+        "kurzbezeichnung": "Mitterneuwald",
+        "id": 56281,
+        "strassenbezeichnung": "Mitterneuwald"
+    },
+    {
+        "kurzbezeichnung": "Hinterleiten",
+        "id": 59502,
+        "strassenbezeichnung": "Hinterleiten"
+    },
+    {
+        "kurzbezeichnung": "Höll",
+        "id": 59503,
+        "strassenbezeichnung": "Höll"
+    },
+    {
+        "kurzbezeichnung": "Hottmannsgraben",
+        "id": 59504,
+        "strassenbezeichnung": "Hottmannsgraben"
+    },
+    {
+        "kurzbezeichnung": "Steinhöfen",
+        "id": 59505,
+        "strassenbezeichnung": "Steinhöfen"
+    },
+    {
+        "kurzbezeichnung": "Vögelhöfen",
+        "id": 59506,
+        "strassenbezeichnung": "Vögelhöfen"
+    },
+    {
+        "kurzbezeichnung": "Mitteregg",
+        "id": 59507,
+        "strassenbezeichnung": "Mitteregg"
+    },
+    {
+        "kurzbezeichnung": "Sankt Peter am Wechsel",
+        "id": 59509,
+        "strassenbezeichnung": "Sankt Peter am Wechsel"
+    },
+    {
+        "kurzbezeichnung": "Steinplattenweg",
+        "id": 61319,
+        "strassenbezeichnung": "Steinplattenweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 61320,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Königsberg",
+        "id": 71499,
+        "strassenbezeichnung": "Königsberg"
+    },
+    {
+        "kurzbezeichnung": "Lehensiedlung",
+        "id": 71500,
+        "strassenbezeichnung": "Lehensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Olbersdorf",
+        "id": 71501,
+        "strassenbezeichnung": "Olbersdorf"
+    },
+    {
+        "kurzbezeichnung": "Kulma",
+        "id": 71502,
+        "strassenbezeichnung": "Kulma"
+    },
+    {
+        "kurzbezeichnung": "Gutenberggasse",
+        "id": 72104,
+        "strassenbezeichnung": "Gutenberggasse"
+    },
+    {
+        "kurzbezeichnung": "Gerichtsbergweg",
+        "id": 74075,
+        "strassenbezeichnung": "Gerichtsbergweg"
+    },
+    {
+        "kurzbezeichnung": "Am Sportplatz",
+        "id": 74076,
+        "strassenbezeichnung": "Am Sportplatz"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 74077,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Molz",
+        "id": 74663,
+        "strassenbezeichnung": "Molz"
+    },
+    {
+        "kurzbezeichnung": "Ödenhof",
+        "id": 74664,
+        "strassenbezeichnung": "Ödenhof"
+    },
+    {
+        "kurzbezeichnung": "Orthof",
+        "id": 74665,
+        "strassenbezeichnung": "Orthof"
+    },
+    {
+        "kurzbezeichnung": "St. Corona am Wechsel",
+        "id": 74666,
+        "strassenbezeichnung": "Sankt Corona am Wechsel"
+    },
+    {
+        "kurzbezeichnung": "Unternberg",
+        "id": 74667,
+        "strassenbezeichnung": "Unternberg"
+    },
+    {
+        "kurzbezeichnung": "Außeraigen",
+        "id": 80129,
+        "strassenbezeichnung": "Außeraigen"
+    },
+    {
+        "kurzbezeichnung": "Hoffeld",
+        "id": 80130,
+        "strassenbezeichnung": "Hoffeld"
+    },
+    {
+        "kurzbezeichnung": "Inneraigen",
+        "id": 80131,
+        "strassenbezeichnung": "Inneraigen"
+    },
+    {
+        "kurzbezeichnung": "Königsberg",
+        "id": 80132,
+        "strassenbezeichnung": "Königsberg"
+    },
+    {
+        "kurzbezeichnung": "Neustift am Alpenwald",
+        "id": 80133,
+        "strassenbezeichnung": "Neustift am Alpenwald"
+    },
+    {
+        "kurzbezeichnung": "Neustift am Hartberg",
+        "id": 80134,
+        "strassenbezeichnung": "Neustift am Hartberg"
+    },
+    {
+        "kurzbezeichnung": "Sonneck",
+        "id": 80135,
+        "strassenbezeichnung": "Sonneck"
+    },
+    {
+        "kurzbezeichnung": "Grottendorf",
+        "id": 80149,
+        "strassenbezeichnung": "Grottendorf"
+    },
+    {
+        "kurzbezeichnung": "Kampichl",
+        "id": 80240,
+        "strassenbezeichnung": "Kampichl"
+    },
+    {
+        "kurzbezeichnung": "Maierhöfen",
+        "id": 80241,
+        "strassenbezeichnung": "Maierhöfen"
+    },
+    {
+        "kurzbezeichnung": "Stübegg",
+        "id": 80244,
+        "strassenbezeichnung": "Stübegg"
+    },
+    {
+        "kurzbezeichnung": "Guggendorf",
+        "id": 88803,
+        "strassenbezeichnung": "Guggendorf"
+    },
+    {
+        "kurzbezeichnung": "Hammerweg",
+        "id": 96923,
+        "strassenbezeichnung": "Hammerweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 99507,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 99868,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "List-Straße",
+        "id": 105145,
+        "strassenbezeichnung": "List-Straße"
+    },
+    {
+        "kurzbezeichnung": "Langeggerweg",
+        "id": 113062,
+        "strassenbezeichnung": "Langeggerweg"
+    },
+    {
+        "kurzbezeichnung": "Hottmannsgrabenweg",
+        "id": 116232,
+        "strassenbezeichnung": "Hottmannsgrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Lehenkreuzstraße",
+        "id": 123878,
+        "strassenbezeichnung": "Lehenkreuzstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 128358,
+        "strassenbezeichnung": "Sonnenweg"
+    }
+]

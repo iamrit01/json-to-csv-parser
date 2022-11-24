@@ -1,0 +1,637 @@
+[
+    {
+        "kurzbezeichnung": "Pegasusstraße",
+        "id": -32363,
+        "strassenbezeichnung": "Pegasusstraße"
+    },
+    {
+        "kurzbezeichnung": "Schillerstraße",
+        "id": -32272,
+        "strassenbezeichnung": "Schillerstraße"
+    },
+    {
+        "kurzbezeichnung": "Sperberstraße",
+        "id": -30689,
+        "strassenbezeichnung": "Sperberstraße"
+    },
+    {
+        "kurzbezeichnung": "Schönbergstraße",
+        "id": -30340,
+        "strassenbezeichnung": "Schönbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Schönbergstraße",
+        "id": -30337,
+        "strassenbezeichnung": "Schönbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Spechtstraße",
+        "id": -20634,
+        "strassenbezeichnung": "Spechtstraße"
+    },
+    {
+        "kurzbezeichnung": "Stelzhamerstraße",
+        "id": -20218,
+        "strassenbezeichnung": "Stelzhamerstraße"
+    },
+    {
+        "kurzbezeichnung": "Petrusweg",
+        "id": -20217,
+        "strassenbezeichnung": "Petrusweg"
+    },
+    {
+        "kurzbezeichnung": "Pinienstraße",
+        "id": -17202,
+        "strassenbezeichnung": "Pinienstraße"
+    },
+    {
+        "kurzbezeichnung": "Hahnweg",
+        "id": 52034,
+        "strassenbezeichnung": "Hahnweg"
+    },
+    {
+        "kurzbezeichnung": "Haidfeldstraße",
+        "id": 52035,
+        "strassenbezeichnung": "Haidfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Hasenuferstraße",
+        "id": 52036,
+        "strassenbezeichnung": "Hasenuferstraße"
+    },
+    {
+        "kurzbezeichnung": "Händlergasse",
+        "id": 52037,
+        "strassenbezeichnung": "Händlergasse"
+    },
+    {
+        "kurzbezeichnung": "Heiderosenweg",
+        "id": 52038,
+        "strassenbezeichnung": "Heiderosenweg"
+    },
+    {
+        "kurzbezeichnung": "Heumairstraße",
+        "id": 52039,
+        "strassenbezeichnung": "Heumairstraße"
+    },
+    {
+        "kurzbezeichnung": "Hobelweg",
+        "id": 52040,
+        "strassenbezeichnung": "Hobelweg"
+    },
+    {
+        "kurzbezeichnung": "Holunderstraße",
+        "id": 52041,
+        "strassenbezeichnung": "Holunderstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofgasse",
+        "id": 52042,
+        "strassenbezeichnung": "Hofgasse"
+    },
+    {
+        "kurzbezeichnung": "Hummelweg",
+        "id": 52043,
+        "strassenbezeichnung": "Hummelweg"
+    },
+    {
+        "kurzbezeichnung": "Obere Landstraße",
+        "id": 52044,
+        "strassenbezeichnung": "Obere Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberschnadter Straße",
+        "id": 52045,
+        "strassenbezeichnung": "Oberschnadter Straße"
+    },
+    {
+        "kurzbezeichnung": "Parkstraße",
+        "id": 52046,
+        "strassenbezeichnung": "Parkstraße"
+    },
+    {
+        "kurzbezeichnung": "Parasolstraße",
+        "id": 52047,
+        "strassenbezeichnung": "Parasolstraße"
+    },
+    {
+        "kurzbezeichnung": "Panoramastraße",
+        "id": 52048,
+        "strassenbezeichnung": "Panoramastraße"
+    },
+    {
+        "kurzbezeichnung": "Palmenstraße",
+        "id": 52049,
+        "strassenbezeichnung": "Palmenstraße"
+    },
+    {
+        "kurzbezeichnung": "Paracelsusgasse",
+        "id": 52050,
+        "strassenbezeichnung": "Paracelsusgasse"
+    },
+    {
+        "kurzbezeichnung": "Parisstraße",
+        "id": 52051,
+        "strassenbezeichnung": "Parisstraße"
+    },
+    {
+        "kurzbezeichnung": "Pelargoniestraße",
+        "id": 52052,
+        "strassenbezeichnung": "Pelargoniestraße"
+    },
+    {
+        "kurzbezeichnung": "Pfauenweg",
+        "id": 52053,
+        "strassenbezeichnung": "Pfauenweg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrgasse",
+        "id": 52054,
+        "strassenbezeichnung": "Pfarrgasse"
+    },
+    {
+        "kurzbezeichnung": "Pflugstraße",
+        "id": 52055,
+        "strassenbezeichnung": "Pflugstraße"
+    },
+    {
+        "kurzbezeichnung": "Pfalzgasse",
+        "id": 52056,
+        "strassenbezeichnung": "Pfalzgasse"
+    },
+    {
+        "kurzbezeichnung": "Pfirsichweg",
+        "id": 52057,
+        "strassenbezeichnung": "Pfirsichweg"
+    },
+    {
+        "kurzbezeichnung": "Pinselweg",
+        "id": 52058,
+        "strassenbezeichnung": "Pinselweg"
+    },
+    {
+        "kurzbezeichnung": "Pinguinweg",
+        "id": 52059,
+        "strassenbezeichnung": "Pinguinweg"
+    },
+    {
+        "kurzbezeichnung": "Pilzweg",
+        "id": 52060,
+        "strassenbezeichnung": "Pilzweg"
+    },
+    {
+        "kurzbezeichnung": "Pisaweg",
+        "id": 52061,
+        "strassenbezeichnung": "Pisaweg"
+    },
+    {
+        "kurzbezeichnung": "Picassostraße",
+        "id": 52062,
+        "strassenbezeichnung": "Picassostraße"
+    },
+    {
+        "kurzbezeichnung": "Planckstraße",
+        "id": 52063,
+        "strassenbezeichnung": "Planckstraße"
+    },
+    {
+        "kurzbezeichnung": "Plangasse",
+        "id": 52064,
+        "strassenbezeichnung": "Plangasse"
+    },
+    {
+        "kurzbezeichnung": "Plattenweg",
+        "id": 52065,
+        "strassenbezeichnung": "Plattenweg"
+    },
+    {
+        "kurzbezeichnung": "Ponyweg",
+        "id": 52066,
+        "strassenbezeichnung": "Ponyweg"
+    },
+    {
+        "kurzbezeichnung": "Porschestraße",
+        "id": 52067,
+        "strassenbezeichnung": "Porschestraße"
+    },
+    {
+        "kurzbezeichnung": "Prager Straße",
+        "id": 52068,
+        "strassenbezeichnung": "Prager Straße"
+    },
+    {
+        "kurzbezeichnung": "Prinz-Eugen-Weg",
+        "id": 52069,
+        "strassenbezeichnung": "Prinz-Eugen-Weg"
+    },
+    {
+        "kurzbezeichnung": "Promenadenweg",
+        "id": 52070,
+        "strassenbezeichnung": "Promenadenweg"
+    },
+    {
+        "kurzbezeichnung": "Puckinger Straße",
+        "id": 52071,
+        "strassenbezeichnung": "Puckinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Pustastraße",
+        "id": 52072,
+        "strassenbezeichnung": "Pustastraße"
+    },
+    {
+        "kurzbezeichnung": "Pulaweg",
+        "id": 52073,
+        "strassenbezeichnung": "Pulaweg"
+    },
+    {
+        "kurzbezeichnung": "Pumaweg",
+        "id": 52074,
+        "strassenbezeichnung": "Pumaweg"
+    },
+    {
+        "kurzbezeichnung": "Sängerweg",
+        "id": 52075,
+        "strassenbezeichnung": "Sängerweg"
+    },
+    {
+        "kurzbezeichnung": "Sammersdorfer Straße",
+        "id": 52076,
+        "strassenbezeichnung": "Sammersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Sartrestraße",
+        "id": 52077,
+        "strassenbezeichnung": "Sartrestraße"
+    },
+    {
+        "kurzbezeichnung": "Sauerbruchstraße",
+        "id": 52078,
+        "strassenbezeichnung": "Sauerbruchstraße"
+    },
+    {
+        "kurzbezeichnung": "Sägestraße",
+        "id": 52079,
+        "strassenbezeichnung": "Sägestraße"
+    },
+    {
+        "kurzbezeichnung": "Sensenstraße",
+        "id": 52080,
+        "strassenbezeichnung": "Sensenstraße"
+    },
+    {
+        "kurzbezeichnung": "Semmelweisstraße",
+        "id": 52081,
+        "strassenbezeichnung": "Semmelweisstraße"
+    },
+    {
+        "kurzbezeichnung": "Schmetterlingstraße",
+        "id": 52082,
+        "strassenbezeichnung": "Schmetterlingstraße"
+    },
+    {
+        "kurzbezeichnung": "Schnepfenweg",
+        "id": 52083,
+        "strassenbezeichnung": "Schnepfenweg"
+    },
+    {
+        "kurzbezeichnung": "Schnitzlergasse",
+        "id": 52084,
+        "strassenbezeichnung": "Schnitzlergasse"
+    },
+    {
+        "kurzbezeichnung": "Schopenhauergasse",
+        "id": 52085,
+        "strassenbezeichnung": "Schopenhauergasse"
+    },
+    {
+        "kurzbezeichnung": "Schrammelstraße",
+        "id": 52086,
+        "strassenbezeichnung": "Schrammelstraße"
+    },
+    {
+        "kurzbezeichnung": "Schubertstraße",
+        "id": 52087,
+        "strassenbezeichnung": "Schubertstraße"
+    },
+    {
+        "kurzbezeichnung": "Schwalbenweg",
+        "id": 52088,
+        "strassenbezeichnung": "Schwalbenweg"
+    },
+    {
+        "kurzbezeichnung": "Schwanstraße",
+        "id": 52089,
+        "strassenbezeichnung": "Schwanstraße"
+    },
+    {
+        "kurzbezeichnung": "Schweitzerweg",
+        "id": 52090,
+        "strassenbezeichnung": "Schweitzerweg"
+    },
+    {
+        "kurzbezeichnung": "Sichelweg",
+        "id": 52091,
+        "strassenbezeichnung": "Sichelweg"
+    },
+    {
+        "kurzbezeichnung": "Sickerweg",
+        "id": 52092,
+        "strassenbezeichnung": "Sickerweg"
+    },
+    {
+        "kurzbezeichnung": "Siemensstraße",
+        "id": 52093,
+        "strassenbezeichnung": "Siemensstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenstraße",
+        "id": 52094,
+        "strassenbezeichnung": "Sonnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonatenweg",
+        "id": 52095,
+        "strassenbezeichnung": "Sonatenweg"
+    },
+    {
+        "kurzbezeichnung": "Spanweg",
+        "id": 52096,
+        "strassenbezeichnung": "Spanweg"
+    },
+    {
+        "kurzbezeichnung": "Sperlingweg",
+        "id": 52097,
+        "strassenbezeichnung": "Sperlingweg"
+    },
+    {
+        "kurzbezeichnung": "Sterngasse",
+        "id": 52098,
+        "strassenbezeichnung": "Sterngasse"
+    },
+    {
+        "kurzbezeichnung": "Straußstraße",
+        "id": 52099,
+        "strassenbezeichnung": "Straußstraße"
+    },
+    {
+        "kurzbezeichnung": "Strawinskystraße",
+        "id": 52100,
+        "strassenbezeichnung": "Strawinskystraße"
+    },
+    {
+        "kurzbezeichnung": "Sterzinggasse",
+        "id": 52101,
+        "strassenbezeichnung": "Sterzinggasse"
+    },
+    {
+        "kurzbezeichnung": "Sankt Leonhard",
+        "id": 52102,
+        "strassenbezeichnung": "Sankt Leonhard"
+    },
+    {
+        "kurzbezeichnung": "Südtiroler Straße",
+        "id": 52103,
+        "strassenbezeichnung": "Südtiroler Straße"
+    },
+    {
+        "kurzbezeichnung": "Suttnerstraße",
+        "id": 52104,
+        "strassenbezeichnung": "Suttnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Landstraße",
+        "id": 52105,
+        "strassenbezeichnung": "Untere Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterschnadter Straße",
+        "id": 52106,
+        "strassenbezeichnung": "Unterschnadter Straße"
+    },
+    {
+        "kurzbezeichnung": "Serenadenring",
+        "id": 53235,
+        "strassenbezeichnung": "Serenadenring"
+    },
+    {
+        "kurzbezeichnung": "Pilgramstraße",
+        "id": 59799,
+        "strassenbezeichnung": "Pilgramstraße"
+    },
+    {
+        "kurzbezeichnung": "Pantherweg",
+        "id": 59800,
+        "strassenbezeichnung": "Pantherweg"
+    },
+    {
+        "kurzbezeichnung": "Paduastraße",
+        "id": 59801,
+        "strassenbezeichnung": "Paduastraße"
+    },
+    {
+        "kurzbezeichnung": "Passauer Straße",
+        "id": 59802,
+        "strassenbezeichnung": "Passauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Pelikanstraße",
+        "id": 59803,
+        "strassenbezeichnung": "Pelikanstraße"
+    },
+    {
+        "kurzbezeichnung": "Porlingweg",
+        "id": 59804,
+        "strassenbezeichnung": "Porlingweg"
+    },
+    {
+        "kurzbezeichnung": "Schäferweg",
+        "id": 59805,
+        "strassenbezeichnung": "Schäferweg"
+    },
+    {
+        "kurzbezeichnung": "Hanfstraße",
+        "id": 66101,
+        "strassenbezeichnung": "Hanfstraße"
+    },
+    {
+        "kurzbezeichnung": "Perlweg",
+        "id": 66102,
+        "strassenbezeichnung": "Perlweg"
+    },
+    {
+        "kurzbezeichnung": "Primelweg",
+        "id": 66103,
+        "strassenbezeichnung": "Primelweg"
+    },
+    {
+        "kurzbezeichnung": "Sandgasse",
+        "id": 66104,
+        "strassenbezeichnung": "Sandgasse"
+    },
+    {
+        "kurzbezeichnung": "Steingasse",
+        "id": 66105,
+        "strassenbezeichnung": "Steingasse"
+    },
+    {
+        "kurzbezeichnung": "Schumannstraße",
+        "id": 66106,
+        "strassenbezeichnung": "Schumannstraße"
+    },
+    {
+        "kurzbezeichnung": "Pascalstraße",
+        "id": 67333,
+        "strassenbezeichnung": "Pascalstraße"
+    },
+    {
+        "kurzbezeichnung": "Prandtauerstraße",
+        "id": 69356,
+        "strassenbezeichnung": "Prandtauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Perkonigstraße",
+        "id": 69357,
+        "strassenbezeichnung": "Perkonigstraße"
+    },
+    {
+        "kurzbezeichnung": "Schmalgasse",
+        "id": 69358,
+        "strassenbezeichnung": "Schmalgasse"
+    },
+    {
+        "kurzbezeichnung": "Salurnstraße",
+        "id": 69359,
+        "strassenbezeichnung": "Salurnstraße"
+    },
+    {
+        "kurzbezeichnung": "Pflasterstraße",
+        "id": 69360,
+        "strassenbezeichnung": "Pflasterstraße"
+    },
+    {
+        "kurzbezeichnung": "Hohlweg",
+        "id": 72740,
+        "strassenbezeichnung": "Hohlweg"
+    },
+    {
+        "kurzbezeichnung": "Schimmelstraße",
+        "id": 72741,
+        "strassenbezeichnung": "Schimmelstraße"
+    },
+    {
+        "kurzbezeichnung": "Spatzenweg",
+        "id": 72742,
+        "strassenbezeichnung": "Spatzenweg"
+    },
+    {
+        "kurzbezeichnung": "Himbeerstraße",
+        "id": 73789,
+        "strassenbezeichnung": "Himbeerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hondastraße",
+        "id": 73790,
+        "strassenbezeichnung": "Hondastraße"
+    },
+    {
+        "kurzbezeichnung": "Hüttenstraße",
+        "id": 73791,
+        "strassenbezeichnung": "Hüttenstraße"
+    },
+    {
+        "kurzbezeichnung": "Paradestraße",
+        "id": 73792,
+        "strassenbezeichnung": "Paradestraße"
+    },
+    {
+        "kurzbezeichnung": "Piccoloweg",
+        "id": 73793,
+        "strassenbezeichnung": "Piccoloweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedegasse",
+        "id": 73795,
+        "strassenbezeichnung": "Schmiedegasse"
+    },
+    {
+        "kurzbezeichnung": "Silberweg",
+        "id": 73796,
+        "strassenbezeichnung": "Silberweg"
+    },
+    {
+        "kurzbezeichnung": "Sillianstraße",
+        "id": 73797,
+        "strassenbezeichnung": "Sillianstraße"
+    },
+    {
+        "kurzbezeichnung": "Dörfl",
+        "id": 84238,
+        "strassenbezeichnung": "Dörfl"
+    },
+    {
+        "kurzbezeichnung": "Köttsdorf",
+        "id": 84239,
+        "strassenbezeichnung": "Köttsdorf"
+    },
+    {
+        "kurzbezeichnung": "Sipbach",
+        "id": 84241,
+        "strassenbezeichnung": "Sipbach"
+    },
+    {
+        "kurzbezeichnung": "Zeitlham",
+        "id": 84242,
+        "strassenbezeichnung": "Zeitlham"
+    },
+    {
+        "kurzbezeichnung": "Polsterstraße",
+        "id": 101521,
+        "strassenbezeichnung": "Polsterstraße"
+    },
+    {
+        "kurzbezeichnung": "Sesamstraße",
+        "id": 103293,
+        "strassenbezeichnung": "Sesamstraße"
+    },
+    {
+        "kurzbezeichnung": "Haselstraße",
+        "id": 106124,
+        "strassenbezeichnung": "Haselstraße"
+    },
+    {
+        "kurzbezeichnung": "Anton-Schlecker-Straße",
+        "id": 106315,
+        "strassenbezeichnung": "Anton-Schlecker-Straße"
+    },
+    {
+        "kurzbezeichnung": "Pucciniweg",
+        "id": 111265,
+        "strassenbezeichnung": "Pucciniweg"
+    },
+    {
+        "kurzbezeichnung": "Pilionweg",
+        "id": 111494,
+        "strassenbezeichnung": "Pilionweg"
+    },
+    {
+        "kurzbezeichnung": "Pilgerstraße",
+        "id": 116564,
+        "strassenbezeichnung": "Pilgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Pirolstraße",
+        "id": 116565,
+        "strassenbezeichnung": "Pirolstraße"
+    },
+    {
+        "kurzbezeichnung": "Schollenstraße",
+        "id": 117825,
+        "strassenbezeichnung": "Schollenstraße"
+    },
+    {
+        "kurzbezeichnung": "Stifterstraße",
+        "id": 121748,
+        "strassenbezeichnung": "Stifterstraße"
+    }
+]

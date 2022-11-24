@@ -1,0 +1,577 @@
+[
+    {
+        "kurzbezeichnung": "Traunuferweg",
+        "id": -20348,
+        "strassenbezeichnung": "Traunuferweg "
+    },
+    {
+        "kurzbezeichnung": "Bambusgasse",
+        "id": -17904,
+        "strassenbezeichnung": "Bambusgasse"
+    },
+    {
+        "kurzbezeichnung": "Traunstraße",
+        "id": -17111,
+        "strassenbezeichnung": "Traunstraße"
+    },
+    {
+        "kurzbezeichnung": "Schumannstraße",
+        "id": -16864,
+        "strassenbezeichnung": "Schumannstraße"
+    },
+    {
+        "kurzbezeichnung": "Betr.Park Sinnersdorf",
+        "id": -15510,
+        "strassenbezeichnung": "Betriebspark Sinnersdorf"
+    },
+    {
+        "kurzbezeichnung": "Böllerstraße",
+        "id": 61959,
+        "strassenbezeichnung": "Böllerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bergernstraße",
+        "id": 61960,
+        "strassenbezeichnung": "Bergernstraße"
+    },
+    {
+        "kurzbezeichnung": "Ballstraße",
+        "id": 61961,
+        "strassenbezeichnung": "Ballstraße"
+    },
+    {
+        "kurzbezeichnung": "Brahmsweg",
+        "id": 61962,
+        "strassenbezeichnung": "Brahmsweg"
+    },
+    {
+        "kurzbezeichnung": "Brucknergasse",
+        "id": 61963,
+        "strassenbezeichnung": "Brucknergasse"
+    },
+    {
+        "kurzbezeichnung": "Birkenstraße",
+        "id": 61964,
+        "strassenbezeichnung": "Birkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Buxbaumgasse",
+        "id": 61965,
+        "strassenbezeichnung": "Buxbaumgasse"
+    },
+    {
+        "kurzbezeichnung": "Billrothstraße",
+        "id": 61966,
+        "strassenbezeichnung": "Billrothstraße"
+    },
+    {
+        "kurzbezeichnung": "Bernsteingasse",
+        "id": 61967,
+        "strassenbezeichnung": "Bernsteingasse"
+    },
+    {
+        "kurzbezeichnung": "Böhmerwaldstraße",
+        "id": 61968,
+        "strassenbezeichnung": "Böhmerwaldstraße"
+    },
+    {
+        "kurzbezeichnung": "Bürgergasse",
+        "id": 61969,
+        "strassenbezeichnung": "Bürgergasse"
+    },
+    {
+        "kurzbezeichnung": "Barbarossastraße",
+        "id": 61970,
+        "strassenbezeichnung": "Barbarossastraße"
+    },
+    {
+        "kurzbezeichnung": "Brombeergasse",
+        "id": 61971,
+        "strassenbezeichnung": "Brombeergasse"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 61972,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Bienengasse",
+        "id": 61973,
+        "strassenbezeichnung": "Bienengasse"
+    },
+    {
+        "kurzbezeichnung": "Bibergasse",
+        "id": 61974,
+        "strassenbezeichnung": "Bibergasse"
+    },
+    {
+        "kurzbezeichnung": "Babenbergergasse",
+        "id": 61975,
+        "strassenbezeichnung": "Babenbergergasse"
+    },
+    {
+        "kurzbezeichnung": "Baumstraße",
+        "id": 61976,
+        "strassenbezeichnung": "Baumstraße"
+    },
+    {
+        "kurzbezeichnung": "Bussardgasse",
+        "id": 61977,
+        "strassenbezeichnung": "Bussardgasse"
+    },
+    {
+        "kurzbezeichnung": "Buschgasse",
+        "id": 61978,
+        "strassenbezeichnung": "Buschgasse"
+    },
+    {
+        "kurzbezeichnung": "Bogengasse",
+        "id": 61979,
+        "strassenbezeichnung": "Bogengasse"
+    },
+    {
+        "kurzbezeichnung": "Blumenstraße",
+        "id": 61980,
+        "strassenbezeichnung": "Blumenstraße"
+    },
+    {
+        "kurzbezeichnung": "Bannergasse",
+        "id": 61981,
+        "strassenbezeichnung": "Bannergasse"
+    },
+    {
+        "kurzbezeichnung": "Begoniengasse",
+        "id": 61982,
+        "strassenbezeichnung": "Begoniengasse"
+    },
+    {
+        "kurzbezeichnung": "Beduinengasse",
+        "id": 61983,
+        "strassenbezeichnung": "Beduinengasse"
+    },
+    {
+        "kurzbezeichnung": "Biedermeierstraße",
+        "id": 61984,
+        "strassenbezeichnung": "Biedermeierstraße"
+    },
+    {
+        "kurzbezeichnung": "Bellinigasse",
+        "id": 61985,
+        "strassenbezeichnung": "Bellinigasse"
+    },
+    {
+        "kurzbezeichnung": "Blütengasse",
+        "id": 61986,
+        "strassenbezeichnung": "Blütengasse"
+    },
+    {
+        "kurzbezeichnung": "Biergasse",
+        "id": 61987,
+        "strassenbezeichnung": "Biergasse"
+    },
+    {
+        "kurzbezeichnung": "Buchengasse",
+        "id": 61988,
+        "strassenbezeichnung": "Buchengasse"
+    },
+    {
+        "kurzbezeichnung": "Brennergasse",
+        "id": 61989,
+        "strassenbezeichnung": "Brennergasse"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 61990,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 61991,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Bosruckgasse",
+        "id": 68242,
+        "strassenbezeichnung": "Bosruckgasse"
+    },
+    {
+        "kurzbezeichnung": "Jägerstraße",
+        "id": 69191,
+        "strassenbezeichnung": "Jägerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hetzendorfer Straße",
+        "id": 69192,
+        "strassenbezeichnung": "Hetzendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Hafergasse",
+        "id": 69193,
+        "strassenbezeichnung": "Hafergasse"
+    },
+    {
+        "kurzbezeichnung": "Hanuschstraße",
+        "id": 69194,
+        "strassenbezeichnung": "Hanuschstraße"
+    },
+    {
+        "kurzbezeichnung": "Harrerstraße",
+        "id": 69195,
+        "strassenbezeichnung": "Harrerstraße"
+    },
+    {
+        "kurzbezeichnung": "Haydngasse",
+        "id": 69196,
+        "strassenbezeichnung": "Haydngasse"
+    },
+    {
+        "kurzbezeichnung": "Puckinger Straße",
+        "id": 69197,
+        "strassenbezeichnung": "Puckinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Schilcherstraße",
+        "id": 69198,
+        "strassenbezeichnung": "Schilcherstraße"
+    },
+    {
+        "kurzbezeichnung": "Schönbergstraße",
+        "id": 69199,
+        "strassenbezeichnung": "Schönbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Schachingerstraße",
+        "id": 69200,
+        "strassenbezeichnung": "Schachingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schatzweg",
+        "id": 69201,
+        "strassenbezeichnung": "Schatzweg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrplatz",
+        "id": 69202,
+        "strassenbezeichnung": "Pfarrplatz"
+    },
+    {
+        "kurzbezeichnung": "Untere Dorfstraße",
+        "id": 69203,
+        "strassenbezeichnung": "Untere Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Forstweg",
+        "id": 69204,
+        "strassenbezeichnung": "Forstweg"
+    },
+    {
+        "kurzbezeichnung": "Obere Dorfstraße",
+        "id": 69205,
+        "strassenbezeichnung": "Obere Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Schmiedberg",
+        "id": 69206,
+        "strassenbezeichnung": "Am Schmiedberg"
+    },
+    {
+        "kurzbezeichnung": "Alte Bergstraße",
+        "id": 69207,
+        "strassenbezeichnung": "Alte Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 69208,
+        "strassenbezeichnung": "Lindengasse"
+    },
+    {
+        "kurzbezeichnung": "Jasmingasse",
+        "id": 69209,
+        "strassenbezeichnung": "Jasmingasse"
+    },
+    {
+        "kurzbezeichnung": "Allhaminger Straße",
+        "id": 69211,
+        "strassenbezeichnung": "Allhaminger Straße"
+    },
+    {
+        "kurzbezeichnung": "Weyerbachstraße",
+        "id": 69212,
+        "strassenbezeichnung": "Weyerbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenweg",
+        "id": 69213,
+        "strassenbezeichnung": "Raiffeisenweg"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 69214,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Lichteneggergasse",
+        "id": 69215,
+        "strassenbezeichnung": "Lichteneggergasse"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 69216,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Fasanenweg",
+        "id": 69217,
+        "strassenbezeichnung": "Fasanenweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 69218,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 69219,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Birkelberg",
+        "id": 69220,
+        "strassenbezeichnung": "Am Birkelberg"
+    },
+    {
+        "kurzbezeichnung": "Am Rosenhang",
+        "id": 69221,
+        "strassenbezeichnung": "Am Rosenhang"
+    },
+    {
+        "kurzbezeichnung": "Tulpenweg",
+        "id": 69223,
+        "strassenbezeichnung": "Tulpenweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrengasse",
+        "id": 69224,
+        "strassenbezeichnung": "Föhrengasse"
+    },
+    {
+        "kurzbezeichnung": "Schubertstraße",
+        "id": 69225,
+        "strassenbezeichnung": "Schubertstraße"
+    },
+    {
+        "kurzbezeichnung": "Gemeindeplatz",
+        "id": 69226,
+        "strassenbezeichnung": "Gemeindeplatz"
+    },
+    {
+        "kurzbezeichnung": "Boschgasse",
+        "id": 69397,
+        "strassenbezeichnung": "Boschgasse"
+    },
+    {
+        "kurzbezeichnung": "Ballettweg",
+        "id": 71210,
+        "strassenbezeichnung": "Ballettweg"
+    },
+    {
+        "kurzbezeichnung": "Beerengasse",
+        "id": 72758,
+        "strassenbezeichnung": "Beerengasse"
+    },
+    {
+        "kurzbezeichnung": "Schnepfenweg",
+        "id": 72759,
+        "strassenbezeichnung": "Schnepfenweg"
+    },
+    {
+        "kurzbezeichnung": "Brehmgasse",
+        "id": 73926,
+        "strassenbezeichnung": "Brehmgasse"
+    },
+    {
+        "kurzbezeichnung": "Erlenstraße",
+        "id": 73927,
+        "strassenbezeichnung": "Erlenstraße"
+    },
+    {
+        "kurzbezeichnung": "Lärchenstraße",
+        "id": 73928,
+        "strassenbezeichnung": "Lärchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Marchtrenker Straße",
+        "id": 73929,
+        "strassenbezeichnung": "Marchtrenker Straße"
+    },
+    {
+        "kurzbezeichnung": "Grassing",
+        "id": 84135,
+        "strassenbezeichnung": "Grassing"
+    },
+    {
+        "kurzbezeichnung": "Graßing",
+        "id": 87528,
+        "strassenbezeichnung": "Graßing"
+    },
+    {
+        "kurzbezeichnung": "Hetzendorf",
+        "id": 87529,
+        "strassenbezeichnung": "Hetzendorf"
+    },
+    {
+        "kurzbezeichnung": "Schimpelsberg",
+        "id": 87530,
+        "strassenbezeichnung": "Schimpelsberg"
+    },
+    {
+        "kurzbezeichnung": "Eichenstraße",
+        "id": 91858,
+        "strassenbezeichnung": "Eichenstraße"
+    },
+    {
+        "kurzbezeichnung": "Bändergasse",
+        "id": 94244,
+        "strassenbezeichnung": "Bändergasse"
+    },
+    {
+        "kurzbezeichnung": "Barockstraße",
+        "id": 94245,
+        "strassenbezeichnung": "Barockstraße"
+    },
+    {
+        "kurzbezeichnung": "Eschengasse",
+        "id": 94246,
+        "strassenbezeichnung": "Eschengasse"
+    },
+    {
+        "kurzbezeichnung": "Blättergasse",
+        "id": 97465,
+        "strassenbezeichnung": "Blättergasse"
+    },
+    {
+        "kurzbezeichnung": "Bäckergasse",
+        "id": 102119,
+        "strassenbezeichnung": "Bäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Benatzkygasse",
+        "id": 102654,
+        "strassenbezeichnung": "Benatzkygasse"
+    },
+    {
+        "kurzbezeichnung": "Birnbaumstraße",
+        "id": 102655,
+        "strassenbezeichnung": "Birnbaumstraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 103249,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Oberndorf",
+        "id": 106011,
+        "strassenbezeichnung": "Oberndorf"
+    },
+    {
+        "kurzbezeichnung": "Untersinnersdorf",
+        "id": 106012,
+        "strassenbezeichnung": "Untersinnersdorf"
+    },
+    {
+        "kurzbezeichnung": "Obersinnersdorf",
+        "id": 106013,
+        "strassenbezeichnung": "Obersinnersdorf"
+    },
+    {
+        "kurzbezeichnung": "Klobing",
+        "id": 106014,
+        "strassenbezeichnung": "Klobing"
+    },
+    {
+        "kurzbezeichnung": "Weyerstraße",
+        "id": 106015,
+        "strassenbezeichnung": "Weyerstraße"
+    },
+    {
+        "kurzbezeichnung": "Weitzendorf",
+        "id": 106016,
+        "strassenbezeichnung": "Weitzendorf"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 106017,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Weichselgasse",
+        "id": 106018,
+        "strassenbezeichnung": "Weichselgasse"
+    },
+    {
+        "kurzbezeichnung": "Wildgansgasse",
+        "id": 106019,
+        "strassenbezeichnung": "Wildgansgasse"
+    },
+    {
+        "kurzbezeichnung": "Golfplatzstraße",
+        "id": 106020,
+        "strassenbezeichnung": "Golfplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Wehrstraße",
+        "id": 106021,
+        "strassenbezeichnung": "Wehrstraße"
+    },
+    {
+        "kurzbezeichnung": "Wasserwerkstraße",
+        "id": 106022,
+        "strassenbezeichnung": "Wasserwerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 106023,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Weberstraße",
+        "id": 106024,
+        "strassenbezeichnung": "Weberstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenstraße",
+        "id": 106025,
+        "strassenbezeichnung": "Wiesenstraße"
+    },
+    {
+        "kurzbezeichnung": "Weihergasse",
+        "id": 106026,
+        "strassenbezeichnung": "Weihergasse"
+    },
+    {
+        "kurzbezeichnung": "Schnitzlerweg",
+        "id": 109687,
+        "strassenbezeichnung": "Schnitzlerweg"
+    },
+    {
+        "kurzbezeichnung": "Schrebergasse",
+        "id": 109688,
+        "strassenbezeichnung": "Schrebergasse"
+    },
+    {
+        "kurzbezeichnung": "Am Rappelberg",
+        "id": 115838,
+        "strassenbezeichnung": "Am Rappelberg"
+    },
+    {
+        "kurzbezeichnung": "Baritongasse",
+        "id": 126123,
+        "strassenbezeichnung": "Baritongasse"
+    },
+    {
+        "kurzbezeichnung": "Busstraße",
+        "id": 126961,
+        "strassenbezeichnung": "Busstraße"
+    }
+]

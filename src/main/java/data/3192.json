@@ -1,0 +1,607 @@
+[
+    {
+        "kurzbezeichnung": "Adersdorf",
+        "id": 91194,
+        "strassenbezeichnung": "Adersdorf"
+    },
+    {
+        "kurzbezeichnung": "Am Bach",
+        "id": 95520,
+        "strassenbezeichnung": "Am Bach"
+    },
+    {
+        "kurzbezeichnung": "Am Friesenberg",
+        "id": 95504,
+        "strassenbezeichnung": "Am Friesenberg"
+    },
+    {
+        "kurzbezeichnung": "Am Hang",
+        "id": 95518,
+        "strassenbezeichnung": "Am Hang"
+    },
+    {
+        "kurzbezeichnung": "Am Kogl",
+        "id": 95517,
+        "strassenbezeichnung": "Am Kogl"
+    },
+    {
+        "kurzbezeichnung": "Angerbauer",
+        "id": 95571,
+        "strassenbezeichnung": "Angerbauer"
+    },
+    {
+        "kurzbezeichnung": "Angerhof",
+        "id": 91195,
+        "strassenbezeichnung": "Angerhof"
+    },
+    {
+        "kurzbezeichnung": "Angerl",
+        "id": 95563,
+        "strassenbezeichnung": "Angerl"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 95502,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Außergrub",
+        "id": 95591,
+        "strassenbezeichnung": "Außergrub"
+    },
+    {
+        "kurzbezeichnung": "Bach",
+        "id": 95541,
+        "strassenbezeichnung": "Bach"
+    },
+    {
+        "kurzbezeichnung": "Barthof",
+        "id": 95546,
+        "strassenbezeichnung": "Barthof"
+    },
+    {
+        "kurzbezeichnung": "Bartl",
+        "id": 95487,
+        "strassenbezeichnung": "Bartl"
+    },
+    {
+        "kurzbezeichnung": "Bartleiten",
+        "id": 95490,
+        "strassenbezeichnung": "Bartleiten"
+    },
+    {
+        "kurzbezeichnung": "Baumgarten",
+        "id": 95485,
+        "strassenbezeichnung": "Baumgarten"
+    },
+    {
+        "kurzbezeichnung": "Biberbach",
+        "id": -11976,
+        "strassenbezeichnung": "Biberbach"
+    },
+    {
+        "kurzbezeichnung": "Bichl",
+        "id": 95511,
+        "strassenbezeichnung": "Bichl"
+    },
+    {
+        "kurzbezeichnung": "Bimsbauer",
+        "id": 95548,
+        "strassenbezeichnung": "Bimsbauer"
+    },
+    {
+        "kurzbezeichnung": "Brandhof",
+        "id": 91197,
+        "strassenbezeichnung": "Brandhof"
+    },
+    {
+        "kurzbezeichnung": "Brandhoflehen",
+        "id": 95523,
+        "strassenbezeichnung": "Brandhoflehen"
+    },
+    {
+        "kurzbezeichnung": "Brandstetten",
+        "id": 95534,
+        "strassenbezeichnung": "Brandstetten"
+    },
+    {
+        "kurzbezeichnung": "Brückl",
+        "id": 95568,
+        "strassenbezeichnung": "Brückl"
+    },
+    {
+        "kurzbezeichnung": "Dachmeister",
+        "id": 95488,
+        "strassenbezeichnung": "Dachmeister"
+    },
+    {
+        "kurzbezeichnung": "Dieming",
+        "id": 95575,
+        "strassenbezeichnung": "Dieming"
+    },
+    {
+        "kurzbezeichnung": "Distlhof",
+        "id": 95554,
+        "strassenbezeichnung": "Distlhof"
+    },
+    {
+        "kurzbezeichnung": "Dörfl-Mayer",
+        "id": 95560,
+        "strassenbezeichnung": "Dörfl-Mayer"
+    },
+    {
+        "kurzbezeichnung": "Dumdachting",
+        "id": 91198,
+        "strassenbezeichnung": "Dumdachting"
+    },
+    {
+        "kurzbezeichnung": "Edlach",
+        "id": 95514,
+        "strassenbezeichnung": "Edlach"
+    },
+    {
+        "kurzbezeichnung": "Einfaltsberg",
+        "id": 95522,
+        "strassenbezeichnung": "Einfaltsberg"
+    },
+    {
+        "kurzbezeichnung": "Engelsberg",
+        "id": 91199,
+        "strassenbezeichnung": "Engelsberg"
+    },
+    {
+        "kurzbezeichnung": "Erla",
+        "id": 95556,
+        "strassenbezeichnung": "Erla"
+    },
+    {
+        "kurzbezeichnung": "Felbing",
+        "id": 95508,
+        "strassenbezeichnung": "Felbing"
+    },
+    {
+        "kurzbezeichnung": "Freiaigen",
+        "id": 95562,
+        "strassenbezeichnung": "Freiaigen"
+    },
+    {
+        "kurzbezeichnung": "Friesenberg",
+        "id": 95537,
+        "strassenbezeichnung": "Friesenberg"
+    },
+    {
+        "kurzbezeichnung": "Fröschütz",
+        "id": 95545,
+        "strassenbezeichnung": "Fröschütz"
+    },
+    {
+        "kurzbezeichnung": "Gansberg",
+        "id": 95495,
+        "strassenbezeichnung": "Gansberg"
+    },
+    {
+        "kurzbezeichnung": "Gehartsberg",
+        "id": 95557,
+        "strassenbezeichnung": "Gehartsberg"
+    },
+    {
+        "kurzbezeichnung": "Graben",
+        "id": 95489,
+        "strassenbezeichnung": "Graben"
+    },
+    {
+        "kurzbezeichnung": "Großgassen",
+        "id": 95538,
+        "strassenbezeichnung": "Großgassen"
+    },
+    {
+        "kurzbezeichnung": "Großmayr",
+        "id": 95498,
+        "strassenbezeichnung": "Großmayr"
+    },
+    {
+        "kurzbezeichnung": "Großnagl",
+        "id": 95553,
+        "strassenbezeichnung": "Großnagl"
+    },
+    {
+        "kurzbezeichnung": "Grübl",
+        "id": 95494,
+        "strassenbezeichnung": "Grübl"
+    },
+    {
+        "kurzbezeichnung": "Gstadthof",
+        "id": 95559,
+        "strassenbezeichnung": "Gstadthof"
+    },
+    {
+        "kurzbezeichnung": "Hagbauer",
+        "id": 95569,
+        "strassenbezeichnung": "Hagbauer"
+    },
+    {
+        "kurzbezeichnung": "Haidschachen",
+        "id": 95549,
+        "strassenbezeichnung": "Haidschachen"
+    },
+    {
+        "kurzbezeichnung": "Haindl",
+        "id": 95521,
+        "strassenbezeichnung": "Haindl"
+    },
+    {
+        "kurzbezeichnung": "Helpersdorf",
+        "id": 95582,
+        "strassenbezeichnung": "Helpersdorf"
+    },
+    {
+        "kurzbezeichnung": "Hinterberg",
+        "id": 95529,
+        "strassenbezeichnung": "Hinterberg"
+    },
+    {
+        "kurzbezeichnung": "Hochaigen",
+        "id": 95496,
+        "strassenbezeichnung": "Hochaigen"
+    },
+    {
+        "kurzbezeichnung": "Holzbauer",
+        "id": 95570,
+        "strassenbezeichnung": "Holzbauer"
+    },
+    {
+        "kurzbezeichnung": "Hub",
+        "id": 95566,
+        "strassenbezeichnung": "Hub"
+    },
+    {
+        "kurzbezeichnung": "Illmersbach",
+        "id": 95577,
+        "strassenbezeichnung": "Illmersbach"
+    },
+    {
+        "kurzbezeichnung": "Im Ort",
+        "id": 95505,
+        "strassenbezeichnung": "Im Ort"
+    },
+    {
+        "kurzbezeichnung": "Innergrub",
+        "id": 95552,
+        "strassenbezeichnung": "Innergrub"
+    },
+    {
+        "kurzbezeichnung": "Jedersdorf",
+        "id": 95507,
+        "strassenbezeichnung": "Jedersdorf"
+    },
+    {
+        "kurzbezeichnung": "Kalchgraben",
+        "id": 95501,
+        "strassenbezeichnung": "Kalchgraben"
+    },
+    {
+        "kurzbezeichnung": "Kaltaigen",
+        "id": 91200,
+        "strassenbezeichnung": "Kaltaigen"
+    },
+    {
+        "kurzbezeichnung": "Kansering",
+        "id": 95550,
+        "strassenbezeichnung": "Kansering"
+    },
+    {
+        "kurzbezeichnung": "Kautzhof",
+        "id": 95544,
+        "strassenbezeichnung": "Kautzhof"
+    },
+    {
+        "kurzbezeichnung": "Kettel",
+        "id": 95593,
+        "strassenbezeichnung": "Kettel"
+    },
+    {
+        "kurzbezeichnung": "Kicking",
+        "id": 95580,
+        "strassenbezeichnung": "Kicking"
+    },
+    {
+        "kurzbezeichnung": "Kleeberg",
+        "id": 95492,
+        "strassenbezeichnung": "Kleeberg"
+    },
+    {
+        "kurzbezeichnung": "Kleingassen",
+        "id": 95530,
+        "strassenbezeichnung": "Kleingassen"
+    },
+    {
+        "kurzbezeichnung": "Kleinnagl",
+        "id": 95555,
+        "strassenbezeichnung": "Kleinnagl"
+    },
+    {
+        "kurzbezeichnung": "Krausenöd",
+        "id": 95482,
+        "strassenbezeichnung": "Krausenöd"
+    },
+    {
+        "kurzbezeichnung": "Kromos",
+        "id": 95579,
+        "strassenbezeichnung": "Kromos"
+    },
+    {
+        "kurzbezeichnung": "Kuglau",
+        "id": 95588,
+        "strassenbezeichnung": "Kuglau"
+    },
+    {
+        "kurzbezeichnung": "Kumerlehen",
+        "id": 95486,
+        "strassenbezeichnung": "Kumerlehen"
+    },
+    {
+        "kurzbezeichnung": "Kumpfmühle",
+        "id": 95565,
+        "strassenbezeichnung": "Kumpfmühle"
+    },
+    {
+        "kurzbezeichnung": "Langenöd",
+        "id": 95533,
+        "strassenbezeichnung": "Langenöd"
+    },
+    {
+        "kurzbezeichnung": "Lehen",
+        "id": 95540,
+        "strassenbezeichnung": "Lehen"
+    },
+    {
+        "kurzbezeichnung": "Leiten",
+        "id": 95567,
+        "strassenbezeichnung": "Leiten"
+    },
+    {
+        "kurzbezeichnung": "Liegl",
+        "id": 95493,
+        "strassenbezeichnung": "Liegl"
+    },
+    {
+        "kurzbezeichnung": "Linsberg",
+        "id": 95528,
+        "strassenbezeichnung": "Linsberg"
+    },
+    {
+        "kurzbezeichnung": "Maaberg",
+        "id": 95583,
+        "strassenbezeichnung": "Maaberg"
+    },
+    {
+        "kurzbezeichnung": "Marienthal",
+        "id": 95558,
+        "strassenbezeichnung": "Marienthal"
+    },
+    {
+        "kurzbezeichnung": "Mayrhäusl",
+        "id": 95592,
+        "strassenbezeichnung": "Mayrhäusl"
+    },
+    {
+        "kurzbezeichnung": "Metzenöd",
+        "id": 95547,
+        "strassenbezeichnung": "Metzenöd"
+    },
+    {
+        "kurzbezeichnung": "Mitterfeld",
+        "id": 95509,
+        "strassenbezeichnung": "Mitterfeld"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 95484,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Moselberg",
+        "id": 95527,
+        "strassenbezeichnung": "Moselberg"
+    },
+    {
+        "kurzbezeichnung": "Nagelhub",
+        "id": 95499,
+        "strassenbezeichnung": "Nagelhub"
+    },
+    {
+        "kurzbezeichnung": "Neubauer",
+        "id": 95542,
+        "strassenbezeichnung": "Neubauer"
+    },
+    {
+        "kurzbezeichnung": "Niederegg",
+        "id": 95500,
+        "strassenbezeichnung": "Niederegg"
+    },
+    {
+        "kurzbezeichnung": "Oismühle",
+        "id": 91190,
+        "strassenbezeichnung": "Oismühle"
+    },
+    {
+        "kurzbezeichnung": "Parkfried",
+        "id": 91201,
+        "strassenbezeichnung": "Parkfried"
+    },
+    {
+        "kurzbezeichnung": "Penk",
+        "id": 95586,
+        "strassenbezeichnung": "Penk"
+    },
+    {
+        "kurzbezeichnung": "Pimshof",
+        "id": 95524,
+        "strassenbezeichnung": "Pimshof"
+    },
+    {
+        "kurzbezeichnung": "Pötzlöd",
+        "id": 95576,
+        "strassenbezeichnung": "Pötzlöd"
+    },
+    {
+        "kurzbezeichnung": "Pratstrum",
+        "id": 91202,
+        "strassenbezeichnung": "Pratstrum"
+    },
+    {
+        "kurzbezeichnung": "Pyhra",
+        "id": 95561,
+        "strassenbezeichnung": "Pyhra"
+    },
+    {
+        "kurzbezeichnung": "Rechtlehen",
+        "id": 95532,
+        "strassenbezeichnung": "Rechtlehen"
+    },
+    {
+        "kurzbezeichnung": "Reiser",
+        "id": 95585,
+        "strassenbezeichnung": "Reiser"
+    },
+    {
+        "kurzbezeichnung": "Reith",
+        "id": 95587,
+        "strassenbezeichnung": "Reith"
+    },
+    {
+        "kurzbezeichnung": "Riedl",
+        "id": 95526,
+        "strassenbezeichnung": "Riedl"
+    },
+    {
+        "kurzbezeichnung": "Röckling",
+        "id": 95497,
+        "strassenbezeichnung": "Röckling"
+    },
+    {
+        "kurzbezeichnung": "Sand",
+        "id": 95531,
+        "strassenbezeichnung": "Sand"
+    },
+    {
+        "kurzbezeichnung": "Satzing",
+        "id": 95525,
+        "strassenbezeichnung": "Satzing"
+    },
+    {
+        "kurzbezeichnung": "Schacher",
+        "id": 95512,
+        "strassenbezeichnung": "Schacher"
+    },
+    {
+        "kurzbezeichnung": "Scherhub",
+        "id": 95510,
+        "strassenbezeichnung": "Scherhub"
+    },
+    {
+        "kurzbezeichnung": "Scherndorf",
+        "id": -14501,
+        "strassenbezeichnung": "Scherndorf"
+    },
+    {
+        "kurzbezeichnung": "Schoderhof",
+        "id": 95590,
+        "strassenbezeichnung": "Schoderhof"
+    },
+    {
+        "kurzbezeichnung": "Schöndorf",
+        "id": 95572,
+        "strassenbezeichnung": "Schöndorf"
+    },
+    {
+        "kurzbezeichnung": "Schörghub",
+        "id": 95539,
+        "strassenbezeichnung": "Schörghub"
+    },
+    {
+        "kurzbezeichnung": "Schützenegg",
+        "id": 95551,
+        "strassenbezeichnung": "Schützenegg"
+    },
+    {
+        "kurzbezeichnung": "Spachl",
+        "id": 95584,
+        "strassenbezeichnung": "Spachl"
+    },
+    {
+        "kurzbezeichnung": "Stelzenberg",
+        "id": 95516,
+        "strassenbezeichnung": "Stelzenberg"
+    },
+    {
+        "kurzbezeichnung": "Straß",
+        "id": 95574,
+        "strassenbezeichnung": "Straß"
+    },
+    {
+        "kurzbezeichnung": "Stupfreit",
+        "id": 91204,
+        "strassenbezeichnung": "Stupfreit"
+    },
+    {
+        "kurzbezeichnung": "Thalbauer",
+        "id": 95564,
+        "strassenbezeichnung": "Thalbauer"
+    },
+    {
+        "kurzbezeichnung": "Tiefenweg",
+        "id": 95506,
+        "strassenbezeichnung": "Tiefenweg"
+    },
+    {
+        "kurzbezeichnung": "Trauner",
+        "id": 95589,
+        "strassenbezeichnung": "Trauner"
+    },
+    {
+        "kurzbezeichnung": "Vielmetzen",
+        "id": 95578,
+        "strassenbezeichnung": "Vielmetzen"
+    },
+    {
+        "kurzbezeichnung": "Waldesblick",
+        "id": 95519,
+        "strassenbezeichnung": "Waldesblick"
+    },
+    {
+        "kurzbezeichnung": "Weingartl",
+        "id": 95535,
+        "strassenbezeichnung": "Weingartl"
+    },
+    {
+        "kurzbezeichnung": "Weingartshof",
+        "id": 95491,
+        "strassenbezeichnung": "Weingartshof"
+    },
+    {
+        "kurzbezeichnung": "Widschachen",
+        "id": 95483,
+        "strassenbezeichnung": "Widschachen"
+    },
+    {
+        "kurzbezeichnung": "Wiesmühl",
+        "id": 95515,
+        "strassenbezeichnung": "Wiesmühl"
+    },
+    {
+        "kurzbezeichnung": "Willersdorf",
+        "id": 91205,
+        "strassenbezeichnung": "Willersdorf"
+    },
+    {
+        "kurzbezeichnung": "Zeilach",
+        "id": 95503,
+        "strassenbezeichnung": "Zeilach"
+    },
+    {
+        "kurzbezeichnung": "Zulehen",
+        "id": 95536,
+        "strassenbezeichnung": "Zulehen"
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "kurzbezeichnung": "Am Egartl",
+        "id": 101870,
+        "strassenbezeichnung": "Am Egartl"
+    },
+    {
+        "kurzbezeichnung": "Am Wartstein",
+        "id": 101894,
+        "strassenbezeichnung": "Am Wartstein"
+    },
+    {
+        "kurzbezeichnung": "Anzing",
+        "id": 49393,
+        "strassenbezeichnung": "Anzing"
+    },
+    {
+        "kurzbezeichnung": "Anzinger Straße",
+        "id": -18716,
+        "strassenbezeichnung": "Anzinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Aug",
+        "id": 49394,
+        "strassenbezeichnung": "Aug"
+    },
+    {
+        "kurzbezeichnung": "Augstraße",
+        "id": 101900,
+        "strassenbezeichnung": "Augstraße"
+    },
+    {
+        "kurzbezeichnung": "August Radnitzky-Weg",
+        "id": 97618,
+        "strassenbezeichnung": "August Radnitzky-Weg"
+    },
+    {
+        "kurzbezeichnung": "Außerhof",
+        "id": 49395,
+        "strassenbezeichnung": "Außerhof"
+    },
+    {
+        "kurzbezeichnung": "Bajuwarenweg",
+        "id": 101889,
+        "strassenbezeichnung": "Bajuwarenweg"
+    },
+    {
+        "kurzbezeichnung": "Berndler",
+        "id": 49432,
+        "strassenbezeichnung": "Berndler"
+    },
+    {
+        "kurzbezeichnung": "Berndlerstraße",
+        "id": 101883,
+        "strassenbezeichnung": "Berndlerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bindergrub",
+        "id": 49396,
+        "strassenbezeichnung": "Bindergrub"
+    },
+    {
+        "kurzbezeichnung": "Bodenstätt",
+        "id": 49397,
+        "strassenbezeichnung": "Bodenstätt"
+    },
+    {
+        "kurzbezeichnung": "Brichtaweg",
+        "id": 101893,
+        "strassenbezeichnung": "Brichtaweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenweg",
+        "id": 101890,
+        "strassenbezeichnung": "Brunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Buchberg",
+        "id": 49398,
+        "strassenbezeichnung": "Buchberg"
+    },
+    {
+        "kurzbezeichnung": "Buchbergweg",
+        "id": 49399,
+        "strassenbezeichnung": "Buchbergweg"
+    },
+    {
+        "kurzbezeichnung": "Burghard Breitner-Weg",
+        "id": 49400,
+        "strassenbezeichnung": "Burghard Breitner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Diabelliweg",
+        "id": 49401,
+        "strassenbezeichnung": "Diabelliweg"
+    },
+    {
+        "kurzbezeichnung": "Einsiedlerweg",
+        "id": 101874,
+        "strassenbezeichnung": "Einsiedlerweg"
+    },
+    {
+        "kurzbezeichnung": "Feichten",
+        "id": 49402,
+        "strassenbezeichnung": "Feichten"
+    },
+    {
+        "kurzbezeichnung": "Fischerstraße",
+        "id": 101876,
+        "strassenbezeichnung": "Fischerstraße"
+    },
+    {
+        "kurzbezeichnung": "Fisching",
+        "id": 49403,
+        "strassenbezeichnung": "Fisching"
+    },
+    {
+        "kurzbezeichnung": "Fischinger Straße",
+        "id": 101886,
+        "strassenbezeichnung": "Fischinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Gaisberg",
+        "id": 49404,
+        "strassenbezeichnung": "Gaisberg"
+    },
+    {
+        "kurzbezeichnung": "Gaisbergstraße",
+        "id": 101877,
+        "strassenbezeichnung": "Gaisbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartensiedlung",
+        "id": 49405,
+        "strassenbezeichnung": "Gartensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Gemeindeweg",
+        "id": 101888,
+        "strassenbezeichnung": "Gemeindeweg"
+    },
+    {
+        "kurzbezeichnung": "Giggen",
+        "id": 101899,
+        "strassenbezeichnung": "Giggen"
+    },
+    {
+        "kurzbezeichnung": "Goriweg",
+        "id": 101892,
+        "strassenbezeichnung": "Goriweg"
+    },
+    {
+        "kurzbezeichnung": "Gräbl",
+        "id": 49407,
+        "strassenbezeichnung": "Gräbl"
+    },
+    {
+        "kurzbezeichnung": "Gugelsbergstraße",
+        "id": -30077,
+        "strassenbezeichnung": "Gugelsbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Guglmoos",
+        "id": 49408,
+        "strassenbezeichnung": "Guglmoos"
+    },
+    {
+        "kurzbezeichnung": "Haag",
+        "id": 49409,
+        "strassenbezeichnung": "Haag"
+    },
+    {
+        "kurzbezeichnung": "Haasgrub",
+        "id": 49410,
+        "strassenbezeichnung": "Haasgrub"
+    },
+    {
+        "kurzbezeichnung": "Haunsbergweg",
+        "id": 49411,
+        "strassenbezeichnung": "Haunsbergweg"
+    },
+    {
+        "kurzbezeichnung": "Hiab",
+        "id": 49412,
+        "strassenbezeichnung": "Hiab"
+    },
+    {
+        "kurzbezeichnung": "Hinterwartstein",
+        "id": 49413,
+        "strassenbezeichnung": "Hinterwartstein"
+    },
+    {
+        "kurzbezeichnung": "Hof",
+        "id": 49414,
+        "strassenbezeichnung": "Hof"
+    },
+    {
+        "kurzbezeichnung": "Hofer",
+        "id": 49415,
+        "strassenbezeichnung": "Hofer"
+    },
+    {
+        "kurzbezeichnung": "Hofgartenweg",
+        "id": 49416,
+        "strassenbezeichnung": "Hofgartenweg"
+    },
+    {
+        "kurzbezeichnung": "Innviertelweg",
+        "id": 101897,
+        "strassenbezeichnung": "Innviertelweg"
+    },
+    {
+        "kurzbezeichnung": "Kappenberg",
+        "id": 49417,
+        "strassenbezeichnung": "Kappenberg"
+    },
+    {
+        "kurzbezeichnung": "Köstendorf. Landesstr.",
+        "id": 101880,
+        "strassenbezeichnung": "Köstendorfer Landesstraße"
+    },
+    {
+        "kurzbezeichnung": "Lehen",
+        "id": 101879,
+        "strassenbezeichnung": "Lehen"
+    },
+    {
+        "kurzbezeichnung": "Leitgermoos",
+        "id": 49419,
+        "strassenbezeichnung": "Leitgermoos"
+    },
+    {
+        "kurzbezeichnung": "Lofer",
+        "id": 49420,
+        "strassenbezeichnung": "Lofer"
+    },
+    {
+        "kurzbezeichnung": "Ludwigshöhenstraße",
+        "id": -32052,
+        "strassenbezeichnung": "Ludwigshöhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 101887,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Mitterhof",
+        "id": 49421,
+        "strassenbezeichnung": "Mitterhof"
+    },
+    {
+        "kurzbezeichnung": "Moorbad",
+        "id": 49422,
+        "strassenbezeichnung": "Moorbad"
+    },
+    {
+        "kurzbezeichnung": "Mühlstraße",
+        "id": -18718,
+        "strassenbezeichnung": "Mühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Müllnerpoint",
+        "id": 101884,
+        "strassenbezeichnung": "Müllnerpoint"
+    },
+    {
+        "kurzbezeichnung": "Münsterholzstraße",
+        "id": 49423,
+        "strassenbezeichnung": "Münsterholzstraße"
+    },
+    {
+        "kurzbezeichnung": "Nußbaum",
+        "id": 49424,
+        "strassenbezeichnung": "Nußbaum"
+    },
+    {
+        "kurzbezeichnung": "Ober-Außerhof",
+        "id": -32085,
+        "strassenbezeichnung": "Ober-Außerhof"
+    },
+    {
+        "kurzbezeichnung": "Obermayrhof",
+        "id": 49425,
+        "strassenbezeichnung": "Obermayrhof"
+    },
+    {
+        "kurzbezeichnung": "Obernberg",
+        "id": 49426,
+        "strassenbezeichnung": "Obernberg"
+    },
+    {
+        "kurzbezeichnung": "Ochsenharing",
+        "id": 49427,
+        "strassenbezeichnung": "Ochsenharing"
+    },
+    {
+        "kurzbezeichnung": "Paltingmoos",
+        "id": 49428,
+        "strassenbezeichnung": "Paltingmoos"
+    },
+    {
+        "kurzbezeichnung": "Passauer Straße",
+        "id": 49429,
+        "strassenbezeichnung": "Passauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfaffenberg",
+        "id": 49430,
+        "strassenbezeichnung": "Pfaffenberg"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 49433,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Ramooser Straße",
+        "id": 49434,
+        "strassenbezeichnung": "Ramooser Straße"
+    },
+    {
+        "kurzbezeichnung": "Rohrerweg",
+        "id": 101896,
+        "strassenbezeichnung": "Rohrerweg"
+    },
+    {
+        "kurzbezeichnung": "Römersberg",
+        "id": 49435,
+        "strassenbezeichnung": "Römersberg"
+    },
+    {
+        "kurzbezeichnung": "Salzburger Straße",
+        "id": 49436,
+        "strassenbezeichnung": "Salzburger Straße"
+    },
+    {
+        "kurzbezeichnung": "Salzlehen",
+        "id": 49437,
+        "strassenbezeichnung": "Salzlehen"
+    },
+    {
+        "kurzbezeichnung": "Saulach",
+        "id": 49438,
+        "strassenbezeichnung": "Saulach"
+    },
+    {
+        "kurzbezeichnung": "Schalkham",
+        "id": 49439,
+        "strassenbezeichnung": "Schalkham"
+    },
+    {
+        "kurzbezeichnung": "Schlaham",
+        "id": 49440,
+        "strassenbezeichnung": "Schlaham"
+    },
+    {
+        "kurzbezeichnung": "Schloßberg",
+        "id": 101931,
+        "strassenbezeichnung": "Schloßberg"
+    },
+    {
+        "kurzbezeichnung": "Schloßbergweg",
+        "id": 49441,
+        "strassenbezeichnung": "Schloßbergweg"
+    },
+    {
+        "kurzbezeichnung": "Schrattenwinkel",
+        "id": 49442,
+        "strassenbezeichnung": "Schrattenwinkel"
+    },
+    {
+        "kurzbezeichnung": "Schustergasse",
+        "id": 101871,
+        "strassenbezeichnung": "Schustergasse"
+    },
+    {
+        "kurzbezeichnung": "Seeblickstraße",
+        "id": -31328,
+        "strassenbezeichnung": "Seeblickstraße"
+    },
+    {
+        "kurzbezeichnung": "Seeleiten",
+        "id": 49443,
+        "strassenbezeichnung": "Seeleiten"
+    },
+    {
+        "kurzbezeichnung": "Seestraße",
+        "id": 49444,
+        "strassenbezeichnung": "Seestraße"
+    },
+    {
+        "kurzbezeichnung": "Seewinkl",
+        "id": 101885,
+        "strassenbezeichnung": "Seewinkl"
+    },
+    {
+        "kurzbezeichnung": "Seglerweg",
+        "id": 101898,
+        "strassenbezeichnung": "Seglerweg"
+    },
+    {
+        "kurzbezeichnung": "Singer",
+        "id": 49445,
+        "strassenbezeichnung": "Singer"
+    },
+    {
+        "kurzbezeichnung": "Stampfweg",
+        "id": 49446,
+        "strassenbezeichnung": "Stampfweg"
+    },
+    {
+        "kurzbezeichnung": "Steinbachweg",
+        "id": 49447,
+        "strassenbezeichnung": "Steinbachweg"
+    },
+    {
+        "kurzbezeichnung": "Stiftsplatz",
+        "id": 49448,
+        "strassenbezeichnung": "Stiftsplatz"
+    },
+    {
+        "kurzbezeichnung": "Stockwiese",
+        "id": 56867,
+        "strassenbezeichnung": "Stockwiese"
+    },
+    {
+        "kurzbezeichnung": "Strandbadstraße",
+        "id": 49449,
+        "strassenbezeichnung": "Strandbadstraße"
+    },
+    {
+        "kurzbezeichnung": "Straß",
+        "id": 49450,
+        "strassenbezeichnung": "Straß"
+    },
+    {
+        "kurzbezeichnung": "Tassiloweg",
+        "id": 49451,
+        "strassenbezeichnung": "Tassiloweg"
+    },
+    {
+        "kurzbezeichnung": "Tauchner",
+        "id": 49452,
+        "strassenbezeichnung": "Tauchner"
+    },
+    {
+        "kurzbezeichnung": "Taxach",
+        "id": 49453,
+        "strassenbezeichnung": "Taxach"
+    },
+    {
+        "kurzbezeichnung": "Überfuhr",
+        "id": 101872,
+        "strassenbezeichnung": "Überfuhr"
+    },
+    {
+        "kurzbezeichnung": "Unerseeweg",
+        "id": 97619,
+        "strassenbezeichnung": "Unerseeweg"
+    },
+    {
+        "kurzbezeichnung": "Untermayrhof",
+        "id": 49456,
+        "strassenbezeichnung": "Untermayrhof"
+    },
+    {
+        "kurzbezeichnung": "Unternberg",
+        "id": 49457,
+        "strassenbezeichnung": "Unternberg"
+    },
+    {
+        "kurzbezeichnung": "Vogelhütte",
+        "id": 49458,
+        "strassenbezeichnung": "Vogelhütte"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 101901,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wallmannsberg",
+        "id": 49460,
+        "strassenbezeichnung": "Wallmannsberg"
+    },
+    {
+        "kurzbezeichnung": "Weyer",
+        "id": 49461,
+        "strassenbezeichnung": "Weyer"
+    },
+    {
+        "kurzbezeichnung": "Weyerbucht",
+        "id": 100140,
+        "strassenbezeichnung": "Weyerbucht"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 101895,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wolf Dietrich-Weg",
+        "id": 49462,
+        "strassenbezeichnung": "Wolf Dietrich-Weg"
+    },
+    {
+        "kurzbezeichnung": "Zellhof",
+        "id": 49463,
+        "strassenbezeichnung": "Zellhof"
+    }
+]

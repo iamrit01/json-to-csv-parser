@@ -1,0 +1,607 @@
+[
+    {
+        "kurzbezeichnung": "Freinerweg",
+        "id": -382,
+        "strassenbezeichnung": "Freinerweg"
+    },
+    {
+        "kurzbezeichnung": "Haselbach",
+        "id": -381,
+        "strassenbezeichnung": "Haselbach"
+    },
+    {
+        "kurzbezeichnung": "Freinersteig",
+        "id": -380,
+        "strassenbezeichnung": "Freinersteig"
+    },
+    {
+        "kurzbezeichnung": "Söllnerberg",
+        "id": 4248,
+        "strassenbezeichnung": "Söllnerberg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenstraße",
+        "id": 4757,
+        "strassenbezeichnung": "Sonnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Pfarrgrund",
+        "id": 29666,
+        "strassenbezeichnung": "Am Pfarrgrund"
+    },
+    {
+        "kurzbezeichnung": "Am Sportplatz",
+        "id": 29667,
+        "strassenbezeichnung": "Am Sportplatz"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 29668,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Badsiedlung",
+        "id": 29669,
+        "strassenbezeichnung": "Badsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 29670,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 29671,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Brucknerweg",
+        "id": 29672,
+        "strassenbezeichnung": "Brucknerweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenstraße",
+        "id": 29673,
+        "strassenbezeichnung": "Brunnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlat",
+        "id": 29674,
+        "strassenbezeichnung": "Erlat"
+    },
+    {
+        "kurzbezeichnung": "Fiedlerweg",
+        "id": 29675,
+        "strassenbezeichnung": "Fiedlerweg"
+    },
+    {
+        "kurzbezeichnung": "Frein",
+        "id": 29676,
+        "strassenbezeichnung": "Frein"
+    },
+    {
+        "kurzbezeichnung": "Friedhofweg",
+        "id": 29679,
+        "strassenbezeichnung": "Friedhofweg"
+    },
+    {
+        "kurzbezeichnung": "Fürth",
+        "id": 29680,
+        "strassenbezeichnung": "Fürth"
+    },
+    {
+        "kurzbezeichnung": "Goldbachlweg",
+        "id": 29681,
+        "strassenbezeichnung": "Goldbachlweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 29682,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hinterweg",
+        "id": 29683,
+        "strassenbezeichnung": "Hinterweg"
+    },
+    {
+        "kurzbezeichnung": "Hofbergstraße",
+        "id": 29684,
+        "strassenbezeichnung": "Hofbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Hoffeldstraße",
+        "id": 29685,
+        "strassenbezeichnung": "Hoffeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Itzingerweg",
+        "id": 29686,
+        "strassenbezeichnung": "Itzingerweg"
+    },
+    {
+        "kurzbezeichnung": "Kellerweg",
+        "id": 29687,
+        "strassenbezeichnung": "Kellerweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchensteig",
+        "id": 29688,
+        "strassenbezeichnung": "Kirchensteig"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 29689,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Neukirchner Straße",
+        "id": 29690,
+        "strassenbezeichnung": "Neukirchner Straße"
+    },
+    {
+        "kurzbezeichnung": "Ottoköniger Straße",
+        "id": 29691,
+        "strassenbezeichnung": "Ottoköniger Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfarrheimgasse",
+        "id": 29692,
+        "strassenbezeichnung": "Pfarrheimgasse"
+    },
+    {
+        "kurzbezeichnung": "Platzl",
+        "id": 29693,
+        "strassenbezeichnung": "Platzl"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenstraße",
+        "id": 29694,
+        "strassenbezeichnung": "Raiffeisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Rainerweg",
+        "id": 29695,
+        "strassenbezeichnung": "Rainerweg"
+    },
+    {
+        "kurzbezeichnung": "Rieder Straße",
+        "id": 29696,
+        "strassenbezeichnung": "Rieder Straße"
+    },
+    {
+        "kurzbezeichnung": "Riegler Straße",
+        "id": 29697,
+        "strassenbezeichnung": "Riegler Straße"
+    },
+    {
+        "kurzbezeichnung": "Schörgern",
+        "id": 29698,
+        "strassenbezeichnung": "Schörgern"
+    },
+    {
+        "kurzbezeichnung": "Seilergasse",
+        "id": 29699,
+        "strassenbezeichnung": "Seilergasse"
+    },
+    {
+        "kurzbezeichnung": "Sigmundsberg",
+        "id": 29700,
+        "strassenbezeichnung": "Sigmundsberg"
+    },
+    {
+        "kurzbezeichnung": "Stelzhamerweg",
+        "id": 29701,
+        "strassenbezeichnung": "Stelzhamerweg"
+    },
+    {
+        "kurzbezeichnung": "Stifterweg",
+        "id": 29702,
+        "strassenbezeichnung": "Stifterweg"
+    },
+    {
+        "kurzbezeichnung": "Strattnerweg",
+        "id": 29703,
+        "strassenbezeichnung": "Strattnerweg"
+    },
+    {
+        "kurzbezeichnung": "Uferweg",
+        "id": 29704,
+        "strassenbezeichnung": "Uferweg"
+    },
+    {
+        "kurzbezeichnung": "Vöcklamarkter Straße",
+        "id": 29705,
+        "strassenbezeichnung": "Vöcklamarkter Straße"
+    },
+    {
+        "kurzbezeichnung": "Würfelspielstraße",
+        "id": 29706,
+        "strassenbezeichnung": "Würfelspielstraße"
+    },
+    {
+        "kurzbezeichnung": "Zipfer Straße",
+        "id": 29707,
+        "strassenbezeichnung": "Zipfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Unterschörgern",
+        "id": 45826,
+        "strassenbezeichnung": "Unterschörgern"
+    },
+    {
+        "kurzbezeichnung": "Freinerhaid",
+        "id": 67225,
+        "strassenbezeichnung": "Freinerhaid"
+    },
+    {
+        "kurzbezeichnung": "Haselbachstraße",
+        "id": 67226,
+        "strassenbezeichnung": "Haselbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Fürtherbach",
+        "id": 67348,
+        "strassenbezeichnung": "Am Fürtherbach"
+    },
+    {
+        "kurzbezeichnung": "Pausingerstraße",
+        "id": 74107,
+        "strassenbezeichnung": "Pausingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Arbing",
+        "id": 86516,
+        "strassenbezeichnung": "Arbing"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 86517,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Badstuben",
+        "id": 86519,
+        "strassenbezeichnung": "Badstuben"
+    },
+    {
+        "kurzbezeichnung": "Brunnhölzl",
+        "id": 86520,
+        "strassenbezeichnung": "Brunnhölzl"
+    },
+    {
+        "kurzbezeichnung": "Diemröth",
+        "id": 86521,
+        "strassenbezeichnung": "Diemröth"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 86522,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Engern",
+        "id": 86524,
+        "strassenbezeichnung": "Engern"
+    },
+    {
+        "kurzbezeichnung": "Erdpries",
+        "id": 86525,
+        "strassenbezeichnung": "Erdpries"
+    },
+    {
+        "kurzbezeichnung": "Erlatwaid",
+        "id": 86526,
+        "strassenbezeichnung": "Erlatwaid"
+    },
+    {
+        "kurzbezeichnung": "Finkenröth",
+        "id": 86528,
+        "strassenbezeichnung": "Finkenröth"
+    },
+    {
+        "kurzbezeichnung": "Fischeredt",
+        "id": 86529,
+        "strassenbezeichnung": "Fischeredt"
+    },
+    {
+        "kurzbezeichnung": "Fischigen",
+        "id": 86530,
+        "strassenbezeichnung": "Fischigen"
+    },
+    {
+        "kurzbezeichnung": "Friedhalbing",
+        "id": 86531,
+        "strassenbezeichnung": "Friedhalbing"
+    },
+    {
+        "kurzbezeichnung": "Geldigen",
+        "id": 86532,
+        "strassenbezeichnung": "Geldigen"
+    },
+    {
+        "kurzbezeichnung": "Göblberg",
+        "id": 86533,
+        "strassenbezeichnung": "Göblberg"
+    },
+    {
+        "kurzbezeichnung": "Grünbergsiedlung",
+        "id": 86534,
+        "strassenbezeichnung": "Grünbergsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Halt",
+        "id": 86535,
+        "strassenbezeichnung": "Halt"
+    },
+    {
+        "kurzbezeichnung": "Hintersteining",
+        "id": 86538,
+        "strassenbezeichnung": "Hintersteining"
+    },
+    {
+        "kurzbezeichnung": "Hoblschlag",
+        "id": 86539,
+        "strassenbezeichnung": "Hoblschlag"
+    },
+    {
+        "kurzbezeichnung": "Hofberg",
+        "id": 86540,
+        "strassenbezeichnung": "Hofberg"
+    },
+    {
+        "kurzbezeichnung": "Innerhörgersteig",
+        "id": 86541,
+        "strassenbezeichnung": "Innerhörgersteig"
+    },
+    {
+        "kurzbezeichnung": "Innerleiten",
+        "id": 86542,
+        "strassenbezeichnung": "Innerleiten"
+    },
+    {
+        "kurzbezeichnung": "Kinast",
+        "id": 86543,
+        "strassenbezeichnung": "Kinast"
+    },
+    {
+        "kurzbezeichnung": "Klanigen",
+        "id": 86544,
+        "strassenbezeichnung": "Klanigen"
+    },
+    {
+        "kurzbezeichnung": "Leitrachstätten",
+        "id": 86545,
+        "strassenbezeichnung": "Leitrachstätten"
+    },
+    {
+        "kurzbezeichnung": "Lessigen",
+        "id": 86546,
+        "strassenbezeichnung": "Lessigen"
+    },
+    {
+        "kurzbezeichnung": "Loixigen",
+        "id": 86547,
+        "strassenbezeichnung": "Loixigen"
+    },
+    {
+        "kurzbezeichnung": "Märzigen",
+        "id": 86548,
+        "strassenbezeichnung": "Märzigen"
+    },
+    {
+        "kurzbezeichnung": "Marigen",
+        "id": 86549,
+        "strassenbezeichnung": "Marigen"
+    },
+    {
+        "kurzbezeichnung": "Mauern",
+        "id": 86550,
+        "strassenbezeichnung": "Mauern"
+    },
+    {
+        "kurzbezeichnung": "Mayrhof",
+        "id": 86551,
+        "strassenbezeichnung": "Mayrhof"
+    },
+    {
+        "kurzbezeichnung": "Mitterriegl",
+        "id": 86552,
+        "strassenbezeichnung": "Mitterriegl"
+    },
+    {
+        "kurzbezeichnung": "Niederriegl",
+        "id": 86554,
+        "strassenbezeichnung": "Niederriegl"
+    },
+    {
+        "kurzbezeichnung": "Oberedt",
+        "id": 86555,
+        "strassenbezeichnung": "Oberedt"
+    },
+    {
+        "kurzbezeichnung": "Oberfeitzing",
+        "id": 86556,
+        "strassenbezeichnung": "Oberfeitzing"
+    },
+    {
+        "kurzbezeichnung": "Oberhaselbach",
+        "id": 86557,
+        "strassenbezeichnung": "Oberhaselbach"
+    },
+    {
+        "kurzbezeichnung": "Ottigen",
+        "id": 86558,
+        "strassenbezeichnung": "Ottigen"
+    },
+    {
+        "kurzbezeichnung": "Ottokönigen",
+        "id": 86559,
+        "strassenbezeichnung": "Ottokönigen"
+    },
+    {
+        "kurzbezeichnung": "Pehigen",
+        "id": 86560,
+        "strassenbezeichnung": "Pehigen"
+    },
+    {
+        "kurzbezeichnung": "Perschling",
+        "id": 86561,
+        "strassenbezeichnung": "Perschling"
+    },
+    {
+        "kurzbezeichnung": "Point",
+        "id": 86562,
+        "strassenbezeichnung": "Point"
+    },
+    {
+        "kurzbezeichnung": "Pramegg",
+        "id": 86563,
+        "strassenbezeichnung": "Pramegg"
+    },
+    {
+        "kurzbezeichnung": "Raitenberg",
+        "id": 86564,
+        "strassenbezeichnung": "Raitenberg"
+    },
+    {
+        "kurzbezeichnung": "Redltal",
+        "id": 86565,
+        "strassenbezeichnung": "Redltal"
+    },
+    {
+        "kurzbezeichnung": "Renigen",
+        "id": 86566,
+        "strassenbezeichnung": "Renigen"
+    },
+    {
+        "kurzbezeichnung": "Schnöllhof",
+        "id": 86567,
+        "strassenbezeichnung": "Schnöllhof"
+    },
+    {
+        "kurzbezeichnung": "Seibrigen",
+        "id": 86568,
+        "strassenbezeichnung": "Seibrigen"
+    },
+    {
+        "kurzbezeichnung": "Stöckert",
+        "id": 86569,
+        "strassenbezeichnung": "Stöckert"
+    },
+    {
+        "kurzbezeichnung": "Unteredt",
+        "id": 86572,
+        "strassenbezeichnung": "Unteredt"
+    },
+    {
+        "kurzbezeichnung": "Unterfeitzing",
+        "id": 86573,
+        "strassenbezeichnung": "Unterfeitzing"
+    },
+    {
+        "kurzbezeichnung": "Unterhaselbach",
+        "id": 86574,
+        "strassenbezeichnung": "Unterhaselbach"
+    },
+    {
+        "kurzbezeichnung": "Vordersteining",
+        "id": 86575,
+        "strassenbezeichnung": "Vordersteining"
+    },
+    {
+        "kurzbezeichnung": "Wiederhals",
+        "id": 86576,
+        "strassenbezeichnung": "Wiederhals"
+    },
+    {
+        "kurzbezeichnung": "Zachleiten",
+        "id": 86577,
+        "strassenbezeichnung": "Zachleiten"
+    },
+    {
+        "kurzbezeichnung": "Endriegl",
+        "id": 86654,
+        "strassenbezeichnung": "Endriegl"
+    },
+    {
+        "kurzbezeichnung": "Rothauptberg",
+        "id": 86673,
+        "strassenbezeichnung": "Rothauptberg"
+    },
+    {
+        "kurzbezeichnung": "Oberegg",
+        "id": 86838,
+        "strassenbezeichnung": "Oberegg"
+    },
+    {
+        "kurzbezeichnung": "Erkaburgen",
+        "id": 86839,
+        "strassenbezeichnung": "Erkaburgen"
+    },
+    {
+        "kurzbezeichnung": "Hilprigen",
+        "id": 86840,
+        "strassenbezeichnung": "Hilprigen"
+    },
+    {
+        "kurzbezeichnung": "Otzigen",
+        "id": 86841,
+        "strassenbezeichnung": "Otzigen"
+    },
+    {
+        "kurzbezeichnung": "Redleiten",
+        "id": 86842,
+        "strassenbezeichnung": "Redleiten"
+    },
+    {
+        "kurzbezeichnung": "Redltal",
+        "id": 86843,
+        "strassenbezeichnung": "Redltal"
+    },
+    {
+        "kurzbezeichnung": "Schweinegg",
+        "id": 86844,
+        "strassenbezeichnung": "Schweinegg"
+    },
+    {
+        "kurzbezeichnung": "Winkl",
+        "id": 86845,
+        "strassenbezeichnung": "Winkl"
+    },
+    {
+        "kurzbezeichnung": "Allied Panels Park",
+        "id": 111978,
+        "strassenbezeichnung": "Allied Panels Park"
+    },
+    {
+        "kurzbezeichnung": "Am Mühlbach",
+        "id": 112495,
+        "strassenbezeichnung": "Am Mühlbach"
+    },
+    {
+        "kurzbezeichnung": "Aubach",
+        "id": 112598,
+        "strassenbezeichnung": "Aubach"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 112599,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Redltaler Straße",
+        "id": 112600,
+        "strassenbezeichnung": "Redltaler Straße"
+    },
+    {
+        "kurzbezeichnung": "Altbach",
+        "id": 112601,
+        "strassenbezeichnung": "Altbach"
+    },
+    {
+        "kurzbezeichnung": "Am Südhang",
+        "id": 112602,
+        "strassenbezeichnung": "Am Südhang"
+    }
+]

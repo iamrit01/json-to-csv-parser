@@ -1,0 +1,607 @@
+[
+    {
+        "kurzbezeichnung": "Haideweg",
+        "id": -34142,
+        "strassenbezeichnung": "Haideweg"
+    },
+    {
+        "kurzbezeichnung": "Royerstraße",
+        "id": -33051,
+        "strassenbezeichnung": "Royerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schusterstraße",
+        "id": -32608,
+        "strassenbezeichnung": "Schusterstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Triestingpark",
+        "id": -32356,
+        "strassenbezeichnung": "Am Triestingpark"
+    },
+    {
+        "kurzbezeichnung": "Fellinggasse",
+        "id": -30560,
+        "strassenbezeichnung": "Fellinggasse"
+    },
+    {
+        "kurzbezeichnung": "Getreidegasse",
+        "id": -30559,
+        "strassenbezeichnung": "Getreidegasse"
+    },
+    {
+        "kurzbezeichnung": "Trattengasse",
+        "id": -30558,
+        "strassenbezeichnung": "Trattengasse"
+    },
+    {
+        "kurzbezeichnung": "Achauer Straße",
+        "id": 17627,
+        "strassenbezeichnung": "Achauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahngasse",
+        "id": 17628,
+        "strassenbezeichnung": "Bahngasse"
+    },
+    {
+        "kurzbezeichnung": "Birkensee",
+        "id": 17629,
+        "strassenbezeichnung": "Birkensee"
+    },
+    {
+        "kurzbezeichnung": "Dr. G. Rosenberger G.",
+        "id": 17630,
+        "strassenbezeichnung": "Dr. Gustav Rosenberger Gasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 17631,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Franz Hütter Gasse",
+        "id": 17632,
+        "strassenbezeichnung": "Franz Hütter Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 17633,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Himbergerstraße",
+        "id": 17634,
+        "strassenbezeichnung": "Himbergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Johann Wurth Gasse",
+        "id": 17635,
+        "strassenbezeichnung": "Johann Wurth Gasse"
+    },
+    {
+        "kurzbezeichnung": "Karl Friedrich Gasse",
+        "id": 17636,
+        "strassenbezeichnung": "Karl Friedrich Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 17637,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kirchfeldgasse",
+        "id": 17638,
+        "strassenbezeichnung": "Kirchfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Michael Kietaibl Gasse",
+        "id": 17639,
+        "strassenbezeichnung": "Michael Kietaibl Gasse"
+    },
+    {
+        "kurzbezeichnung": "Möllersdorfer Straße",
+        "id": 17640,
+        "strassenbezeichnung": "Möllersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Ober Bregarten",
+        "id": 17641,
+        "strassenbezeichnung": "Ober Bregarten"
+    },
+    {
+        "kurzbezeichnung": "Ried in der Au",
+        "id": 17642,
+        "strassenbezeichnung": "Ried in der Au"
+    },
+    {
+        "kurzbezeichnung": "Seedörfl",
+        "id": 17643,
+        "strassenbezeichnung": "Seedörfl"
+    },
+    {
+        "kurzbezeichnung": "Siedlerstraße",
+        "id": 17644,
+        "strassenbezeichnung": "Siedlerstraße"
+    },
+    {
+        "kurzbezeichnung": "Trumauerstraße",
+        "id": 17645,
+        "strassenbezeichnung": "Trumauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Unter Bregarten",
+        "id": 17646,
+        "strassenbezeichnung": "Unter Bregarten"
+    },
+    {
+        "kurzbezeichnung": "Velmerstraße",
+        "id": 17647,
+        "strassenbezeichnung": "Velmerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wienerstraße",
+        "id": 17648,
+        "strassenbezeichnung": "Wienerstraße"
+    },
+    {
+        "kurzbezeichnung": "Anningerstraße",
+        "id": 22146,
+        "strassenbezeichnung": "Anningerstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": 22156,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Brennereiweg",
+        "id": 22158,
+        "strassenbezeichnung": "Brennereiweg"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 22163,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Fliedergasse",
+        "id": 22164,
+        "strassenbezeichnung": "Fliedergasse"
+    },
+    {
+        "kurzbezeichnung": "Im Winkel",
+        "id": 22186,
+        "strassenbezeichnung": "Im Winkel"
+    },
+    {
+        "kurzbezeichnung": "Kaplangasse",
+        "id": 22193,
+        "strassenbezeichnung": "Kaplangasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 22195,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Neuhofsee I",
+        "id": 22206,
+        "strassenbezeichnung": "Neuhofsee I"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 22212,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsstraße",
+        "id": 22217,
+        "strassenbezeichnung": "Siedlungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Tannengasse",
+        "id": 22219,
+        "strassenbezeichnung": "Tannengasse"
+    },
+    {
+        "kurzbezeichnung": "Tulpengasse",
+        "id": 22221,
+        "strassenbezeichnung": "Tulpengasse"
+    },
+    {
+        "kurzbezeichnung": "Velmerstraße",
+        "id": 22226,
+        "strassenbezeichnung": "Velmerstraße"
+    },
+    {
+        "kurzbezeichnung": "Weidengasse",
+        "id": 22228,
+        "strassenbezeichnung": "Weidengasse"
+    },
+    {
+        "kurzbezeichnung": "Wächterhaus",
+        "id": 43632,
+        "strassenbezeichnung": "Wächterhaus"
+    },
+    {
+        "kurzbezeichnung": "Millöckerstraße",
+        "id": 51374,
+        "strassenbezeichnung": "Millöckerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schanzgraben",
+        "id": 51375,
+        "strassenbezeichnung": "Schanzgraben"
+    },
+    {
+        "kurzbezeichnung": "Am Kanal",
+        "id": 51376,
+        "strassenbezeichnung": "Am Kanal"
+    },
+    {
+        "kurzbezeichnung": "Kl. Gemeindesee Nord",
+        "id": 51377,
+        "strassenbezeichnung": "Kleiner Gemeindesee Nord"
+    },
+    {
+        "kurzbezeichnung": "Kl. Gemeindesee Ost",
+        "id": 51378,
+        "strassenbezeichnung": "Kleiner Gemeindesee Ost"
+    },
+    {
+        "kurzbezeichnung": "Kl. Gemeindesee Süd",
+        "id": 51379,
+        "strassenbezeichnung": "Kleiner Gemeindesee Süd"
+    },
+    {
+        "kurzbezeichnung": "Großer Gemeindesee Süd",
+        "id": 51380,
+        "strassenbezeichnung": "Großer Gemeindesee Süd"
+    },
+    {
+        "kurzbezeichnung": "Großer Gemeindesee Ost",
+        "id": 51381,
+        "strassenbezeichnung": "Großer Gemeindesee Ost"
+    },
+    {
+        "kurzbezeichnung": "Gr. Gemeindesee West",
+        "id": 51382,
+        "strassenbezeichnung": "Großer Gemeindesee West"
+    },
+    {
+        "kurzbezeichnung": "Gr. Gemeindesee Nord",
+        "id": 51383,
+        "strassenbezeichnung": "Großer Gemeindesee Nord"
+    },
+    {
+        "kurzbezeichnung": "Dürrsee-N",
+        "id": 51384,
+        "strassenbezeichnung": "Dürrsee-N"
+    },
+    {
+        "kurzbezeichnung": "Dürrsee-S",
+        "id": 51385,
+        "strassenbezeichnung": "Dürrsee-S"
+    },
+    {
+        "kurzbezeichnung": "Dürrsee-O",
+        "id": 51386,
+        "strassenbezeichnung": "Dürrsee-O"
+    },
+    {
+        "kurzbezeichnung": "Dürrsee-S A",
+        "id": 51387,
+        "strassenbezeichnung": "Dürrsee-S A"
+    },
+    {
+        "kurzbezeichnung": "Dürrsee-W",
+        "id": 51388,
+        "strassenbezeichnung": "Dürrsee-W"
+    },
+    {
+        "kurzbezeichnung": "Karl Bauersee",
+        "id": 51764,
+        "strassenbezeichnung": "Karl Bauersee"
+    },
+    {
+        "kurzbezeichnung": "Blahasee",
+        "id": 51765,
+        "strassenbezeichnung": "Blahasee"
+    },
+    {
+        "kurzbezeichnung": "Fasanensee",
+        "id": 51767,
+        "strassenbezeichnung": "Fasanensee"
+    },
+    {
+        "kurzbezeichnung": "Kienersee I",
+        "id": 51769,
+        "strassenbezeichnung": "Kienersee I"
+    },
+    {
+        "kurzbezeichnung": "Neuhofsee II",
+        "id": 51770,
+        "strassenbezeichnung": "Neuhofsee II"
+    },
+    {
+        "kurzbezeichnung": "Schneidergrabensee I",
+        "id": 51771,
+        "strassenbezeichnung": "Schneidergrabensee I"
+    },
+    {
+        "kurzbezeichnung": "Schneidergrabensee II",
+        "id": 51772,
+        "strassenbezeichnung": "Schneidergrabensee II"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 51938,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Jagdhaus Velm",
+        "id": 58082,
+        "strassenbezeichnung": "Jagdhaus Velm"
+    },
+    {
+        "kurzbezeichnung": "Neuhof",
+        "id": 58084,
+        "strassenbezeichnung": "Neuhof"
+    },
+    {
+        "kurzbezeichnung": "Heinrich Landauer G.",
+        "id": 60927,
+        "strassenbezeichnung": "Heinrich Landauer Gasse"
+    },
+    {
+        "kurzbezeichnung": "Heinrich Peterka Gasse",
+        "id": 60928,
+        "strassenbezeichnung": "Heinrich Peterka Gasse"
+    },
+    {
+        "kurzbezeichnung": "Josef Kreitmeier Gasse",
+        "id": 60929,
+        "strassenbezeichnung": "Josef Kreitmeier Gasse"
+    },
+    {
+        "kurzbezeichnung": "Julius Horvath Gasse",
+        "id": 60930,
+        "strassenbezeichnung": "Julius Horvath Gasse"
+    },
+    {
+        "kurzbezeichnung": "Plantagasse",
+        "id": 60931,
+        "strassenbezeichnung": "Plantagasse"
+    },
+    {
+        "kurzbezeichnung": "Hermann Hlinka Gasse",
+        "id": 60932,
+        "strassenbezeichnung": "Hermann Hlinka Gasse"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 60933,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Franz Heinzl Gasse",
+        "id": 60934,
+        "strassenbezeichnung": "Franz Heinzl Gasse"
+    },
+    {
+        "kurzbezeichnung": "Anningergasse",
+        "id": 60935,
+        "strassenbezeichnung": "Anningergasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 60936,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Babenbergersee I",
+        "id": 60937,
+        "strassenbezeichnung": "Babenbergersee I"
+    },
+    {
+        "kurzbezeichnung": "Babenbergersee II",
+        "id": 60938,
+        "strassenbezeichnung": "Babenbergersee II"
+    },
+    {
+        "kurzbezeichnung": "Betriebsstraße I",
+        "id": 60939,
+        "strassenbezeichnung": "Betriebsstraße I"
+    },
+    {
+        "kurzbezeichnung": "Kienersee II",
+        "id": 60947,
+        "strassenbezeichnung": "Kienersee II"
+    },
+    {
+        "kurzbezeichnung": "Kienersee I Trockenzeil",
+        "id": 60948,
+        "strassenbezeichnung": "Kienersee I Trockenzeile"
+    },
+    {
+        "kurzbezeichnung": "Erlengasse",
+        "id": 60950,
+        "strassenbezeichnung": "Erlengasse"
+    },
+    {
+        "kurzbezeichnung": "Nelkengasse",
+        "id": 60951,
+        "strassenbezeichnung": "Nelkengasse"
+    },
+    {
+        "kurzbezeichnung": "Stadelgasse",
+        "id": 60952,
+        "strassenbezeichnung": "Stadelgasse"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofengasse",
+        "id": 60953,
+        "strassenbezeichnung": "Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Donnermühle",
+        "id": 60954,
+        "strassenbezeichnung": "Donnermühle"
+    },
+    {
+        "kurzbezeichnung": "Schlosspark",
+        "id": 64952,
+        "strassenbezeichnung": "Schlosspark"
+    },
+    {
+        "kurzbezeichnung": "Karl Kurz Gasse",
+        "id": 67866,
+        "strassenbezeichnung": "Karl Kurz Gasse"
+    },
+    {
+        "kurzbezeichnung": "2. Querstraße",
+        "id": 74361,
+        "strassenbezeichnung": "2. Querstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Kölbl Gasse",
+        "id": 74949,
+        "strassenbezeichnung": "Franz Kölbl Gasse"
+    },
+    {
+        "kurzbezeichnung": "Schubertgasse",
+        "id": 74950,
+        "strassenbezeichnung": "Schubertgasse"
+    },
+    {
+        "kurzbezeichnung": "Brunngasse",
+        "id": 92961,
+        "strassenbezeichnung": "Brunngasse"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 92962,
+        "strassenbezeichnung": "Lindengasse"
+    },
+    {
+        "kurzbezeichnung": "Am kalten Gang",
+        "id": 92963,
+        "strassenbezeichnung": "Am kalten Gang"
+    },
+    {
+        "kurzbezeichnung": "2. Betriebsstraße",
+        "id": 96427,
+        "strassenbezeichnung": "2. Betriebsstraße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Karl Renner Haus",
+        "id": 98603,
+        "strassenbezeichnung": "Dr. Karl Renner Haus"
+    },
+    {
+        "kurzbezeichnung": "Betriebsstraße II",
+        "id": 98604,
+        "strassenbezeichnung": "Betriebsstraße II"
+    },
+    {
+        "kurzbezeichnung": "Lindenhof",
+        "id": 98703,
+        "strassenbezeichnung": "Lindenhof"
+    },
+    {
+        "kurzbezeichnung": "Kienersee I T. Erw.",
+        "id": 103593,
+        "strassenbezeichnung": "Kienersee I Trockenzeile Erweiterung"
+    },
+    {
+        "kurzbezeichnung": "Rosenhof",
+        "id": 105416,
+        "strassenbezeichnung": "Rosenhof"
+    },
+    {
+        "kurzbezeichnung": "Gärtnerweg",
+        "id": 109398,
+        "strassenbezeichnung": "Gärtnerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Spitz",
+        "id": 111837,
+        "strassenbezeichnung": "Am Spitz"
+    },
+    {
+        "kurzbezeichnung": "Buchengasse",
+        "id": 111838,
+        "strassenbezeichnung": "Buchengasse"
+    },
+    {
+        "kurzbezeichnung": "Krautfeldgasse",
+        "id": 111839,
+        "strassenbezeichnung": "Krautfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 111925,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Graben",
+        "id": 113606,
+        "strassenbezeichnung": "Am Graben"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 113607,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnengasse",
+        "id": 113608,
+        "strassenbezeichnung": "Sonnengasse"
+    },
+    {
+        "kurzbezeichnung": "Robert Richter Gasse",
+        "id": 114227,
+        "strassenbezeichnung": "Robert Richter Gasse"
+    },
+    {
+        "kurzbezeichnung": "Josef Thornton Gasse",
+        "id": 114228,
+        "strassenbezeichnung": "Josef Thornton Gasse"
+    },
+    {
+        "kurzbezeichnung": "Eva Gilles Weg",
+        "id": 114229,
+        "strassenbezeichnung": "Eva Gilles Weg"
+    },
+    {
+        "kurzbezeichnung": "Ludwig Mayer Gasse",
+        "id": 114232,
+        "strassenbezeichnung": "Ludwig Mayer Gasse"
+    },
+    {
+        "kurzbezeichnung": "1. Querstraße",
+        "id": 116254,
+        "strassenbezeichnung": "1. Querstraße"
+    },
+    {
+        "kurzbezeichnung": "Santorastraße",
+        "id": 122931,
+        "strassenbezeichnung": "Santorastraße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Wenzel Hauer Weg",
+        "id": 123844,
+        "strassenbezeichnung": "Dr. Wenzel Hauer Weg"
+    },
+    {
+        "kurzbezeichnung": "Ernest Gily Gasse",
+        "id": 125208,
+        "strassenbezeichnung": "Ernest Gily Gasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 126692,
+        "strassenbezeichnung": "Friedhofgasse"
+    }
+]

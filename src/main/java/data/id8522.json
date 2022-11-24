@@ -1,0 +1,497 @@
+[
+    {
+        "kurzbezeichnung": "Rathausplatz",
+        "id": -32555,
+        "strassenbezeichnung": "Rathausplatz"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": -20493,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Hofgasse",
+        "id": -20078,
+        "strassenbezeichnung": "Hofgasse"
+    },
+    {
+        "kurzbezeichnung": "Villenstraße",
+        "id": -18320,
+        "strassenbezeichnung": "Villenstraße"
+    },
+    {
+        "kurzbezeichnung": "Ragnitzgasse",
+        "id": -17611,
+        "strassenbezeichnung": "Ragnitzgasse"
+    },
+    {
+        "kurzbezeichnung": "Krottendorf",
+        "id": 88206,
+        "strassenbezeichnung": "Krottendorf"
+    },
+    {
+        "kurzbezeichnung": "Tanzelsdorf",
+        "id": 88209,
+        "strassenbezeichnung": "Tanzelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Lasselsdorf",
+        "id": 88255,
+        "strassenbezeichnung": "Lasselsdorf"
+    },
+    {
+        "kurzbezeichnung": "Rassach",
+        "id": 88256,
+        "strassenbezeichnung": "Rassach"
+    },
+    {
+        "kurzbezeichnung": "Otternitz",
+        "id": 88266,
+        "strassenbezeichnung": "Otternitz"
+    },
+    {
+        "kurzbezeichnung": "Neudorf",
+        "id": 88287,
+        "strassenbezeichnung": "Neudorf"
+    },
+    {
+        "kurzbezeichnung": "Grub",
+        "id": 88299,
+        "strassenbezeichnung": "Grub"
+    },
+    {
+        "kurzbezeichnung": "Hasreith",
+        "id": 88300,
+        "strassenbezeichnung": "Hasreith"
+    },
+    {
+        "kurzbezeichnung": "Michlgleinz",
+        "id": 88301,
+        "strassenbezeichnung": "Michlgleinz"
+    },
+    {
+        "kurzbezeichnung": "Mönichgleinz",
+        "id": 88302,
+        "strassenbezeichnung": "Mönichgleinz"
+    },
+    {
+        "kurzbezeichnung": "Nassau",
+        "id": 88303,
+        "strassenbezeichnung": "Nassau"
+    },
+    {
+        "kurzbezeichnung": "Sulzhof",
+        "id": 88304,
+        "strassenbezeichnung": "Sulzhof"
+    },
+    {
+        "kurzbezeichnung": "Unterbergla",
+        "id": 88305,
+        "strassenbezeichnung": "Unterbergla"
+    },
+    {
+        "kurzbezeichnung": "Fantsch",
+        "id": 89047,
+        "strassenbezeichnung": "Fantsch"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 94849,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Schulweg",
+        "id": 94850,
+        "strassenbezeichnung": "Am Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 94851,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Bäckerweg",
+        "id": 94852,
+        "strassenbezeichnung": "Bäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 94853,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Bräuhausstraße",
+        "id": 94854,
+        "strassenbezeichnung": "Bräuhausstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorneggweg",
+        "id": 94855,
+        "strassenbezeichnung": "Dorneggweg"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 94856,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Florianerstraße",
+        "id": 94857,
+        "strassenbezeichnung": "Florianerstraße"
+    },
+    {
+        "kurzbezeichnung": "Florianiring",
+        "id": 94858,
+        "strassenbezeichnung": "Florianiring"
+    },
+    {
+        "kurzbezeichnung": "Florianiweg",
+        "id": 94859,
+        "strassenbezeichnung": "Florianiweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 94860,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 94861,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Grazerstraße",
+        "id": 94862,
+        "strassenbezeichnung": "Grazerstraße"
+    },
+    {
+        "kurzbezeichnung": "Grünauerstraße",
+        "id": 94863,
+        "strassenbezeichnung": "Grünauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofweg",
+        "id": 94864,
+        "strassenbezeichnung": "Hofweg"
+    },
+    {
+        "kurzbezeichnung": "Holzbauweg",
+        "id": 94865,
+        "strassenbezeichnung": "Holzbauweg"
+    },
+    {
+        "kurzbezeichnung": "Kelzen",
+        "id": 94866,
+        "strassenbezeichnung": "Kelzen"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 94867,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Laßnitzstraße",
+        "id": 94868,
+        "strassenbezeichnung": "Laßnitzstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 94869,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 94870,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Marktring",
+        "id": 94871,
+        "strassenbezeichnung": "Marktring"
+    },
+    {
+        "kurzbezeichnung": "Marktstraße",
+        "id": 94872,
+        "strassenbezeichnung": "Marktstraße"
+    },
+    {
+        "kurzbezeichnung": "Neuer Weg",
+        "id": 94873,
+        "strassenbezeichnung": "Neuer Weg"
+    },
+    {
+        "kurzbezeichnung": "Oberer Markt",
+        "id": 94874,
+        "strassenbezeichnung": "Oberer Markt"
+    },
+    {
+        "kurzbezeichnung": "Petzelsdorfstraße",
+        "id": 94875,
+        "strassenbezeichnung": "Petzelsdorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Ragnitzegg",
+        "id": 94876,
+        "strassenbezeichnung": "Ragnitzegg"
+    },
+    {
+        "kurzbezeichnung": "Ragnitzweg",
+        "id": 94877,
+        "strassenbezeichnung": "Ragnitzweg"
+    },
+    {
+        "kurzbezeichnung": "Schrötten",
+        "id": 94878,
+        "strassenbezeichnung": "Schrötten"
+    },
+    {
+        "kurzbezeichnung": "Sonnenstraße",
+        "id": 94879,
+        "strassenbezeichnung": "Sonnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnweg",
+        "id": 94880,
+        "strassenbezeichnung": "Sonnweg"
+    },
+    {
+        "kurzbezeichnung": "Stainzerstraße",
+        "id": 94881,
+        "strassenbezeichnung": "Stainzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Tanzelsdorfegg",
+        "id": 94882,
+        "strassenbezeichnung": "Tanzelsdorfegg"
+    },
+    {
+        "kurzbezeichnung": "Tanzelsdorferstraße",
+        "id": 94883,
+        "strassenbezeichnung": "Tanzelsdorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Uferweg",
+        "id": 94884,
+        "strassenbezeichnung": "Uferweg"
+    },
+    {
+        "kurzbezeichnung": "Villenweg",
+        "id": 94885,
+        "strassenbezeichnung": "Villenweg"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 94886,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Ziegelweg",
+        "id": 94887,
+        "strassenbezeichnung": "Ziegelweg"
+    },
+    {
+        "kurzbezeichnung": "Neudorfegg",
+        "id": 97224,
+        "strassenbezeichnung": "Neudorfegg"
+    },
+    {
+        "kurzbezeichnung": "Stegmühlweg",
+        "id": 100732,
+        "strassenbezeichnung": "Stegmühlweg"
+    },
+    {
+        "kurzbezeichnung": "Vocherastraße",
+        "id": 100733,
+        "strassenbezeichnung": "Vocherastraße"
+    },
+    {
+        "kurzbezeichnung": "Krottendorfgleinz",
+        "id": 100734,
+        "strassenbezeichnung": "Krottendorfgleinz"
+    },
+    {
+        "kurzbezeichnung": "Getreideweg",
+        "id": 100735,
+        "strassenbezeichnung": "Getreideweg"
+    },
+    {
+        "kurzbezeichnung": "Schröttenweg",
+        "id": 100736,
+        "strassenbezeichnung": "Schröttenweg"
+    },
+    {
+        "kurzbezeichnung": "Lebing-Dorf",
+        "id": 100737,
+        "strassenbezeichnung": "Lebing-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Lebinggleinzstraße",
+        "id": 100738,
+        "strassenbezeichnung": "Lebinggleinzstraße"
+    },
+    {
+        "kurzbezeichnung": "Lebinggleinz",
+        "id": 100739,
+        "strassenbezeichnung": "Lebinggleinz"
+    },
+    {
+        "kurzbezeichnung": "Dornegg",
+        "id": 100740,
+        "strassenbezeichnung": "Dornegg"
+    },
+    {
+        "kurzbezeichnung": "Gumprechtweg",
+        "id": 100741,
+        "strassenbezeichnung": "Gumprechtweg"
+    },
+    {
+        "kurzbezeichnung": "Gussendorfgasse",
+        "id": 100742,
+        "strassenbezeichnung": "Gussendorfgasse"
+    },
+    {
+        "kurzbezeichnung": "Gussendorfegg",
+        "id": 100743,
+        "strassenbezeichnung": "Gussendorfegg"
+    },
+    {
+        "kurzbezeichnung": "Mannegg",
+        "id": 100744,
+        "strassenbezeichnung": "Mannegg"
+    },
+    {
+        "kurzbezeichnung": "Schlossstraße",
+        "id": 100745,
+        "strassenbezeichnung": "Schlossstraße"
+    },
+    {
+        "kurzbezeichnung": "Hubenweg",
+        "id": 100746,
+        "strassenbezeichnung": "Hubenweg"
+    },
+    {
+        "kurzbezeichnung": "Unterholzstraße",
+        "id": 100747,
+        "strassenbezeichnung": "Unterholzstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 100748,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Flascherlzug",
+        "id": 104610,
+        "strassenbezeichnung": "Am Flascherlzug"
+    },
+    {
+        "kurzbezeichnung": "Am Wald",
+        "id": 104611,
+        "strassenbezeichnung": "Am Wald"
+    },
+    {
+        "kurzbezeichnung": "Am Waldegg",
+        "id": 104612,
+        "strassenbezeichnung": "Am Waldegg"
+    },
+    {
+        "kurzbezeichnung": "Bergholzweg",
+        "id": 104613,
+        "strassenbezeichnung": "Bergholzweg"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 104614,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Heuweg",
+        "id": 104615,
+        "strassenbezeichnung": "Heuweg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenstraße",
+        "id": 104616,
+        "strassenbezeichnung": "Kapellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Katschedberg",
+        "id": 104617,
+        "strassenbezeichnung": "Katschedberg"
+    },
+    {
+        "kurzbezeichnung": "Koralmblick",
+        "id": 104618,
+        "strassenbezeichnung": "Koralmblick"
+    },
+    {
+        "kurzbezeichnung": "Kraubathberg",
+        "id": 104619,
+        "strassenbezeichnung": "Kraubathberg"
+    },
+    {
+        "kurzbezeichnung": "Kraubathbergweg",
+        "id": 104620,
+        "strassenbezeichnung": "Kraubathbergweg"
+    },
+    {
+        "kurzbezeichnung": "Kraubathstraße",
+        "id": 104621,
+        "strassenbezeichnung": "Kraubathstraße"
+    },
+    {
+        "kurzbezeichnung": "Kraubathweg",
+        "id": 104622,
+        "strassenbezeichnung": "Kraubathweg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzackerstraße",
+        "id": 104623,
+        "strassenbezeichnung": "Kreuzackerstraße"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 104624,
+        "strassenbezeichnung": "Panoramaweg"
+    },
+    {
+        "kurzbezeichnung": "Rassachstraße",
+        "id": 104625,
+        "strassenbezeichnung": "Rassachstraße"
+    },
+    {
+        "kurzbezeichnung": "Stainztalblick",
+        "id": 104626,
+        "strassenbezeichnung": "Stainztalblick"
+    },
+    {
+        "kurzbezeichnung": "Vocherabachweg",
+        "id": 104627,
+        "strassenbezeichnung": "Vocherabachweg"
+    },
+    {
+        "kurzbezeichnung": "Neubäckweg",
+        "id": 106382,
+        "strassenbezeichnung": "Neubäckweg"
+    },
+    {
+        "kurzbezeichnung": "Sandweg",
+        "id": 111472,
+        "strassenbezeichnung": "Sandweg"
+    },
+    {
+        "kurzbezeichnung": "Kraubathblick",
+        "id": 112103,
+        "strassenbezeichnung": "Kraubathblick"
+    },
+    {
+        "kurzbezeichnung": "Stainzerweg",
+        "id": 114252,
+        "strassenbezeichnung": "Stainzerweg"
+    },
+    {
+        "kurzbezeichnung": "Johnbachweg",
+        "id": 122333,
+        "strassenbezeichnung": "Johnbachweg"
+    }
+]

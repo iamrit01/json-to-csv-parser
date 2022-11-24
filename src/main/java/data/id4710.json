@@ -1,0 +1,682 @@
+[
+    {
+        "kurzbezeichnung": "Keplerweg",
+        "id": -32891,
+        "strassenbezeichnung": "Keplerweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnleithen",
+        "id": -32467,
+        "strassenbezeichnung": " Sonnleithen"
+    },
+    {
+        "kurzbezeichnung": "Sonnleithen",
+        "id": -32451,
+        "strassenbezeichnung": "Sonnleithen"
+    },
+    {
+        "kurzbezeichnung": "Polheimerweg",
+        "id": -32373,
+        "strassenbezeichnung": "Polheimerweg"
+    },
+    {
+        "kurzbezeichnung": "Schickberg",
+        "id": -31288,
+        "strassenbezeichnung": "Schickberg"
+    },
+    {
+        "kurzbezeichnung": "Hoffmann-Ybbs-Weg",
+        "id": -30755,
+        "strassenbezeichnung": "Hoffmann-Ybbs-Weg"
+    },
+    {
+        "kurzbezeichnung": "An der Weide",
+        "id": -17824,
+        "strassenbezeichnung": "An der Weide"
+    },
+    {
+        "kurzbezeichnung": "L. Anzengruber-Str.",
+        "id": 26355,
+        "strassenbezeichnung": "Ludwig Anzengruber-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 26359,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Anton Bruckner-Straße",
+        "id": 26360,
+        "strassenbezeichnung": "Anton Bruckner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. K. Schiffmann-Str.",
+        "id": 26361,
+        "strassenbezeichnung": "Dr. Konrad Schiffmann-Straße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 26362,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 26365,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Grillparzer-Str.",
+        "id": 26370,
+        "strassenbezeichnung": "Franz Grillparzer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Jörgerstraße",
+        "id": 26372,
+        "strassenbezeichnung": "Jörgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm Kienzl-Weg",
+        "id": 26374,
+        "strassenbezeichnung": "Wilhelm Kienzl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Josef Krempl-Weg",
+        "id": 26376,
+        "strassenbezeichnung": "Josef Krempl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Nikolaus Lenau-Weg",
+        "id": 26377,
+        "strassenbezeichnung": "Nikolaus Lenau-Weg"
+    },
+    {
+        "kurzbezeichnung": "Mayrfeld",
+        "id": 26378,
+        "strassenbezeichnung": "Mayrfeld"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 26384,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Peter Rosegger-Straße",
+        "id": 26387,
+        "strassenbezeichnung": "Peter Rosegger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef Rosenberger-Str.",
+        "id": 26394,
+        "strassenbezeichnung": "Josef Rosenberger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Schröckerberg",
+        "id": 26395,
+        "strassenbezeichnung": "Schröckerberg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 26400,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Steiffstraße",
+        "id": 26403,
+        "strassenbezeichnung": "Steiffstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Stelzhamer-Str.",
+        "id": 26404,
+        "strassenbezeichnung": "Franz Stelzhamer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Georg Stibler-Weg",
+        "id": 26405,
+        "strassenbezeichnung": "Georg Stibler-Weg"
+    },
+    {
+        "kurzbezeichnung": "Adalbert Stifter-Str.",
+        "id": 26457,
+        "strassenbezeichnung": "Adalbert Stifter-Straße"
+    },
+    {
+        "kurzbezeichnung": "Unionweg",
+        "id": 26508,
+        "strassenbezeichnung": "Unionweg"
+    },
+    {
+        "kurzbezeichnung": "Turnerweg",
+        "id": 26594,
+        "strassenbezeichnung": "Turnerweg"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 26601,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Weberzeile",
+        "id": 26608,
+        "strassenbezeichnung": "Weberzeile"
+    },
+    {
+        "kurzbezeichnung": "Wengerstraße",
+        "id": 26610,
+        "strassenbezeichnung": "Wengerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenstraße",
+        "id": 26614,
+        "strassenbezeichnung": "Wiesenstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Windberg",
+        "id": 26677,
+        "strassenbezeichnung": "Am Windberg"
+    },
+    {
+        "kurzbezeichnung": "Annaberg",
+        "id": 26678,
+        "strassenbezeichnung": "Annaberg"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 26679,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 26680,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofweg",
+        "id": 26681,
+        "strassenbezeichnung": "Bahnhofweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Müllner-Platz",
+        "id": 26682,
+        "strassenbezeichnung": "Dr. Müllner-Platz"
+    },
+    {
+        "kurzbezeichnung": "Frauenstiege",
+        "id": 26683,
+        "strassenbezeichnung": "Frauenstiege"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 26684,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Gries",
+        "id": 26685,
+        "strassenbezeichnung": "Gries"
+    },
+    {
+        "kurzbezeichnung": "Griesstraße",
+        "id": 26686,
+        "strassenbezeichnung": "Griesstraße"
+    },
+    {
+        "kurzbezeichnung": "Gymnasiumstraße",
+        "id": 26687,
+        "strassenbezeichnung": "Gymnasiumstraße"
+    },
+    {
+        "kurzbezeichnung": "Hiering",
+        "id": 26688,
+        "strassenbezeichnung": "Hiering"
+    },
+    {
+        "kurzbezeichnung": "Industriegelände",
+        "id": 26689,
+        "strassenbezeichnung": "Industriegelände"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 26690,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Johannesstraße",
+        "id": 26691,
+        "strassenbezeichnung": "Johannesstraße"
+    },
+    {
+        "kurzbezeichnung": "Kalvarienberg",
+        "id": 26692,
+        "strassenbezeichnung": "Kalvarienberg"
+    },
+    {
+        "kurzbezeichnung": "Kehrbach",
+        "id": 26693,
+        "strassenbezeichnung": "Kehrbach"
+    },
+    {
+        "kurzbezeichnung": "Kickendorf",
+        "id": 26694,
+        "strassenbezeichnung": "Kickendorf"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 26695,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Manglburg",
+        "id": 26696,
+        "strassenbezeichnung": "Manglburg"
+    },
+    {
+        "kurzbezeichnung": "Michaelnbacher Straße",
+        "id": 26697,
+        "strassenbezeichnung": "Michaelnbacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 26698,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Moosham",
+        "id": 26699,
+        "strassenbezeichnung": "Moosham"
+    },
+    {
+        "kurzbezeichnung": "Mühlbachgasse",
+        "id": 26700,
+        "strassenbezeichnung": "Mühlbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Oberer Stadtplatz",
+        "id": 26702,
+        "strassenbezeichnung": "Oberer Stadtplatz"
+    },
+    {
+        "kurzbezeichnung": "Parkstraße",
+        "id": 26703,
+        "strassenbezeichnung": "Parkstraße"
+    },
+    {
+        "kurzbezeichnung": "Parz",
+        "id": 26704,
+        "strassenbezeichnung": "Parz"
+    },
+    {
+        "kurzbezeichnung": "Parzer-Höhenstraße",
+        "id": 26705,
+        "strassenbezeichnung": "Parzer-Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Paschallern",
+        "id": 26706,
+        "strassenbezeichnung": "Paschallern"
+    },
+    {
+        "kurzbezeichnung": "Pfarrhofsiedlung",
+        "id": 26707,
+        "strassenbezeichnung": "Pfarrhofsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Pollhamer Straße",
+        "id": 26708,
+        "strassenbezeichnung": "Pollhamer Straße"
+    },
+    {
+        "kurzbezeichnung": "Prechtlerstraße",
+        "id": 26709,
+        "strassenbezeichnung": "Prechtlerstraße"
+    },
+    {
+        "kurzbezeichnung": "Pühringerplatz",
+        "id": 26710,
+        "strassenbezeichnung": "Pühringerplatz"
+    },
+    {
+        "kurzbezeichnung": "Radleggerstraße",
+        "id": 26711,
+        "strassenbezeichnung": "Radleggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Roßmarkt",
+        "id": 26712,
+        "strassenbezeichnung": "Roßmarkt"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 26713,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": 26714,
+        "strassenbezeichnung": "Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Sonnfeldstraße",
+        "id": 26715,
+        "strassenbezeichnung": "Sonnfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Stadtplatz",
+        "id": 26716,
+        "strassenbezeichnung": "Stadtplatz"
+    },
+    {
+        "kurzbezeichnung": "Steindlberg",
+        "id": 26717,
+        "strassenbezeichnung": "Steindlberg"
+    },
+    {
+        "kurzbezeichnung": "Tolleterau",
+        "id": 26718,
+        "strassenbezeichnung": "Tolleterau"
+    },
+    {
+        "kurzbezeichnung": "Trattnachtalstraße",
+        "id": 26719,
+        "strassenbezeichnung": "Trattnachtalstraße"
+    },
+    {
+        "kurzbezeichnung": "Uferstraße",
+        "id": 26720,
+        "strassenbezeichnung": "Uferstraße"
+    },
+    {
+        "kurzbezeichnung": "Unternberg",
+        "id": 26721,
+        "strassenbezeichnung": "Unternberg"
+    },
+    {
+        "kurzbezeichnung": "Untersteinbach",
+        "id": 26722,
+        "strassenbezeichnung": "Untersteinbach"
+    },
+    {
+        "kurzbezeichnung": "Wagnleithnerstraße",
+        "id": 26724,
+        "strassenbezeichnung": "Wagnleithnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Zauneggerstraße",
+        "id": 26725,
+        "strassenbezeichnung": "Zauneggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Zehetholzweg",
+        "id": 26726,
+        "strassenbezeichnung": "Zehetholzweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelleithen",
+        "id": 26727,
+        "strassenbezeichnung": "Ziegelleithen"
+    },
+    {
+        "kurzbezeichnung": "Eichenstraße",
+        "id": 65835,
+        "strassenbezeichnung": "Eichenstraße"
+    },
+    {
+        "kurzbezeichnung": "Lanzenberg",
+        "id": 65836,
+        "strassenbezeichnung": "Lanzenberg"
+    },
+    {
+        "kurzbezeichnung": "Höhenring",
+        "id": 65837,
+        "strassenbezeichnung": "Höhenring"
+    },
+    {
+        "kurzbezeichnung": "Hochweg",
+        "id": 65838,
+        "strassenbezeichnung": "Hochweg"
+    },
+    {
+        "kurzbezeichnung": "Am Alten Kaisersteig",
+        "id": 72673,
+        "strassenbezeichnung": "Am Alten Kaisersteig"
+    },
+    {
+        "kurzbezeichnung": "Lobmeyrstraße",
+        "id": 73740,
+        "strassenbezeichnung": "Lobmeyrstraße"
+    },
+    {
+        "kurzbezeichnung": "Lahof",
+        "id": 76725,
+        "strassenbezeichnung": "Lahof"
+    },
+    {
+        "kurzbezeichnung": "Aigen",
+        "id": 83680,
+        "strassenbezeichnung": "Aigen"
+    },
+    {
+        "kurzbezeichnung": "Edt",
+        "id": 83681,
+        "strassenbezeichnung": "Edt"
+    },
+    {
+        "kurzbezeichnung": "Egg",
+        "id": 83682,
+        "strassenbezeichnung": "Egg"
+    },
+    {
+        "kurzbezeichnung": "Forsthof",
+        "id": 83683,
+        "strassenbezeichnung": "Forsthof"
+    },
+    {
+        "kurzbezeichnung": "Hainbuch",
+        "id": 83684,
+        "strassenbezeichnung": "Hainbuch"
+    },
+    {
+        "kurzbezeichnung": "Hornesberg",
+        "id": 83685,
+        "strassenbezeichnung": "Hornesberg"
+    },
+    {
+        "kurzbezeichnung": "Kaltenbach",
+        "id": 83686,
+        "strassenbezeichnung": "Kaltenbach"
+    },
+    {
+        "kurzbezeichnung": "Kolbing",
+        "id": 83688,
+        "strassenbezeichnung": "Kolbing"
+    },
+    {
+        "kurzbezeichnung": "Pollham",
+        "id": 83689,
+        "strassenbezeichnung": "Pollham"
+    },
+    {
+        "kurzbezeichnung": "Pollhamerwald",
+        "id": 83690,
+        "strassenbezeichnung": "Pollhamerwald"
+    },
+    {
+        "kurzbezeichnung": "Schmidgraben",
+        "id": 83691,
+        "strassenbezeichnung": "Schmidgraben"
+    },
+    {
+        "kurzbezeichnung": "Schönau",
+        "id": 83692,
+        "strassenbezeichnung": "Schönau"
+    },
+    {
+        "kurzbezeichnung": "Wackersbuch",
+        "id": 83693,
+        "strassenbezeichnung": "Wackersbuch"
+    },
+    {
+        "kurzbezeichnung": "Wimm",
+        "id": 83694,
+        "strassenbezeichnung": "Wimm"
+    },
+    {
+        "kurzbezeichnung": "Aigen",
+        "id": 83793,
+        "strassenbezeichnung": "Aigen"
+    },
+    {
+        "kurzbezeichnung": "Grub",
+        "id": 83794,
+        "strassenbezeichnung": "Grub"
+    },
+    {
+        "kurzbezeichnung": "Maximilian",
+        "id": 83795,
+        "strassenbezeichnung": "Maximilian"
+    },
+    {
+        "kurzbezeichnung": "Niederweng",
+        "id": 83797,
+        "strassenbezeichnung": "Niederweng"
+    },
+    {
+        "kurzbezeichnung": "Obersteinbach",
+        "id": 83798,
+        "strassenbezeichnung": "Obersteinbach"
+    },
+    {
+        "kurzbezeichnung": "St.Georgen/Grieskirch.",
+        "id": 83799,
+        "strassenbezeichnung": "Sankt Georgen bei Grieskirchen"
+    },
+    {
+        "kurzbezeichnung": "Schwabegg",
+        "id": 83800,
+        "strassenbezeichnung": "Schwabegg"
+    },
+    {
+        "kurzbezeichnung": "Steindlberg",
+        "id": 83801,
+        "strassenbezeichnung": "Steindlberg"
+    },
+    {
+        "kurzbezeichnung": "Stritzing",
+        "id": 83803,
+        "strassenbezeichnung": "Stritzing"
+    },
+    {
+        "kurzbezeichnung": "Tolleterau",
+        "id": 83804,
+        "strassenbezeichnung": "Tolleterau"
+    },
+    {
+        "kurzbezeichnung": "Vierhausen",
+        "id": 83805,
+        "strassenbezeichnung": "Vierhausen"
+    },
+    {
+        "kurzbezeichnung": "Kroisbach",
+        "id": 83909,
+        "strassenbezeichnung": "Kroisbach"
+    },
+    {
+        "kurzbezeichnung": "Oberwödling",
+        "id": 83912,
+        "strassenbezeichnung": "Oberwödling"
+    },
+    {
+        "kurzbezeichnung": "Pollhamerwald",
+        "id": 83913,
+        "strassenbezeichnung": "Pollhamerwald"
+    },
+    {
+        "kurzbezeichnung": "Stein",
+        "id": 83919,
+        "strassenbezeichnung": "Stein"
+    },
+    {
+        "kurzbezeichnung": "Steindlberg",
+        "id": 83920,
+        "strassenbezeichnung": "Steindlberg"
+    },
+    {
+        "kurzbezeichnung": "Tollet",
+        "id": 83921,
+        "strassenbezeichnung": "Tollet"
+    },
+    {
+        "kurzbezeichnung": "Winkeln",
+        "id": 83922,
+        "strassenbezeichnung": "Winkeln"
+    },
+    {
+        "kurzbezeichnung": "Straßfeld",
+        "id": 90238,
+        "strassenbezeichnung": "Straßfeld"
+    },
+    {
+        "kurzbezeichnung": "Ferdinand-Huber-Sdl.",
+        "id": 90330,
+        "strassenbezeichnung": "Ferdinand-Huber-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Pfarrhofberg",
+        "id": 91811,
+        "strassenbezeichnung": "Pfarrhofberg"
+    },
+    {
+        "kurzbezeichnung": "Grabenstraße",
+        "id": 94026,
+        "strassenbezeichnung": "Grabenstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Fraunholz",
+        "id": 94578,
+        "strassenbezeichnung": "Am Fraunholz"
+    },
+    {
+        "kurzbezeichnung": "Am Parzerberg",
+        "id": 100916,
+        "strassenbezeichnung": "Am Parzerberg"
+    },
+    {
+        "kurzbezeichnung": "Jörgerberg",
+        "id": 102232,
+        "strassenbezeichnung": "Jörgerberg"
+    },
+    {
+        "kurzbezeichnung": "Landlplatz",
+        "id": 111789,
+        "strassenbezeichnung": "Landlplatz"
+    },
+    {
+        "kurzbezeichnung": "Hubert-Leeb-Straße",
+        "id": 112668,
+        "strassenbezeichnung": "Hubert-Leeb-Straße"
+    },
+    {
+        "kurzbezeichnung": "Industriep. Stritzing",
+        "id": 116934,
+        "strassenbezeichnung": "Industriepark Stritzing"
+    },
+    {
+        "kurzbezeichnung": "Neuwies",
+        "id": 118282,
+        "strassenbezeichnung": "Neuwies"
+    },
+    {
+        "kurzbezeichnung": "Parzer Schulstraße",
+        "id": 122129,
+        "strassenbezeichnung": "Parzer Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Trattnach Arkade",
+        "id": 127018,
+        "strassenbezeichnung": "Trattnach Arkade"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 127272,
+        "strassenbezeichnung": "Schlossweg"
+    }
+]

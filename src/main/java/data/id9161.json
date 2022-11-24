@@ -1,0 +1,442 @@
+[
+    {
+        "kurzbezeichnung": "Obirblick",
+        "id": -34139,
+        "strassenbezeichnung": "Obirblick"
+    },
+    {
+        "kurzbezeichnung": "Mohnweg",
+        "id": -30653,
+        "strassenbezeichnung": "Mohnweg"
+    },
+    {
+        "kurzbezeichnung": "Alte Hollenburger Str.",
+        "id": 2855,
+        "strassenbezeichnung": "Alte Hollenburger Straße"
+    },
+    {
+        "kurzbezeichnung": "F. Perkonig Straße",
+        "id": 2857,
+        "strassenbezeichnung": "F. Perkonig Straße"
+    },
+    {
+        "kurzbezeichnung": "G. Glawischnig Weg",
+        "id": 2863,
+        "strassenbezeichnung": "G. Glawischnig Weg"
+    },
+    {
+        "kurzbezeichnung": "H. Moro Weg",
+        "id": 2865,
+        "strassenbezeichnung": "H. Moro Weg"
+    },
+    {
+        "kurzbezeichnung": "R. Janschitz Weg",
+        "id": 2868,
+        "strassenbezeichnung": "R. Janschitz Weg"
+    },
+    {
+        "kurzbezeichnung": "Sipperstraße",
+        "id": 2869,
+        "strassenbezeichnung": "Sipperstraße"
+    },
+    {
+        "kurzbezeichnung": "Thomas-Koschat-Straße",
+        "id": 2870,
+        "strassenbezeichnung": "Thomas-Koschat-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 47807,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 47808,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Dahlienweg",
+        "id": 47809,
+        "strassenbezeichnung": "Dahlienweg"
+    },
+    {
+        "kurzbezeichnung": "Dohlenweg",
+        "id": 47810,
+        "strassenbezeichnung": "Dohlenweg"
+    },
+    {
+        "kurzbezeichnung": "Eschenweg",
+        "id": 47811,
+        "strassenbezeichnung": "Eschenweg"
+    },
+    {
+        "kurzbezeichnung": "Fliederweg",
+        "id": 47812,
+        "strassenbezeichnung": "Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Göltschacher Straße",
+        "id": 47813,
+        "strassenbezeichnung": "Göltschacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Holunderweg",
+        "id": 47814,
+        "strassenbezeichnung": "Holunderweg"
+    },
+    {
+        "kurzbezeichnung": "Kaiserhüttenweg",
+        "id": 47815,
+        "strassenbezeichnung": "Kaiserhüttenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchenstraße",
+        "id": 47816,
+        "strassenbezeichnung": "Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirschnerstraße",
+        "id": 47817,
+        "strassenbezeichnung": "Kirschnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kleiberweg",
+        "id": 47818,
+        "strassenbezeichnung": "Kleiberweg"
+    },
+    {
+        "kurzbezeichnung": "Jakob-Lutschounig-Str.",
+        "id": 47819,
+        "strassenbezeichnung": "Jakob-Lutschounig-Straße"
+    },
+    {
+        "kurzbezeichnung": "Meisenweg",
+        "id": 47820,
+        "strassenbezeichnung": "Meisenweg"
+    },
+    {
+        "kurzbezeichnung": "Nachtigallweg",
+        "id": 47821,
+        "strassenbezeichnung": "Nachtigallweg"
+    },
+    {
+        "kurzbezeichnung": "Nelkenweg",
+        "id": 47822,
+        "strassenbezeichnung": "Nelkenweg"
+    },
+    {
+        "kurzbezeichnung": "Pirolweg",
+        "id": 47823,
+        "strassenbezeichnung": "Pirolweg"
+    },
+    {
+        "kurzbezeichnung": "Toppelsdorferstraße",
+        "id": 47825,
+        "strassenbezeichnung": "Toppelsdorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Tulpenweg",
+        "id": 47826,
+        "strassenbezeichnung": "Tulpenweg"
+    },
+    {
+        "kurzbezeichnung": "Marienweg",
+        "id": 47827,
+        "strassenbezeichnung": "Marienweg"
+    },
+    {
+        "kurzbezeichnung": "Hollenburger Straße",
+        "id": 49844,
+        "strassenbezeichnung": "Hollenburger Straße"
+    },
+    {
+        "kurzbezeichnung": "Akeleiweg",
+        "id": 50066,
+        "strassenbezeichnung": "Akeleiweg"
+    },
+    {
+        "kurzbezeichnung": "Einsiedlerweg",
+        "id": 50067,
+        "strassenbezeichnung": "Einsiedlerweg"
+    },
+    {
+        "kurzbezeichnung": "Elsterweg",
+        "id": 50068,
+        "strassenbezeichnung": "Elsterweg"
+    },
+    {
+        "kurzbezeichnung": "Fasanstraße",
+        "id": 50069,
+        "strassenbezeichnung": "Fasanstraße"
+    },
+    {
+        "kurzbezeichnung": "Rautenweg",
+        "id": 50070,
+        "strassenbezeichnung": "Rautenweg"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 50071,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 50072,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Untertöllernstraße",
+        "id": 50073,
+        "strassenbezeichnung": "Untertöllernstraße"
+    },
+    {
+        "kurzbezeichnung": "10. Oktoberstraße",
+        "id": 50074,
+        "strassenbezeichnung": "10. Oktoberstraße"
+    },
+    {
+        "kurzbezeichnung": "Primelweg",
+        "id": 53130,
+        "strassenbezeichnung": "Primelweg"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm-Rudnigger-Str.",
+        "id": 72476,
+        "strassenbezeichnung": "Wilhelm-Rudnigger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gaisach",
+        "id": 76508,
+        "strassenbezeichnung": "Gaisach"
+    },
+    {
+        "kurzbezeichnung": "Göriach",
+        "id": 76509,
+        "strassenbezeichnung": "Göriach"
+    },
+    {
+        "kurzbezeichnung": "Hollenburg",
+        "id": 76510,
+        "strassenbezeichnung": "Hollenburg"
+    },
+    {
+        "kurzbezeichnung": "Lambichl",
+        "id": 76512,
+        "strassenbezeichnung": "Lambichl"
+    },
+    {
+        "kurzbezeichnung": "Unterschloßberg",
+        "id": 76525,
+        "strassenbezeichnung": "Unterschloßberg"
+    },
+    {
+        "kurzbezeichnung": "Wegscheide",
+        "id": 76526,
+        "strassenbezeichnung": "Wegscheide"
+    },
+    {
+        "kurzbezeichnung": "Angern",
+        "id": 76548,
+        "strassenbezeichnung": "Angern"
+    },
+    {
+        "kurzbezeichnung": "Angersbichl",
+        "id": 76549,
+        "strassenbezeichnung": "Angersbichl"
+    },
+    {
+        "kurzbezeichnung": "Ehrensdorf",
+        "id": 76550,
+        "strassenbezeichnung": "Ehrensdorf"
+    },
+    {
+        "kurzbezeichnung": "Göltschach",
+        "id": 76551,
+        "strassenbezeichnung": "Göltschach"
+    },
+    {
+        "kurzbezeichnung": "Haimach",
+        "id": 76552,
+        "strassenbezeichnung": "Haimach"
+    },
+    {
+        "kurzbezeichnung": "Nadram",
+        "id": 76554,
+        "strassenbezeichnung": "Nadram"
+    },
+    {
+        "kurzbezeichnung": "Oberguntschach",
+        "id": 76555,
+        "strassenbezeichnung": "Oberguntschach"
+    },
+    {
+        "kurzbezeichnung": "Obertöllern",
+        "id": 76556,
+        "strassenbezeichnung": "Obertöllern"
+    },
+    {
+        "kurzbezeichnung": "Saberda",
+        "id": 76557,
+        "strassenbezeichnung": "Saberda"
+    },
+    {
+        "kurzbezeichnung": "Sankt Ulrich",
+        "id": 76558,
+        "strassenbezeichnung": "Sankt Ulrich"
+    },
+    {
+        "kurzbezeichnung": "Stemeritsch",
+        "id": 76559,
+        "strassenbezeichnung": "Stemeritsch"
+    },
+    {
+        "kurzbezeichnung": "Strantschitschach",
+        "id": 76560,
+        "strassenbezeichnung": "Strantschitschach"
+    },
+    {
+        "kurzbezeichnung": "Toppelsdorf",
+        "id": 76561,
+        "strassenbezeichnung": "Toppelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Unterguntschach",
+        "id": 76562,
+        "strassenbezeichnung": "Unterguntschach"
+    },
+    {
+        "kurzbezeichnung": "Untertöllern",
+        "id": 76563,
+        "strassenbezeichnung": "Untertöllern"
+    },
+    {
+        "kurzbezeichnung": "Drosselstraße",
+        "id": 93822,
+        "strassenbezeichnung": "Drosselstraße"
+    },
+    {
+        "kurzbezeichnung": "Carl-Gressel-Weg",
+        "id": 99641,
+        "strassenbezeichnung": "Carl-Gressel-Weg"
+    },
+    {
+        "kurzbezeichnung": "Wulfeniaweg",
+        "id": 105607,
+        "strassenbezeichnung": "Wulfeniaweg"
+    },
+    {
+        "kurzbezeichnung": "Peter Roseggerweg",
+        "id": 107454,
+        "strassenbezeichnung": "Peter Roseggerweg"
+    },
+    {
+        "kurzbezeichnung": "Alte Hollenburger Str.",
+        "id": 107736,
+        "strassenbezeichnung": "Alte Hollenburger Straße"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 107737,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Dianaweg",
+        "id": 107738,
+        "strassenbezeichnung": "Dianaweg"
+    },
+    {
+        "kurzbezeichnung": "Elsterweg",
+        "id": 107739,
+        "strassenbezeichnung": "Elsterweg"
+    },
+    {
+        "kurzbezeichnung": "Junoweg",
+        "id": 107740,
+        "strassenbezeichnung": "Junoweg"
+    },
+    {
+        "kurzbezeichnung": "Jupiterweg",
+        "id": 107741,
+        "strassenbezeichnung": "Jupiterweg"
+    },
+    {
+        "kurzbezeichnung": "Landesstraße",
+        "id": 107742,
+        "strassenbezeichnung": "Landesstraße"
+    },
+    {
+        "kurzbezeichnung": "Löwenweg",
+        "id": 107743,
+        "strassenbezeichnung": "Löwenweg"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 107744,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Saturnweg",
+        "id": 107745,
+        "strassenbezeichnung": "Saturnweg"
+    },
+    {
+        "kurzbezeichnung": "Vestaweg",
+        "id": 107746,
+        "strassenbezeichnung": "Vestaweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegeleiweg",
+        "id": 107747,
+        "strassenbezeichnung": "Ziegeleiweg"
+    },
+    {
+        "kurzbezeichnung": "Zum Ewigen Regen",
+        "id": 117759,
+        "strassenbezeichnung": "Zum Ewigen Regen"
+    },
+    {
+        "kurzbezeichnung": "Matzenbergweg",
+        "id": 119997,
+        "strassenbezeichnung": "Matzenbergweg"
+    },
+    {
+        "kurzbezeichnung": "Josef-Wakonig-Straße",
+        "id": 123371,
+        "strassenbezeichnung": "Josef-Wakonig-Straße"
+    },
+    {
+        "kurzbezeichnung": "Anton-Anderluh-Weg",
+        "id": 123546,
+        "strassenbezeichnung": "Anton-Anderluh-Weg"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 123547,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Flurstraße",
+        "id": 123548,
+        "strassenbezeichnung": "Flurstraße"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 123549,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Josef-Petritsch-Straße",
+        "id": 123550,
+        "strassenbezeichnung": "Josef-Petritsch-Straße "
+    },
+    {
+        "kurzbezeichnung": "Narzissenweg",
+        "id": 123848,
+        "strassenbezeichnung": "Narzissenweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 124127,
+        "strassenbezeichnung": "Gewerbepark"
+    }
+]

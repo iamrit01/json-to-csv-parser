@@ -1,0 +1,667 @@
+[
+    {
+        "kurzbezeichnung": "Kamlweg",
+        "id": -30284,
+        "strassenbezeichnung": "Kamlweg"
+    },
+    {
+        "kurzbezeichnung": "Hahnbaumweg",
+        "id": -30277,
+        "strassenbezeichnung": "Hahnbaumweg "
+    },
+    {
+        "kurzbezeichnung": "Maschlweg",
+        "id": -18375,
+        "strassenbezeichnung": "Maschlweg"
+    },
+    {
+        "kurzbezeichnung": "Sankt Veiter Straße",
+        "id": -4446,
+        "strassenbezeichnung": "Sankt Veiter Straße"
+    },
+    {
+        "kurzbezeichnung": "Alte Bundesstraße",
+        "id": 32819,
+        "strassenbezeichnung": "Alte Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Badweg",
+        "id": 32820,
+        "strassenbezeichnung": "Badweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Untersteinerweg",
+        "id": 32821,
+        "strassenbezeichnung": "Dr. Untersteinerweg"
+    },
+    {
+        "kurzbezeichnung": "Färbergasse",
+        "id": 32822,
+        "strassenbezeichnung": "Färbergasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 32823,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Höttlstraße",
+        "id": 32824,
+        "strassenbezeichnung": "Höttlstraße"
+    },
+    {
+        "kurzbezeichnung": "Ing.-Ludwig-Pech-Str.",
+        "id": 32825,
+        "strassenbezeichnung": "Ing.-Ludwig-Pech-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kasernenstraße",
+        "id": 32826,
+        "strassenbezeichnung": "Kasernenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 32827,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Liechtensteinklammstr.",
+        "id": 32829,
+        "strassenbezeichnung": "Liechtensteinklammstraße"
+    },
+    {
+        "kurzbezeichnung": "Mehrlgasse",
+        "id": 32830,
+        "strassenbezeichnung": "Mehrlgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 32831,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Pöllnstraße",
+        "id": 32832,
+        "strassenbezeichnung": "Pöllnstraße"
+    },
+    {
+        "kurzbezeichnung": "Premweg",
+        "id": 32833,
+        "strassenbezeichnung": "Premweg"
+    },
+    {
+        "kurzbezeichnung": "Prof. Pöschlweg",
+        "id": 32834,
+        "strassenbezeichnung": "Prof. Pöschlweg"
+    },
+    {
+        "kurzbezeichnung": "Promenade",
+        "id": 32835,
+        "strassenbezeichnung": "Promenade"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenstraße",
+        "id": 32836,
+        "strassenbezeichnung": "Raiffeisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Rummerweg",
+        "id": 32837,
+        "strassenbezeichnung": "Rummerweg"
+    },
+    {
+        "kurzbezeichnung": "Salzachsiedlung",
+        "id": 32838,
+        "strassenbezeichnung": "Salzachsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Salzachweg",
+        "id": 32839,
+        "strassenbezeichnung": "Salzachweg"
+    },
+    {
+        "kurzbezeichnung": "Salzburgerstraße",
+        "id": 32840,
+        "strassenbezeichnung": "Salzburgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schnürergasse",
+        "id": 32841,
+        "strassenbezeichnung": "Schnürergasse"
+    },
+    {
+        "kurzbezeichnung": "Sparkassenstraße",
+        "id": 32842,
+        "strassenbezeichnung": "Sparkassenstraße"
+    },
+    {
+        "kurzbezeichnung": "Spitalgasse",
+        "id": 32843,
+        "strassenbezeichnung": "Spitalgasse"
+    },
+    {
+        "kurzbezeichnung": "Südtirolersiedlung",
+        "id": 32844,
+        "strassenbezeichnung": "Südtirolersiedlung"
+    },
+    {
+        "kurzbezeichnung": "Venedigerstraße",
+        "id": 32845,
+        "strassenbezeichnung": "Venedigerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wagrainerstraße",
+        "id": 32846,
+        "strassenbezeichnung": "Wagrainerstraße"
+    },
+    {
+        "kurzbezeichnung": "Zaglausiedlung",
+        "id": 32847,
+        "strassenbezeichnung": "Zaglausiedlung"
+    },
+    {
+        "kurzbezeichnung": "Talblickstraße",
+        "id": 52452,
+        "strassenbezeichnung": "Talblickstraße"
+    },
+    {
+        "kurzbezeichnung": "Grüblstraße",
+        "id": 52454,
+        "strassenbezeichnung": "Grüblstraße"
+    },
+    {
+        "kurzbezeichnung": "Hans Kappacherstraße",
+        "id": 52559,
+        "strassenbezeichnung": "Hans Kappacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Alpendorf",
+        "id": 52561,
+        "strassenbezeichnung": "Alpendorf"
+    },
+    {
+        "kurzbezeichnung": "Abtsdorf",
+        "id": 56298,
+        "strassenbezeichnung": "Abtsdorf"
+    },
+    {
+        "kurzbezeichnung": "Astenweg",
+        "id": 56299,
+        "strassenbezeichnung": "Astenweg"
+    },
+    {
+        "kurzbezeichnung": "Bichlwirt",
+        "id": 56301,
+        "strassenbezeichnung": "Bichlwirt"
+    },
+    {
+        "kurzbezeichnung": "Buchacker",
+        "id": 56302,
+        "strassenbezeichnung": "Buchacker"
+    },
+    {
+        "kurzbezeichnung": "Feldmair",
+        "id": 56303,
+        "strassenbezeichnung": "Feldmair"
+    },
+    {
+        "kurzbezeichnung": "Glanweg",
+        "id": 56304,
+        "strassenbezeichnung": "Glanweg"
+    },
+    {
+        "kurzbezeichnung": "Grafenhof-Dorf",
+        "id": 56305,
+        "strassenbezeichnung": "Grafenhof-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Haidachweg",
+        "id": 56306,
+        "strassenbezeichnung": "Haidachweg"
+    },
+    {
+        "kurzbezeichnung": "Hohe-Mauer",
+        "id": 56419,
+        "strassenbezeichnung": "Hohe-Mauer"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 56595,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Klamm",
+        "id": 56609,
+        "strassenbezeichnung": "Klamm"
+    },
+    {
+        "kurzbezeichnung": "Langmoos",
+        "id": 56610,
+        "strassenbezeichnung": "Langmoos"
+    },
+    {
+        "kurzbezeichnung": "Lehen",
+        "id": 56662,
+        "strassenbezeichnung": "Lehen"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 57551,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Markt",
+        "id": 57552,
+        "strassenbezeichnung": "Markt"
+    },
+    {
+        "kurzbezeichnung": "Möslehenweg",
+        "id": 57554,
+        "strassenbezeichnung": "Möslehenweg"
+    },
+    {
+        "kurzbezeichnung": "Niederuntersberg",
+        "id": 57555,
+        "strassenbezeichnung": "Niederuntersberg"
+    },
+    {
+        "kurzbezeichnung": "Oberlehen",
+        "id": 57556,
+        "strassenbezeichnung": "Oberlehen"
+    },
+    {
+        "kurzbezeichnung": "Obergrafenhof",
+        "id": 57559,
+        "strassenbezeichnung": "Obergrafenhof"
+    },
+    {
+        "kurzbezeichnung": "Oberuntersberg",
+        "id": 57560,
+        "strassenbezeichnung": "Oberuntersberg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrfeld",
+        "id": 57561,
+        "strassenbezeichnung": "Pfarrfeld"
+    },
+    {
+        "kurzbezeichnung": "Pichl",
+        "id": 57562,
+        "strassenbezeichnung": "Pichl"
+    },
+    {
+        "kurzbezeichnung": "Pichl-Dorf",
+        "id": 57563,
+        "strassenbezeichnung": "Pichl-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Rennlehenweg",
+        "id": 57564,
+        "strassenbezeichnung": "Rennlehenweg"
+    },
+    {
+        "kurzbezeichnung": "Schönrain",
+        "id": 57565,
+        "strassenbezeichnung": "Schönrain"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 57566,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnfeld",
+        "id": 57567,
+        "strassenbezeichnung": "Sonnfeld"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitn",
+        "id": 57568,
+        "strassenbezeichnung": "Sonnleitn"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 57569,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "St. Veiter-Straße",
+        "id": 57570,
+        "strassenbezeichnung": "St. Veiter-Straße"
+    },
+    {
+        "kurzbezeichnung": "Stein",
+        "id": 57571,
+        "strassenbezeichnung": "Stein"
+    },
+    {
+        "kurzbezeichnung": "Stöcklfeld",
+        "id": 57572,
+        "strassenbezeichnung": "Stöcklfeld"
+    },
+    {
+        "kurzbezeichnung": "Urpaß",
+        "id": 57573,
+        "strassenbezeichnung": "Urpaß"
+    },
+    {
+        "kurzbezeichnung": "Viellehen",
+        "id": 57574,
+        "strassenbezeichnung": "Viellehen"
+    },
+    {
+        "kurzbezeichnung": "Wengerstraße",
+        "id": 57575,
+        "strassenbezeichnung": "Wengerstraße"
+    },
+    {
+        "kurzbezeichnung": "Stöcklhubstraße",
+        "id": 65805,
+        "strassenbezeichnung": "Stöcklhubstraße"
+    },
+    {
+        "kurzbezeichnung": "Stöcklhubsiedlung",
+        "id": 65806,
+        "strassenbezeichnung": "Stöcklhubsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Kastenhofweg",
+        "id": 65807,
+        "strassenbezeichnung": "Kastenhofweg"
+    },
+    {
+        "kurzbezeichnung": "Rosianfeld",
+        "id": 65808,
+        "strassenbezeichnung": "Rosianfeld"
+    },
+    {
+        "kurzbezeichnung": "Ober-Alpendorf",
+        "id": 65819,
+        "strassenbezeichnung": "Ober-Alpendorf"
+    },
+    {
+        "kurzbezeichnung": "Alpendorfweg",
+        "id": 65820,
+        "strassenbezeichnung": "Alpendorfweg"
+    },
+    {
+        "kurzbezeichnung": "Alpendorfstraße",
+        "id": 65821,
+        "strassenbezeichnung": "Alpendorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Klammweg",
+        "id": 65822,
+        "strassenbezeichnung": "Klammweg"
+    },
+    {
+        "kurzbezeichnung": "Alpendorfsiedlung",
+        "id": 65823,
+        "strassenbezeichnung": "Alpendorfsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 65861,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Reinbachgasse",
+        "id": 65863,
+        "strassenbezeichnung": "Reinbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Katzlmoosweg",
+        "id": 65865,
+        "strassenbezeichnung": "Katzlmoosweg"
+    },
+    {
+        "kurzbezeichnung": "Steggasse",
+        "id": 65866,
+        "strassenbezeichnung": "Steggasse"
+    },
+    {
+        "kurzbezeichnung": "Wieshofgasse",
+        "id": 65868,
+        "strassenbezeichnung": "Wieshofgasse"
+    },
+    {
+        "kurzbezeichnung": "Froschauweg",
+        "id": 65869,
+        "strassenbezeichnung": "Froschauweg"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 65871,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Salzachhof",
+        "id": 65873,
+        "strassenbezeichnung": "Salzachhof"
+    },
+    {
+        "kurzbezeichnung": "Naglerweg",
+        "id": 65874,
+        "strassenbezeichnung": "Naglerweg"
+    },
+    {
+        "kurzbezeichnung": "Hedeggweg",
+        "id": 65876,
+        "strassenbezeichnung": "Hedeggweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 65878,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Gerbergasse",
+        "id": 65879,
+        "strassenbezeichnung": "Gerbergasse"
+    },
+    {
+        "kurzbezeichnung": "Reinbachsiedlung",
+        "id": 65880,
+        "strassenbezeichnung": "Reinbachsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Palfengasse",
+        "id": 65881,
+        "strassenbezeichnung": "Palfengasse"
+    },
+    {
+        "kurzbezeichnung": "Neu-Reinbach",
+        "id": 65882,
+        "strassenbezeichnung": "Neu-Reinbach"
+    },
+    {
+        "kurzbezeichnung": "Unterwerksiedlung",
+        "id": 65883,
+        "strassenbezeichnung": "Unterwerksiedlung"
+    },
+    {
+        "kurzbezeichnung": "Gartensiedlung",
+        "id": 65884,
+        "strassenbezeichnung": "Gartensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Stegfeld",
+        "id": 65886,
+        "strassenbezeichnung": "Stegfeld"
+    },
+    {
+        "kurzbezeichnung": "Buchsteinersiedlung",
+        "id": 65887,
+        "strassenbezeichnung": "Buchsteinersiedlung"
+    },
+    {
+        "kurzbezeichnung": "Einöden",
+        "id": 65888,
+        "strassenbezeichnung": "Einöden"
+    },
+    {
+        "kurzbezeichnung": "Reinbachstraße",
+        "id": 65889,
+        "strassenbezeichnung": "Reinbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Ober-Reinbach",
+        "id": 67014,
+        "strassenbezeichnung": "Ober-Reinbach"
+    },
+    {
+        "kurzbezeichnung": "Gymnasiumstraße",
+        "id": 67015,
+        "strassenbezeichnung": "Gymnasiumstraße"
+    },
+    {
+        "kurzbezeichnung": "Talblickstraße",
+        "id": 68080,
+        "strassenbezeichnung": "Talblickstraße"
+    },
+    {
+        "kurzbezeichnung": "Hubstraße",
+        "id": 68081,
+        "strassenbezeichnung": "Hubstraße"
+    },
+    {
+        "kurzbezeichnung": "Hahnbaumweg",
+        "id": 68082,
+        "strassenbezeichnung": "Hahnbaumweg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 68105,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Stefflmoosstraße",
+        "id": 68106,
+        "strassenbezeichnung": "Stefflmoosstraße"
+    },
+    {
+        "kurzbezeichnung": "Stefflmoosweg",
+        "id": 68107,
+        "strassenbezeichnung": "Stefflmoosweg"
+    },
+    {
+        "kurzbezeichnung": "Rettensteinweg",
+        "id": 68108,
+        "strassenbezeichnung": "Rettensteinweg"
+    },
+    {
+        "kurzbezeichnung": "Hubangerl",
+        "id": 68109,
+        "strassenbezeichnung": "Hubangerl"
+    },
+    {
+        "kurzbezeichnung": "Hubweg",
+        "id": 68110,
+        "strassenbezeichnung": "Hubweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 68217,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Rothofweg",
+        "id": 69816,
+        "strassenbezeichnung": "Rothofweg"
+    },
+    {
+        "kurzbezeichnung": "NR.-Hirscher-Weg",
+        "id": 70377,
+        "strassenbezeichnung": "Nationalrat-Hirscher-Weg"
+    },
+    {
+        "kurzbezeichnung": "Maschlfeld",
+        "id": 70378,
+        "strassenbezeichnung": "Maschlfeld"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 74507,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Floitensberg",
+        "id": 87895,
+        "strassenbezeichnung": "Floitensberg"
+    },
+    {
+        "kurzbezeichnung": "Ginau",
+        "id": 87896,
+        "strassenbezeichnung": "Ginau"
+    },
+    {
+        "kurzbezeichnung": "Hallmoos",
+        "id": 87897,
+        "strassenbezeichnung": "Hallmoos"
+    },
+    {
+        "kurzbezeichnung": "Maschl",
+        "id": 87898,
+        "strassenbezeichnung": "Maschl"
+    },
+    {
+        "kurzbezeichnung": "Reinbach",
+        "id": 87900,
+        "strassenbezeichnung": "Reinbach"
+    },
+    {
+        "kurzbezeichnung": "Urreiting",
+        "id": 87902,
+        "strassenbezeichnung": "Urreiting"
+    },
+    {
+        "kurzbezeichnung": "Palfenweg",
+        "id": 94304,
+        "strassenbezeichnung": "Palfenweg"
+    },
+    {
+        "kurzbezeichnung": "Leo-Neumayer-Straße",
+        "id": 94972,
+        "strassenbezeichnung": "Leo-Neumayer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfunerweg",
+        "id": 95904,
+        "strassenbezeichnung": "Pfunerweg"
+    },
+    {
+        "kurzbezeichnung": "Leo-Neumayer-Platz",
+        "id": 97229,
+        "strassenbezeichnung": "Leo-Neumayer-Platz"
+    },
+    {
+        "kurzbezeichnung": "Reinbachweg",
+        "id": 97350,
+        "strassenbezeichnung": "Reinbachweg"
+    },
+    {
+        "kurzbezeichnung": "Eurofunkstraße",
+        "id": 99867,
+        "strassenbezeichnung": "Eurofunkstraße"
+    },
+    {
+        "kurzbezeichnung": "Kamlweg",
+        "id": 107351,
+        "strassenbezeichnung": "Kamlweg"
+    },
+    {
+        "kurzbezeichnung": "Metzgerfeld",
+        "id": 115384,
+        "strassenbezeichnung": "Metzgerfeld"
+    },
+    {
+        "kurzbezeichnung": "Unterhuab",
+        "id": 118007,
+        "strassenbezeichnung": "Unterhuab"
+    },
+    {
+        "kurzbezeichnung": "Hinter-Reinbach",
+        "id": 127565,
+        "strassenbezeichnung": "Hinter-Reinbach"
+    }
+]

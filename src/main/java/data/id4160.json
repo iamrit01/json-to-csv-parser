@@ -1,0 +1,402 @@
+[
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": -32813,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Brückensiedlung",
+        "id": -32264,
+        "strassenbezeichnung": "Brückensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Almesbergerweg",
+        "id": 28438,
+        "strassenbezeichnung": "Almesbergerweg"
+    },
+    {
+        "kurzbezeichnung": "An der Mühl",
+        "id": 28439,
+        "strassenbezeichnung": "An der Mühl"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 28440,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Baureitherstraße",
+        "id": 28441,
+        "strassenbezeichnung": "Baureitherstraße"
+    },
+    {
+        "kurzbezeichnung": "Berghäusl",
+        "id": 28442,
+        "strassenbezeichnung": "Berghäusl"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 28443,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Dreisesselbergstraße",
+        "id": 28444,
+        "strassenbezeichnung": "Dreisesselbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Falkensteinstraße",
+        "id": 28445,
+        "strassenbezeichnung": "Falkensteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 28446,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 28447,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Grüner Weg",
+        "id": 28448,
+        "strassenbezeichnung": "Grüner Weg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 28450,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 28451,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hopfenacker",
+        "id": 28452,
+        "strassenbezeichnung": "Hopfenacker"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 28453,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Johann Worathweg",
+        "id": 28454,
+        "strassenbezeichnung": "Johann Worathweg"
+    },
+    {
+        "kurzbezeichnung": "Karl Zellerweg",
+        "id": 28455,
+        "strassenbezeichnung": "Karl Zellerweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 28456,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Krumauerstraße",
+        "id": 28457,
+        "strassenbezeichnung": "Krumauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 28458,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Linzerstraße",
+        "id": 28459,
+        "strassenbezeichnung": "Linzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 28460,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Martin Greysingstraße",
+        "id": 28461,
+        "strassenbezeichnung": "Martin Greysingstraße"
+    },
+    {
+        "kurzbezeichnung": "Mooswiese",
+        "id": 28462,
+        "strassenbezeichnung": "Mooswiese"
+    },
+    {
+        "kurzbezeichnung": "Paul Jaukerstraße",
+        "id": 28463,
+        "strassenbezeichnung": "Paul Jaukerstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 28464,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Schlossergasse",
+        "id": 28466,
+        "strassenbezeichnung": "Schlossergasse"
+    },
+    {
+        "kurzbezeichnung": "Simon Stollstraße",
+        "id": 28467,
+        "strassenbezeichnung": "Simon Stollstraße"
+    },
+    {
+        "kurzbezeichnung": "Stifterstraße",
+        "id": 28469,
+        "strassenbezeichnung": "Stifterstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 28470,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Baumgartenmühle",
+        "id": 46616,
+        "strassenbezeichnung": "Baumgartenmühle"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 46618,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlbergstraße",
+        "id": 46619,
+        "strassenbezeichnung": "Mühlbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Sankt Wolfgangstraße",
+        "id": 46621,
+        "strassenbezeichnung": "Sankt Wolfgangstraße"
+    },
+    {
+        "kurzbezeichnung": "Schachlingstraße",
+        "id": 46622,
+        "strassenbezeichnung": "Schachlingstraße"
+    },
+    {
+        "kurzbezeichnung": "Schaubergstraße",
+        "id": 46623,
+        "strassenbezeichnung": "Schaubergstraße"
+    },
+    {
+        "kurzbezeichnung": "Schlägler-Hauptstraße",
+        "id": 46624,
+        "strassenbezeichnung": "Schlägler-Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 46625,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsstraße",
+        "id": 46626,
+        "strassenbezeichnung": "Siedlungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Teich",
+        "id": 46627,
+        "strassenbezeichnung": "Am Teich"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 51533,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 51534,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Pannholzweg",
+        "id": 51535,
+        "strassenbezeichnung": "Pannholzweg"
+    },
+    {
+        "kurzbezeichnung": "Theodor Simoneitstraße",
+        "id": 51536,
+        "strassenbezeichnung": "Theodor Simoneitstraße"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 51537,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Haiberg",
+        "id": 51538,
+        "strassenbezeichnung": "Haiberg"
+    },
+    {
+        "kurzbezeichnung": "Mühltal",
+        "id": 51539,
+        "strassenbezeichnung": "Mühltal"
+    },
+    {
+        "kurzbezeichnung": "Klemens Bredlstraße",
+        "id": 53236,
+        "strassenbezeichnung": "Klemens Bredlstraße"
+    },
+    {
+        "kurzbezeichnung": "Moldaustraße",
+        "id": 69351,
+        "strassenbezeichnung": "Moldaustraße"
+    },
+    {
+        "kurzbezeichnung": "Grünwald",
+        "id": 85035,
+        "strassenbezeichnung": "Grünwald"
+    },
+    {
+        "kurzbezeichnung": "Rudolfing",
+        "id": 85036,
+        "strassenbezeichnung": "Rudolfing"
+    },
+    {
+        "kurzbezeichnung": "Haugsberg",
+        "id": 85267,
+        "strassenbezeichnung": "Haugsberg"
+    },
+    {
+        "kurzbezeichnung": "Baureith",
+        "id": 85487,
+        "strassenbezeichnung": "Baureith"
+    },
+    {
+        "kurzbezeichnung": "Breitenstein",
+        "id": 85488,
+        "strassenbezeichnung": "Breitenstein"
+    },
+    {
+        "kurzbezeichnung": "Diendorf",
+        "id": 85489,
+        "strassenbezeichnung": "Diendorf"
+    },
+    {
+        "kurzbezeichnung": "Geiselreith",
+        "id": 85490,
+        "strassenbezeichnung": "Geiselreith"
+    },
+    {
+        "kurzbezeichnung": "Kerschbaum",
+        "id": 85491,
+        "strassenbezeichnung": "Kerschbaum"
+    },
+    {
+        "kurzbezeichnung": "Natschlag",
+        "id": 85492,
+        "strassenbezeichnung": "Natschlag"
+    },
+    {
+        "kurzbezeichnung": "Sankt Wolfgang",
+        "id": 85493,
+        "strassenbezeichnung": "Sankt Wolfgang"
+    },
+    {
+        "kurzbezeichnung": "Schlägl",
+        "id": 85494,
+        "strassenbezeichnung": "Schlägl"
+    },
+    {
+        "kurzbezeichnung": "Unterneudorf",
+        "id": 85495,
+        "strassenbezeichnung": "Unterneudorf"
+    },
+    {
+        "kurzbezeichnung": "Weichsberg",
+        "id": 85496,
+        "strassenbezeichnung": "Weichsberg"
+    },
+    {
+        "kurzbezeichnung": "Winkl",
+        "id": 85497,
+        "strassenbezeichnung": "Winkl"
+    },
+    {
+        "kurzbezeichnung": "Wurmbrand",
+        "id": 85498,
+        "strassenbezeichnung": "Wurmbrand"
+    },
+    {
+        "kurzbezeichnung": "Breitenstein",
+        "id": 85508,
+        "strassenbezeichnung": "Breitenstein"
+    },
+    {
+        "kurzbezeichnung": "Schindlau",
+        "id": 85518,
+        "strassenbezeichnung": "Schindlau"
+    },
+    {
+        "kurzbezeichnung": "Zaglau",
+        "id": 85523,
+        "strassenbezeichnung": "Zaglau"
+    },
+    {
+        "kurzbezeichnung": "Am Südhang",
+        "id": 94118,
+        "strassenbezeichnung": "Am Südhang"
+    },
+    {
+        "kurzbezeichnung": "Wiesengrund",
+        "id": 96158,
+        "strassenbezeichnung": "Wiesengrund"
+    },
+    {
+        "kurzbezeichnung": "Fischerweg",
+        "id": 96159,
+        "strassenbezeichnung": "Fischerweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 96472,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Bachlweg",
+        "id": 96524,
+        "strassenbezeichnung": "Bachlweg"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 100924,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Klosterstraße",
+        "id": 115582,
+        "strassenbezeichnung": "Klosterstraße"
+    },
+    {
+        "kurzbezeichnung": "Krenbrücke",
+        "id": 115966,
+        "strassenbezeichnung": "Krenbrücke"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 124990,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 125108,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Am Feld",
+        "id": 126838,
+        "strassenbezeichnung": "Am Feld"
+    }
+]

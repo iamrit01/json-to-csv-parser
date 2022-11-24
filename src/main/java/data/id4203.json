@@ -1,0 +1,492 @@
+[
+    {
+        "kurzbezeichnung": "Kohlleithen",
+        "id": 22444,
+        "strassenbezeichnung": "Kohlleithen"
+    },
+    {
+        "kurzbezeichnung": "Donach",
+        "id": 22447,
+        "strassenbezeichnung": "Donach"
+    },
+    {
+        "kurzbezeichnung": "Edt",
+        "id": 22477,
+        "strassenbezeichnung": "Edt"
+    },
+    {
+        "kurzbezeichnung": "Niederwinkl",
+        "id": 22479,
+        "strassenbezeichnung": "Niederwinkl"
+    },
+    {
+        "kurzbezeichnung": "Oberwinkl",
+        "id": 22490,
+        "strassenbezeichnung": "Oberwinkl"
+    },
+    {
+        "kurzbezeichnung": "Stratreith",
+        "id": 22512,
+        "strassenbezeichnung": "Stratreith"
+    },
+    {
+        "kurzbezeichnung": "Unterweitrag",
+        "id": 22516,
+        "strassenbezeichnung": "Unterweitrag"
+    },
+    {
+        "kurzbezeichnung": "Haslach",
+        "id": 22529,
+        "strassenbezeichnung": "Haslach"
+    },
+    {
+        "kurzbezeichnung": "Katzgraben",
+        "id": 22542,
+        "strassenbezeichnung": "Katzgraben"
+    },
+    {
+        "kurzbezeichnung": "Kitzelsbach",
+        "id": 22551,
+        "strassenbezeichnung": "Kitzelsbach"
+    },
+    {
+        "kurzbezeichnung": "Niederbairing",
+        "id": 22561,
+        "strassenbezeichnung": "Niederbairing"
+    },
+    {
+        "kurzbezeichnung": "Oberbairing",
+        "id": 22563,
+        "strassenbezeichnung": "Oberbairing"
+    },
+    {
+        "kurzbezeichnung": "Alpenblick",
+        "id": 29110,
+        "strassenbezeichnung": "Alpenblick"
+    },
+    {
+        "kurzbezeichnung": "Altenberger Straße",
+        "id": 29111,
+        "strassenbezeichnung": "Altenberger Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 29112,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Hochtann",
+        "id": 29113,
+        "strassenbezeichnung": "Am Hochtann"
+    },
+    {
+        "kurzbezeichnung": "Am Leimbühel",
+        "id": 29114,
+        "strassenbezeichnung": "Am Leimbühel"
+    },
+    {
+        "kurzbezeichnung": "Auerweg",
+        "id": 29115,
+        "strassenbezeichnung": "Auerweg"
+    },
+    {
+        "kurzbezeichnung": "Aussicht",
+        "id": 29116,
+        "strassenbezeichnung": "Aussicht"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 29118,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Bergweg",
+        "id": 29119,
+        "strassenbezeichnung": "Bergweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 29120,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Bruckbachweg",
+        "id": 29121,
+        "strassenbezeichnung": "Bruckbachweg"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 29122,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Donacher Straße",
+        "id": 29123,
+        "strassenbezeichnung": "Donacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 29124,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 29125,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Feichtnerberg",
+        "id": 29126,
+        "strassenbezeichnung": "Feichtnerberg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 29127,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Gallneukirchner Straße",
+        "id": 29128,
+        "strassenbezeichnung": "Gallneukirchner Straße"
+    },
+    {
+        "kurzbezeichnung": "Haldweg",
+        "id": 29129,
+        "strassenbezeichnung": "Haldweg"
+    },
+    {
+        "kurzbezeichnung": "Haslacher Straße",
+        "id": 29130,
+        "strassenbezeichnung": "Haslacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Hochleithenweg",
+        "id": 29131,
+        "strassenbezeichnung": "Hochleithenweg"
+    },
+    {
+        "kurzbezeichnung": "Hochstraße",
+        "id": 29132,
+        "strassenbezeichnung": "Hochstraße"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 29133,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Hohlweg",
+        "id": 29134,
+        "strassenbezeichnung": "Hohlweg"
+    },
+    {
+        "kurzbezeichnung": "Im Graben",
+        "id": 29135,
+        "strassenbezeichnung": "Im Graben"
+    },
+    {
+        "kurzbezeichnung": "Katzgraben Straße",
+        "id": 29136,
+        "strassenbezeichnung": "Katzgraben Straße"
+    },
+    {
+        "kurzbezeichnung": "Kulmer Straße",
+        "id": 29137,
+        "strassenbezeichnung": "Kulmer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lehrreith",
+        "id": 29138,
+        "strassenbezeichnung": "Lehrreith"
+    },
+    {
+        "kurzbezeichnung": "Leithenweg",
+        "id": 29139,
+        "strassenbezeichnung": "Leithenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 29140,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Linzer Straße",
+        "id": 29141,
+        "strassenbezeichnung": "Linzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Magdalener Straße",
+        "id": 29142,
+        "strassenbezeichnung": "Magdalener Straße"
+    },
+    {
+        "kurzbezeichnung": "Mesnerweg",
+        "id": 29143,
+        "strassenbezeichnung": "Mesnerweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 29144,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Niederbairinger Straße",
+        "id": 29145,
+        "strassenbezeichnung": "Niederbairinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Nußbaumerweg",
+        "id": 29146,
+        "strassenbezeichnung": "Nußbaumerweg"
+    },
+    {
+        "kurzbezeichnung": "Oberklammer Straße",
+        "id": 29147,
+        "strassenbezeichnung": "Oberklammer Straße"
+    },
+    {
+        "kurzbezeichnung": "Ortsplatz",
+        "id": 29148,
+        "strassenbezeichnung": "Ortsplatz"
+    },
+    {
+        "kurzbezeichnung": "Panwinklerweg",
+        "id": 29149,
+        "strassenbezeichnung": "Panwinklerweg"
+    },
+    {
+        "kurzbezeichnung": "Parzerweg",
+        "id": 29150,
+        "strassenbezeichnung": "Parzerweg"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 29151,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenweg",
+        "id": 29152,
+        "strassenbezeichnung": "Raiffeisenweg"
+    },
+    {
+        "kurzbezeichnung": "Reichenauer Straße",
+        "id": 29153,
+        "strassenbezeichnung": "Reichenauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Reichörweg",
+        "id": 29154,
+        "strassenbezeichnung": "Reichörweg"
+    },
+    {
+        "kurzbezeichnung": "Reith",
+        "id": 29155,
+        "strassenbezeichnung": "Reith"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgasse",
+        "id": 29156,
+        "strassenbezeichnung": "Schmiedgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 29157,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Seitlingerweg",
+        "id": 29158,
+        "strassenbezeichnung": "Seitlingerweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenstraße",
+        "id": 29159,
+        "strassenbezeichnung": "Sonnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnleithenweg",
+        "id": 29160,
+        "strassenbezeichnung": "Sonnleithenweg"
+    },
+    {
+        "kurzbezeichnung": "Stöttnerweg",
+        "id": 29161,
+        "strassenbezeichnung": "Stöttnerweg"
+    },
+    {
+        "kurzbezeichnung": "Teichstraße",
+        "id": 29162,
+        "strassenbezeichnung": "Teichstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 29163,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wetterbergweg",
+        "id": 29164,
+        "strassenbezeichnung": "Wetterbergweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesengrund",
+        "id": 29165,
+        "strassenbezeichnung": "Wiesengrund"
+    },
+    {
+        "kurzbezeichnung": "Winklinger Straße",
+        "id": 29166,
+        "strassenbezeichnung": "Winklinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Zöchstraße",
+        "id": 29167,
+        "strassenbezeichnung": "Zöchstraße"
+    },
+    {
+        "kurzbezeichnung": "Im Landlgrund",
+        "id": 29184,
+        "strassenbezeichnung": "Im Landlgrund"
+    },
+    {
+        "kurzbezeichnung": "Lerchenweg",
+        "id": 51997,
+        "strassenbezeichnung": "Lerchenweg"
+    },
+    {
+        "kurzbezeichnung": "Starhembergweg",
+        "id": 59953,
+        "strassenbezeichnung": "Starhembergweg"
+    },
+    {
+        "kurzbezeichnung": "Langlus",
+        "id": 59954,
+        "strassenbezeichnung": "Langlus"
+    },
+    {
+        "kurzbezeichnung": "Fasanweg",
+        "id": 59955,
+        "strassenbezeichnung": "Fasanweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterwinkl",
+        "id": 59956,
+        "strassenbezeichnung": "Mitterwinkl"
+    },
+    {
+        "kurzbezeichnung": "Grüner Hang",
+        "id": 59957,
+        "strassenbezeichnung": "Grüner Hang"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 59958,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Köbrunnweg",
+        "id": 59959,
+        "strassenbezeichnung": "Köbrunnweg"
+    },
+    {
+        "kurzbezeichnung": "Wimmergasse",
+        "id": 59960,
+        "strassenbezeichnung": "Wimmergasse"
+    },
+    {
+        "kurzbezeichnung": "Fiedelau",
+        "id": 66337,
+        "strassenbezeichnung": "Fiedelau"
+    },
+    {
+        "kurzbezeichnung": "Gewerbefeld",
+        "id": 68353,
+        "strassenbezeichnung": "Gewerbefeld"
+    },
+    {
+        "kurzbezeichnung": "Baumannweg",
+        "id": 73768,
+        "strassenbezeichnung": "Baumannweg"
+    },
+    {
+        "kurzbezeichnung": "Höflerweg",
+        "id": 73769,
+        "strassenbezeichnung": "Höflerweg"
+    },
+    {
+        "kurzbezeichnung": "Leonfeldner Straße",
+        "id": 73770,
+        "strassenbezeichnung": "Leonfeldner Straße"
+    },
+    {
+        "kurzbezeichnung": "Kulm",
+        "id": 86169,
+        "strassenbezeichnung": "Kulm"
+    },
+    {
+        "kurzbezeichnung": "Oberkulm",
+        "id": 86171,
+        "strassenbezeichnung": "Oberkulm"
+    },
+    {
+        "kurzbezeichnung": "Oberweitrag",
+        "id": 86172,
+        "strassenbezeichnung": "Oberweitrag"
+    },
+    {
+        "kurzbezeichnung": "Pargfried",
+        "id": 86173,
+        "strassenbezeichnung": "Pargfried"
+    },
+    {
+        "kurzbezeichnung": "Preising",
+        "id": 86174,
+        "strassenbezeichnung": "Preising"
+    },
+    {
+        "kurzbezeichnung": "Ramersdorf",
+        "id": 86175,
+        "strassenbezeichnung": "Ramersdorf"
+    },
+    {
+        "kurzbezeichnung": "Schwarzendorf",
+        "id": 86176,
+        "strassenbezeichnung": "Schwarzendorf"
+    },
+    {
+        "kurzbezeichnung": "Weignersedt",
+        "id": 86177,
+        "strassenbezeichnung": "Weignersedt"
+    },
+    {
+        "kurzbezeichnung": "Willersdorf",
+        "id": 86178,
+        "strassenbezeichnung": "Willersdorf"
+    },
+    {
+        "kurzbezeichnung": "Windpassing",
+        "id": 86179,
+        "strassenbezeichnung": "Windpassing"
+    },
+    {
+        "kurzbezeichnung": "Würschendorf",
+        "id": 86180,
+        "strassenbezeichnung": "Würschendorf"
+    },
+    {
+        "kurzbezeichnung": "Huberstraße",
+        "id": 96235,
+        "strassenbezeichnung": "Huberstraße"
+    },
+    {
+        "kurzbezeichnung": "Wagnerweg",
+        "id": 96236,
+        "strassenbezeichnung": "Wagnerweg"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 110189,
+        "strassenbezeichnung": "Marktplatz"
+    }
+]

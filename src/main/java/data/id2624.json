@@ -1,0 +1,457 @@
+[
+    {
+        "kurzbezeichnung": "Am Waldstrand",
+        "id": -30108,
+        "strassenbezeichnung": "Am Waldstrand"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße B 17",
+        "id": -18440,
+        "strassenbezeichnung": "Bundesstraße B 17"
+    },
+    {
+        "kurzbezeichnung": "Bahnstr. Betriebsgeb.",
+        "id": -16800,
+        "strassenbezeichnung": "Bahnstraße Betriebsgebiet"
+    },
+    {
+        "kurzbezeichnung": "Alte Landstraße",
+        "id": 18048,
+        "strassenbezeichnung": "Alte Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 18049,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 18050,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 18051,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": 18052,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 18053,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Bogengasse",
+        "id": 18054,
+        "strassenbezeichnung": "Bogengasse"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 18055,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Egartgasse",
+        "id": 18056,
+        "strassenbezeichnung": "Egartgasse"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 18057,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Fabriksstraße",
+        "id": 18058,
+        "strassenbezeichnung": "Fabriksstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasangasse",
+        "id": 18059,
+        "strassenbezeichnung": "Fasangasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 18060,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 18061,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Hohe Wand-Gasse",
+        "id": 18062,
+        "strassenbezeichnung": "Hohe Wand-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kehrbachgasse",
+        "id": 18063,
+        "strassenbezeichnung": "Kehrbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 18064,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 18065,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kurze Gasse",
+        "id": 18066,
+        "strassenbezeichnung": "Kurze Gasse"
+    },
+    {
+        "kurzbezeichnung": "Leeberfeldgasse",
+        "id": 18067,
+        "strassenbezeichnung": "Leeberfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Mollramergasse",
+        "id": 18068,
+        "strassenbezeichnung": "Mollramergasse"
+    },
+    {
+        "kurzbezeichnung": "Neunkirchnerstraße",
+        "id": 18069,
+        "strassenbezeichnung": "Neunkirchnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schneeberggasse",
+        "id": 18072,
+        "strassenbezeichnung": "Schneeberggasse"
+    },
+    {
+        "kurzbezeichnung": "Schwarzauerstraße",
+        "id": 18073,
+        "strassenbezeichnung": "Schwarzauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schwarzer Weg",
+        "id": 18074,
+        "strassenbezeichnung": "Schwarzer Weg"
+    },
+    {
+        "kurzbezeichnung": "Sportgasse",
+        "id": 18075,
+        "strassenbezeichnung": "Sportgasse"
+    },
+    {
+        "kurzbezeichnung": "Unterer Anger",
+        "id": 18076,
+        "strassenbezeichnung": "Unterer Anger"
+    },
+    {
+        "kurzbezeichnung": "Waldsiedlung",
+        "id": 18077,
+        "strassenbezeichnung": "Waldsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Wassergasse",
+        "id": 18078,
+        "strassenbezeichnung": "Wassergasse"
+    },
+    {
+        "kurzbezeichnung": "Weidengasse",
+        "id": 18079,
+        "strassenbezeichnung": "Weidengasse"
+    },
+    {
+        "kurzbezeichnung": "Weinfeldgasse",
+        "id": 18080,
+        "strassenbezeichnung": "Weinfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 18081,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Alleestraße",
+        "id": 18667,
+        "strassenbezeichnung": "Alleestraße"
+    },
+    {
+        "kurzbezeichnung": "Austraße",
+        "id": 18668,
+        "strassenbezeichnung": "Austraße"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 18669,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Baumstraße",
+        "id": 18670,
+        "strassenbezeichnung": "Baumstraße"
+    },
+    {
+        "kurzbezeichnung": "Carinthiastraße",
+        "id": 18671,
+        "strassenbezeichnung": "Carinthiastraße"
+    },
+    {
+        "kurzbezeichnung": "Dammstraße",
+        "id": 18672,
+        "strassenbezeichnung": "Dammstraße"
+    },
+    {
+        "kurzbezeichnung": "Eisteichstraße",
+        "id": 18673,
+        "strassenbezeichnung": "Eisteichstraße"
+    },
+    {
+        "kurzbezeichnung": "Engestraße",
+        "id": 18674,
+        "strassenbezeichnung": "Engestraße"
+    },
+    {
+        "kurzbezeichnung": "Erlacher Straße",
+        "id": 18675,
+        "strassenbezeichnung": "Erlacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 18676,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofstraße",
+        "id": 18677,
+        "strassenbezeichnung": "Friedhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 18678,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 18681,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kogelstraße",
+        "id": 18682,
+        "strassenbezeichnung": "Kogelstraße"
+    },
+    {
+        "kurzbezeichnung": "Mittelstraße",
+        "id": 18683,
+        "strassenbezeichnung": "Mittelstraße"
+    },
+    {
+        "kurzbezeichnung": "Neunkirchner Straße",
+        "id": 18684,
+        "strassenbezeichnung": "Neunkirchner Straße"
+    },
+    {
+        "kurzbezeichnung": "Pittener Straße",
+        "id": 18687,
+        "strassenbezeichnung": "Pittener Straße"
+    },
+    {
+        "kurzbezeichnung": "Rotalhofstraße",
+        "id": 18688,
+        "strassenbezeichnung": "Rotalhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Sackstraße",
+        "id": 18689,
+        "strassenbezeichnung": "Sackstraße"
+    },
+    {
+        "kurzbezeichnung": "Scheibenstraße",
+        "id": 18690,
+        "strassenbezeichnung": "Scheibenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßstraße",
+        "id": 18691,
+        "strassenbezeichnung": "Schloßstraße"
+    },
+    {
+        "kurzbezeichnung": "Schwarzer Weg",
+        "id": 18692,
+        "strassenbezeichnung": "Schwarzer Weg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 18693,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Uferstraße",
+        "id": 18694,
+        "strassenbezeichnung": "Uferstraße"
+    },
+    {
+        "kurzbezeichnung": "Vogelsangstraße",
+        "id": 18696,
+        "strassenbezeichnung": "Vogelsangstraße"
+    },
+    {
+        "kurzbezeichnung": "Wechselbundesstraße",
+        "id": 18698,
+        "strassenbezeichnung": "Wechselbundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Weingartenstraße",
+        "id": 18699,
+        "strassenbezeichnung": "Weingartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 55312,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 55316,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenplatz",
+        "id": 55317,
+        "strassenbezeichnung": "Lindenplatz"
+    },
+    {
+        "kurzbezeichnung": "Steinfeldstraße",
+        "id": 55326,
+        "strassenbezeichnung": "Steinfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Wassergasse",
+        "id": 55328,
+        "strassenbezeichnung": "Wassergasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 55394,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Blätterstraße",
+        "id": 55396,
+        "strassenbezeichnung": "Blätterstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 55398,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrensiedlung",
+        "id": 55400,
+        "strassenbezeichnung": "Föhrensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Neunkirchner Allee",
+        "id": 55800,
+        "strassenbezeichnung": "Neunkirchner Allee"
+    },
+    {
+        "kurzbezeichnung": "Obere Waldgasse",
+        "id": 55801,
+        "strassenbezeichnung": "Obere Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Südbahngasse",
+        "id": 55812,
+        "strassenbezeichnung": "Südbahngasse"
+    },
+    {
+        "kurzbezeichnung": "Untere Waldgasse",
+        "id": 55814,
+        "strassenbezeichnung": "Untere Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Weinfeldgasse",
+        "id": 55816,
+        "strassenbezeichnung": "Weinfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Hans Czettel-Hof",
+        "id": 60736,
+        "strassenbezeichnung": "Hans Czettel-Hof"
+    },
+    {
+        "kurzbezeichnung": "Pappelgasse",
+        "id": 60737,
+        "strassenbezeichnung": "Pappelgasse"
+    },
+    {
+        "kurzbezeichnung": "Quergasse",
+        "id": 60738,
+        "strassenbezeichnung": "Quergasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 61322,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fliederweg",
+        "id": 61323,
+        "strassenbezeichnung": "Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Linsernplatz",
+        "id": 74147,
+        "strassenbezeichnung": "Linsernplatz"
+    },
+    {
+        "kurzbezeichnung": "Mariensiedlung",
+        "id": 102126,
+        "strassenbezeichnung": "Mariensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Schneebergblick",
+        "id": 103305,
+        "strassenbezeichnung": "Schneebergblick"
+    },
+    {
+        "kurzbezeichnung": "Raxgasse",
+        "id": 103352,
+        "strassenbezeichnung": "Raxgasse"
+    },
+    {
+        "kurzbezeichnung": "Stierwiesengasse",
+        "id": 103355,
+        "strassenbezeichnung": "Stierwiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Stadtweg",
+        "id": 111955,
+        "strassenbezeichnung": "Am Stadtweg"
+    },
+    {
+        "kurzbezeichnung": "Steinfeldstraße",
+        "id": 113469,
+        "strassenbezeichnung": "Steinfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirschengasse",
+        "id": 115578,
+        "strassenbezeichnung": "Kirschengasse"
+    },
+    {
+        "kurzbezeichnung": "Angerlstraße",
+        "id": 117117,
+        "strassenbezeichnung": "Angerlstraße"
+    },
+    {
+        "kurzbezeichnung": "Kleegasse",
+        "id": 122913,
+        "strassenbezeichnung": "Kleegasse"
+    }
+]

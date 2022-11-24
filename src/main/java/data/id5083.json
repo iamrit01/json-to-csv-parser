@@ -1,0 +1,672 @@
+[
+    {
+        "kurzbezeichnung": "Brandauerstraße",
+        "id": -30354,
+        "strassenbezeichnung": "Brandauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Grödig",
+        "id": -18708,
+        "strassenbezeichnung": "Grödig"
+    },
+    {
+        "kurzbezeichnung": "Via Sanitas",
+        "id": -17843,
+        "strassenbezeichnung": "Via Sanitas"
+    },
+    {
+        "kurzbezeichnung": "Salzachtal-Bdsstr.Nord",
+        "id": -1405,
+        "strassenbezeichnung": "Salzachtal-Bundesstraße Nord"
+    },
+    {
+        "kurzbezeichnung": "Almweg",
+        "id": 31924,
+        "strassenbezeichnung": "Almweg"
+    },
+    {
+        "kurzbezeichnung": "Am Spitz",
+        "id": 31928,
+        "strassenbezeichnung": "Am Spitz"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 31933,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 31940,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunwiesweg",
+        "id": 31948,
+        "strassenbezeichnung": "Brunwiesweg"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 31949,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Charlottenhüttenweg",
+        "id": 31956,
+        "strassenbezeichnung": "Charlottenhüttenweg"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 31973,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Webereiweg",
+        "id": 31976,
+        "strassenbezeichnung": "Webereiweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 31979,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Fischerweg",
+        "id": 31980,
+        "strassenbezeichnung": "Fischerweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 31984,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Fostergasse",
+        "id": 31985,
+        "strassenbezeichnung": "Fostergasse"
+    },
+    {
+        "kurzbezeichnung": "Fuchsweg",
+        "id": 31988,
+        "strassenbezeichnung": "Fuchsweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenaustraße",
+        "id": 31994,
+        "strassenbezeichnung": "Gartenaustraße"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 31995,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Golserweg",
+        "id": 32004,
+        "strassenbezeichnung": "Golserweg"
+    },
+    {
+        "kurzbezeichnung": "Griesweg",
+        "id": 32009,
+        "strassenbezeichnung": "Griesweg"
+    },
+    {
+        "kurzbezeichnung": "Bienenweg",
+        "id": 32013,
+        "strassenbezeichnung": "Bienenweg"
+    },
+    {
+        "kurzbezeichnung": "Gutrathbergweg",
+        "id": 32016,
+        "strassenbezeichnung": "Gutrathbergweg"
+    },
+    {
+        "kurzbezeichnung": "Jägerweg",
+        "id": 32041,
+        "strassenbezeichnung": "Jägerweg"
+    },
+    {
+        "kurzbezeichnung": "Osenweg",
+        "id": 32092,
+        "strassenbezeichnung": "Osenweg"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": 32097,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Reischenbachweg",
+        "id": 32120,
+        "strassenbezeichnung": "Reischenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Rifer Hauptstraße",
+        "id": 32123,
+        "strassenbezeichnung": "Rifer Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Riferaufeldweg",
+        "id": 32124,
+        "strassenbezeichnung": "Riferaufeldweg"
+    },
+    {
+        "kurzbezeichnung": "Ringweg",
+        "id": 32126,
+        "strassenbezeichnung": "Ringweg"
+    },
+    {
+        "kurzbezeichnung": "Salzburgerstraße",
+        "id": 32134,
+        "strassenbezeichnung": "Salzburgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßallee",
+        "id": 32147,
+        "strassenbezeichnung": "Schloßallee"
+    },
+    {
+        "kurzbezeichnung": "Steinbachfeldweg",
+        "id": 32164,
+        "strassenbezeichnung": "Steinbachfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Tischlerweg",
+        "id": 32176,
+        "strassenbezeichnung": "Tischlerweg"
+    },
+    {
+        "kurzbezeichnung": "Untersbergweg",
+        "id": 32183,
+        "strassenbezeichnung": "Untersbergweg"
+    },
+    {
+        "kurzbezeichnung": "Vogelsangweg",
+        "id": 32185,
+        "strassenbezeichnung": "Vogelsangweg"
+    },
+    {
+        "kurzbezeichnung": "Vogeltennweg",
+        "id": 32186,
+        "strassenbezeichnung": "Vogeltennweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 32188,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenbrunnweg",
+        "id": 32198,
+        "strassenbezeichnung": "Wiesenbrunnweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 32200,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegeleiweg",
+        "id": 32208,
+        "strassenbezeichnung": "Ziegeleiweg"
+    },
+    {
+        "kurzbezeichnung": "Almweg",
+        "id": 32344,
+        "strassenbezeichnung": "Almweg"
+    },
+    {
+        "kurzbezeichnung": "Bachmannweg",
+        "id": 32345,
+        "strassenbezeichnung": "Bachmannweg"
+    },
+    {
+        "kurzbezeichnung": "Berchtesgadnerstraße",
+        "id": 32346,
+        "strassenbezeichnung": "Berchtesgadnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 32347,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Buchbichl",
+        "id": 32349,
+        "strassenbezeichnung": "Buchbichl"
+    },
+    {
+        "kurzbezeichnung": "Dr. A.Schweitzer Str.",
+        "id": 32351,
+        "strassenbezeichnung": "Dr. Albert Schweitzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Eduard Fugger Str.",
+        "id": 32352,
+        "strassenbezeichnung": "Dr. Eduard Fugger Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Friedrich Oedlweg",
+        "id": 32353,
+        "strassenbezeichnung": "Dr. Friedrich Oedlweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Karl Grassbergerw.",
+        "id": 32354,
+        "strassenbezeichnung": "Dr. Karl Grassbergerweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. R. Hartmann Str.",
+        "id": 32355,
+        "strassenbezeichnung": "Dr. Richard Hartmann Straße"
+    },
+    {
+        "kurzbezeichnung": "Drachenlochstraße",
+        "id": 32356,
+        "strassenbezeichnung": "Drachenlochstraße"
+    },
+    {
+        "kurzbezeichnung": "Eichetstraße",
+        "id": 32358,
+        "strassenbezeichnung": "Eichetstraße"
+    },
+    {
+        "kurzbezeichnung": "Eisteichstraße",
+        "id": 32360,
+        "strassenbezeichnung": "Eisteichstraße"
+    },
+    {
+        "kurzbezeichnung": "Flurweg",
+        "id": 32363,
+        "strassenbezeichnung": "Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Forellenweg",
+        "id": 32365,
+        "strassenbezeichnung": "Forellenweg"
+    },
+    {
+        "kurzbezeichnung": "Franz Peyerl Straße",
+        "id": 32366,
+        "strassenbezeichnung": "Franz Peyerl Straße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofweg",
+        "id": 32367,
+        "strassenbezeichnung": "Friedhofweg"
+    },
+    {
+        "kurzbezeichnung": "Gaisbergweg",
+        "id": 32370,
+        "strassenbezeichnung": "Gaisbergweg"
+    },
+    {
+        "kurzbezeichnung": "Gangsteig",
+        "id": 32371,
+        "strassenbezeichnung": "Gangsteig"
+    },
+    {
+        "kurzbezeichnung": "Gartenauerplatz",
+        "id": 32372,
+        "strassenbezeichnung": "Gartenauerplatz"
+    },
+    {
+        "kurzbezeichnung": "Gartenauerstraße",
+        "id": 32373,
+        "strassenbezeichnung": "Gartenauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 32374,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Georg Trakl Weg",
+        "id": 32375,
+        "strassenbezeichnung": "Georg Trakl Weg"
+    },
+    {
+        "kurzbezeichnung": "Geyereckstraße",
+        "id": 32376,
+        "strassenbezeichnung": "Geyereckstraße"
+    },
+    {
+        "kurzbezeichnung": "Glaneggerstraße",
+        "id": 32377,
+        "strassenbezeichnung": "Glaneggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Göllstraße",
+        "id": 32380,
+        "strassenbezeichnung": "Göllstraße"
+    },
+    {
+        "kurzbezeichnung": "Goisweg",
+        "id": 32381,
+        "strassenbezeichnung": "Goisweg"
+    },
+    {
+        "kurzbezeichnung": "Gravengadenstraße",
+        "id": 32382,
+        "strassenbezeichnung": "Gravengadenstraße"
+    },
+    {
+        "kurzbezeichnung": "Grünbachweg",
+        "id": 32383,
+        "strassenbezeichnung": "Grünbachweg"
+    },
+    {
+        "kurzbezeichnung": "Gutratweg",
+        "id": 32384,
+        "strassenbezeichnung": "Gutratweg"
+    },
+    {
+        "kurzbezeichnung": "Hackenbuchnerweg",
+        "id": 32385,
+        "strassenbezeichnung": "Hackenbuchnerweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 32386,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hochthronstraße",
+        "id": 32387,
+        "strassenbezeichnung": "Hochthronstraße"
+    },
+    {
+        "kurzbezeichnung": "Josef Pichler Weg",
+        "id": 32390,
+        "strassenbezeichnung": "Josef Pichler Weg"
+    },
+    {
+        "kurzbezeichnung": "Josef Pölzl Weg",
+        "id": 32391,
+        "strassenbezeichnung": "Josef Pölzl Weg"
+    },
+    {
+        "kurzbezeichnung": "Kaiser Karl Straße",
+        "id": 32392,
+        "strassenbezeichnung": "Kaiser Karl Straße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 32393,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Kellerstraße",
+        "id": 32394,
+        "strassenbezeichnung": "Kellerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kienbergstraße",
+        "id": 32397,
+        "strassenbezeichnung": "Kienbergstraße"
+    },
+    {
+        "kurzbezeichnung": "K. Schallmoser Str.",
+        "id": 32398,
+        "strassenbezeichnung": "Korbinian Schallmoser Straße"
+    },
+    {
+        "kurzbezeichnung": "Lagerstraße",
+        "id": 32400,
+        "strassenbezeichnung": "Lagerstraße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 32402,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Marktstraße",
+        "id": 32403,
+        "strassenbezeichnung": "Marktstraße"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 32405,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Neue Heimat Straße",
+        "id": 32407,
+        "strassenbezeichnung": "Neue Heimat Straße"
+    },
+    {
+        "kurzbezeichnung": "Oberfeldstraße",
+        "id": 32408,
+        "strassenbezeichnung": "Oberfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Otto Glöckel Straße",
+        "id": 32409,
+        "strassenbezeichnung": "Otto Glöckel Straße"
+    },
+    {
+        "kurzbezeichnung": "Peter Rosegger Straße",
+        "id": 32410,
+        "strassenbezeichnung": "Peter Rosegger Straße"
+    },
+    {
+        "kurzbezeichnung": "Prötschhofstraße",
+        "id": 32412,
+        "strassenbezeichnung": "Prötschhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Quellenstraße",
+        "id": 32413,
+        "strassenbezeichnung": "Quellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sandriesenweg",
+        "id": 32418,
+        "strassenbezeichnung": "Sandriesenweg"
+    },
+    {
+        "kurzbezeichnung": "Schützenstraße",
+        "id": 32423,
+        "strassenbezeichnung": "Schützenstraße"
+    },
+    {
+        "kurzbezeichnung": "Spielbergweg",
+        "id": 32424,
+        "strassenbezeichnung": "Spielbergweg"
+    },
+    {
+        "kurzbezeichnung": "Sankt Leonhard Straße",
+        "id": 32425,
+        "strassenbezeichnung": "Sankt Leonhard Straße"
+    },
+    {
+        "kurzbezeichnung": "Sankt Peter Straße",
+        "id": 32426,
+        "strassenbezeichnung": "Sankt Peter Straße"
+    },
+    {
+        "kurzbezeichnung": "Steinerweg",
+        "id": 32427,
+        "strassenbezeichnung": "Steinerweg"
+    },
+    {
+        "kurzbezeichnung": "Untersbergstraße",
+        "id": 32428,
+        "strassenbezeichnung": "Untersbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 32431,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Wehrstraße",
+        "id": 32432,
+        "strassenbezeichnung": "Wehrstraße"
+    },
+    {
+        "kurzbezeichnung": "Wetterkreuzweg",
+        "id": 32434,
+        "strassenbezeichnung": "Wetterkreuzweg"
+    },
+    {
+        "kurzbezeichnung": "Grundfosstraße",
+        "id": 52825,
+        "strassenbezeichnung": "Grundfosstraße"
+    },
+    {
+        "kurzbezeichnung": "Geistlweg",
+        "id": 54942,
+        "strassenbezeichnung": "Geistlweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 59197,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Josef Weißkind Straße",
+        "id": 59198,
+        "strassenbezeichnung": "Josef Weißkind Straße"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 64974,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 64976,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Bachwinklweg",
+        "id": 64977,
+        "strassenbezeichnung": "Bachwinklweg"
+    },
+    {
+        "kurzbezeichnung": "Gaisbergweg",
+        "id": 64982,
+        "strassenbezeichnung": "Gaisbergweg"
+    },
+    {
+        "kurzbezeichnung": "Hartmannweg",
+        "id": 64984,
+        "strassenbezeichnung": "Hartmannweg"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 64987,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Staufenweg",
+        "id": 64995,
+        "strassenbezeichnung": "Staufenweg"
+    },
+    {
+        "kurzbezeichnung": "Vereinsheimstraße",
+        "id": 64996,
+        "strassenbezeichnung": "Vereinsheimstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldmeisterweg",
+        "id": 64998,
+        "strassenbezeichnung": "Waldmeisterweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 71567,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 71638,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Hans Weigel Straße",
+        "id": 72797,
+        "strassenbezeichnung": "Hans Weigel Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfarrhofgutweg",
+        "id": 74101,
+        "strassenbezeichnung": "Pfarrhofgutweg"
+    },
+    {
+        "kurzbezeichnung": "Schlosserstraße",
+        "id": 74125,
+        "strassenbezeichnung": "Schlosserstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Moser Weg",
+        "id": 94288,
+        "strassenbezeichnung": "Franz Moser Weg"
+    },
+    {
+        "kurzbezeichnung": "Hummelweg",
+        "id": 97357,
+        "strassenbezeichnung": "Hummelweg"
+    },
+    {
+        "kurzbezeichnung": "Friedensstraße",
+        "id": 97388,
+        "strassenbezeichnung": "Friedensstraße"
+    },
+    {
+        "kurzbezeichnung": "Marktfeld",
+        "id": 100226,
+        "strassenbezeichnung": "Marktfeld"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 100764,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Tannenweg",
+        "id": 100767,
+        "strassenbezeichnung": "Tannenweg"
+    },
+    {
+        "kurzbezeichnung": "Ulmenweg",
+        "id": 100768,
+        "strassenbezeichnung": "Ulmenweg"
+    },
+    {
+        "kurzbezeichnung": "Brückenwirtweg",
+        "id": 102093,
+        "strassenbezeichnung": "Brückenwirtweg"
+    },
+    {
+        "kurzbezeichnung": "Karlheinz-Böhm-Straße",
+        "id": 105553,
+        "strassenbezeichnung": "Karlheinz-Böhm-Straße"
+    },
+    {
+        "kurzbezeichnung": "Törlweg",
+        "id": 106675,
+        "strassenbezeichnung": "Törlweg"
+    },
+    {
+        "kurzbezeichnung": "Steingrabenweg",
+        "id": 111012,
+        "strassenbezeichnung": "Steingrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Seidlgutweg",
+        "id": 111013,
+        "strassenbezeichnung": "Seidlgutweg"
+    },
+    {
+        "kurzbezeichnung": "Zinkenweg",
+        "id": 112030,
+        "strassenbezeichnung": "Zinkenweg"
+    },
+    {
+        "kurzbezeichnung": "Brandauerweg",
+        "id": 122762,
+        "strassenbezeichnung": "Brandauerweg"
+    }
+]

@@ -1,0 +1,457 @@
+[
+    {
+        "kurzbezeichnung": "Ackerweg",
+        "id": 46417,
+        "strassenbezeichnung": "Ackerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Bichl",
+        "id": 49517,
+        "strassenbezeichnung": "Am Bichl"
+    },
+    {
+        "kurzbezeichnung": "Am Brunnboden",
+        "id": 49518,
+        "strassenbezeichnung": "Am Brunnboden"
+    },
+    {
+        "kurzbezeichnung": "Am Damm",
+        "id": 49523,
+        "strassenbezeichnung": "Am Damm"
+    },
+    {
+        "kurzbezeichnung": "Am Hang",
+        "id": 46474,
+        "strassenbezeichnung": "Am Hang"
+    },
+    {
+        "kurzbezeichnung": "Am Hartboden",
+        "id": 49519,
+        "strassenbezeichnung": "Am Hartboden"
+    },
+    {
+        "kurzbezeichnung": "Am Hausberg",
+        "id": 49520,
+        "strassenbezeichnung": "Am Hausberg"
+    },
+    {
+        "kurzbezeichnung": "Am Ring",
+        "id": 49947,
+        "strassenbezeichnung": "Am Ring"
+    },
+    {
+        "kurzbezeichnung": "Am Rinnergrund",
+        "id": 95011,
+        "strassenbezeichnung": "Am Rinnergrund"
+    },
+    {
+        "kurzbezeichnung": "Amselweg",
+        "id": 49948,
+        "strassenbezeichnung": "Amselweg"
+    },
+    {
+        "kurzbezeichnung": "Andreas Leykam-Platz",
+        "id": 73650,
+        "strassenbezeichnung": "Andreas Leykam-Platz"
+    },
+    {
+        "kurzbezeichnung": "Anton Kamper-Weg",
+        "id": 49522,
+        "strassenbezeichnung": "Anton Kamper-Weg"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 49521,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 49524,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 49525,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bergweg",
+        "id": 49949,
+        "strassenbezeichnung": "Bergweg"
+    },
+    {
+        "kurzbezeichnung": "Bienengasse",
+        "id": 49526,
+        "strassenbezeichnung": "Bienengasse"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 49950,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 49951,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Brucker Straße",
+        "id": 49527,
+        "strassenbezeichnung": "Brucker Straße"
+    },
+    {
+        "kurzbezeichnung": "Brunnboden-Siedlung",
+        "id": 49953,
+        "strassenbezeichnung": "Brunnboden-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Brunnleitenweg",
+        "id": 49528,
+        "strassenbezeichnung": "Brunnleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnweg",
+        "id": 49954,
+        "strassenbezeichnung": "Brunnweg"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 49956,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Donatiweg",
+        "id": 49529,
+        "strassenbezeichnung": "Donatiweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Karl Renner-Sdl.",
+        "id": 112356,
+        "strassenbezeichnung": "Dr. Karl Renner-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Dr.Karl Renner-Straße",
+        "id": 49530,
+        "strassenbezeichnung": "Dr.Karl Renner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Emil Kahr-Weg",
+        "id": 49533,
+        "strassenbezeichnung": "Emil Kahr-Weg"
+    },
+    {
+        "kurzbezeichnung": "Engelbert Eibel-Weg",
+        "id": 49534,
+        "strassenbezeichnung": "Engelbert Eibel-Weg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 49535,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Felix Seyfert-Weg",
+        "id": 49537,
+        "strassenbezeichnung": "Felix Seyfert-Weg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 47479,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 47480,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Forststraße",
+        "id": 47482,
+        "strassenbezeichnung": "Forststraße"
+    },
+    {
+        "kurzbezeichnung": "Freßnitzstraße",
+        "id": 95811,
+        "strassenbezeichnung": "Freßnitzstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 49540,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofplatz",
+        "id": 46896,
+        "strassenbezeichnung": "Friedhofplatz"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 49542,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gärtnerweg",
+        "id": 45839,
+        "strassenbezeichnung": "Gärtnerweg"
+    },
+    {
+        "kurzbezeichnung": "Grazer Straße",
+        "id": 49543,
+        "strassenbezeichnung": "Grazer Straße"
+    },
+    {
+        "kurzbezeichnung": "Hausbergweg",
+        "id": 45841,
+        "strassenbezeichnung": "Hausbergweg"
+    },
+    {
+        "kurzbezeichnung": "Hermann Krommer-Sdl.",
+        "id": 49545,
+        "strassenbezeichnung": "Hermann Krommer-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Hermann Lex-Weg",
+        "id": 49546,
+        "strassenbezeichnung": "Hermann Lex-Weg"
+    },
+    {
+        "kurzbezeichnung": "Hochweg",
+        "id": 45838,
+        "strassenbezeichnung": "Hochweg"
+    },
+    {
+        "kurzbezeichnung": "Imkerweg",
+        "id": 49957,
+        "strassenbezeichnung": "Imkerweg"
+    },
+    {
+        "kurzbezeichnung": "Jakob Syz-Weg",
+        "id": 49548,
+        "strassenbezeichnung": "Jakob Syz-Weg"
+    },
+    {
+        "kurzbezeichnung": "Jakob Wöhrer-Weg",
+        "id": 49547,
+        "strassenbezeichnung": "Jakob Wöhrer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Judendorf-Weg",
+        "id": 45844,
+        "strassenbezeichnung": "Judendorf-Weg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 49549,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Kasernstraße",
+        "id": 49553,
+        "strassenbezeichnung": "Kasernstraße"
+    },
+    {
+        "kurzbezeichnung": "Kindergartenweg",
+        "id": 95089,
+        "strassenbezeichnung": "Kindergartenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatz",
+        "id": 49550,
+        "strassenbezeichnung": "Kirchplatz"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 49551,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Kogelweg",
+        "id": 46485,
+        "strassenbezeichnung": "Kogelweg"
+    },
+    {
+        "kurzbezeichnung": "Koloniegasse",
+        "id": 49552,
+        "strassenbezeichnung": "Koloniegasse"
+    },
+    {
+        "kurzbezeichnung": "Körbelbauerweg",
+        "id": 49960,
+        "strassenbezeichnung": "Körbelbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Kurzgasse",
+        "id": 46664,
+        "strassenbezeichnung": "Kurzgasse"
+    },
+    {
+        "kurzbezeichnung": "Leitenweg",
+        "id": 46670,
+        "strassenbezeichnung": "Leitenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 46884,
+        "strassenbezeichnung": "Lindengasse"
+    },
+    {
+        "kurzbezeichnung": "Mikron-Weg",
+        "id": 72812,
+        "strassenbezeichnung": "Mikron-Weg"
+    },
+    {
+        "kurzbezeichnung": "Mothwurfgasse",
+        "id": 94987,
+        "strassenbezeichnung": "Mothwurfgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlgangweg",
+        "id": 46886,
+        "strassenbezeichnung": "Mühlgangweg"
+    },
+    {
+        "kurzbezeichnung": "Murweg",
+        "id": 49554,
+        "strassenbezeichnung": "Murweg"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 46888,
+        "strassenbezeichnung": "Neubaugasse"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 42013,
+        "strassenbezeichnung": "Panoramaweg"
+    },
+    {
+        "kurzbezeichnung": "Parksiedlung",
+        "id": 68259,
+        "strassenbezeichnung": "Parksiedlung"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 67382,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Quergasse",
+        "id": 42015,
+        "strassenbezeichnung": "Quergasse"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenweg",
+        "id": 49556,
+        "strassenbezeichnung": "Raiffeisenweg"
+    },
+    {
+        "kurzbezeichnung": "Rebengasse",
+        "id": 49959,
+        "strassenbezeichnung": "Rebengasse"
+    },
+    {
+        "kurzbezeichnung": "Sackgasse",
+        "id": 42016,
+        "strassenbezeichnung": "Sackgasse"
+    },
+    {
+        "kurzbezeichnung": "Sankt Stefaner Straße",
+        "id": 49561,
+        "strassenbezeichnung": "Sankt Stefaner Straße"
+    },
+    {
+        "kurzbezeichnung": "Schönblickstraße",
+        "id": 42018,
+        "strassenbezeichnung": "Schönblickstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 49032,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzgasse",
+        "id": 49559,
+        "strassenbezeichnung": "Sportplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 49085,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Trattenhof",
+        "id": 46188,
+        "strassenbezeichnung": "Trattenhof"
+    },
+    {
+        "kurzbezeichnung": "Trattenweg",
+        "id": 49562,
+        "strassenbezeichnung": "Trattenweg"
+    },
+    {
+        "kurzbezeichnung": "Überfuhrweg",
+        "id": 49563,
+        "strassenbezeichnung": "Überfuhrweg"
+    },
+    {
+        "kurzbezeichnung": "Vogelweg",
+        "id": 46680,
+        "strassenbezeichnung": "Vogelweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 49564,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 46841,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm Hartmann-Weg",
+        "id": 49565,
+        "strassenbezeichnung": "Wilhelm Hartmann-Weg"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm Rengelrod-Sdl.",
+        "id": 49566,
+        "strassenbezeichnung": "Wilhelm Rengelrod-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Zeckernellerweg",
+        "id": 49567,
+        "strassenbezeichnung": "Zeckernellerweg"
+    },
+    {
+        "kurzbezeichnung": "Dultstraße",
+        "id": 49532,
+        "strassenbezeichnung": "Dultstraße"
+    },
+    {
+        "kurzbezeichnung": "Dultweg",
+        "id": 49531,
+        "strassenbezeichnung": "Dultweg"
+    },
+    {
+        "kurzbezeichnung": "Felberstraße",
+        "id": 49536,
+        "strassenbezeichnung": "Felberstraße"
+    },
+    {
+        "kurzbezeichnung": "Harter Höhe",
+        "id": 45846,
+        "strassenbezeichnung": "Harter Höhe"
+    },
+    {
+        "kurzbezeichnung": "Harter Straße",
+        "id": 45843,
+        "strassenbezeichnung": "Harter Straße"
+    },
+    {
+        "kurzbezeichnung": "Kornfeldsiedlung",
+        "id": -30280,
+        "strassenbezeichnung": "Kornfeldsiedlung"
+    }
+]

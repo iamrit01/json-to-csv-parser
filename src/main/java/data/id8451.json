@@ -1,0 +1,592 @@
+[
+    {
+        "kurzbezeichnung": "Sonnwendgasse",
+        "id": -32426,
+        "strassenbezeichnung": "Sonnwendgasse"
+    },
+    {
+        "kurzbezeichnung": "Lupitscheniweg",
+        "id": -32003,
+        "strassenbezeichnung": "Lupitscheniweg"
+    },
+    {
+        "kurzbezeichnung": "Holzerstraße",
+        "id": -32002,
+        "strassenbezeichnung": "Holzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Blechenweg",
+        "id": -32001,
+        "strassenbezeichnung": "Blechenweg"
+    },
+    {
+        "kurzbezeichnung": "Getreideweg",
+        "id": -30781,
+        "strassenbezeichnung": "Getreideweg"
+    },
+    {
+        "kurzbezeichnung": "Altenberg",
+        "id": 49587,
+        "strassenbezeichnung": "Altenberg"
+    },
+    {
+        "kurzbezeichnung": "Innerberg",
+        "id": 49604,
+        "strassenbezeichnung": "Innerberg"
+    },
+    {
+        "kurzbezeichnung": "Neue Welt",
+        "id": 49615,
+        "strassenbezeichnung": "Neue Welt"
+    },
+    {
+        "kurzbezeichnung": "Steingrub",
+        "id": 49623,
+        "strassenbezeichnung": "Steingrub"
+    },
+    {
+        "kurzbezeichnung": "Kranach",
+        "id": 88971,
+        "strassenbezeichnung": "Kranach"
+    },
+    {
+        "kurzbezeichnung": "Nestelberg",
+        "id": 88987,
+        "strassenbezeichnung": "Nestelberg"
+    },
+    {
+        "kurzbezeichnung": "Oberfahrenbach",
+        "id": 88988,
+        "strassenbezeichnung": "Oberfahrenbach"
+    },
+    {
+        "kurzbezeichnung": "Heimschuh",
+        "id": 88994,
+        "strassenbezeichnung": "Heimschuh"
+    },
+    {
+        "kurzbezeichnung": "Kittenberg",
+        "id": 88995,
+        "strassenbezeichnung": "Kittenberg"
+    },
+    {
+        "kurzbezeichnung": "Muggenau",
+        "id": 88996,
+        "strassenbezeichnung": "Muggenau"
+    },
+    {
+        "kurzbezeichnung": "Nestelberg",
+        "id": 88997,
+        "strassenbezeichnung": "Nestelberg"
+    },
+    {
+        "kurzbezeichnung": "Pernitsch",
+        "id": 88998,
+        "strassenbezeichnung": "Pernitsch"
+    },
+    {
+        "kurzbezeichnung": "Unterfahrenbach",
+        "id": 88999,
+        "strassenbezeichnung": "Unterfahrenbach"
+    },
+    {
+        "kurzbezeichnung": "Gauitsch",
+        "id": 89014,
+        "strassenbezeichnung": "Gauitsch"
+    },
+    {
+        "kurzbezeichnung": "Neurath",
+        "id": 89016,
+        "strassenbezeichnung": "Neurath"
+    },
+    {
+        "kurzbezeichnung": "Oberlupitscheni",
+        "id": 89090,
+        "strassenbezeichnung": "Oberlupitscheni"
+    },
+    {
+        "kurzbezeichnung": "Schönegg",
+        "id": 89092,
+        "strassenbezeichnung": "Schönegg"
+    },
+    {
+        "kurzbezeichnung": "Seggauberg",
+        "id": 89093,
+        "strassenbezeichnung": "Seggauberg"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": 97261,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Am Altenberg",
+        "id": 127915,
+        "strassenbezeichnung": "Am Altenberg"
+    },
+    {
+        "kurzbezeichnung": "Am Buchkogel",
+        "id": 127916,
+        "strassenbezeichnung": "Am Buchkogel"
+    },
+    {
+        "kurzbezeichnung": "Am Kittenberg",
+        "id": 127917,
+        "strassenbezeichnung": "Am Kittenberg"
+    },
+    {
+        "kurzbezeichnung": "Am Königsberg",
+        "id": 127918,
+        "strassenbezeichnung": "Am Königsberg"
+    },
+    {
+        "kurzbezeichnung": "Am Sauberg",
+        "id": 127920,
+        "strassenbezeichnung": "Am Sauberg"
+    },
+    {
+        "kurzbezeichnung": "Am Schutzengelberg",
+        "id": 127921,
+        "strassenbezeichnung": "Am Schutzengelberg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 127922,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 127923,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 127924,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlengrund",
+        "id": 127925,
+        "strassenbezeichnung": "Erlengrund"
+    },
+    {
+        "kurzbezeichnung": "Fahrenbachstraße",
+        "id": 127926,
+        "strassenbezeichnung": "Fahrenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Heimschuhstraße",
+        "id": 127927,
+        "strassenbezeichnung": "Heimschuhstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofackerweg",
+        "id": 127928,
+        "strassenbezeichnung": "Hofackerweg"
+    },
+    {
+        "kurzbezeichnung": "Hofweg",
+        "id": 127929,
+        "strassenbezeichnung": "Hofweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 127930,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Im Trattenfeld",
+        "id": 127931,
+        "strassenbezeichnung": "Im Trattenfeld"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 127932,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Keltenweg",
+        "id": 127933,
+        "strassenbezeichnung": "Keltenweg"
+    },
+    {
+        "kurzbezeichnung": "Kittenbergstraße",
+        "id": 127934,
+        "strassenbezeichnung": "Kittenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Kumpffeld",
+        "id": 127935,
+        "strassenbezeichnung": "Kumpffeld"
+    },
+    {
+        "kurzbezeichnung": "Lahnweg",
+        "id": 127936,
+        "strassenbezeichnung": "Lahnweg"
+    },
+    {
+        "kurzbezeichnung": "Leitenweg",
+        "id": 127937,
+        "strassenbezeichnung": "Leitenweg"
+    },
+    {
+        "kurzbezeichnung": "Muggenaustraße",
+        "id": 127938,
+        "strassenbezeichnung": "Muggenaustraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 127939,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Neurathstraße",
+        "id": 127940,
+        "strassenbezeichnung": "Neurathstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Fahrenbachstraße",
+        "id": 127941,
+        "strassenbezeichnung": "Obere Fahrenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberer Talblick",
+        "id": 127942,
+        "strassenbezeichnung": "Oberer Talblick"
+    },
+    {
+        "kurzbezeichnung": "Pernitschstraße",
+        "id": 127943,
+        "strassenbezeichnung": "Pernitschstraße"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 127944,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Rainweg",
+        "id": 127945,
+        "strassenbezeichnung": "Rainweg"
+    },
+    {
+        "kurzbezeichnung": "Riegelweg",
+        "id": 127946,
+        "strassenbezeichnung": "Riegelweg"
+    },
+    {
+        "kurzbezeichnung": "Römerstraße",
+        "id": 127947,
+        "strassenbezeichnung": "Römerstraße"
+    },
+    {
+        "kurzbezeichnung": "Saubergstraße",
+        "id": 127948,
+        "strassenbezeichnung": "Saubergstraße"
+    },
+    {
+        "kurzbezeichnung": "Scheibenweg",
+        "id": 127949,
+        "strassenbezeichnung": "Scheibenweg"
+    },
+    {
+        "kurzbezeichnung": "Schröttenweg",
+        "id": 127950,
+        "strassenbezeichnung": "Schröttenweg"
+    },
+    {
+        "kurzbezeichnung": "Schutzengelstraße",
+        "id": 127951,
+        "strassenbezeichnung": "Schutzengelstraße"
+    },
+    {
+        "kurzbezeichnung": "Schutzengelweg",
+        "id": 127952,
+        "strassenbezeichnung": "Schutzengelweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 127953,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Spitzweg",
+        "id": 127954,
+        "strassenbezeichnung": "Spitzweg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 127955,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Sulmtalstraße",
+        "id": 127956,
+        "strassenbezeichnung": "Sulmtalstraße"
+    },
+    {
+        "kurzbezeichnung": "Sulmweg",
+        "id": 127957,
+        "strassenbezeichnung": "Sulmweg"
+    },
+    {
+        "kurzbezeichnung": "Talblickweg",
+        "id": 127958,
+        "strassenbezeichnung": "Talblickweg"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 127959,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Trattenfeldweg",
+        "id": 127960,
+        "strassenbezeichnung": "Trattenfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Triftweg",
+        "id": 127961,
+        "strassenbezeichnung": "Triftweg"
+    },
+    {
+        "kurzbezeichnung": "Waldbadweg",
+        "id": 127962,
+        "strassenbezeichnung": "Waldbadweg"
+    },
+    {
+        "kurzbezeichnung": "Waldrandweg",
+        "id": 127963,
+        "strassenbezeichnung": "Waldrandweg"
+    },
+    {
+        "kurzbezeichnung": "Weberegg",
+        "id": 127964,
+        "strassenbezeichnung": "Weberegg"
+    },
+    {
+        "kurzbezeichnung": "Wehrstegweg",
+        "id": 127965,
+        "strassenbezeichnung": "Wehrstegweg"
+    },
+    {
+        "kurzbezeichnung": "Weißenbachweg",
+        "id": 127966,
+        "strassenbezeichnung": "Weissenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Weißheim",
+        "id": 127967,
+        "strassenbezeichnung": "Weißheim"
+    },
+    {
+        "kurzbezeichnung": "Weißheimstraße",
+        "id": 127968,
+        "strassenbezeichnung": "Weißheimstraße"
+    },
+    {
+        "kurzbezeichnung": "Wellingtalstraße",
+        "id": 127969,
+        "strassenbezeichnung": "Wellingtalstraße"
+    },
+    {
+        "kurzbezeichnung": "Almwirtweg",
+        "id": 132567,
+        "strassenbezeichnung": "Almwirtweg"
+    },
+    {
+        "kurzbezeichnung": "Am Bachweg",
+        "id": 132568,
+        "strassenbezeichnung": "Am Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Am Frauenberg",
+        "id": 132569,
+        "strassenbezeichnung": "Am Frauenberg"
+    },
+    {
+        "kurzbezeichnung": "Am Plöckelberg",
+        "id": 132570,
+        "strassenbezeichnung": "Am Plöckelberg"
+    },
+    {
+        "kurzbezeichnung": "Bergweg",
+        "id": 132571,
+        "strassenbezeichnung": "Bergweg"
+    },
+    {
+        "kurzbezeichnung": "Buchackerweg",
+        "id": 132572,
+        "strassenbezeichnung": "Buchackerweg"
+    },
+    {
+        "kurzbezeichnung": "Buchwaldweg",
+        "id": 132573,
+        "strassenbezeichnung": "Buchwaldweg"
+    },
+    {
+        "kurzbezeichnung": "Frauenbergstraße",
+        "id": 132575,
+        "strassenbezeichnung": "Frauenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Greitbauerweg",
+        "id": 132576,
+        "strassenbezeichnung": "Greitbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Grubtaler Grenzstraße",
+        "id": 132577,
+        "strassenbezeichnung": "Grubtaler Grenzstraße"
+    },
+    {
+        "kurzbezeichnung": "Grubtaler Straße",
+        "id": 132578,
+        "strassenbezeichnung": "Grubtaler Straße"
+    },
+    {
+        "kurzbezeichnung": "Hahnwiesenweg",
+        "id": 132579,
+        "strassenbezeichnung": "Hahnwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Hasenkopfweg",
+        "id": 132580,
+        "strassenbezeichnung": "Hasenkopfweg"
+    },
+    {
+        "kurzbezeichnung": "Hirtenweg",
+        "id": 132581,
+        "strassenbezeichnung": "Hirtenweg"
+    },
+    {
+        "kurzbezeichnung": "Hollerbrandweg",
+        "id": 132582,
+        "strassenbezeichnung": "Hollerbrandweg"
+    },
+    {
+        "kurzbezeichnung": "Hötlgrabenweg",
+        "id": 132583,
+        "strassenbezeichnung": "Hötlgrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Karnerweg",
+        "id": 132584,
+        "strassenbezeichnung": "Karnerweg"
+    },
+    {
+        "kurzbezeichnung": "Knillyweg",
+        "id": 132586,
+        "strassenbezeichnung": "Knillyweg"
+    },
+    {
+        "kurzbezeichnung": "Kodolitschweg",
+        "id": 132587,
+        "strassenbezeichnung": "Kodolitschweg"
+    },
+    {
+        "kurzbezeichnung": "Koglbauerweg",
+        "id": 132588,
+        "strassenbezeichnung": "Koglbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Kumpffeld",
+        "id": 132589,
+        "strassenbezeichnung": "Kumpffeld"
+    },
+    {
+        "kurzbezeichnung": "Neukoglerweg",
+        "id": 132590,
+        "strassenbezeichnung": "Neukoglerweg"
+    },
+    {
+        "kurzbezeichnung": "Oberlupitschenistraße",
+        "id": 132591,
+        "strassenbezeichnung": "Oberlupitschenistraße"
+    },
+    {
+        "kurzbezeichnung": "Perläckerweg",
+        "id": 132592,
+        "strassenbezeichnung": "Perläckerweg"
+    },
+    {
+        "kurzbezeichnung": "Posodenweg",
+        "id": 132593,
+        "strassenbezeichnung": "Posodenweg"
+    },
+    {
+        "kurzbezeichnung": "Proneggweg",
+        "id": 132594,
+        "strassenbezeichnung": "Proneggweg"
+    },
+    {
+        "kurzbezeichnung": "Rettenbachstraße",
+        "id": 132595,
+        "strassenbezeichnung": "Rettenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Sabenweg",
+        "id": 132596,
+        "strassenbezeichnung": "Sabenweg"
+    },
+    {
+        "kurzbezeichnung": "Schloßkellerweg",
+        "id": 132597,
+        "strassenbezeichnung": "Schloßkellerweg"
+    },
+    {
+        "kurzbezeichnung": "Schöneggstraße",
+        "id": 132598,
+        "strassenbezeichnung": "Schöneggstraße"
+    },
+    {
+        "kurzbezeichnung": "Seggaubergstraße",
+        "id": 132599,
+        "strassenbezeichnung": "Seggaubergstraße"
+    },
+    {
+        "kurzbezeichnung": "Stegweg",
+        "id": 132600,
+        "strassenbezeichnung": "Stegweg"
+    },
+    {
+        "kurzbezeichnung": "Stockerweg",
+        "id": 132601,
+        "strassenbezeichnung": "Stockerweg"
+    },
+    {
+        "kurzbezeichnung": "Sulmsee",
+        "id": 132602,
+        "strassenbezeichnung": "Sulmsee"
+    },
+    {
+        "kurzbezeichnung": "Weinbachstraße",
+        "id": 132603,
+        "strassenbezeichnung": "Weinbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Wolfenkreuzweg",
+        "id": 132605,
+        "strassenbezeichnung": "Wolfenkreuzweg"
+    },
+    {
+        "kurzbezeichnung": "Aflenzer Straße",
+        "id": 132606,
+        "strassenbezeichnung": "Aflenzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Tinnauerweg",
+        "id": 132607,
+        "strassenbezeichnung": "Tinnauerweg"
+    },
+    {
+        "kurzbezeichnung": "Zirngastweg",
+        "id": 133300,
+        "strassenbezeichnung": "Zirngastweg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 133647,
+        "strassenbezeichnung": "Am Sonnenhang"
+    }
+]

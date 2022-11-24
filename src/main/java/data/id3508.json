@@ -1,0 +1,537 @@
+[
+    {
+        "kurzbezeichnung": "Marillengarten",
+        "id": -32826,
+        "strassenbezeichnung": "Marillengarten"
+    },
+    {
+        "kurzbezeichnung": "Kirchenfeld",
+        "id": -32417,
+        "strassenbezeichnung": "Kirchenfeld"
+    },
+    {
+        "kurzbezeichnung": "Adalbert-Dungel-Gasse",
+        "id": -32240,
+        "strassenbezeichnung": "Adalbert-Dungel-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Am Goldbühel",
+        "id": -30726,
+        "strassenbezeichnung": "Am Goldbühel"
+    },
+    {
+        "kurzbezeichnung": "Obere Ziegelofengasse",
+        "id": -20875,
+        "strassenbezeichnung": "Obere Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Höbenbach",
+        "id": -12125,
+        "strassenbezeichnung": "Höbenbach"
+    },
+    {
+        "kurzbezeichnung": "Eggendorf",
+        "id": -12124,
+        "strassenbezeichnung": "Eggendorf"
+    },
+    {
+        "kurzbezeichnung": "Höbenbacherstraße",
+        "id": -10482,
+        "strassenbezeichnung": "Höbenbacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Kremser Straße",
+        "id": -5183,
+        "strassenbezeichnung": "Kremser Straße"
+    },
+    {
+        "kurzbezeichnung": "Kremser Straße",
+        "id": -5182,
+        "strassenbezeichnung": "Kremser Straße"
+    },
+    {
+        "kurzbezeichnung": "Kremser Straße",
+        "id": -5181,
+        "strassenbezeichnung": "Kremser Straße"
+    },
+    {
+        "kurzbezeichnung": "Eggendorfer Straße",
+        "id": -5180,
+        "strassenbezeichnung": "Eggendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lissen",
+        "id": 50728,
+        "strassenbezeichnung": "Lissen"
+    },
+    {
+        "kurzbezeichnung": "Sonnwendhügel",
+        "id": 50729,
+        "strassenbezeichnung": "Sonnwendhügel"
+    },
+    {
+        "kurzbezeichnung": "Panholz",
+        "id": 55425,
+        "strassenbezeichnung": "Panholz"
+    },
+    {
+        "kurzbezeichnung": "Alte Straße",
+        "id": 55616,
+        "strassenbezeichnung": "Alte Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Berg",
+        "id": 55618,
+        "strassenbezeichnung": "Am Berg"
+    },
+    {
+        "kurzbezeichnung": "Am Berg",
+        "id": 55619,
+        "strassenbezeichnung": "Am Berg"
+    },
+    {
+        "kurzbezeichnung": "Am Göttweiger Berg",
+        "id": 55620,
+        "strassenbezeichnung": "Am Göttweiger Berg"
+    },
+    {
+        "kurzbezeichnung": "Am Spickenberg",
+        "id": 55621,
+        "strassenbezeichnung": "Am Spickenberg"
+    },
+    {
+        "kurzbezeichnung": "Anzingerstraße",
+        "id": 55622,
+        "strassenbezeichnung": "Anzingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 55623,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 55624,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 55625,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 55626,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 55627,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 55628,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Bruckweg",
+        "id": 55629,
+        "strassenbezeichnung": "Bruckweg"
+    },
+    {
+        "kurzbezeichnung": "Bründlgasse",
+        "id": 55630,
+        "strassenbezeichnung": "Bründlgasse"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 55632,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Eichberggasse",
+        "id": 55633,
+        "strassenbezeichnung": "Eichberggasse"
+    },
+    {
+        "kurzbezeichnung": "Eichfeldweg",
+        "id": 55634,
+        "strassenbezeichnung": "Eichfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Eggendorferstraße",
+        "id": 55636,
+        "strassenbezeichnung": "Eggendorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Fabrikenhügel",
+        "id": 55637,
+        "strassenbezeichnung": "Fabrikenhügel"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 55638,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Fuchastraße",
+        "id": 55639,
+        "strassenbezeichnung": "Fuchastraße"
+    },
+    {
+        "kurzbezeichnung": "Fuchsengraben",
+        "id": 55640,
+        "strassenbezeichnung": "Fuchsengraben"
+    },
+    {
+        "kurzbezeichnung": "Furthnerstraße",
+        "id": 55641,
+        "strassenbezeichnung": "Furthnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 55642,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 55643,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Geißmarkgasse",
+        "id": 55644,
+        "strassenbezeichnung": "Geißmarkgasse"
+    },
+    {
+        "kurzbezeichnung": "Grabenweg",
+        "id": 55645,
+        "strassenbezeichnung": "Grabenweg"
+    },
+    {
+        "kurzbezeichnung": "Grundgasse",
+        "id": 55646,
+        "strassenbezeichnung": "Grundgasse"
+    },
+    {
+        "kurzbezeichnung": "Halterberggasse",
+        "id": 55647,
+        "strassenbezeichnung": "Halterberggasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 55648,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlviertel",
+        "id": 55650,
+        "strassenbezeichnung": "Mühlviertel"
+    },
+    {
+        "kurzbezeichnung": "Hollenburgerstraße",
+        "id": 55651,
+        "strassenbezeichnung": "Hollenburgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hütersteig",
+        "id": 55652,
+        "strassenbezeichnung": "Hütersteig"
+    },
+    {
+        "kurzbezeichnung": "Kapellengasse",
+        "id": 55653,
+        "strassenbezeichnung": "Kapellengasse"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 55654,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 55655,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 55656,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 55657,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 55658,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirschbergweg",
+        "id": 55659,
+        "strassenbezeichnung": "Kirschbergweg"
+    },
+    {
+        "kurzbezeichnung": "Kremserstraße",
+        "id": 55660,
+        "strassenbezeichnung": "Kremserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kremserstraße",
+        "id": 55661,
+        "strassenbezeichnung": "Kremserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kremserstraße",
+        "id": 55662,
+        "strassenbezeichnung": "Kremserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 55663,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 55664,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 55665,
+        "strassenbezeichnung": "Lindengasse"
+    },
+    {
+        "kurzbezeichnung": "Maria Ellend",
+        "id": 55666,
+        "strassenbezeichnung": "Maria Ellend"
+    },
+    {
+        "kurzbezeichnung": "Meidlinger Straße",
+        "id": 55667,
+        "strassenbezeichnung": "Meidlinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Mitterfeldweg",
+        "id": 55668,
+        "strassenbezeichnung": "Mitterfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 55669,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlleithengasse",
+        "id": 55670,
+        "strassenbezeichnung": "Mühlleithengasse"
+    },
+    {
+        "kurzbezeichnung": "Nußdorferstraße",
+        "id": 55671,
+        "strassenbezeichnung": "Nußdorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Ortsstraße",
+        "id": 55672,
+        "strassenbezeichnung": "Obere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Zellerstraße",
+        "id": 55673,
+        "strassenbezeichnung": "Obere Zellerstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberer Waldweg",
+        "id": 55674,
+        "strassenbezeichnung": "Oberer Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Ortsstraße",
+        "id": 55675,
+        "strassenbezeichnung": "Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Sandweg",
+        "id": 55676,
+        "strassenbezeichnung": "Sandweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgasse",
+        "id": 55677,
+        "strassenbezeichnung": "Schmiedgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 55678,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Setzenweg",
+        "id": 55679,
+        "strassenbezeichnung": "Setzenweg"
+    },
+    {
+        "kurzbezeichnung": "Theyernerstraße",
+        "id": 55680,
+        "strassenbezeichnung": "Theyernerstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Ortsstraße",
+        "id": 55681,
+        "strassenbezeichnung": "Untere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Zellerstraße",
+        "id": 55682,
+        "strassenbezeichnung": "Untere Zellerstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterer Waldweg",
+        "id": 55683,
+        "strassenbezeichnung": "Unterer Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 55684,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Zeughausgasse",
+        "id": 55685,
+        "strassenbezeichnung": "Zeughausgasse"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofengasse",
+        "id": 55686,
+        "strassenbezeichnung": "Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Brunnen",
+        "id": 55687,
+        "strassenbezeichnung": "Am Brunnen"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 55688,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 62967,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 62968,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Franz Berger-Straße",
+        "id": 75388,
+        "strassenbezeichnung": "Franz Berger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Sternedergasse",
+        "id": 92888,
+        "strassenbezeichnung": "Sternedergasse"
+    },
+    {
+        "kurzbezeichnung": "Oberer Sonnenweg",
+        "id": 93396,
+        "strassenbezeichnung": "Oberer Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Bauernfeldweg",
+        "id": 95331,
+        "strassenbezeichnung": "Bauernfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 97037,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Benedikt-Kißling-Str.",
+        "id": 98786,
+        "strassenbezeichnung": "Benedikt-Kißling-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hirschleitenweg",
+        "id": 98788,
+        "strassenbezeichnung": "Hirschleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Schwertfegergasse",
+        "id": 98790,
+        "strassenbezeichnung": "Schwertfegergasse"
+    },
+    {
+        "kurzbezeichnung": "Wasserstuben",
+        "id": 98791,
+        "strassenbezeichnung": "Wasserstuben"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm-Kienzl-Straße",
+        "id": 98792,
+        "strassenbezeichnung": "Wilhelm-Kienzl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Eichberggasse",
+        "id": 98793,
+        "strassenbezeichnung": "Eichberggasse"
+    },
+    {
+        "kurzbezeichnung": "Am Donaublick",
+        "id": 99975,
+        "strassenbezeichnung": "Am Donaublick"
+    },
+    {
+        "kurzbezeichnung": "Lehnergraben",
+        "id": 105868,
+        "strassenbezeichnung": "Lehnergraben"
+    },
+    {
+        "kurzbezeichnung": "Kremsersteig",
+        "id": 109990,
+        "strassenbezeichnung": "Kremsersteig"
+    },
+    {
+        "kurzbezeichnung": "Hellerhofweg",
+        "id": 112131,
+        "strassenbezeichnung": "Hellerhofweg"
+    },
+    {
+        "kurzbezeichnung": "Kardinal König-Straße",
+        "id": 112240,
+        "strassenbezeichnung": "Kardinal König-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dietmannsdorfer Straße",
+        "id": 112242,
+        "strassenbezeichnung": "Dietmannsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenblumenweg",
+        "id": 112243,
+        "strassenbezeichnung": "Sonnenblumenweg"
+    },
+    {
+        "kurzbezeichnung": "Hochholzweg",
+        "id": 115129,
+        "strassenbezeichnung": "Hochholzweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 115569,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 115570,
+        "strassenbezeichnung": "Erlenweg"
+    }
+]

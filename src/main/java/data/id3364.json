@@ -1,0 +1,747 @@
+[
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": -34114,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Hainweg",
+        "id": -34113,
+        "strassenbezeichnung": "Hainweg"
+    },
+    {
+        "kurzbezeichnung": "Hochkogelbergstraße",
+        "id": -32340,
+        "strassenbezeichnung": "Hochkogelbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": -32328,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Glockengasse",
+        "id": -30109,
+        "strassenbezeichnung": "Glockengasse"
+    },
+    {
+        "kurzbezeichnung": "Mondscheingasse",
+        "id": -18194,
+        "strassenbezeichnung": "Mondscheingasse"
+    },
+    {
+        "kurzbezeichnung": "Fortunaweg",
+        "id": -17112,
+        "strassenbezeichnung": "Fortunaweg"
+    },
+    {
+        "kurzbezeichnung": "Zauchweg",
+        "id": -16879,
+        "strassenbezeichnung": "Zauchweg"
+    },
+    {
+        "kurzbezeichnung": "Haagberg",
+        "id": 73683,
+        "strassenbezeichnung": "Haagberg"
+    },
+    {
+        "kurzbezeichnung": "Neuhofen an der Ybbs",
+        "id": 73688,
+        "strassenbezeichnung": "Neuhofen an der Ybbs"
+    },
+    {
+        "kurzbezeichnung": "Schlickenreith",
+        "id": 73689,
+        "strassenbezeichnung": "Schlickenreith"
+    },
+    {
+        "kurzbezeichnung": "Obertal",
+        "id": 73690,
+        "strassenbezeichnung": "Obertal"
+    },
+    {
+        "kurzbezeichnung": "Perbersdorf",
+        "id": 73691,
+        "strassenbezeichnung": "Perbersdorf"
+    },
+    {
+        "kurzbezeichnung": "Trautmannsberg",
+        "id": 73692,
+        "strassenbezeichnung": "Trautmannsberg"
+    },
+    {
+        "kurzbezeichnung": "Untertal",
+        "id": 73693,
+        "strassenbezeichnung": "Untertal"
+    },
+    {
+        "kurzbezeichnung": "Frieberstetten",
+        "id": 73694,
+        "strassenbezeichnung": "Frieberstetten"
+    },
+    {
+        "kurzbezeichnung": "Hörlesberg",
+        "id": 73695,
+        "strassenbezeichnung": "Hörlesberg"
+    },
+    {
+        "kurzbezeichnung": "Pfosendorf",
+        "id": 73696,
+        "strassenbezeichnung": "Pfosendorf"
+    },
+    {
+        "kurzbezeichnung": "Reichersdorf",
+        "id": 73697,
+        "strassenbezeichnung": "Reichersdorf"
+    },
+    {
+        "kurzbezeichnung": "Ried",
+        "id": 73698,
+        "strassenbezeichnung": "Ried"
+    },
+    {
+        "kurzbezeichnung": "Scherbling",
+        "id": 73699,
+        "strassenbezeichnung": "Scherbling"
+    },
+    {
+        "kurzbezeichnung": "Sonnhub",
+        "id": 73700,
+        "strassenbezeichnung": "Sonnhub"
+    },
+    {
+        "kurzbezeichnung": "Abschleifing",
+        "id": 73701,
+        "strassenbezeichnung": "Abschleifing"
+    },
+    {
+        "kurzbezeichnung": "Dippersdorf",
+        "id": 73702,
+        "strassenbezeichnung": "Dippersdorf"
+    },
+    {
+        "kurzbezeichnung": "Gaistechen",
+        "id": 73703,
+        "strassenbezeichnung": "Gaistechen"
+    },
+    {
+        "kurzbezeichnung": "Kreiling",
+        "id": 73704,
+        "strassenbezeichnung": "Kreiling"
+    },
+    {
+        "kurzbezeichnung": "Lixing",
+        "id": 73705,
+        "strassenbezeichnung": "Lixing"
+    },
+    {
+        "kurzbezeichnung": "Oberhömbach",
+        "id": 73706,
+        "strassenbezeichnung": "Oberhömbach"
+    },
+    {
+        "kurzbezeichnung": "Rampersdorf",
+        "id": 73707,
+        "strassenbezeichnung": "Rampersdorf"
+    },
+    {
+        "kurzbezeichnung": "Schindau",
+        "id": 73708,
+        "strassenbezeichnung": "Schindau"
+    },
+    {
+        "kurzbezeichnung": "Unterhömbach",
+        "id": 73709,
+        "strassenbezeichnung": "Unterhömbach"
+    },
+    {
+        "kurzbezeichnung": "Amesleiten",
+        "id": 73710,
+        "strassenbezeichnung": "Amesleiten"
+    },
+    {
+        "kurzbezeichnung": "Elzbach",
+        "id": 73711,
+        "strassenbezeichnung": "Elzbach"
+    },
+    {
+        "kurzbezeichnung": "Schloßsiedlung",
+        "id": 73712,
+        "strassenbezeichnung": "Schloßsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Fachwinkl",
+        "id": 73713,
+        "strassenbezeichnung": "Fachwinkl"
+    },
+    {
+        "kurzbezeichnung": "Forsthub",
+        "id": 73714,
+        "strassenbezeichnung": "Forsthub"
+    },
+    {
+        "kurzbezeichnung": "Grub",
+        "id": 73715,
+        "strassenbezeichnung": "Grub"
+    },
+    {
+        "kurzbezeichnung": "Hörtling",
+        "id": 73716,
+        "strassenbezeichnung": "Hörtling"
+    },
+    {
+        "kurzbezeichnung": "Kornberg",
+        "id": 73717,
+        "strassenbezeichnung": "Kornberg"
+    },
+    {
+        "kurzbezeichnung": "Pöttenberg",
+        "id": 73718,
+        "strassenbezeichnung": "Pöttenberg"
+    },
+    {
+        "kurzbezeichnung": "Ungförten",
+        "id": 73719,
+        "strassenbezeichnung": "Ungförten"
+    },
+    {
+        "kurzbezeichnung": "Brandstetten",
+        "id": 73720,
+        "strassenbezeichnung": "Brandstetten"
+    },
+    {
+        "kurzbezeichnung": "Gitzing",
+        "id": 73721,
+        "strassenbezeichnung": "Gitzing"
+    },
+    {
+        "kurzbezeichnung": "Hiesbach",
+        "id": 73722,
+        "strassenbezeichnung": "Hiesbach"
+    },
+    {
+        "kurzbezeichnung": "Toberstetten",
+        "id": 73723,
+        "strassenbezeichnung": "Toberstetten"
+    },
+    {
+        "kurzbezeichnung": "Graben",
+        "id": 80836,
+        "strassenbezeichnung": "Graben"
+    },
+    {
+        "kurzbezeichnung": "Haidenlachmühle",
+        "id": 92970,
+        "strassenbezeichnung": "Haidenlachmühle"
+    },
+    {
+        "kurzbezeichnung": "Stopfenau",
+        "id": 108333,
+        "strassenbezeichnung": "Stopfenau"
+    },
+    {
+        "kurzbezeichnung": "Haagbergreidl",
+        "id": 108334,
+        "strassenbezeichnung": "Haagbergreidl"
+    },
+    {
+        "kurzbezeichnung": "Karlsmühle",
+        "id": 108335,
+        "strassenbezeichnung": "Karlsmühle"
+    },
+    {
+        "kurzbezeichnung": "Stürzenhof",
+        "id": 108336,
+        "strassenbezeichnung": "Stürzenhof"
+    },
+    {
+        "kurzbezeichnung": "Wurmlehen",
+        "id": 108337,
+        "strassenbezeichnung": "Wurmlehen"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 108338,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 108339,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Schloßstraße",
+        "id": 108340,
+        "strassenbezeichnung": "Schloßstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 108341,
+        "strassenbezeichnung": "Schloßgasse"
+    },
+    {
+        "kurzbezeichnung": "Werk",
+        "id": 108342,
+        "strassenbezeichnung": "Werk"
+    },
+    {
+        "kurzbezeichnung": "Hörlesbergstraße",
+        "id": 108343,
+        "strassenbezeichnung": "Hörlesbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Haagbergstraße",
+        "id": 108344,
+        "strassenbezeichnung": "Haagbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 108345,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 108346,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Dobenaustraße",
+        "id": 108347,
+        "strassenbezeichnung": "Dobenaustraße"
+    },
+    {
+        "kurzbezeichnung": "Keltenweg",
+        "id": 108348,
+        "strassenbezeichnung": "Keltenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 108349,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Ahornstraße",
+        "id": 108350,
+        "strassenbezeichnung": "Ahornstraße"
+    },
+    {
+        "kurzbezeichnung": "Stixing",
+        "id": 108351,
+        "strassenbezeichnung": "Stixing"
+    },
+    {
+        "kurzbezeichnung": "Miesberg",
+        "id": 108352,
+        "strassenbezeichnung": "Miesberg"
+    },
+    {
+        "kurzbezeichnung": "Edtbrust",
+        "id": 108353,
+        "strassenbezeichnung": "Edtbrust"
+    },
+    {
+        "kurzbezeichnung": "Greinöd",
+        "id": 108354,
+        "strassenbezeichnung": "Greinöd"
+    },
+    {
+        "kurzbezeichnung": "Steinmühle",
+        "id": 108355,
+        "strassenbezeichnung": "Steinmühle"
+    },
+    {
+        "kurzbezeichnung": "Ulwies",
+        "id": 108356,
+        "strassenbezeichnung": "Ulwies"
+    },
+    {
+        "kurzbezeichnung": "Hinterberg",
+        "id": 108357,
+        "strassenbezeichnung": "Hinterberg"
+    },
+    {
+        "kurzbezeichnung": "Wies",
+        "id": 108358,
+        "strassenbezeichnung": "Wies"
+    },
+    {
+        "kurzbezeichnung": "Oberleiten",
+        "id": 108359,
+        "strassenbezeichnung": "Oberleiten"
+    },
+    {
+        "kurzbezeichnung": "Futteröd",
+        "id": 108360,
+        "strassenbezeichnung": "Futteröd"
+    },
+    {
+        "kurzbezeichnung": "Langenheim",
+        "id": 108361,
+        "strassenbezeichnung": "Langenheim"
+    },
+    {
+        "kurzbezeichnung": "Neudau",
+        "id": 108362,
+        "strassenbezeichnung": "Neudau"
+    },
+    {
+        "kurzbezeichnung": "Hirschöd",
+        "id": 108363,
+        "strassenbezeichnung": "Hirschöd"
+    },
+    {
+        "kurzbezeichnung": "Leopoldigasse",
+        "id": 108364,
+        "strassenbezeichnung": "Leopoldigasse"
+    },
+    {
+        "kurzbezeichnung": "Millenniumsplatz",
+        "id": 108365,
+        "strassenbezeichnung": "Millenniumsplatz"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 108366,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 108367,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Blasmusikgasse",
+        "id": 108368,
+        "strassenbezeichnung": "Blasmusikgasse"
+    },
+    {
+        "kurzbezeichnung": "Ulmerfelderstraße",
+        "id": 108369,
+        "strassenbezeichnung": "Ulmerfelderstraße"
+    },
+    {
+        "kurzbezeichnung": "Kindergartengasse",
+        "id": 108370,
+        "strassenbezeichnung": "Kindergartengasse"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 108371,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Marktstraße",
+        "id": 108372,
+        "strassenbezeichnung": "Marktstraße"
+    },
+    {
+        "kurzbezeichnung": "Kornbergsiedlung",
+        "id": 108373,
+        "strassenbezeichnung": "Kornbergsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Niederneuhofen",
+        "id": 108374,
+        "strassenbezeichnung": "Niederneuhofen"
+    },
+    {
+        "kurzbezeichnung": "Wading",
+        "id": 108375,
+        "strassenbezeichnung": "Wading"
+    },
+    {
+        "kurzbezeichnung": "Kornbergstraße",
+        "id": 108376,
+        "strassenbezeichnung": "Kornbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Steiring",
+        "id": 108377,
+        "strassenbezeichnung": "Steiring"
+    },
+    {
+        "kurzbezeichnung": "Lukasöd",
+        "id": 108378,
+        "strassenbezeichnung": "Lukasöd"
+    },
+    {
+        "kurzbezeichnung": "Mitterbach",
+        "id": 108379,
+        "strassenbezeichnung": "Mitterbach"
+    },
+    {
+        "kurzbezeichnung": "Urbasmühle",
+        "id": 108380,
+        "strassenbezeichnung": "Urbasmühle"
+    },
+    {
+        "kurzbezeichnung": "Edla",
+        "id": 108381,
+        "strassenbezeichnung": "Edla"
+    },
+    {
+        "kurzbezeichnung": "Nußöd",
+        "id": 108382,
+        "strassenbezeichnung": "Nußöd"
+    },
+    {
+        "kurzbezeichnung": "Witzelsberg",
+        "id": 108383,
+        "strassenbezeichnung": "Witzelsberg"
+    },
+    {
+        "kurzbezeichnung": "Wieserreith",
+        "id": 108384,
+        "strassenbezeichnung": "Wieserreith"
+    },
+    {
+        "kurzbezeichnung": "Ostarrichigasse",
+        "id": 108385,
+        "strassenbezeichnung": "Ostarrichigasse"
+    },
+    {
+        "kurzbezeichnung": "Ostarrichistraße",
+        "id": 108386,
+        "strassenbezeichnung": "Ostarrichistraße"
+    },
+    {
+        "kurzbezeichnung": "Johannesstraße",
+        "id": 108387,
+        "strassenbezeichnung": "Johannesstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 108388,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulring",
+        "id": 108389,
+        "strassenbezeichnung": "Schulring"
+    },
+    {
+        "kurzbezeichnung": "Florianistraße",
+        "id": 108390,
+        "strassenbezeichnung": "Florianistraße"
+    },
+    {
+        "kurzbezeichnung": "Rauscherweg",
+        "id": 108391,
+        "strassenbezeichnung": "Rauscherweg"
+    },
+    {
+        "kurzbezeichnung": "Glockenstraße",
+        "id": 108392,
+        "strassenbezeichnung": "Glockenstraße"
+    },
+    {
+        "kurzbezeichnung": "Freisingerstraße",
+        "id": 108393,
+        "strassenbezeichnung": "Freisingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofgasse",
+        "id": 108394,
+        "strassenbezeichnung": "Hofgasse"
+    },
+    {
+        "kurzbezeichnung": "Höllmühle",
+        "id": 108395,
+        "strassenbezeichnung": "Höllmühle"
+    },
+    {
+        "kurzbezeichnung": "Wadingsiedlung",
+        "id": 108396,
+        "strassenbezeichnung": "Wadingsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Euratsfelderstraße",
+        "id": 108397,
+        "strassenbezeichnung": "Euratsfelderstraße"
+    },
+    {
+        "kurzbezeichnung": "Mitterberg",
+        "id": 108398,
+        "strassenbezeichnung": "Mitterberg"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 108399,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 108400,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosenstraße",
+        "id": 108401,
+        "strassenbezeichnung": "Rosenstraße"
+    },
+    {
+        "kurzbezeichnung": "Austraße",
+        "id": 108402,
+        "strassenbezeichnung": "Austraße"
+    },
+    {
+        "kurzbezeichnung": "Pumperlberg",
+        "id": 108403,
+        "strassenbezeichnung": "Pumperlberg"
+    },
+    {
+        "kurzbezeichnung": "Feldpichl",
+        "id": 108404,
+        "strassenbezeichnung": "Feldpichl"
+    },
+    {
+        "kurzbezeichnung": "Steinpichl",
+        "id": 108405,
+        "strassenbezeichnung": "Steinpichl"
+    },
+    {
+        "kurzbezeichnung": "Waida",
+        "id": 108406,
+        "strassenbezeichnung": "Waida"
+    },
+    {
+        "kurzbezeichnung": "Nußbaum",
+        "id": 108407,
+        "strassenbezeichnung": "Nußbaum"
+    },
+    {
+        "kurzbezeichnung": "Fuchslug",
+        "id": 108408,
+        "strassenbezeichnung": "Fuchslug"
+    },
+    {
+        "kurzbezeichnung": "Schauberg",
+        "id": 108409,
+        "strassenbezeichnung": "Schauberg"
+    },
+    {
+        "kurzbezeichnung": "Preinlesberg",
+        "id": 108410,
+        "strassenbezeichnung": "Preinlesberg"
+    },
+    {
+        "kurzbezeichnung": "Staudenmühle",
+        "id": 108411,
+        "strassenbezeichnung": "Staudenmühle"
+    },
+    {
+        "kurzbezeichnung": "Reschenhof",
+        "id": 108412,
+        "strassenbezeichnung": "Reschenhof"
+    },
+    {
+        "kurzbezeichnung": "Bach",
+        "id": 108413,
+        "strassenbezeichnung": "Bach"
+    },
+    {
+        "kurzbezeichnung": "Hub",
+        "id": 108414,
+        "strassenbezeichnung": "Hub"
+    },
+    {
+        "kurzbezeichnung": "Kothmühle",
+        "id": 108415,
+        "strassenbezeichnung": "Kothmühle"
+    },
+    {
+        "kurzbezeichnung": "Fixöd",
+        "id": 108416,
+        "strassenbezeichnung": "Fixöd"
+    },
+    {
+        "kurzbezeichnung": "Weingasse",
+        "id": 108417,
+        "strassenbezeichnung": "Weingasse"
+    },
+    {
+        "kurzbezeichnung": "St.Veit",
+        "id": 108418,
+        "strassenbezeichnung": "St.Veit"
+    },
+    {
+        "kurzbezeichnung": "Edt",
+        "id": 108419,
+        "strassenbezeichnung": "Edt"
+    },
+    {
+        "kurzbezeichnung": "Ebenreidl",
+        "id": 108420,
+        "strassenbezeichnung": "Ebenreidl"
+    },
+    {
+        "kurzbezeichnung": "Bichl",
+        "id": 108421,
+        "strassenbezeichnung": "Bichl"
+    },
+    {
+        "kurzbezeichnung": "Klaffenberg",
+        "id": 108422,
+        "strassenbezeichnung": "Klaffenberg"
+    },
+    {
+        "kurzbezeichnung": "Zauchmühle",
+        "id": 108423,
+        "strassenbezeichnung": "Zauchmühle"
+    },
+    {
+        "kurzbezeichnung": "Weg",
+        "id": 108424,
+        "strassenbezeichnung": "Weg"
+    },
+    {
+        "kurzbezeichnung": "Kothlehen",
+        "id": 108425,
+        "strassenbezeichnung": "Kothlehen"
+    },
+    {
+        "kurzbezeichnung": "Unterholz",
+        "id": 108426,
+        "strassenbezeichnung": "Unterholz"
+    },
+    {
+        "kurzbezeichnung": "Eben",
+        "id": 108429,
+        "strassenbezeichnung": "Eben"
+    },
+    {
+        "kurzbezeichnung": "Wiesenstraße",
+        "id": 109847,
+        "strassenbezeichnung": "Wiesenstraße"
+    },
+    {
+        "kurzbezeichnung": "Weidenstraße",
+        "id": 112686,
+        "strassenbezeichnung": "Weidenstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterfeldstraße",
+        "id": 112688,
+        "strassenbezeichnung": "Unterfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Korbiniangasse",
+        "id": 115792,
+        "strassenbezeichnung": "Korbiniangasse"
+    },
+    {
+        "kurzbezeichnung": "Flurstraße",
+        "id": 116225,
+        "strassenbezeichnung": "Flurstraße"
+    },
+    {
+        "kurzbezeichnung": "Talstraße",
+        "id": 118727,
+        "strassenbezeichnung": "Talstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 125204,
+        "strassenbezeichnung": "Gartenstrasse"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "kurzbezeichnung": "Pfarrergrabenweg",
+        "id": -32841,
+        "strassenbezeichnung": "Pfarrergrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Poestionplatz",
+        "id": -32369,
+        "strassenbezeichnung": "Poestionplatz"
+    },
+    {
+        "kurzbezeichnung": "Gimpelinsel",
+        "id": -32164,
+        "strassenbezeichnung": "Gimpelinsel"
+    },
+    {
+        "kurzbezeichnung": "Lerchenreith",
+        "id": -12302,
+        "strassenbezeichnung": "Lerchenreith"
+    },
+    {
+        "kurzbezeichnung": "Gschlößl",
+        "id": -12301,
+        "strassenbezeichnung": "Gschlößl"
+    },
+    {
+        "kurzbezeichnung": "Anger",
+        "id": -12300,
+        "strassenbezeichnung": "Anger"
+    },
+    {
+        "kurzbezeichnung": "Obertressen",
+        "id": -3552,
+        "strassenbezeichnung": "Obertressen"
+    },
+    {
+        "kurzbezeichnung": "Stoff'n-Etz-Weg",
+        "id": 11746,
+        "strassenbezeichnung": "Stoff'n-Etz-Weg"
+    },
+    {
+        "kurzbezeichnung": "Draxl",
+        "id": 36516,
+        "strassenbezeichnung": "Draxl"
+    },
+    {
+        "kurzbezeichnung": "Renner-Hansl-Straße",
+        "id": 36527,
+        "strassenbezeichnung": "Renner-Hansl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlleite",
+        "id": 36546,
+        "strassenbezeichnung": "Mühlleite"
+    },
+    {
+        "kurzbezeichnung": "Sießreithstraße",
+        "id": 36549,
+        "strassenbezeichnung": "Sießreithstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 36813,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Alte Salzstraße",
+        "id": 36834,
+        "strassenbezeichnung": "Alte Salzstraße"
+    },
+    {
+        "kurzbezeichnung": "Feriendorf St.Leonhard",
+        "id": 36862,
+        "strassenbezeichnung": "Feriendorf Sankt Leonhard"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 36873,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Gallhofstraße",
+        "id": 36938,
+        "strassenbezeichnung": "Gallhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Grundlseer Straße",
+        "id": 36947,
+        "strassenbezeichnung": "Grundlseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Reithgasse",
+        "id": 36960,
+        "strassenbezeichnung": "Reithgasse"
+    },
+    {
+        "kurzbezeichnung": "Alpencottage",
+        "id": 37068,
+        "strassenbezeichnung": "Alpencottage"
+    },
+    {
+        "kurzbezeichnung": "Öfnerstraße",
+        "id": 37069,
+        "strassenbezeichnung": "Öfnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Schwabenwald",
+        "id": 37097,
+        "strassenbezeichnung": "Am Schwabenwald"
+    },
+    {
+        "kurzbezeichnung": "Gotschmanninstraße",
+        "id": 37103,
+        "strassenbezeichnung": "Gotschmanninstraße"
+    },
+    {
+        "kurzbezeichnung": "Pötschenstraße",
+        "id": 37110,
+        "strassenbezeichnung": "Pötschenstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Brandhof",
+        "id": 37138,
+        "strassenbezeichnung": "Am Brandhof"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgutstraße",
+        "id": 37192,
+        "strassenbezeichnung": "Schmiedgutstraße"
+    },
+    {
+        "kurzbezeichnung": "Tanner",
+        "id": 37195,
+        "strassenbezeichnung": "Tanner"
+    },
+    {
+        "kurzbezeichnung": "Voglbichlgasse",
+        "id": 37196,
+        "strassenbezeichnung": "Voglbichlgasse"
+    },
+    {
+        "kurzbezeichnung": "Hiasngasse",
+        "id": 37199,
+        "strassenbezeichnung": "Hiasngasse"
+    },
+    {
+        "kurzbezeichnung": "Altausseer Straße",
+        "id": 37932,
+        "strassenbezeichnung": "Altausseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofpromenade",
+        "id": 37933,
+        "strassenbezeichnung": "Bahnhofpromenade"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 37934,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Braungasse",
+        "id": 37935,
+        "strassenbezeichnung": "Braungasse"
+    },
+    {
+        "kurzbezeichnung": "Chlumeckyplatz",
+        "id": 37936,
+        "strassenbezeichnung": "Chlumeckyplatz"
+    },
+    {
+        "kurzbezeichnung": "Cramerpromenade",
+        "id": 37937,
+        "strassenbezeichnung": "Cramerpromenade"
+    },
+    {
+        "kurzbezeichnung": "Elisabethpromenade",
+        "id": 37938,
+        "strassenbezeichnung": "Elisabethpromenade"
+    },
+    {
+        "kurzbezeichnung": "Erzherzog-Johann-Prom.",
+        "id": 37939,
+        "strassenbezeichnung": "Erzherzog-Johann-Promenade"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 37940,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gasteig",
+        "id": 37941,
+        "strassenbezeichnung": "Gasteig"
+    },
+    {
+        "kurzbezeichnung": "Grundlseer Straße",
+        "id": 37942,
+        "strassenbezeichnung": "Grundlseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Haslauergasse",
+        "id": 37943,
+        "strassenbezeichnung": "Haslauergasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 37944,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Ischler Straße",
+        "id": 37945,
+        "strassenbezeichnung": "Ischler Straße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 37946,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kramergasse",
+        "id": 37947,
+        "strassenbezeichnung": "Kramergasse"
+    },
+    {
+        "kurzbezeichnung": "Kurhausplatz",
+        "id": 37948,
+        "strassenbezeichnung": "Kurhausplatz"
+    },
+    {
+        "kurzbezeichnung": "Lößlpromenade",
+        "id": 37949,
+        "strassenbezeichnung": "Lößlpromenade"
+    },
+    {
+        "kurzbezeichnung": "Marktleite",
+        "id": 37950,
+        "strassenbezeichnung": "Marktleite"
+    },
+    {
+        "kurzbezeichnung": "Meranplatz",
+        "id": 37952,
+        "strassenbezeichnung": "Meranplatz"
+    },
+    {
+        "kurzbezeichnung": "Mühlleite",
+        "id": 37953,
+        "strassenbezeichnung": "Mühlleite"
+    },
+    {
+        "kurzbezeichnung": "Neupersteg",
+        "id": 37954,
+        "strassenbezeichnung": "Neupersteg"
+    },
+    {
+        "kurzbezeichnung": "Parkgasse",
+        "id": 37956,
+        "strassenbezeichnung": "Parkgasse"
+    },
+    {
+        "kurzbezeichnung": "Kurpark",
+        "id": 37957,
+        "strassenbezeichnung": "Kurpark"
+    },
+    {
+        "kurzbezeichnung": "Pratergasse",
+        "id": 37958,
+        "strassenbezeichnung": "Pratergasse"
+    },
+    {
+        "kurzbezeichnung": "Rudolfstraße",
+        "id": 37959,
+        "strassenbezeichnung": "Rudolfstraße"
+    },
+    {
+        "kurzbezeichnung": "Stefaniekai",
+        "id": 37960,
+        "strassenbezeichnung": "Stefaniekai"
+    },
+    {
+        "kurzbezeichnung": "Tauscheringasse",
+        "id": 37961,
+        "strassenbezeichnung": "Tauscheringasse"
+    },
+    {
+        "kurzbezeichnung": "Wiedleite",
+        "id": 37962,
+        "strassenbezeichnung": "Wiedleite"
+    },
+    {
+        "kurzbezeichnung": "Brennerlacke",
+        "id": 58535,
+        "strassenbezeichnung": "Brennerlacke"
+    },
+    {
+        "kurzbezeichnung": "Grubenstraße",
+        "id": 58536,
+        "strassenbezeichnung": "Grubenstraße"
+    },
+    {
+        "kurzbezeichnung": "Weißenbachstraße",
+        "id": 58537,
+        "strassenbezeichnung": "Weißenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintenkoglweg",
+        "id": 58538,
+        "strassenbezeichnung": "Hintenkoglweg"
+    },
+    {
+        "kurzbezeichnung": "Himmelsleiter",
+        "id": 60068,
+        "strassenbezeichnung": "Himmelsleiter"
+    },
+    {
+        "kurzbezeichnung": "Otto-Körber-Weg",
+        "id": 60069,
+        "strassenbezeichnung": "Otto-Körber-Weg"
+    },
+    {
+        "kurzbezeichnung": "Jugendherbergsstraße",
+        "id": 60070,
+        "strassenbezeichnung": "Jugendherbergsstraße"
+    },
+    {
+        "kurzbezeichnung": "Oppauerplatz",
+        "id": 60072,
+        "strassenbezeichnung": "Oppauerplatz"
+    },
+    {
+        "kurzbezeichnung": "Pratergasse",
+        "id": 60073,
+        "strassenbezeichnung": "Pratergasse"
+    },
+    {
+        "kurzbezeichnung": "Straußenbühel",
+        "id": 60074,
+        "strassenbezeichnung": "Straußenbühel"
+    },
+    {
+        "kurzbezeichnung": "Weiklbodenweg",
+        "id": 60125,
+        "strassenbezeichnung": "Weiklbodenweg"
+    },
+    {
+        "kurzbezeichnung": "Scheibnergasse",
+        "id": 60126,
+        "strassenbezeichnung": "Scheibnergasse"
+    },
+    {
+        "kurzbezeichnung": "Schießstattgasse",
+        "id": 60127,
+        "strassenbezeichnung": "Schießstattgasse"
+    },
+    {
+        "kurzbezeichnung": "Kolonie",
+        "id": 60128,
+        "strassenbezeichnung": "Kolonie"
+    },
+    {
+        "kurzbezeichnung": "Ziegelbachweg",
+        "id": 60129,
+        "strassenbezeichnung": "Ziegelbachweg"
+    },
+    {
+        "kurzbezeichnung": "Eselsbachsiedlung",
+        "id": 60130,
+        "strassenbezeichnung": "Eselsbachsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Pratersteig",
+        "id": 60131,
+        "strassenbezeichnung": "Pratersteig"
+    },
+    {
+        "kurzbezeichnung": "Hiatlbühelweg",
+        "id": 60132,
+        "strassenbezeichnung": "Hiatlbühelweg"
+    },
+    {
+        "kurzbezeichnung": "Renner-Hansl-Straße",
+        "id": 60133,
+        "strassenbezeichnung": "Renner-Hansl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ziegelbachweg",
+        "id": 60134,
+        "strassenbezeichnung": "Ziegelbachweg"
+    },
+    {
+        "kurzbezeichnung": "Draxl",
+        "id": 60135,
+        "strassenbezeichnung": "Draxl"
+    },
+    {
+        "kurzbezeichnung": "Salitererweg",
+        "id": 60136,
+        "strassenbezeichnung": "Salitererweg"
+    },
+    {
+        "kurzbezeichnung": "Paulngasse",
+        "id": 60137,
+        "strassenbezeichnung": "Paulngasse"
+    },
+    {
+        "kurzbezeichnung": "Hochleitenweg",
+        "id": 60138,
+        "strassenbezeichnung": "Hochleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Umfahrungsstraße",
+        "id": 60139,
+        "strassenbezeichnung": "Umfahrungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldbühelstraße",
+        "id": 60140,
+        "strassenbezeichnung": "Waldbühelstraße"
+    },
+    {
+        "kurzbezeichnung": "Koppenstraße",
+        "id": 60141,
+        "strassenbezeichnung": "Koppenstraße"
+    },
+    {
+        "kurzbezeichnung": "Radlingweg",
+        "id": 60142,
+        "strassenbezeichnung": "Radlingweg"
+    },
+    {
+        "kurzbezeichnung": "Austegweg",
+        "id": 60143,
+        "strassenbezeichnung": "Austegweg"
+    },
+    {
+        "kurzbezeichnung": "Ödensee",
+        "id": 60145,
+        "strassenbezeichnung": "Ödensee"
+    },
+    {
+        "kurzbezeichnung": "Hanischbühel",
+        "id": 60146,
+        "strassenbezeichnung": "Hanischbühel"
+    },
+    {
+        "kurzbezeichnung": "Emil-Ertl-Weg",
+        "id": 60147,
+        "strassenbezeichnung": "Emil-Ertl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Sigmund-Freud-Straße",
+        "id": 60148,
+        "strassenbezeichnung": "Sigmund-Freud-Straße"
+    },
+    {
+        "kurzbezeichnung": "Sattelweg",
+        "id": 60149,
+        "strassenbezeichnung": "Sattelweg"
+    },
+    {
+        "kurzbezeichnung": "H.-von-Hofmannsthal-W.",
+        "id": 60150,
+        "strassenbezeichnung": "Hugo-von-Hofmannsthal-Weg"
+    },
+    {
+        "kurzbezeichnung": "Emil-Marriot-Weg",
+        "id": 60151,
+        "strassenbezeichnung": "Emil-Marriot-Weg"
+    },
+    {
+        "kurzbezeichnung": "Obertressenstraße",
+        "id": 60152,
+        "strassenbezeichnung": "Obertressenstraße"
+    },
+    {
+        "kurzbezeichnung": "Ramgutstraße",
+        "id": 60153,
+        "strassenbezeichnung": "Ramgutstraße"
+    },
+    {
+        "kurzbezeichnung": "Frank-Thieß-Gasse",
+        "id": 60154,
+        "strassenbezeichnung": "Frank-Thieß-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Haslauergasse",
+        "id": 60155,
+        "strassenbezeichnung": "Haslauergasse"
+    },
+    {
+        "kurzbezeichnung": "Himmelsleiter",
+        "id": 60156,
+        "strassenbezeichnung": "Himmelsleiter"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": 60157,
+        "strassenbezeichnung": "Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Grundlseer Straße",
+        "id": 60158,
+        "strassenbezeichnung": "Grundlseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Praunfalkgasse",
+        "id": 60159,
+        "strassenbezeichnung": "Praunfalkgasse"
+    },
+    {
+        "kurzbezeichnung": "Altausseer Straße",
+        "id": 60160,
+        "strassenbezeichnung": "Altausseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Hürsch-Weg",
+        "id": 60161,
+        "strassenbezeichnung": "Hürsch-Weg"
+    },
+    {
+        "kurzbezeichnung": "Plaisirgasse",
+        "id": 60162,
+        "strassenbezeichnung": "Plaisirgasse"
+    },
+    {
+        "kurzbezeichnung": "Elisabethpromenade",
+        "id": 60163,
+        "strassenbezeichnung": "Elisabethpromenade"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 60164,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. J.-Schreiber-Sdl.",
+        "id": 60165,
+        "strassenbezeichnung": "Dr. Josef-Schreiber-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Reitern",
+        "id": 60190,
+        "strassenbezeichnung": "Reitern"
+    },
+    {
+        "kurzbezeichnung": "Elisabethpromenade",
+        "id": 60191,
+        "strassenbezeichnung": "Elisabethpromenade"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm-Kienzl-Straße",
+        "id": 60193,
+        "strassenbezeichnung": "Wilhelm-Kienzl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Nikolaus-Lenau-Hügel",
+        "id": 60194,
+        "strassenbezeichnung": "Nikolaus-Lenau-Hügel"
+    },
+    {
+        "kurzbezeichnung": "Marktleite",
+        "id": 60196,
+        "strassenbezeichnung": "Marktleite"
+    },
+    {
+        "kurzbezeichnung": "Graumoosweg",
+        "id": 60197,
+        "strassenbezeichnung": "Graumoosweg"
+    },
+    {
+        "kurzbezeichnung": "Laimergasse",
+        "id": 60198,
+        "strassenbezeichnung": "Laimergasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzangerweg",
+        "id": 60199,
+        "strassenbezeichnung": "Kreuzangerweg"
+    },
+    {
+        "kurzbezeichnung": "Karl-Feldhammer-Weg",
+        "id": 60200,
+        "strassenbezeichnung": "Karl-Feldhammer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelstadelweg",
+        "id": 60201,
+        "strassenbezeichnung": "Ziegelstadelweg"
+    },
+    {
+        "kurzbezeichnung": "Mausoleumgasse",
+        "id": 60202,
+        "strassenbezeichnung": "Mausoleumgasse"
+    },
+    {
+        "kurzbezeichnung": "Grubenstraße",
+        "id": 60203,
+        "strassenbezeichnung": "Grubenstraße"
+    },
+    {
+        "kurzbezeichnung": "Radlingstraße",
+        "id": 60204,
+        "strassenbezeichnung": "Radlingstraße"
+    },
+    {
+        "kurzbezeichnung": "Weißenbachstraße",
+        "id": 60205,
+        "strassenbezeichnung": "Weißenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Prietal",
+        "id": 60206,
+        "strassenbezeichnung": "Prietal"
+    },
+    {
+        "kurzbezeichnung": "Grundlseer Straße",
+        "id": 60207,
+        "strassenbezeichnung": "Grundlseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Otto-Körber-Weg",
+        "id": 60208,
+        "strassenbezeichnung": "Otto-Körber-Weg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzangerweg",
+        "id": 60209,
+        "strassenbezeichnung": "Kreuzangerweg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrergrabenweg",
+        "id": 60210,
+        "strassenbezeichnung": "Pfarrergrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Gasteig",
+        "id": 60211,
+        "strassenbezeichnung": "Gasteig"
+    },
+    {
+        "kurzbezeichnung": "Karl-Feldhammer-Weg",
+        "id": 60212,
+        "strassenbezeichnung": "Karl-Feldhammer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelweg",
+        "id": 60213,
+        "strassenbezeichnung": "Ziegelweg"
+    },
+    {
+        "kurzbezeichnung": "Tauscherinweg",
+        "id": 60214,
+        "strassenbezeichnung": "Tauscherinweg"
+    },
+    {
+        "kurzbezeichnung": "Helmbühel",
+        "id": 60244,
+        "strassenbezeichnung": "Helmbühel"
+    },
+    {
+        "kurzbezeichnung": "Ischlbergstraße",
+        "id": 60245,
+        "strassenbezeichnung": "Ischlbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Sarsteinstraße",
+        "id": 60246,
+        "strassenbezeichnung": "Sarsteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Sommersbergseestraße",
+        "id": 60247,
+        "strassenbezeichnung": "Sommersbergseestraße"
+    },
+    {
+        "kurzbezeichnung": "Sommersbergseestraße",
+        "id": 60248,
+        "strassenbezeichnung": "Sommersbergseestraße"
+    },
+    {
+        "kurzbezeichnung": "Teichschloßsiedlung",
+        "id": 60249,
+        "strassenbezeichnung": "Teichschloßsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Sarsteinstraße",
+        "id": 60250,
+        "strassenbezeichnung": "Sarsteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Egg",
+        "id": 60251,
+        "strassenbezeichnung": "Egg"
+    },
+    {
+        "kurzbezeichnung": "Fischgasse",
+        "id": 60252,
+        "strassenbezeichnung": "Fischgasse"
+    },
+    {
+        "kurzbezeichnung": "Teichstraße",
+        "id": 60253,
+        "strassenbezeichnung": "Teichstraße"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm-Kienzl-Straße",
+        "id": 60254,
+        "strassenbezeichnung": "Wilhelm-Kienzl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Teichgrabenweg",
+        "id": 60256,
+        "strassenbezeichnung": "Teichgrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Untere Öfnerstraße",
+        "id": 60257,
+        "strassenbezeichnung": "Untere Öfnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Sixtleitengasse",
+        "id": 60258,
+        "strassenbezeichnung": "Sixtleitengasse"
+    },
+    {
+        "kurzbezeichnung": "Kramergasse",
+        "id": 60259,
+        "strassenbezeichnung": "Kramergasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlgrabenweg",
+        "id": 60260,
+        "strassenbezeichnung": "Mühlgrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Graumoosweg",
+        "id": 60261,
+        "strassenbezeichnung": "Graumoosweg"
+    },
+    {
+        "kurzbezeichnung": "Umfahrungsstraße",
+        "id": 60262,
+        "strassenbezeichnung": "Umfahrungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Jugendherbergsstraße",
+        "id": 60263,
+        "strassenbezeichnung": "Jugendherbergsstraße"
+    },
+    {
+        "kurzbezeichnung": "Neuperprater",
+        "id": 67444,
+        "strassenbezeichnung": "Neuperprater"
+    },
+    {
+        "kurzbezeichnung": "Am Hausersteg",
+        "id": 97570,
+        "strassenbezeichnung": "Am Hausersteg"
+    },
+    {
+        "kurzbezeichnung": "Erich-Landgrebe-Weg",
+        "id": 97571,
+        "strassenbezeichnung": "Erich-Landgrebe-Weg"
+    },
+    {
+        "kurzbezeichnung": "Grüne Au",
+        "id": 97573,
+        "strassenbezeichnung": "Grüne Au"
+    },
+    {
+        "kurzbezeichnung": "Hugo-Cordignano-Prom.",
+        "id": 97574,
+        "strassenbezeichnung": "Hugo-Cordignano-Promenade"
+    },
+    {
+        "kurzbezeichnung": "Lenauhügelgasse",
+        "id": 97575,
+        "strassenbezeichnung": "Lenauhügelgasse"
+    },
+    {
+        "kurzbezeichnung": "Mecserypromenade",
+        "id": 97576,
+        "strassenbezeichnung": "Mecserypromenade"
+    },
+    {
+        "kurzbezeichnung": "Unterkainisch",
+        "id": 100482,
+        "strassenbezeichnung": "Unterkainisch"
+    },
+    {
+        "kurzbezeichnung": "Reitern im Wald",
+        "id": 105578,
+        "strassenbezeichnung": "Reitern im Wald"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofpromenade",
+        "id": 105942,
+        "strassenbezeichnung": "Bahnhofpromenade"
+    }
+]

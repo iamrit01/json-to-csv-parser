@@ -1,0 +1,412 @@
+[
+    {
+        "kurzbezeichnung": "Atzing",
+        "id": 74265,
+        "strassenbezeichnung": "Atzing"
+    },
+    {
+        "kurzbezeichnung": "Oberreit",
+        "id": 74266,
+        "strassenbezeichnung": "Oberreit"
+    },
+    {
+        "kurzbezeichnung": "Unterreit",
+        "id": 74268,
+        "strassenbezeichnung": "Unterreit"
+    },
+    {
+        "kurzbezeichnung": "Badhausfeld",
+        "id": 74270,
+        "strassenbezeichnung": "Badhausfeld"
+    },
+    {
+        "kurzbezeichnung": "Point",
+        "id": 74273,
+        "strassenbezeichnung": "Point"
+    },
+    {
+        "kurzbezeichnung": "Bergern",
+        "id": 74276,
+        "strassenbezeichnung": "Bergern"
+    },
+    {
+        "kurzbezeichnung": "Haid",
+        "id": 74277,
+        "strassenbezeichnung": "Haid"
+    },
+    {
+        "kurzbezeichnung": "Lahntal",
+        "id": 74279,
+        "strassenbezeichnung": "Lahntal"
+    },
+    {
+        "kurzbezeichnung": "Mitterhofen",
+        "id": 75234,
+        "strassenbezeichnung": "Mitterhofen"
+    },
+    {
+        "kurzbezeichnung": "Ahrain",
+        "id": 93650,
+        "strassenbezeichnung": "Ahrain"
+    },
+    {
+        "kurzbezeichnung": "Am Feld",
+        "id": 93651,
+        "strassenbezeichnung": "Am Feld"
+    },
+    {
+        "kurzbezeichnung": "Am Weizenfeld",
+        "id": 93652,
+        "strassenbezeichnung": "Am Weizenfeld"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 93653,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Anton-Faistauer-Platz",
+        "id": 93654,
+        "strassenbezeichnung": "Anton-Faistauer-Platz"
+    },
+    {
+        "kurzbezeichnung": "Atzinger Berg",
+        "id": 93655,
+        "strassenbezeichnung": "Atzinger Berg"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 93656,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Bichlweg",
+        "id": 93657,
+        "strassenbezeichnung": "Bichlweg"
+    },
+    {
+        "kurzbezeichnung": "Billrothstraße",
+        "id": 93658,
+        "strassenbezeichnung": "Billrothstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 93659,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnfeld",
+        "id": 93660,
+        "strassenbezeichnung": "Brunnfeld"
+    },
+    {
+        "kurzbezeichnung": "Buchwaldweg",
+        "id": 93661,
+        "strassenbezeichnung": "Buchwaldweg"
+    },
+    {
+        "kurzbezeichnung": "Dechantshofen",
+        "id": 93662,
+        "strassenbezeichnung": "Dechantshofen"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 93663,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Kurt-Schicht-Weg",
+        "id": 93664,
+        "strassenbezeichnung": "Kurt-Schicht-Weg"
+    },
+    {
+        "kurzbezeichnung": "Engelriesen",
+        "id": 93665,
+        "strassenbezeichnung": "Engelriesen"
+    },
+    {
+        "kurzbezeichnung": "Fliederweg",
+        "id": 93666,
+        "strassenbezeichnung": "Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 93667,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gadenstättweg",
+        "id": 93668,
+        "strassenbezeichnung": "Gadenstättweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 93669,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Glemmerstraße",
+        "id": 93670,
+        "strassenbezeichnung": "Glemmerstraße"
+    },
+    {
+        "kurzbezeichnung": "Glocknerweg",
+        "id": 93671,
+        "strassenbezeichnung": "Glocknerweg"
+    },
+    {
+        "kurzbezeichnung": "Grüngasse",
+        "id": 93672,
+        "strassenbezeichnung": "Grüngasse"
+    },
+    {
+        "kurzbezeichnung": "Hagnbichl",
+        "id": 93673,
+        "strassenbezeichnung": "Hagnbichl"
+    },
+    {
+        "kurzbezeichnung": "Hettlergasse",
+        "id": 93674,
+        "strassenbezeichnung": "Hettlergasse"
+    },
+    {
+        "kurzbezeichnung": "Hofmannsthalstraße",
+        "id": 93675,
+        "strassenbezeichnung": "Hofmannsthalstraße"
+    },
+    {
+        "kurzbezeichnung": "Kammererstraße",
+        "id": 93676,
+        "strassenbezeichnung": "Kammererstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchgasse",
+        "id": 93677,
+        "strassenbezeichnung": "Kirchgasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchhamer Straße",
+        "id": 93678,
+        "strassenbezeichnung": "Kirchhamer Straße"
+    },
+    {
+        "kurzbezeichnung": "Kitzsteinhornweg",
+        "id": 93679,
+        "strassenbezeichnung": "Kitzsteinhornweg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzgasse",
+        "id": 93680,
+        "strassenbezeichnung": "Kreuzgasse"
+    },
+    {
+        "kurzbezeichnung": "Lackenweg",
+        "id": 93681,
+        "strassenbezeichnung": "Lackenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 93682,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Lohweg",
+        "id": 93683,
+        "strassenbezeichnung": "Lohweg"
+    },
+    {
+        "kurzbezeichnung": "Lunastraße",
+        "id": 93684,
+        "strassenbezeichnung": "Lunastraße"
+    },
+    {
+        "kurzbezeichnung": "Maurerweg",
+        "id": 93685,
+        "strassenbezeichnung": "Maurerweg"
+    },
+    {
+        "kurzbezeichnung": "Mayerhoferstraße",
+        "id": 93686,
+        "strassenbezeichnung": "Mayerhoferstraße"
+    },
+    {
+        "kurzbezeichnung": "Moosweg",
+        "id": 93687,
+        "strassenbezeichnung": "Moosweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 93688,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Neunbrunnen",
+        "id": 93689,
+        "strassenbezeichnung": "Neunbrunnen"
+    },
+    {
+        "kurzbezeichnung": "Oberhausweg",
+        "id": 93690,
+        "strassenbezeichnung": "Oberhausweg"
+    },
+    {
+        "kurzbezeichnung": "Oberreitberg",
+        "id": 93691,
+        "strassenbezeichnung": "Oberreitberg"
+    },
+    {
+        "kurzbezeichnung": "Oitbergweg",
+        "id": 93692,
+        "strassenbezeichnung": "Oitbergweg"
+    },
+    {
+        "kurzbezeichnung": "Oitenweg",
+        "id": 93693,
+        "strassenbezeichnung": "Oitenweg"
+    },
+    {
+        "kurzbezeichnung": "Peilreitweg",
+        "id": 93694,
+        "strassenbezeichnung": "Peilreitweg"
+    },
+    {
+        "kurzbezeichnung": "Pfeifferbichlweg",
+        "id": 93695,
+        "strassenbezeichnung": "Pfeifferbichlweg"
+    },
+    {
+        "kurzbezeichnung": "Prielauweg",
+        "id": 93696,
+        "strassenbezeichnung": "Prielauweg"
+    },
+    {
+        "kurzbezeichnung": "Saalachweg",
+        "id": 93697,
+        "strassenbezeichnung": "Saalachweg"
+    },
+    {
+        "kurzbezeichnung": "Saalfeldnerstraße",
+        "id": 93698,
+        "strassenbezeichnung": "Saalfeldnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Saalhofstraße",
+        "id": 93699,
+        "strassenbezeichnung": "Saalhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Sattlerweg",
+        "id": 93700,
+        "strassenbezeichnung": "Sattlerweg"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 93701,
+        "strassenbezeichnung": "Schloßweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedweg",
+        "id": 93702,
+        "strassenbezeichnung": "Schmiedweg"
+    },
+    {
+        "kurzbezeichnung": "Schönhofweg",
+        "id": 93703,
+        "strassenbezeichnung": "Schönhofweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 93704,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Schusterfeld",
+        "id": 93705,
+        "strassenbezeichnung": "Schusterfeld"
+    },
+    {
+        "kurzbezeichnung": "Schwarzstraße",
+        "id": 93706,
+        "strassenbezeichnung": "Schwarzstraße"
+    },
+    {
+        "kurzbezeichnung": "Sinnlehenweg",
+        "id": 93707,
+        "strassenbezeichnung": "Sinnlehenweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 93708,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 93709,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Stablberg",
+        "id": 93710,
+        "strassenbezeichnung": "Stablberg"
+    },
+    {
+        "kurzbezeichnung": "Steinbergweg",
+        "id": 93711,
+        "strassenbezeichnung": "Steinbergweg"
+    },
+    {
+        "kurzbezeichnung": "Tauernweg",
+        "id": 93712,
+        "strassenbezeichnung": "Tauernweg"
+    },
+    {
+        "kurzbezeichnung": "Torfmoos",
+        "id": 93713,
+        "strassenbezeichnung": "Torfmoos"
+    },
+    {
+        "kurzbezeichnung": "Tradlweg",
+        "id": 93714,
+        "strassenbezeichnung": "Tradlweg"
+    },
+    {
+        "kurzbezeichnung": "Uferstraße",
+        "id": 93715,
+        "strassenbezeichnung": "Uferstraße"
+    },
+    {
+        "kurzbezeichnung": "Vorderstraß",
+        "id": 93716,
+        "strassenbezeichnung": "Vorderstraß"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 93717,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Wildentenweg",
+        "id": 93718,
+        "strassenbezeichnung": "Wildentenweg"
+    },
+    {
+        "kurzbezeichnung": "Zellerstraße",
+        "id": 93719,
+        "strassenbezeichnung": "Zellerstraße"
+    },
+    {
+        "kurzbezeichnung": "Zenzfeld",
+        "id": 93720,
+        "strassenbezeichnung": "Zenzfeld"
+    },
+    {
+        "kurzbezeichnung": "Imbachhornweg",
+        "id": 122765,
+        "strassenbezeichnung": "Imbachhornweg"
+    },
+    {
+        "kurzbezeichnung": "Feichtenweg",
+        "id": 124148,
+        "strassenbezeichnung": "Feichtenweg"
+    }
+]

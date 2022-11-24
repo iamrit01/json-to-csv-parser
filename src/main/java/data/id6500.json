@@ -1,0 +1,447 @@
+[
+    {
+        "kurzbezeichnung": "Urgbach",
+        "id": -17134,
+        "strassenbezeichnung": "Urgbach"
+    },
+    {
+        "kurzbezeichnung": "Urgenbach",
+        "id": -17133,
+        "strassenbezeichnung": "Urgenbach"
+    },
+    {
+        "kurzbezeichnung": "Fließ",
+        "id": -12305,
+        "strassenbezeichnung": "Fließ"
+    },
+    {
+        "kurzbezeichnung": "Adamhofgasse",
+        "id": 41358,
+        "strassenbezeichnung": "Adamhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Andreas-Hofer-Straße",
+        "id": 41359,
+        "strassenbezeichnung": "Andreas-Hofer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 41360,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Brixnerstraße",
+        "id": 41361,
+        "strassenbezeichnung": "Brixnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bruggfeldstraße",
+        "id": 41362,
+        "strassenbezeichnung": "Bruggfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Burschlweg",
+        "id": 41363,
+        "strassenbezeichnung": "Burschlweg"
+    },
+    {
+        "kurzbezeichnung": "Obere Feldgasse",
+        "id": 41364,
+        "strassenbezeichnung": "Obere Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Untere Feldgasse",
+        "id": 41365,
+        "strassenbezeichnung": "Untere Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischerstraße",
+        "id": 41366,
+        "strassenbezeichnung": "Fischerstraße"
+    },
+    {
+        "kurzbezeichnung": "Flirstraße",
+        "id": 41367,
+        "strassenbezeichnung": "Flirstraße"
+    },
+    {
+        "kurzbezeichnung": "Gramlachweg",
+        "id": 41368,
+        "strassenbezeichnung": "Gramlachweg"
+    },
+    {
+        "kurzbezeichnung": "Hasliweg",
+        "id": 41369,
+        "strassenbezeichnung": "Hasliweg"
+    },
+    {
+        "kurzbezeichnung": "Herzog-Friedrich-Str.",
+        "id": 41370,
+        "strassenbezeichnung": "Herzog-Friedrich-Straße"
+    },
+    {
+        "kurzbezeichnung": "Innstraße",
+        "id": 41371,
+        "strassenbezeichnung": "Innstraße"
+    },
+    {
+        "kurzbezeichnung": "Jubiläumstraße",
+        "id": 41372,
+        "strassenbezeichnung": "Jubiläumstraße"
+    },
+    {
+        "kurzbezeichnung": "Katlaunweg",
+        "id": 41373,
+        "strassenbezeichnung": "Katlaunweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchenstraße",
+        "id": 41374,
+        "strassenbezeichnung": "Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchgassl",
+        "id": 41375,
+        "strassenbezeichnung": "Kirchgassl"
+    },
+    {
+        "kurzbezeichnung": "Knappenbühelgasse",
+        "id": 41376,
+        "strassenbezeichnung": "Knappenbühelgasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzbühelgasse",
+        "id": 41377,
+        "strassenbezeichnung": "Kreuzbühelgasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzgasse",
+        "id": 41378,
+        "strassenbezeichnung": "Kreuzgasse"
+    },
+    {
+        "kurzbezeichnung": "Kristille",
+        "id": 41379,
+        "strassenbezeichnung": "Kristille"
+    },
+    {
+        "kurzbezeichnung": "Leitenweg",
+        "id": 41380,
+        "strassenbezeichnung": "Leitenweg"
+    },
+    {
+        "kurzbezeichnung": "Lötzweg",
+        "id": 41381,
+        "strassenbezeichnung": "Lötzweg"
+    },
+    {
+        "kurzbezeichnung": "Maisengasse",
+        "id": 41382,
+        "strassenbezeichnung": "Maisengasse"
+    },
+    {
+        "kurzbezeichnung": "Malserstraße",
+        "id": 41383,
+        "strassenbezeichnung": "Malserstraße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 41384,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Ödweg",
+        "id": 41386,
+        "strassenbezeichnung": "Ödweg"
+    },
+    {
+        "kurzbezeichnung": "Paschegasse",
+        "id": 41387,
+        "strassenbezeichnung": "Paschegasse"
+    },
+    {
+        "kurzbezeichnung": "Pax-Siedlung",
+        "id": 41388,
+        "strassenbezeichnung": "Pax-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Perfuchsberg",
+        "id": 41389,
+        "strassenbezeichnung": "Perfuchsberg"
+    },
+    {
+        "kurzbezeichnung": "Perjenerweg",
+        "id": 41390,
+        "strassenbezeichnung": "Perjenerweg"
+    },
+    {
+        "kurzbezeichnung": "Prandtauersiedlung",
+        "id": 41391,
+        "strassenbezeichnung": "Prandtauersiedlung"
+    },
+    {
+        "kurzbezeichnung": "Prandtauerweg",
+        "id": 41392,
+        "strassenbezeichnung": "Prandtauerweg"
+    },
+    {
+        "kurzbezeichnung": "Riefengasse",
+        "id": 41393,
+        "strassenbezeichnung": "Riefengasse"
+    },
+    {
+        "kurzbezeichnung": "Römerstraße",
+        "id": 41394,
+        "strassenbezeichnung": "Römerstraße"
+    },
+    {
+        "kurzbezeichnung": "Salurnerstraße",
+        "id": 41395,
+        "strassenbezeichnung": "Salurnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schentensteig",
+        "id": 41396,
+        "strassenbezeichnung": "Schentensteig"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 41397,
+        "strassenbezeichnung": "Schloßweg"
+    },
+    {
+        "kurzbezeichnung": "Schrofensteinstraße",
+        "id": 41398,
+        "strassenbezeichnung": "Schrofensteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulhausplatz",
+        "id": 41399,
+        "strassenbezeichnung": "Schulhausplatz"
+    },
+    {
+        "kurzbezeichnung": "Siedlergasse",
+        "id": 41400,
+        "strassenbezeichnung": "Siedlergasse"
+    },
+    {
+        "kurzbezeichnung": "Spenglergasse",
+        "id": 41401,
+        "strassenbezeichnung": "Spenglergasse"
+    },
+    {
+        "kurzbezeichnung": "Thialmühle",
+        "id": 41402,
+        "strassenbezeichnung": "Thialmühle"
+    },
+    {
+        "kurzbezeichnung": "Tramserweg",
+        "id": 41403,
+        "strassenbezeichnung": "Tramserweg"
+    },
+    {
+        "kurzbezeichnung": "Uferstraße",
+        "id": 41404,
+        "strassenbezeichnung": "Uferstraße"
+    },
+    {
+        "kurzbezeichnung": "Urichstraße",
+        "id": 41405,
+        "strassenbezeichnung": "Urichstraße"
+    },
+    {
+        "kurzbezeichnung": "Urtlweg",
+        "id": 41406,
+        "strassenbezeichnung": "Urtlweg"
+    },
+    {
+        "kurzbezeichnung": "Venetweg",
+        "id": 41407,
+        "strassenbezeichnung": "Venetweg"
+    },
+    {
+        "kurzbezeichnung": "Burgweg",
+        "id": 52371,
+        "strassenbezeichnung": "Burgweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlkanal",
+        "id": 52372,
+        "strassenbezeichnung": "Mühlkanal"
+    },
+    {
+        "kurzbezeichnung": "Trams",
+        "id": 52373,
+        "strassenbezeichnung": "Trams"
+    },
+    {
+        "kurzbezeichnung": "Puschlin",
+        "id": 56597,
+        "strassenbezeichnung": "Puschlin"
+    },
+    {
+        "kurzbezeichnung": "Urgener Siedlung",
+        "id": 63323,
+        "strassenbezeichnung": "Urgener Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Josef-Stapf-Straße",
+        "id": 63770,
+        "strassenbezeichnung": "Josef-Stapf-Straße"
+    },
+    {
+        "kurzbezeichnung": "Lochbödele",
+        "id": 63771,
+        "strassenbezeichnung": "Lochbödele"
+    },
+    {
+        "kurzbezeichnung": "Fritz-Zelle-Weg",
+        "id": 63772,
+        "strassenbezeichnung": "Fritz-Zelle-Weg"
+    },
+    {
+        "kurzbezeichnung": "Schloß-Siedlung",
+        "id": 69414,
+        "strassenbezeichnung": "Schloß-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Fließerau",
+        "id": 75105,
+        "strassenbezeichnung": "Fließerau"
+    },
+    {
+        "kurzbezeichnung": "Gretlern",
+        "id": 75106,
+        "strassenbezeichnung": "Gretlern"
+    },
+    {
+        "kurzbezeichnung": "Schatzen",
+        "id": 75108,
+        "strassenbezeichnung": "Schatzen"
+    },
+    {
+        "kurzbezeichnung": "Hochgallmigg",
+        "id": 75109,
+        "strassenbezeichnung": "Hochgallmigg"
+    },
+    {
+        "kurzbezeichnung": "Niedergallmigg",
+        "id": 75112,
+        "strassenbezeichnung": "Niedergallmigg"
+    },
+    {
+        "kurzbezeichnung": "Urgen",
+        "id": 75113,
+        "strassenbezeichnung": "Urgen"
+    },
+    {
+        "kurzbezeichnung": "Piller",
+        "id": 75114,
+        "strassenbezeichnung": "Piller"
+    },
+    {
+        "kurzbezeichnung": "Bannholz",
+        "id": 75116,
+        "strassenbezeichnung": "Bannholz"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 75117,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Nesselgarten",
+        "id": 75119,
+        "strassenbezeichnung": "Nesselgarten"
+    },
+    {
+        "kurzbezeichnung": "Eichholz",
+        "id": 75121,
+        "strassenbezeichnung": "Eichholz"
+    },
+    {
+        "kurzbezeichnung": "Egg",
+        "id": 75122,
+        "strassenbezeichnung": "Egg"
+    },
+    {
+        "kurzbezeichnung": "Schnatz",
+        "id": 75123,
+        "strassenbezeichnung": "Schnatz"
+    },
+    {
+        "kurzbezeichnung": "Spils",
+        "id": 75124,
+        "strassenbezeichnung": "Spils"
+    },
+    {
+        "kurzbezeichnung": "Grins",
+        "id": 89877,
+        "strassenbezeichnung": "Grins"
+    },
+    {
+        "kurzbezeichnung": "Stanz bei Landeck",
+        "id": 89893,
+        "strassenbezeichnung": "Stanz bei Landeck"
+    },
+    {
+        "kurzbezeichnung": "Graf",
+        "id": 95883,
+        "strassenbezeichnung": "Graf"
+    },
+    {
+        "kurzbezeichnung": "Gurnau",
+        "id": 95884,
+        "strassenbezeichnung": "Gurnau"
+    },
+    {
+        "kurzbezeichnung": "Sonnenberg",
+        "id": 95978,
+        "strassenbezeichnung": "Sonnenberg"
+    },
+    {
+        "kurzbezeichnung": "Zoll",
+        "id": 95979,
+        "strassenbezeichnung": "Zoll"
+    },
+    {
+        "kurzbezeichnung": "Blumenegg",
+        "id": 95980,
+        "strassenbezeichnung": "Blumenegg"
+    },
+    {
+        "kurzbezeichnung": "Bach",
+        "id": 95981,
+        "strassenbezeichnung": "Bach"
+    },
+    {
+        "kurzbezeichnung": "Gmar",
+        "id": 100630,
+        "strassenbezeichnung": "Gmar"
+    },
+    {
+        "kurzbezeichnung": "Grist",
+        "id": 100631,
+        "strassenbezeichnung": "Grist"
+    },
+    {
+        "kurzbezeichnung": "Stanz-Stampfle",
+        "id": 101102,
+        "strassenbezeichnung": "Stanz-Stampfle"
+    },
+    {
+        "kurzbezeichnung": "Piller Siedlung",
+        "id": 108019,
+        "strassenbezeichnung": "Piller Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Maloar",
+        "id": 108583,
+        "strassenbezeichnung": "Maloar"
+    },
+    {
+        "kurzbezeichnung": "Brosgen",
+        "id": 127884,
+        "strassenbezeichnung": "Brosgen"
+    }
+]

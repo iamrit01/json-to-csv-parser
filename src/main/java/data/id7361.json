@@ -1,0 +1,317 @@
+[
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 3013,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofgasse",
+        "id": 3244,
+        "strassenbezeichnung": "Bahnhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Breitengasse",
+        "id": 3245,
+        "strassenbezeichnung": "Breitengasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 3247,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofstatt",
+        "id": 3249,
+        "strassenbezeichnung": "Hofstatt"
+    },
+    {
+        "kurzbezeichnung": "Kurzegasse",
+        "id": 3252,
+        "strassenbezeichnung": "Kurzegasse"
+    },
+    {
+        "kurzbezeichnung": "Neustiftgasse",
+        "id": 3255,
+        "strassenbezeichnung": "Neustiftgasse"
+    },
+    {
+        "kurzbezeichnung": "Neustiftplatz",
+        "id": 3256,
+        "strassenbezeichnung": "Neustiftplatz"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 3257,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 3259,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 3261,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 51561,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 51562,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 54063,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Steig",
+        "id": 54064,
+        "strassenbezeichnung": "Am Steig"
+    },
+    {
+        "kurzbezeichnung": "Annagasse",
+        "id": 54065,
+        "strassenbezeichnung": "Annagasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 54067,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bankgasse",
+        "id": 54069,
+        "strassenbezeichnung": "Bankgasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 54071,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 54076,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 54081,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kleine Zeile",
+        "id": 54084,
+        "strassenbezeichnung": "Kleine Zeile"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 54088,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Gasse",
+        "id": 54090,
+        "strassenbezeichnung": "Obere Gasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrplatz",
+        "id": 54091,
+        "strassenbezeichnung": "Pfarrplatz"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 54096,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Untere Gasse",
+        "id": 54099,
+        "strassenbezeichnung": "Untere Gasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 54100,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Gemeindeheide",
+        "id": 64736,
+        "strassenbezeichnung": "Gemeindeheide"
+    },
+    {
+        "kurzbezeichnung": "Parkgasse",
+        "id": 64737,
+        "strassenbezeichnung": "Parkgasse"
+    },
+    {
+        "kurzbezeichnung": "Hanfwiesen",
+        "id": 65638,
+        "strassenbezeichnung": "Hanfwiesen"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 72187,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Birkenhain",
+        "id": 72188,
+        "strassenbezeichnung": "Birkenhain"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 72189,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Minihoferweg",
+        "id": 72191,
+        "strassenbezeichnung": "Minihoferweg"
+    },
+    {
+        "kurzbezeichnung": "Neustiftweg",
+        "id": 72192,
+        "strassenbezeichnung": "Neustiftweg"
+    },
+    {
+        "kurzbezeichnung": "Rabnitzweg",
+        "id": 72193,
+        "strassenbezeichnung": "Rabnitzweg"
+    },
+    {
+        "kurzbezeichnung": "Steinerbrücke",
+        "id": 72194,
+        "strassenbezeichnung": "Steinerbrücke"
+    },
+    {
+        "kurzbezeichnung": "Thermenstraße",
+        "id": 72195,
+        "strassenbezeichnung": "Thermenstraße"
+    },
+    {
+        "kurzbezeichnung": "Trift",
+        "id": 72196,
+        "strassenbezeichnung": "Trift"
+    },
+    {
+        "kurzbezeichnung": "Untere Bahnzeile",
+        "id": 72197,
+        "strassenbezeichnung": "Untere Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Weinbergstraße",
+        "id": 72198,
+        "strassenbezeichnung": "Weinbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 72199,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Winkelgärten",
+        "id": 72200,
+        "strassenbezeichnung": "Winkelgärten"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofen",
+        "id": 72201,
+        "strassenbezeichnung": "Ziegelofen"
+    },
+    {
+        "kurzbezeichnung": "An der Therme",
+        "id": 72202,
+        "strassenbezeichnung": "An der Therme"
+    },
+    {
+        "kurzbezeichnung": "Thermenplatz",
+        "id": 72203,
+        "strassenbezeichnung": "Thermenplatz"
+    },
+    {
+        "kurzbezeichnung": "Angergasse",
+        "id": 72204,
+        "strassenbezeichnung": "Angergasse"
+    },
+    {
+        "kurzbezeichnung": "Esterhazygasse",
+        "id": 72205,
+        "strassenbezeichnung": "Esterhazygasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 72206,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Kleine Gasse",
+        "id": 72207,
+        "strassenbezeichnung": "Kleine Gasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Bahnzeile",
+        "id": 72208,
+        "strassenbezeichnung": "Obere Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Reitermühle",
+        "id": 72209,
+        "strassenbezeichnung": "Reitermühle"
+    },
+    {
+        "kurzbezeichnung": "Römerstraße",
+        "id": 72210,
+        "strassenbezeichnung": "Römerstraße"
+    },
+    {
+        "kurzbezeichnung": "Weinberggasse",
+        "id": 72211,
+        "strassenbezeichnung": "Weinberggasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 72212,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Frankenau",
+        "id": 75934,
+        "strassenbezeichnung": "Frankenau"
+    },
+    {
+        "kurzbezeichnung": "Hinter den Gärten",
+        "id": 93808,
+        "strassenbezeichnung": "Hinter den Gärten"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 95140,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Bachäcker",
+        "id": 97302,
+        "strassenbezeichnung": "Bachäcker"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 103409,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Graben",
+        "id": 111665,
+        "strassenbezeichnung": "Am Graben"
+    },
+    {
+        "kurzbezeichnung": "Miloradic-Siedlung",
+        "id": 121717,
+        "strassenbezeichnung": "Miloradic-Siedlung "
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "kurzbezeichnung": "Lavendelweg",
+        "id": -32329,
+        "strassenbezeichnung": "Lavendelweg"
+    },
+    {
+        "kurzbezeichnung": "Winkelgasse",
+        "id": -32079,
+        "strassenbezeichnung": "Winkelgasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": -32078,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Turmweg",
+        "id": -32077,
+        "strassenbezeichnung": "Turmweg"
+    },
+    {
+        "kurzbezeichnung": "Tauchener Straße",
+        "id": -32076,
+        "strassenbezeichnung": "Tauchener Straße"
+    },
+    {
+        "kurzbezeichnung": "Sterngasse",
+        "id": -32075,
+        "strassenbezeichnung": "Sterngasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": -32074,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": -32073,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": -32072,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Panoramastraße",
+        "id": -32071,
+        "strassenbezeichnung": "Panoramastraße"
+    },
+    {
+        "kurzbezeichnung": "Offenegger Straße",
+        "id": -32070,
+        "strassenbezeichnung": "Offenegger Straße"
+    },
+    {
+        "kurzbezeichnung": "Malterner Straße",
+        "id": -32069,
+        "strassenbezeichnung": "Malterner Straße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": -32068,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": -32067,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": -32066,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenweg",
+        "id": -32065,
+        "strassenbezeichnung": "Brunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Bergweg",
+        "id": -32064,
+        "strassenbezeichnung": "Bergweg"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": -32063,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Apfelweg",
+        "id": -32062,
+        "strassenbezeichnung": "Apfelweg"
+    },
+    {
+        "kurzbezeichnung": "Am Steinbühel",
+        "id": -32061,
+        "strassenbezeichnung": "Am Steinbühel"
+    },
+    {
+        "kurzbezeichnung": "Am Spitz",
+        "id": -32060,
+        "strassenbezeichnung": "Am Spitz"
+    },
+    {
+        "kurzbezeichnung": "Am Kreuzberg",
+        "id": -32059,
+        "strassenbezeichnung": "Am Kreuzberg"
+    },
+    {
+        "kurzbezeichnung": "Am Kirchenwald",
+        "id": -32058,
+        "strassenbezeichnung": "Am Kirchenwald"
+    },
+    {
+        "kurzbezeichnung": "Am Feld",
+        "id": -32057,
+        "strassenbezeichnung": "Am Feld"
+    },
+    {
+        "kurzbezeichnung": "Alte Gasse",
+        "id": -32056,
+        "strassenbezeichnung": "Alte Gasse"
+    },
+    {
+        "kurzbezeichnung": "Alleegasse",
+        "id": -32055,
+        "strassenbezeichnung": "Alleegasse"
+    },
+    {
+        "kurzbezeichnung": "Kastanienweg",
+        "id": -30068,
+        "strassenbezeichnung": "Kastanienweg"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 73844,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 73845,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 74884,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 75702,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Aschauer Straße",
+        "id": 75703,
+        "strassenbezeichnung": "Aschauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 75704,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Bachstattgasse",
+        "id": 75705,
+        "strassenbezeichnung": "Bachstattgasse"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 75706,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 75707,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 75708,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Bruckgasse",
+        "id": 75709,
+        "strassenbezeichnung": "Bruckgasse"
+    },
+    {
+        "kurzbezeichnung": "Brunnergasse",
+        "id": 75710,
+        "strassenbezeichnung": "Brunnergasse"
+    },
+    {
+        "kurzbezeichnung": "Furtweg",
+        "id": 75711,
+        "strassenbezeichnung": "Furtweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 75712,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "G. A. Wimmer-Platz",
+        "id": 75713,
+        "strassenbezeichnung": "G. A. Wimmer-Platz"
+    },
+    {
+        "kurzbezeichnung": "Grabenweg",
+        "id": 75714,
+        "strassenbezeichnung": "Grabenweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 75715,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Herrengasse",
+        "id": 75716,
+        "strassenbezeichnung": "Herrengasse"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 75717,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Hotterweg",
+        "id": 75718,
+        "strassenbezeichnung": "Hotterweg"
+    },
+    {
+        "kurzbezeichnung": "Leitenweg",
+        "id": 75719,
+        "strassenbezeichnung": "Leitenweg"
+    },
+    {
+        "kurzbezeichnung": "Marbachweg",
+        "id": 75720,
+        "strassenbezeichnung": "Marbachweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 75721,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Oberer Lehenweg",
+        "id": 75722,
+        "strassenbezeichnung": "Oberer Lehenweg"
+    },
+    {
+        "kurzbezeichnung": "Pinkafelder Straße",
+        "id": 75723,
+        "strassenbezeichnung": "Pinkafelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Schützenstraße",
+        "id": 75724,
+        "strassenbezeichnung": "Schützenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 75725,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Sixtinagasse",
+        "id": 75726,
+        "strassenbezeichnung": "Sixtinagasse"
+    },
+    {
+        "kurzbezeichnung": "Steggasse",
+        "id": 75727,
+        "strassenbezeichnung": "Steggasse"
+    },
+    {
+        "kurzbezeichnung": "Stockweg",
+        "id": 75728,
+        "strassenbezeichnung": "Stockweg"
+    },
+    {
+        "kurzbezeichnung": "Tatzmannsdorfer Straße",
+        "id": 75729,
+        "strassenbezeichnung": "Tatzmannsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Tschabweg",
+        "id": 75730,
+        "strassenbezeichnung": "Tschabweg"
+    },
+    {
+        "kurzbezeichnung": "Unterer Lehenweg",
+        "id": 75731,
+        "strassenbezeichnung": "Unterer Lehenweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 75732,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 75733,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Willersdorfer Straße",
+        "id": 75734,
+        "strassenbezeichnung": "Willersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Aschau im Burgenland",
+        "id": 76012,
+        "strassenbezeichnung": "Aschau im Burgenland"
+    },
+    {
+        "kurzbezeichnung": "Schmiedrait",
+        "id": 76014,
+        "strassenbezeichnung": "Schmiedrait"
+    },
+    {
+        "kurzbezeichnung": "Willersdorf",
+        "id": 76016,
+        "strassenbezeichnung": "Willersdorf"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitenweg",
+        "id": 103417,
+        "strassenbezeichnung": "Sonnleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Campingplatz",
+        "id": 106385,
+        "strassenbezeichnung": "Am Campingplatz"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 109113,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnseitn",
+        "id": 112273,
+        "strassenbezeichnung": "Sonnseitn"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 115705,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Querweg",
+        "id": 115831,
+        "strassenbezeichnung": "Querweg"
+    }
+]

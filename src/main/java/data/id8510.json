@@ -1,0 +1,672 @@
+[
+    {
+        "kurzbezeichnung": "Hubert - Hölzl - Gasse",
+        "id": -17814,
+        "strassenbezeichnung": "Hubert - Hölzl - Gasse"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenstraße",
+        "id": -16888,
+        "strassenbezeichnung": "Raiffeisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Rudolf-Peter-Siedlung",
+        "id": -1817,
+        "strassenbezeichnung": "Rudolf-Peter-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Altenheimgasse",
+        "id": 45484,
+        "strassenbezeichnung": "Altenheimgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Viehmarkt",
+        "id": 45502,
+        "strassenbezeichnung": "Am Viehmarkt"
+    },
+    {
+        "kurzbezeichnung": "An der Schießstätte",
+        "id": 45503,
+        "strassenbezeichnung": "An der Schießstätte"
+    },
+    {
+        "kurzbezeichnung": "An der Umfahrungsstr.",
+        "id": 45545,
+        "strassenbezeichnung": "An der Umfahrungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 45894,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 45900,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 45911,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 45919,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Deutschmanngasse",
+        "id": 45926,
+        "strassenbezeichnung": "Deutschmanngasse"
+    },
+    {
+        "kurzbezeichnung": "Engelweingartenstraße",
+        "id": 45929,
+        "strassenbezeichnung": "Engelweingartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Engelweingartenweg",
+        "id": 45930,
+        "strassenbezeichnung": "Engelweingartenweg"
+    },
+    {
+        "kurzbezeichnung": "Erzherzog-Johann-Str.",
+        "id": 45932,
+        "strassenbezeichnung": "Erzherzog-Johann-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ettendorfer Straße",
+        "id": 45935,
+        "strassenbezeichnung": "Ettendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Fabrikstraße",
+        "id": 45941,
+        "strassenbezeichnung": "Fabrikstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofweg",
+        "id": 45942,
+        "strassenbezeichnung": "Friedhofweg"
+    },
+    {
+        "kurzbezeichnung": "Gärtnerweg",
+        "id": 45944,
+        "strassenbezeichnung": "Gärtnerweg"
+    },
+    {
+        "kurzbezeichnung": "Grazer Straße",
+        "id": 46081,
+        "strassenbezeichnung": "Grazer Straße"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 46092,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Heckenweg",
+        "id": 46101,
+        "strassenbezeichnung": "Heckenweg"
+    },
+    {
+        "kurzbezeichnung": "Hochfeldweg",
+        "id": 46107,
+        "strassenbezeichnung": "Hochfeldweg"
+    },
+    {
+        "kurzbezeichnung": "August-Hofer-Gasse",
+        "id": 46150,
+        "strassenbezeichnung": "August-Hofer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kalvarienbergweg",
+        "id": 46167,
+        "strassenbezeichnung": "Kalvarienbergweg"
+    },
+    {
+        "kurzbezeichnung": "Kärntner Straße",
+        "id": 46176,
+        "strassenbezeichnung": "Kärntner Straße"
+    },
+    {
+        "kurzbezeichnung": "Klosterhöhe",
+        "id": 46183,
+        "strassenbezeichnung": "Klosterhöhe"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Alois-Kogler-Gasse",
+        "id": 46189,
+        "strassenbezeichnung": "Dr.-Alois-Kogler-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Lagergasse",
+        "id": 46190,
+        "strassenbezeichnung": "Lagergasse"
+    },
+    {
+        "kurzbezeichnung": "Langwiesenbachgasse",
+        "id": 46191,
+        "strassenbezeichnung": "Langwiesenbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Lastenstraße",
+        "id": 46193,
+        "strassenbezeichnung": "Lastenstraße"
+    },
+    {
+        "kurzbezeichnung": "Maderthonerweg",
+        "id": 46194,
+        "strassenbezeichnung": "Maderthonerweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 46223,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Postgasse",
+        "id": 46236,
+        "strassenbezeichnung": "Postgasse"
+    },
+    {
+        "kurzbezeichnung": "Quergasse",
+        "id": 46257,
+        "strassenbezeichnung": "Quergasse"
+    },
+    {
+        "kurzbezeichnung": "Roseggergasse",
+        "id": 46270,
+        "strassenbezeichnung": "Roseggergasse"
+    },
+    {
+        "kurzbezeichnung": "Sackstraße",
+        "id": 46283,
+        "strassenbezeichnung": "Sackstraße"
+    },
+    {
+        "kurzbezeichnung": "Sägeweg",
+        "id": 46290,
+        "strassenbezeichnung": "Sägeweg"
+    },
+    {
+        "kurzbezeichnung": "Sauerbrunnstraße",
+        "id": 46293,
+        "strassenbezeichnung": "Sauerbrunnstraße"
+    },
+    {
+        "kurzbezeichnung": "Schennagasse",
+        "id": 46473,
+        "strassenbezeichnung": "Schennagasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßplatz",
+        "id": 46475,
+        "strassenbezeichnung": "Schloßplatz"
+    },
+    {
+        "kurzbezeichnung": "Schulmessweg",
+        "id": 46487,
+        "strassenbezeichnung": "Schulmessweg"
+    },
+    {
+        "kurzbezeichnung": "Siedlung Süd",
+        "id": 46537,
+        "strassenbezeichnung": "Siedlung Süd"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsweg",
+        "id": 46538,
+        "strassenbezeichnung": "Siedlungsweg"
+    },
+    {
+        "kurzbezeichnung": "Stadelweg",
+        "id": 46551,
+        "strassenbezeichnung": "Stadelweg"
+    },
+    {
+        "kurzbezeichnung": "Steggasse",
+        "id": 46672,
+        "strassenbezeichnung": "Steggasse"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 46673,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Neurath-Dorfstraße",
+        "id": 46674,
+        "strassenbezeichnung": "Neurath-Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 46675,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Gamsgebirgstraße",
+        "id": 46676,
+        "strassenbezeichnung": "Gamsgebirgstraße"
+    },
+    {
+        "kurzbezeichnung": "Groggergasse",
+        "id": 46681,
+        "strassenbezeichnung": "Groggergasse"
+    },
+    {
+        "kurzbezeichnung": "Kloepfergasse",
+        "id": 46696,
+        "strassenbezeichnung": "Kloepfergasse"
+    },
+    {
+        "kurzbezeichnung": "Neurathstraße",
+        "id": 46701,
+        "strassenbezeichnung": "Neurathstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 46722,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Florian-Wippel-Straße",
+        "id": 46724,
+        "strassenbezeichnung": "Florian-Wippel-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Eichegg",
+        "id": 46725,
+        "strassenbezeichnung": "Am Eichegg"
+    },
+    {
+        "kurzbezeichnung": "Am Neurathberg",
+        "id": 46734,
+        "strassenbezeichnung": "Am Neurathberg"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 46736,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 46768,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 46769,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Kastanienweg",
+        "id": 46770,
+        "strassenbezeichnung": "Kastanienweg"
+    },
+    {
+        "kurzbezeichnung": "Pöllibergweg",
+        "id": 46820,
+        "strassenbezeichnung": "Pöllibergweg"
+    },
+    {
+        "kurzbezeichnung": "Sallegger Straße",
+        "id": 46835,
+        "strassenbezeichnung": "Sallegger Straße"
+    },
+    {
+        "kurzbezeichnung": "Steinbruchweg",
+        "id": 46836,
+        "strassenbezeichnung": "Steinbruchweg"
+    },
+    {
+        "kurzbezeichnung": "Vocherastraße",
+        "id": 46837,
+        "strassenbezeichnung": "Vocherastraße"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhügel",
+        "id": 46894,
+        "strassenbezeichnung": "Am Sonnenhügel"
+    },
+    {
+        "kurzbezeichnung": "Apfelstraße",
+        "id": 46895,
+        "strassenbezeichnung": "Apfelstraße"
+    },
+    {
+        "kurzbezeichnung": "Bad-Gamser-Straße",
+        "id": 46919,
+        "strassenbezeichnung": "Bad-Gamser-Straße"
+    },
+    {
+        "kurzbezeichnung": "Brandhofstraße",
+        "id": 47024,
+        "strassenbezeichnung": "Brandhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Brombeerweg",
+        "id": 47080,
+        "strassenbezeichnung": "Brombeerweg"
+    },
+    {
+        "kurzbezeichnung": "Felsenweg",
+        "id": 47087,
+        "strassenbezeichnung": "Felsenweg"
+    },
+    {
+        "kurzbezeichnung": "Max-Gschiel-Straße",
+        "id": 47102,
+        "strassenbezeichnung": "Max-Gschiel-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kothvogelstraße",
+        "id": 47127,
+        "strassenbezeichnung": "Kothvogelstraße"
+    },
+    {
+        "kurzbezeichnung": "Meranstraße",
+        "id": 47195,
+        "strassenbezeichnung": "Meranstraße"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 47332,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Hans-Neubauer-Sdl.",
+        "id": 47333,
+        "strassenbezeichnung": "Dr.-Hans-Neubauer-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Poßnitzweg",
+        "id": 47341,
+        "strassenbezeichnung": "Poßnitzweg"
+    },
+    {
+        "kurzbezeichnung": "Radlpaßstraße",
+        "id": 47421,
+        "strassenbezeichnung": "Radlpaßstraße"
+    },
+    {
+        "kurzbezeichnung": "Schilchergasse",
+        "id": 47457,
+        "strassenbezeichnung": "Schilchergasse"
+    },
+    {
+        "kurzbezeichnung": "Rebengasse",
+        "id": 47460,
+        "strassenbezeichnung": "Rebengasse"
+    },
+    {
+        "kurzbezeichnung": "Spatzenweg",
+        "id": 47463,
+        "strassenbezeichnung": "Spatzenweg"
+    },
+    {
+        "kurzbezeichnung": "Tombergweg",
+        "id": 47464,
+        "strassenbezeichnung": "Tombergweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 47489,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelstadelstraße",
+        "id": 47499,
+        "strassenbezeichnung": "Ziegelstadelstraße"
+    },
+    {
+        "kurzbezeichnung": "Ziegelweg",
+        "id": 47500,
+        "strassenbezeichnung": "Ziegelweg"
+    },
+    {
+        "kurzbezeichnung": "Mausegg",
+        "id": 56560,
+        "strassenbezeichnung": "Mausegg"
+    },
+    {
+        "kurzbezeichnung": "Rosenkogel",
+        "id": 56561,
+        "strassenbezeichnung": "Rosenkogel"
+    },
+    {
+        "kurzbezeichnung": "Sauerbrunn",
+        "id": 56562,
+        "strassenbezeichnung": "Sauerbrunn"
+    },
+    {
+        "kurzbezeichnung": "Theußenbach",
+        "id": 56563,
+        "strassenbezeichnung": "Theußenbach"
+    },
+    {
+        "kurzbezeichnung": "Trog",
+        "id": 56564,
+        "strassenbezeichnung": "Trog"
+    },
+    {
+        "kurzbezeichnung": "Grünbaumgarten",
+        "id": 56565,
+        "strassenbezeichnung": "Grünbaumgarten"
+    },
+    {
+        "kurzbezeichnung": "Preißberg",
+        "id": 56566,
+        "strassenbezeichnung": "Preißberg"
+    },
+    {
+        "kurzbezeichnung": "Schönegg",
+        "id": 56567,
+        "strassenbezeichnung": "Schönegg"
+    },
+    {
+        "kurzbezeichnung": "Wald",
+        "id": 56568,
+        "strassenbezeichnung": "Wald"
+    },
+    {
+        "kurzbezeichnung": "Wald-Süd",
+        "id": 64945,
+        "strassenbezeichnung": "Wald-Süd"
+    },
+    {
+        "kurzbezeichnung": "Wolfbauerweg",
+        "id": 65292,
+        "strassenbezeichnung": "Wolfbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Dechantriegel",
+        "id": 65293,
+        "strassenbezeichnung": "Am Dechantriegel"
+    },
+    {
+        "kurzbezeichnung": "Am Stainzbach",
+        "id": 65294,
+        "strassenbezeichnung": "Am Stainzbach"
+    },
+    {
+        "kurzbezeichnung": "Franz-M.-Hangi-Str.",
+        "id": 65295,
+        "strassenbezeichnung": "Franz-Michael-Hangi-Straße"
+    },
+    {
+        "kurzbezeichnung": "Stainzfeld",
+        "id": 69136,
+        "strassenbezeichnung": "Stainzfeld"
+    },
+    {
+        "kurzbezeichnung": "Rudolf-Peter-Straße",
+        "id": 71277,
+        "strassenbezeichnung": "Rudolf-Peter-Straße"
+    },
+    {
+        "kurzbezeichnung": "Stainzfeldweg",
+        "id": 72799,
+        "strassenbezeichnung": "Stainzfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Farmi",
+        "id": 75220,
+        "strassenbezeichnung": "Farmi"
+    },
+    {
+        "kurzbezeichnung": "Fallegg",
+        "id": 75226,
+        "strassenbezeichnung": "Fallegg"
+    },
+    {
+        "kurzbezeichnung": "Kornkneul",
+        "id": 75227,
+        "strassenbezeichnung": "Kornkneul"
+    },
+    {
+        "kurzbezeichnung": "Sichartsberg",
+        "id": 75228,
+        "strassenbezeichnung": "Sichartsberg"
+    },
+    {
+        "kurzbezeichnung": "Sommereben",
+        "id": 75229,
+        "strassenbezeichnung": "Sommereben"
+    },
+    {
+        "kurzbezeichnung": "Greisbach",
+        "id": 75233,
+        "strassenbezeichnung": "Greisbach"
+    },
+    {
+        "kurzbezeichnung": "Greim",
+        "id": 88190,
+        "strassenbezeichnung": "Greim"
+    },
+    {
+        "kurzbezeichnung": "Vochera am Weinberg",
+        "id": 88195,
+        "strassenbezeichnung": "Vochera am Weinberg"
+    },
+    {
+        "kurzbezeichnung": "Ettendorf",
+        "id": 88198,
+        "strassenbezeichnung": "Ettendorf"
+    },
+    {
+        "kurzbezeichnung": "Pichling",
+        "id": 88199,
+        "strassenbezeichnung": "Pichling"
+    },
+    {
+        "kurzbezeichnung": "Angenofen",
+        "id": 88236,
+        "strassenbezeichnung": "Angenofen"
+    },
+    {
+        "kurzbezeichnung": "Rainbach",
+        "id": 88237,
+        "strassenbezeichnung": "Rainbach"
+    },
+    {
+        "kurzbezeichnung": "Sierling",
+        "id": 88238,
+        "strassenbezeichnung": "Sierling"
+    },
+    {
+        "kurzbezeichnung": "Graschuh",
+        "id": 88253,
+        "strassenbezeichnung": "Graschuh"
+    },
+    {
+        "kurzbezeichnung": "Herbersdorf",
+        "id": 88254,
+        "strassenbezeichnung": "Herbersdorf"
+    },
+    {
+        "kurzbezeichnung": "Rassach",
+        "id": 88256,
+        "strassenbezeichnung": "Rassach"
+    },
+    {
+        "kurzbezeichnung": "Grafendorf",
+        "id": 88284,
+        "strassenbezeichnung": "Grafendorf"
+    },
+    {
+        "kurzbezeichnung": "Neudorf",
+        "id": 88287,
+        "strassenbezeichnung": "Neudorf"
+    },
+    {
+        "kurzbezeichnung": "Stallhof",
+        "id": 88290,
+        "strassenbezeichnung": "Stallhof"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 90891,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 94576,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Angelisstraße",
+        "id": 97168,
+        "strassenbezeichnung": "Angelisstraße"
+    },
+    {
+        "kurzbezeichnung": "Seinitzweg",
+        "id": 97169,
+        "strassenbezeichnung": "Seinitzweg"
+    },
+    {
+        "kurzbezeichnung": "Marhof",
+        "id": 97212,
+        "strassenbezeichnung": "Marhof"
+    },
+    {
+        "kurzbezeichnung": "Marhofberg",
+        "id": 97213,
+        "strassenbezeichnung": "Marhofberg"
+    },
+    {
+        "kurzbezeichnung": "Neudorfegg",
+        "id": 97224,
+        "strassenbezeichnung": "Neudorfegg"
+    },
+    {
+        "kurzbezeichnung": "Kollmanngasse",
+        "id": 99903,
+        "strassenbezeichnung": "Kollmanngasse"
+    },
+    {
+        "kurzbezeichnung": "Am Ackerrain",
+        "id": 101698,
+        "strassenbezeichnung": "Am Ackerrain"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 101702,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Rathausplatz",
+        "id": 101707,
+        "strassenbezeichnung": "Rathausplatz"
+    },
+    {
+        "kurzbezeichnung": "Technologiepark",
+        "id": 109638,
+        "strassenbezeichnung": "Technologiepark"
+    },
+    {
+        "kurzbezeichnung": "Anna-Plochl-Straße",
+        "id": 121184,
+        "strassenbezeichnung": "Anna-Plochl-Straße"
+    }
+]

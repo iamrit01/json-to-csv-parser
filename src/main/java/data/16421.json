@@ -1,0 +1,487 @@
+[
+    {
+        "kurzbezeichnung": "Adlerweg",
+        "id": 121020,
+        "strassenbezeichnung": "Adlerweg"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 49912,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Am Bergl",
+        "id": 39793,
+        "strassenbezeichnung": "Am Bergl"
+    },
+    {
+        "kurzbezeichnung": "Am Grettert",
+        "id": 39807,
+        "strassenbezeichnung": "Am Grettert"
+    },
+    {
+        "kurzbezeichnung": "Am Majötz",
+        "id": 39822,
+        "strassenbezeichnung": "Am Majötz"
+    },
+    {
+        "kurzbezeichnung": "Am Pirchet",
+        "id": 39828,
+        "strassenbezeichnung": "Am Pirchet"
+    },
+    {
+        "kurzbezeichnung": "Am Raun",
+        "id": 52443,
+        "strassenbezeichnung": "Am Raun"
+    },
+    {
+        "kurzbezeichnung": "Am Rofen",
+        "id": 39835,
+        "strassenbezeichnung": "Am Rofen"
+    },
+    {
+        "kurzbezeichnung": "Am Weinberg",
+        "id": 39852,
+        "strassenbezeichnung": "Am Weinberg"
+    },
+    {
+        "kurzbezeichnung": "Auf Arzill",
+        "id": 39788,
+        "strassenbezeichnung": "Auf Arzill"
+    },
+    {
+        "kurzbezeichnung": "August-Stimpfl-Straße",
+        "id": 121702,
+        "strassenbezeichnung": "August-Stimpfl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 39789,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Auwerk",
+        "id": 39790,
+        "strassenbezeichnung": "Auwerk"
+    },
+    {
+        "kurzbezeichnung": "Ballgasse",
+        "id": 39791,
+        "strassenbezeichnung": "Ballgasse"
+    },
+    {
+        "kurzbezeichnung": "Beinlandweg",
+        "id": 39792,
+        "strassenbezeichnung": "Beinlandweg"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 39794,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Bigerweg",
+        "id": 39795,
+        "strassenbezeichnung": "Bigerweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 67259,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Brennbichl",
+        "id": 39796,
+        "strassenbezeichnung": "Brennbichl"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 65186,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Christian-Plattner-Str",
+        "id": 39830,
+        "strassenbezeichnung": "Christian-Plattner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr-Pfeiffenberger-Str.",
+        "id": 39797,
+        "strassenbezeichnung": "Dr.-Carl-Pfeiffenberger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Eduard-Wallnöfer-Platz",
+        "id": 63010,
+        "strassenbezeichnung": "Eduard-Wallnöfer-Platz"
+    },
+    {
+        "kurzbezeichnung": "Eibentalweg",
+        "id": 49934,
+        "strassenbezeichnung": "Eibentalweg"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 39798,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Emil-Leys-Straße",
+        "id": 52444,
+        "strassenbezeichnung": "Emil-Leys-Straße"
+    },
+    {
+        "kurzbezeichnung": "Engereweg",
+        "id": 39799,
+        "strassenbezeichnung": "Engereweg"
+    },
+    {
+        "kurzbezeichnung": "Fabrikstraße",
+        "id": 39800,
+        "strassenbezeichnung": "Fabrikstraße"
+    },
+    {
+        "kurzbezeichnung": "Floriangasse",
+        "id": 39801,
+        "strassenbezeichnung": "Floriangasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 39802,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Xaver-Renn-Str.",
+        "id": 39803,
+        "strassenbezeichnung": "Franz-Xaver-Renn-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gafiailgasse",
+        "id": 39804,
+        "strassenbezeichnung": "Gafiailgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 63016,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Gaulwerk",
+        "id": 39805,
+        "strassenbezeichnung": "Gaulwerk"
+    },
+    {
+        "kurzbezeichnung": "Gebhartstraße",
+        "id": 39806,
+        "strassenbezeichnung": "Gebhartstraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 97004,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Gschnallenhöfe",
+        "id": 39808,
+        "strassenbezeichnung": "Gschnallenhöfe"
+    },
+    {
+        "kurzbezeichnung": "Gunglgrün",
+        "id": 39809,
+        "strassenbezeichnung": "Gunglgrün"
+    },
+    {
+        "kurzbezeichnung": "Hermann-Gmeiner-Straße",
+        "id": 39810,
+        "strassenbezeichnung": "Hermann-Gmeiner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hinterseberweg",
+        "id": 49939,
+        "strassenbezeichnung": "Hinterseberweg"
+    },
+    {
+        "kurzbezeichnung": "Hirtenweg",
+        "id": -32154,
+        "strassenbezeichnung": "Hirtenweg"
+    },
+    {
+        "kurzbezeichnung": "Hoch-Imst",
+        "id": 55904,
+        "strassenbezeichnung": "Hoch-Imst"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 39811,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Industriezone",
+        "id": 63011,
+        "strassenbezeichnung": "Industriezone"
+    },
+    {
+        "kurzbezeichnung": "Ing.-Baller-Straße",
+        "id": 39812,
+        "strassenbezeichnung": "Ing.-Baller-Straße"
+    },
+    {
+        "kurzbezeichnung": "Innweg",
+        "id": 68347,
+        "strassenbezeichnung": "Innweg"
+    },
+    {
+        "kurzbezeichnung": "Jagdhütte Maldon",
+        "id": 101657,
+        "strassenbezeichnung": "Jagdhütte Maldon"
+    },
+    {
+        "kurzbezeichnung": "Jakob-Kopp-Straße",
+        "id": 39813,
+        "strassenbezeichnung": "Jakob-Kopp-Straße"
+    },
+    {
+        "kurzbezeichnung": "Johannesplatz",
+        "id": 39814,
+        "strassenbezeichnung": "Johannesplatz"
+    },
+    {
+        "kurzbezeichnung": "Josef-Koch-Straße",
+        "id": 100524,
+        "strassenbezeichnung": "Josef-Koch-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 39815,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Karl-Jais-Straße",
+        "id": 39816,
+        "strassenbezeichnung": "Karl-Jais-Straße"
+    },
+    {
+        "kurzbezeichnung": "K.-v.-Lutterotti-Str.",
+        "id": 39821,
+        "strassenbezeichnung": "Karl-von-Lutterotti-Straße"
+    },
+    {
+        "kurzbezeichnung": "Knappenweg",
+        "id": 39829,
+        "strassenbezeichnung": "Knappenweg"
+    },
+    {
+        "kurzbezeichnung": "Kramergasse",
+        "id": 46115,
+        "strassenbezeichnung": "Kramergasse"
+    },
+    {
+        "kurzbezeichnung": "Kugelgasse",
+        "id": 39818,
+        "strassenbezeichnung": "Kugelgasse"
+    },
+    {
+        "kurzbezeichnung": "Laggersweg",
+        "id": 63017,
+        "strassenbezeichnung": "Laggersweg"
+    },
+    {
+        "kurzbezeichnung": "Langgasse",
+        "id": 39819,
+        "strassenbezeichnung": "Langgasse"
+    },
+    {
+        "kurzbezeichnung": "Lassigg",
+        "id": 52445,
+        "strassenbezeichnung": "Lassigg"
+    },
+    {
+        "kurzbezeichnung": "Latschenhütte",
+        "id": 101658,
+        "strassenbezeichnung": "Latschenhütte"
+    },
+    {
+        "kurzbezeichnung": "Lehngasse",
+        "id": 39820,
+        "strassenbezeichnung": "Lehngasse"
+    },
+    {
+        "kurzbezeichnung": "Malchbachgasse",
+        "id": 39823,
+        "strassenbezeichnung": "Malchbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Maldonalpe",
+        "id": 101659,
+        "strassenbezeichnung": "Maldonalpe"
+    },
+    {
+        "kurzbezeichnung": "Meilensteinweg",
+        "id": 63014,
+        "strassenbezeichnung": "Meilensteinweg"
+    },
+    {
+        "kurzbezeichnung": "Meraner Straße",
+        "id": 39824,
+        "strassenbezeichnung": "Meraner Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 39825,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Muttekopfhütte",
+        "id": 101660,
+        "strassenbezeichnung": "Muttekopfhütte"
+    },
+    {
+        "kurzbezeichnung": "Obermarkter Alm",
+        "id": 101661,
+        "strassenbezeichnung": "Obermarkter Alm"
+    },
+    {
+        "kurzbezeichnung": "Palmersbachweg",
+        "id": 39826,
+        "strassenbezeichnung": "Palmersbachweg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrgasse",
+        "id": 39827,
+        "strassenbezeichnung": "Pfarrgasse"
+    },
+    {
+        "kurzbezeichnung": "Plangg",
+        "id": 46106,
+        "strassenbezeichnung": "Plangg"
+    },
+    {
+        "kurzbezeichnung": "Postgasse",
+        "id": 39831,
+        "strassenbezeichnung": "Postgasse"
+    },
+    {
+        "kurzbezeichnung": "Putzenweg",
+        "id": 39833,
+        "strassenbezeichnung": "Putzenweg"
+    },
+    {
+        "kurzbezeichnung": "Rastbühel",
+        "id": 39834,
+        "strassenbezeichnung": "Rastbühel"
+    },
+    {
+        "kurzbezeichnung": "Rathausstraße",
+        "id": 94600,
+        "strassenbezeichnung": "Rathausstraße"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 63015,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Rosengartlweg",
+        "id": 39836,
+        "strassenbezeichnung": "Rosengartlweg"
+    },
+    {
+        "kurzbezeichnung": "Rottweiler Straße",
+        "id": 39837,
+        "strassenbezeichnung": "Rottweiler Straße"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 39838,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Schustergasse",
+        "id": 39839,
+        "strassenbezeichnung": "Schustergasse"
+    },
+    {
+        "kurzbezeichnung": "Schwimmbadweg",
+        "id": 49942,
+        "strassenbezeichnung": "Schwimmbadweg"
+    },
+    {
+        "kurzbezeichnung": "Sirapuit",
+        "id": 39840,
+        "strassenbezeichnung": "Sirapuit"
+    },
+    {
+        "kurzbezeichnung": "Sonnbergstraße",
+        "id": 39842,
+        "strassenbezeichnung": "Sonnbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 39843,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "SOS-Kinderdorf",
+        "id": 39817,
+        "strassenbezeichnung": "SOS-Kinderdorf"
+    },
+    {
+        "kurzbezeichnung": "Sparkassenplatz",
+        "id": 91417,
+        "strassenbezeichnung": "Sparkassenplatz"
+    },
+    {
+        "kurzbezeichnung": "Spitzäckerweg",
+        "id": 39844,
+        "strassenbezeichnung": "Spitzäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Stadtplatz",
+        "id": 39845,
+        "strassenbezeichnung": "Stadtplatz"
+    },
+    {
+        "kurzbezeichnung": "Streleweg",
+        "id": 39846,
+        "strassenbezeichnung": "Streleweg"
+    },
+    {
+        "kurzbezeichnung": "Teilwiesen",
+        "id": 39847,
+        "strassenbezeichnung": "Teilwiesen"
+    },
+    {
+        "kurzbezeichnung": "Thomas-Walch-Straße",
+        "id": 39848,
+        "strassenbezeichnung": "Thomas-Walch-Straße"
+    },
+    {
+        "kurzbezeichnung": "Unterm Hohen Rain",
+        "id": 39849,
+        "strassenbezeichnung": "Unterm Hohen Rain"
+    },
+    {
+        "kurzbezeichnung": "Untermarkter Alm",
+        "id": 101663,
+        "strassenbezeichnung": "Untermarkter Alm"
+    },
+    {
+        "kurzbezeichnung": "Vogelhändlergasse",
+        "id": 39850,
+        "strassenbezeichnung": "Vogelhändlergasse"
+    },
+    {
+        "kurzbezeichnung": "Vogeltennenstrasse",
+        "id": 121621,
+        "strassenbezeichnung": "Vogeltennenstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 39851,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 38713,
+        "strassenbezeichnung": "Wiesenweg"
+    }
+]

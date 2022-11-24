@@ -1,0 +1,512 @@
+[
+    {
+        "kurzbezeichnung": "Wöllersdorferweg",
+        "id": -32596,
+        "strassenbezeichnung": "Wöllersdorferweg"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": -32280,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Haltergasse",
+        "id": -32041,
+        "strassenbezeichnung": "Haltergasse"
+    },
+    {
+        "kurzbezeichnung": "Bergackerstraße",
+        "id": -18757,
+        "strassenbezeichnung": "Bergackerstraße"
+    },
+    {
+        "kurzbezeichnung": "Alte Wienerstraße",
+        "id": -18224,
+        "strassenbezeichnung": "Alte Wienerstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 1131,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Fischlinggasse",
+        "id": 1132,
+        "strassenbezeichnung": "Fischlinggasse"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 1133,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Hans Czettel-Straße",
+        "id": 1134,
+        "strassenbezeichnung": "Hans Czettel-Straße"
+    },
+    {
+        "kurzbezeichnung": "Johannesweg",
+        "id": 1135,
+        "strassenbezeichnung": "Johannesweg"
+    },
+    {
+        "kurzbezeichnung": "Obere Burggasse",
+        "id": 1136,
+        "strassenbezeichnung": "Obere Burggasse"
+    },
+    {
+        "kurzbezeichnung": "Paulinergasse",
+        "id": 1137,
+        "strassenbezeichnung": "Paulinergasse"
+    },
+    {
+        "kurzbezeichnung": "Winzendorfer Gasse",
+        "id": 1138,
+        "strassenbezeichnung": "Winzendorfer Gasse"
+    },
+    {
+        "kurzbezeichnung": "Winzerweg",
+        "id": 1139,
+        "strassenbezeichnung": "Winzerweg"
+    },
+    {
+        "kurzbezeichnung": "Bad Fischau",
+        "id": 3583,
+        "strassenbezeichnung": "Bad Fischau"
+    },
+    {
+        "kurzbezeichnung": "Brunn/Schneebergbahn",
+        "id": 3593,
+        "strassenbezeichnung": "Brunn an der Schneebergbahn"
+    },
+    {
+        "kurzbezeichnung": "Alois Windisch-Straße",
+        "id": 20965,
+        "strassenbezeichnung": "Alois Windisch-Straße"
+    },
+    {
+        "kurzbezeichnung": "An der Wasserleitung",
+        "id": 20966,
+        "strassenbezeichnung": "An der Wasserleitung"
+    },
+    {
+        "kurzbezeichnung": "Auf den Riegeln",
+        "id": 20967,
+        "strassenbezeichnung": "Auf den Riegeln"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 20968,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahngasse",
+        "id": 20969,
+        "strassenbezeichnung": "Bahngasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnzeile",
+        "id": 20970,
+        "strassenbezeichnung": "Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Berghofgasse",
+        "id": 20971,
+        "strassenbezeichnung": "Berghofgasse"
+    },
+    {
+        "kurzbezeichnung": "Bergschlößlstraße",
+        "id": 20972,
+        "strassenbezeichnung": "Bergschlößlstraße"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 20973,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Bienenweg",
+        "id": 20974,
+        "strassenbezeichnung": "Bienenweg"
+    },
+    {
+        "kurzbezeichnung": "Blätterstraße",
+        "id": 20975,
+        "strassenbezeichnung": "Blätterstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumentalgasse",
+        "id": 20976,
+        "strassenbezeichnung": "Blumentalgasse"
+    },
+    {
+        "kurzbezeichnung": "Brückelwiesengasse",
+        "id": 20977,
+        "strassenbezeichnung": "Brückelwiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Brunner Hauptstraße",
+        "id": 20978,
+        "strassenbezeichnung": "Brunner Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Brunner Gasse",
+        "id": 20979,
+        "strassenbezeichnung": "Brunner Gasse"
+    },
+    {
+        "kurzbezeichnung": "Deuschlergasse",
+        "id": 20980,
+        "strassenbezeichnung": "Deuschlergasse"
+    },
+    {
+        "kurzbezeichnung": "Dreistetter Straße",
+        "id": 20981,
+        "strassenbezeichnung": "Dreistetter Straße"
+    },
+    {
+        "kurzbezeichnung": "Eisensteinweg",
+        "id": 20982,
+        "strassenbezeichnung": "Eisensteinweg"
+    },
+    {
+        "kurzbezeichnung": "Emmeringstraße",
+        "id": 20983,
+        "strassenbezeichnung": "Emmeringstraße"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 20984,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischabachgasse",
+        "id": 20985,
+        "strassenbezeichnung": "Fischabachgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischauer Straße",
+        "id": 20986,
+        "strassenbezeichnung": "Fischauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 20987,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 20988,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Goldsteinstraße",
+        "id": 20989,
+        "strassenbezeichnung": "Goldsteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Grüne Gasse",
+        "id": 20990,
+        "strassenbezeichnung": "Grüne Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hanuschgasse",
+        "id": 20991,
+        "strassenbezeichnung": "Hanuschgasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 20992,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Heuweg",
+        "id": 20993,
+        "strassenbezeichnung": "Heuweg"
+    },
+    {
+        "kurzbezeichnung": "Hofackergasse",
+        "id": 20994,
+        "strassenbezeichnung": "Hofackergasse"
+    },
+    {
+        "kurzbezeichnung": "Institutsgasse",
+        "id": 20995,
+        "strassenbezeichnung": "Institutsgasse"
+    },
+    {
+        "kurzbezeichnung": "Jägerzeile",
+        "id": 20996,
+        "strassenbezeichnung": "Jägerzeile"
+    },
+    {
+        "kurzbezeichnung": "Karl Steurer-Straße",
+        "id": 20997,
+        "strassenbezeichnung": "Karl Steurer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Klühufgasse",
+        "id": 20998,
+        "strassenbezeichnung": "Klühufgasse"
+    },
+    {
+        "kurzbezeichnung": "Kohlgasse",
+        "id": 20999,
+        "strassenbezeichnung": "Kohlgasse"
+    },
+    {
+        "kurzbezeichnung": "Langackerstraße",
+        "id": 21000,
+        "strassenbezeichnung": "Langackerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lerchengasse",
+        "id": 21001,
+        "strassenbezeichnung": "Lerchengasse"
+    },
+    {
+        "kurzbezeichnung": "Matthias Bliemel-Gasse",
+        "id": 21002,
+        "strassenbezeichnung": "Matthias Bliemel-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Neussergasse",
+        "id": 21003,
+        "strassenbezeichnung": "Neussergasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrgrundgasse",
+        "id": 21004,
+        "strassenbezeichnung": "Pfarrgrundgasse"
+    },
+    {
+        "kurzbezeichnung": "Pointengasse",
+        "id": 21005,
+        "strassenbezeichnung": "Pointengasse"
+    },
+    {
+        "kurzbezeichnung": "Prossetgasse",
+        "id": 21006,
+        "strassenbezeichnung": "Prossetgasse"
+    },
+    {
+        "kurzbezeichnung": "Rainergasse",
+        "id": 21007,
+        "strassenbezeichnung": "Rainergasse"
+    },
+    {
+        "kurzbezeichnung": "Raxgasse",
+        "id": 21008,
+        "strassenbezeichnung": "Raxgasse"
+    },
+    {
+        "kurzbezeichnung": "Redengasse",
+        "id": 21009,
+        "strassenbezeichnung": "Redengasse"
+    },
+    {
+        "kurzbezeichnung": "Robert Stolz-Straße",
+        "id": 21010,
+        "strassenbezeichnung": "Robert Stolz-Straße"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 21011,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Schafflerweg",
+        "id": 21012,
+        "strassenbezeichnung": "Schafflerweg"
+    },
+    {
+        "kurzbezeichnung": "Schloßplatz",
+        "id": 21013,
+        "strassenbezeichnung": "Schloßplatz"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 21014,
+        "strassenbezeichnung": "Schloßweg"
+    },
+    {
+        "kurzbezeichnung": "Schneeberggasse",
+        "id": 21015,
+        "strassenbezeichnung": "Schneeberggasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 21016,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnwendgasse",
+        "id": 21017,
+        "strassenbezeichnung": "Sonnwendgasse"
+    },
+    {
+        "kurzbezeichnung": "Steinaebengasse",
+        "id": 21018,
+        "strassenbezeichnung": "Steinaebengasse"
+    },
+    {
+        "kurzbezeichnung": "Teichplatz",
+        "id": 21019,
+        "strassenbezeichnung": "Teichplatz"
+    },
+    {
+        "kurzbezeichnung": "Theodor Wichmann-Gasse",
+        "id": 21020,
+        "strassenbezeichnung": "Theodor Wichmann-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Viaduktstraße",
+        "id": 21021,
+        "strassenbezeichnung": "Viaduktstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 21022,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Weingartenstraße",
+        "id": 21023,
+        "strassenbezeichnung": "Weingartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiener Neustädter Str.",
+        "id": 21024,
+        "strassenbezeichnung": "Wiener Neustädter Straße"
+    },
+    {
+        "kurzbezeichnung": "Wienerin",
+        "id": 21025,
+        "strassenbezeichnung": "Wienerin"
+    },
+    {
+        "kurzbezeichnung": "Wiener Straße",
+        "id": 21026,
+        "strassenbezeichnung": "Wiener Straße"
+    },
+    {
+        "kurzbezeichnung": "Windbachgasse",
+        "id": 21027,
+        "strassenbezeichnung": "Windbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Saatzen",
+        "id": 48890,
+        "strassenbezeichnung": "Am Saatzen"
+    },
+    {
+        "kurzbezeichnung": "Leberweg",
+        "id": 51214,
+        "strassenbezeichnung": "Leberweg"
+    },
+    {
+        "kurzbezeichnung": "Reiterer Badesee",
+        "id": 53049,
+        "strassenbezeichnung": "Reiterer Badesee"
+    },
+    {
+        "kurzbezeichnung": "Ungarfeldgasse",
+        "id": 61647,
+        "strassenbezeichnung": "Ungarfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Hohe Wand-Straße",
+        "id": 61648,
+        "strassenbezeichnung": "Hohe Wand-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenstraße",
+        "id": 61649,
+        "strassenbezeichnung": "Kapellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Poppengasse",
+        "id": 61650,
+        "strassenbezeichnung": "Poppengasse"
+    },
+    {
+        "kurzbezeichnung": "Kadettenweg",
+        "id": 61651,
+        "strassenbezeichnung": "Kadettenweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.Bruno Rydel-Gasse",
+        "id": 61652,
+        "strassenbezeichnung": "Dr.Bruno Rydel-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Industriegelände",
+        "id": 71768,
+        "strassenbezeichnung": "Industriegelände"
+    },
+    {
+        "kurzbezeichnung": "Ing. Julius Raab-Str.",
+        "id": 71901,
+        "strassenbezeichnung": "Ing. Julius Raab-Straße"
+    },
+    {
+        "kurzbezeichnung": "Wiesfeldgasse",
+        "id": 75562,
+        "strassenbezeichnung": "Wiesfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Dreistetten",
+        "id": 81246,
+        "strassenbezeichnung": "Dreistetten"
+    },
+    {
+        "kurzbezeichnung": "Hornbachplatz",
+        "id": 95159,
+        "strassenbezeichnung": "Hornbachplatz"
+    },
+    {
+        "kurzbezeichnung": "Bauhausstraße",
+        "id": 105973,
+        "strassenbezeichnung": "Bauhausstraße"
+    },
+    {
+        "kurzbezeichnung": "Pappelgasse",
+        "id": 106368,
+        "strassenbezeichnung": "Pappelgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlhofer-Weg",
+        "id": 108253,
+        "strassenbezeichnung": "Mühlhofer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Grabengasse",
+        "id": 113718,
+        "strassenbezeichnung": "Grabengasse"
+    },
+    {
+        "kurzbezeichnung": "Ahorngasse",
+        "id": 114393,
+        "strassenbezeichnung": "Ahorngasse"
+    },
+    {
+        "kurzbezeichnung": "Kirschbaumweg",
+        "id": 114394,
+        "strassenbezeichnung": "Kirschbaumweg"
+    },
+    {
+        "kurzbezeichnung": "Steinfeldgasse",
+        "id": 114909,
+        "strassenbezeichnung": "Steinfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Glaserersiedlung",
+        "id": 122020,
+        "strassenbezeichnung": "Glaserersiedlung"
+    },
+    {
+        "kurzbezeichnung": "MAN Straße",
+        "id": 125830,
+        "strassenbezeichnung": "MAN Straße"
+    }
+]

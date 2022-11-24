@@ -1,0 +1,322 @@
+[
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": -32252,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Am Zwiering",
+        "id": -32211,
+        "strassenbezeichnung": "Am Zwiering"
+    },
+    {
+        "kurzbezeichnung": "Anzenberg",
+        "id": 80387,
+        "strassenbezeichnung": "Anzenberg"
+    },
+    {
+        "kurzbezeichnung": "Getzersdorf",
+        "id": 80388,
+        "strassenbezeichnung": "Getzersdorf"
+    },
+    {
+        "kurzbezeichnung": "Inzersdorf/Traisen",
+        "id": 80389,
+        "strassenbezeichnung": "Inzersdorf ob der Traisen"
+    },
+    {
+        "kurzbezeichnung": "Walpersdorf",
+        "id": 80390,
+        "strassenbezeichnung": "Walpersdorf"
+    },
+    {
+        "kurzbezeichnung": "Wetzmannsthal",
+        "id": 80391,
+        "strassenbezeichnung": "Wetzmannsthal"
+    },
+    {
+        "kurzbezeichnung": "Brunn",
+        "id": 117590,
+        "strassenbezeichnung": "Brunn"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 117591,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 117592,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Weinbergstraße",
+        "id": 117593,
+        "strassenbezeichnung": "Weinbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Inzersdorfer Straße",
+        "id": 117594,
+        "strassenbezeichnung": "Inzersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Kellerweg",
+        "id": 117595,
+        "strassenbezeichnung": "Kellerweg"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 117596,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Reichersdorfer Straße",
+        "id": 117597,
+        "strassenbezeichnung": "Reichersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Bergweg",
+        "id": 117598,
+        "strassenbezeichnung": "Bergweg"
+    },
+    {
+        "kurzbezeichnung": "Göttweiger Straße",
+        "id": 117599,
+        "strassenbezeichnung": "Göttweiger Straße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 117600,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Sportstraße",
+        "id": 117601,
+        "strassenbezeichnung": "Sportstraße"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 117602,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 117603,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Camillo-Krejci-Straße",
+        "id": 117604,
+        "strassenbezeichnung": "Camillo-Krejci-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofgasse",
+        "id": 117605,
+        "strassenbezeichnung": "Bahnhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Traisenstraße",
+        "id": 117606,
+        "strassenbezeichnung": "Traisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Austraße",
+        "id": 117607,
+        "strassenbezeichnung": "Austraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 117608,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Steinfeld",
+        "id": 117609,
+        "strassenbezeichnung": "Am Steinfeld"
+    },
+    {
+        "kurzbezeichnung": "Seeweg",
+        "id": 117610,
+        "strassenbezeichnung": "Seeweg"
+    },
+    {
+        "kurzbezeichnung": "Betriebsgebiet",
+        "id": 117611,
+        "strassenbezeichnung": "Betriebsgebiet"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 117612,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Getzersdorfer Straße",
+        "id": 117613,
+        "strassenbezeichnung": "Getzersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Pointstraße",
+        "id": 117614,
+        "strassenbezeichnung": "Pointstraße"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 117615,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Bernsteinweg",
+        "id": 117616,
+        "strassenbezeichnung": "Bernsteinweg"
+    },
+    {
+        "kurzbezeichnung": "Walpersdorfer Straße",
+        "id": 117617,
+        "strassenbezeichnung": "Walpersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lehnweg",
+        "id": 117618,
+        "strassenbezeichnung": "Lehnweg"
+    },
+    {
+        "kurzbezeichnung": "Kindergartenstraße",
+        "id": 117619,
+        "strassenbezeichnung": "Kindergartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Seigartenweg",
+        "id": 117620,
+        "strassenbezeichnung": "Seigartenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 117621,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Pilgerweg",
+        "id": 117622,
+        "strassenbezeichnung": "Am Pilgerweg"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 117623,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 117624,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Hausbergstraße",
+        "id": 117625,
+        "strassenbezeichnung": "Hausbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Theyerner Straße",
+        "id": 117626,
+        "strassenbezeichnung": "Theyerner Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlbachstraße",
+        "id": 117627,
+        "strassenbezeichnung": "Mühlbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Schlossstraße",
+        "id": 117628,
+        "strassenbezeichnung": "Schlossstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Ponygarten",
+        "id": 117629,
+        "strassenbezeichnung": "Am Ponygarten"
+    },
+    {
+        "kurzbezeichnung": "Pastelligasse",
+        "id": 117630,
+        "strassenbezeichnung": "Pastelligasse"
+    },
+    {
+        "kurzbezeichnung": "Klostergasse",
+        "id": 117631,
+        "strassenbezeichnung": "Klostergasse"
+    },
+    {
+        "kurzbezeichnung": "Am Schlossteich",
+        "id": 117632,
+        "strassenbezeichnung": "Am Schlossteich"
+    },
+    {
+        "kurzbezeichnung": "Jakobsweg",
+        "id": 117633,
+        "strassenbezeichnung": "Jakobsweg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 117634,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Kremser Straße",
+        "id": 117635,
+        "strassenbezeichnung": "Kremser Straße"
+    },
+    {
+        "kurzbezeichnung": "Gärtnerstraße",
+        "id": 117636,
+        "strassenbezeichnung": "Gärtnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Annaweg",
+        "id": 117637,
+        "strassenbezeichnung": "Annaweg"
+    },
+    {
+        "kurzbezeichnung": "Turmstraße",
+        "id": 117638,
+        "strassenbezeichnung": "Turmstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasangartenstraße",
+        "id": 117639,
+        "strassenbezeichnung": "Fasangartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Karl-Ahrer-Straße",
+        "id": 117640,
+        "strassenbezeichnung": "Karl-Ahrer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bildstockweg",
+        "id": 117641,
+        "strassenbezeichnung": "Bildstockweg"
+    },
+    {
+        "kurzbezeichnung": "Ortsstraße",
+        "id": 117642,
+        "strassenbezeichnung": "Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Gerichtsweg",
+        "id": 117643,
+        "strassenbezeichnung": "Gerichtsweg"
+    },
+    {
+        "kurzbezeichnung": "Am Ring",
+        "id": 117644,
+        "strassenbezeichnung": "Am Ring"
+    },
+    {
+        "kurzbezeichnung": "Traubenweg",
+        "id": 117645,
+        "strassenbezeichnung": "Traubenweg"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 118309,
+        "strassenbezeichnung": "Neubaugasse"
+    }
+]

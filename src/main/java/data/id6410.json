@@ -1,0 +1,607 @@
+[
+    {
+        "kurzbezeichnung": "Erwin-Müller-Weg",
+        "id": -32275,
+        "strassenbezeichnung": "Erwin-Müller-Weg"
+    },
+    {
+        "kurzbezeichnung": "Walter-Pichler-Straße",
+        "id": -31086,
+        "strassenbezeichnung": "Walter-Pichler-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ruth-Drexel-Weg",
+        "id": -31085,
+        "strassenbezeichnung": "Ruth-Drexel-Weg"
+    },
+    {
+        "kurzbezeichnung": "Klaus-Liebmann-Weg",
+        "id": -17179,
+        "strassenbezeichnung": "Klaus-Liebmann-Weg"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 22403,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Josef-Pöschl-Weg",
+        "id": 39091,
+        "strassenbezeichnung": "Josef-Pöschl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Josef-Schweinester-Weg",
+        "id": 39100,
+        "strassenbezeichnung": "Josef-Schweinester-Weg"
+    },
+    {
+        "kurzbezeichnung": "Alfons-Schlögl-Weg",
+        "id": 39123,
+        "strassenbezeichnung": "Alfons-Schlögl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Am Kreuzacker",
+        "id": 40499,
+        "strassenbezeichnung": "Am Kreuzacker"
+    },
+    {
+        "kurzbezeichnung": "Andreas-Raggl-Weg",
+        "id": 40500,
+        "strassenbezeichnung": "Andreas-Raggl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 40501,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Anton-Auer-Straße",
+        "id": 40502,
+        "strassenbezeichnung": "Anton-Auer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Anton-Klieber-Straße",
+        "id": 40503,
+        "strassenbezeichnung": "Anton-Klieber-Straße"
+    },
+    {
+        "kurzbezeichnung": "Apfertal",
+        "id": 40504,
+        "strassenbezeichnung": "Apfertal"
+    },
+    {
+        "kurzbezeichnung": "Arzbergstraße",
+        "id": 40505,
+        "strassenbezeichnung": "Arzbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 40506,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenbergstraße",
+        "id": 40509,
+        "strassenbezeichnung": "Birkenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Cosmus-Schindler-Str.",
+        "id": 40512,
+        "strassenbezeichnung": "Cosmus-Schindler-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dandlweg",
+        "id": 40513,
+        "strassenbezeichnung": "Dandlweg"
+    },
+    {
+        "kurzbezeichnung": "Egart",
+        "id": 40514,
+        "strassenbezeichnung": "Egart"
+    },
+    {
+        "kurzbezeichnung": "Emat",
+        "id": 40515,
+        "strassenbezeichnung": "Emat"
+    },
+    {
+        "kurzbezeichnung": "Felsenweg",
+        "id": 40516,
+        "strassenbezeichnung": "Felsenweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 40517,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Pischl-Straße",
+        "id": 40518,
+        "strassenbezeichnung": "Franz-Pischl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz-Stockmayer-Str.",
+        "id": 40519,
+        "strassenbezeichnung": "Franz-Stockmayer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 40520,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Georgenweg",
+        "id": 40521,
+        "strassenbezeichnung": "Georgenweg"
+    },
+    {
+        "kurzbezeichnung": "Giessenweg",
+        "id": 40522,
+        "strassenbezeichnung": "Giessenweg"
+    },
+    {
+        "kurzbezeichnung": "Griesgasse",
+        "id": 40523,
+        "strassenbezeichnung": "Griesgasse"
+    },
+    {
+        "kurzbezeichnung": "Hanffeldweg",
+        "id": 40525,
+        "strassenbezeichnung": "Hanffeldweg"
+    },
+    {
+        "kurzbezeichnung": "Hinterbergstraße",
+        "id": 40527,
+        "strassenbezeichnung": "Hinterbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 40528,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hohe-Munde-Straße",
+        "id": 40529,
+        "strassenbezeichnung": "Hohe-Munde-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef-Gapp-Straße",
+        "id": 40530,
+        "strassenbezeichnung": "Josef-Gapp-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef-Schöpf-Straße",
+        "id": 40531,
+        "strassenbezeichnung": "Josef-Schöpf-Straße"
+    },
+    {
+        "kurzbezeichnung": "Karl-Schönherr-Straße",
+        "id": 40532,
+        "strassenbezeichnung": "Karl-Schönherr-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kirchstraße",
+        "id": 40533,
+        "strassenbezeichnung": "Kirchstraße"
+    },
+    {
+        "kurzbezeichnung": "Klammweg",
+        "id": 40534,
+        "strassenbezeichnung": "Klammweg"
+    },
+    {
+        "kurzbezeichnung": "Klosterfeld",
+        "id": 40535,
+        "strassenbezeichnung": "Klosterfeld"
+    },
+    {
+        "kurzbezeichnung": "Klostergasse",
+        "id": 40536,
+        "strassenbezeichnung": "Klostergasse"
+    },
+    {
+        "kurzbezeichnung": "Krehbachgasse",
+        "id": 40537,
+        "strassenbezeichnung": "Krehbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Lumma",
+        "id": 40539,
+        "strassenbezeichnung": "Lumma"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 40540,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Moosweg",
+        "id": 40543,
+        "strassenbezeichnung": "Moosweg"
+    },
+    {
+        "kurzbezeichnung": "Moritzenstraße",
+        "id": 40544,
+        "strassenbezeichnung": "Moritzenstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 40545,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Niedere-Munde-Straße",
+        "id": 40546,
+        "strassenbezeichnung": "Niedere-Munde-Straße"
+    },
+    {
+        "kurzbezeichnung": "Obermarktstraße",
+        "id": 40547,
+        "strassenbezeichnung": "Obermarktstraße"
+    },
+    {
+        "kurzbezeichnung": "Pfarrer-Gritsch-Straße",
+        "id": 40548,
+        "strassenbezeichnung": "Pfarrer-Gritsch-Straße"
+    },
+    {
+        "kurzbezeichnung": "Prof.-Einberger-Str.",
+        "id": 40550,
+        "strassenbezeichnung": "Prof.-Andreas-Einberger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Puelacherweg",
+        "id": 40551,
+        "strassenbezeichnung": "Puelacherweg"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 40552,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Sagl",
+        "id": 40553,
+        "strassenbezeichnung": "Sagl"
+    },
+    {
+        "kurzbezeichnung": "Saglstraße",
+        "id": 40554,
+        "strassenbezeichnung": "Saglstraße"
+    },
+    {
+        "kurzbezeichnung": "Sandbühel",
+        "id": 40555,
+        "strassenbezeichnung": "Sandbühel"
+    },
+    {
+        "kurzbezeichnung": "Schlichtling",
+        "id": 40556,
+        "strassenbezeichnung": "Schlichtling"
+    },
+    {
+        "kurzbezeichnung": "Spridrichstraße",
+        "id": 40557,
+        "strassenbezeichnung": "Spridrichstraße"
+    },
+    {
+        "kurzbezeichnung": "Steinbühel",
+        "id": 40559,
+        "strassenbezeichnung": "Steinbühel"
+    },
+    {
+        "kurzbezeichnung": "Südtiroler Straße",
+        "id": 40560,
+        "strassenbezeichnung": "Südtiroler Straße"
+    },
+    {
+        "kurzbezeichnung": "Untermarktstraße",
+        "id": 40562,
+        "strassenbezeichnung": "Untermarktstraße"
+    },
+    {
+        "kurzbezeichnung": "Vinzenz-Gredler-Straße",
+        "id": 40563,
+        "strassenbezeichnung": "Vinzenz-Gredler-Straße"
+    },
+    {
+        "kurzbezeichnung": "Wassertal",
+        "id": 40564,
+        "strassenbezeichnung": "Wassertal"
+    },
+    {
+        "kurzbezeichnung": "Weiherweg",
+        "id": 40565,
+        "strassenbezeichnung": "Weiherweg"
+    },
+    {
+        "kurzbezeichnung": "Weißenbachgasse",
+        "id": 40566,
+        "strassenbezeichnung": "Weißenbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 40567,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wildauweg",
+        "id": 40568,
+        "strassenbezeichnung": "Wildauweg"
+    },
+    {
+        "kurzbezeichnung": "Zollergasse",
+        "id": 40570,
+        "strassenbezeichnung": "Zollergasse"
+    },
+    {
+        "kurzbezeichnung": "Bärenweg",
+        "id": 41028,
+        "strassenbezeichnung": "Bärenweg"
+    },
+    {
+        "kurzbezeichnung": "Heroldweg",
+        "id": 41031,
+        "strassenbezeichnung": "Heroldweg"
+    },
+    {
+        "kurzbezeichnung": "Laningerweg",
+        "id": 41033,
+        "strassenbezeichnung": "Laningerweg"
+    },
+    {
+        "kurzbezeichnung": "Schleicherweg",
+        "id": 41046,
+        "strassenbezeichnung": "Schleicherweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 41049,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Wildenweg",
+        "id": 41050,
+        "strassenbezeichnung": "Wildenweg"
+    },
+    {
+        "kurzbezeichnung": "Voglerweg",
+        "id": 41092,
+        "strassenbezeichnung": "Voglerweg"
+    },
+    {
+        "kurzbezeichnung": "Eduard-Wallnöfer-Platz",
+        "id": 45068,
+        "strassenbezeichnung": "Eduard-Wallnöfer-Platz"
+    },
+    {
+        "kurzbezeichnung": "Anton-Föger-Weg",
+        "id": 45072,
+        "strassenbezeichnung": "Anton-Föger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Josef-Falkner-Straße",
+        "id": 52504,
+        "strassenbezeichnung": "Josef-Falkner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Grundfeld",
+        "id": 52823,
+        "strassenbezeichnung": "Grundfeld"
+    },
+    {
+        "kurzbezeichnung": "Wendelinus",
+        "id": 52949,
+        "strassenbezeichnung": "Wendelinus"
+    },
+    {
+        "kurzbezeichnung": "Birkenberg",
+        "id": 55979,
+        "strassenbezeichnung": "Birkenberg"
+    },
+    {
+        "kurzbezeichnung": "Unterbirkenberg",
+        "id": 55980,
+        "strassenbezeichnung": "Unterbirkenberg"
+    },
+    {
+        "kurzbezeichnung": "Hag",
+        "id": 55981,
+        "strassenbezeichnung": "Hag"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 55996,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Olympstraße",
+        "id": 60279,
+        "strassenbezeichnung": "Olympstraße"
+    },
+    {
+        "kurzbezeichnung": "Emil-Ladstätter-Weg",
+        "id": 60280,
+        "strassenbezeichnung": "Emil-Ladstätter-Weg"
+    },
+    {
+        "kurzbezeichnung": "Schwarzer Weg",
+        "id": 60281,
+        "strassenbezeichnung": "Schwarzer Weg"
+    },
+    {
+        "kurzbezeichnung": "Grissen",
+        "id": 60282,
+        "strassenbezeichnung": "Grissen"
+    },
+    {
+        "kurzbezeichnung": "Pfennibachl",
+        "id": 60283,
+        "strassenbezeichnung": "Pfennibachl"
+    },
+    {
+        "kurzbezeichnung": "Unterangerweg",
+        "id": 66594,
+        "strassenbezeichnung": "Unterangerweg"
+    },
+    {
+        "kurzbezeichnung": "Hans-Liebherr-Straße",
+        "id": 66595,
+        "strassenbezeichnung": "Hans-Liebherr-Straße"
+    },
+    {
+        "kurzbezeichnung": "Emil-Achammer-Straße",
+        "id": 67406,
+        "strassenbezeichnung": "Emil-Achammer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kapfweg",
+        "id": 67953,
+        "strassenbezeichnung": "Kapfweg"
+    },
+    {
+        "kurzbezeichnung": "Brand",
+        "id": 69124,
+        "strassenbezeichnung": "Brand"
+    },
+    {
+        "kurzbezeichnung": "Puite",
+        "id": 71346,
+        "strassenbezeichnung": "Puite"
+    },
+    {
+        "kurzbezeichnung": "Norbert-Wallner-Weg",
+        "id": 71347,
+        "strassenbezeichnung": "Norbert-Wallner-Weg"
+    },
+    {
+        "kurzbezeichnung": "G.-Fussenegger-Str.",
+        "id": 71969,
+        "strassenbezeichnung": "Gertrud-Fussenegger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Wasserwaal",
+        "id": 73572,
+        "strassenbezeichnung": "Am Wasserwaal"
+    },
+    {
+        "kurzbezeichnung": "Bairbach",
+        "id": 89774,
+        "strassenbezeichnung": "Bairbach"
+    },
+    {
+        "kurzbezeichnung": "Buchen",
+        "id": 89775,
+        "strassenbezeichnung": "Buchen"
+    },
+    {
+        "kurzbezeichnung": "Hinterberg",
+        "id": 89776,
+        "strassenbezeichnung": "Hinterberg"
+    },
+    {
+        "kurzbezeichnung": "Lehen",
+        "id": 89777,
+        "strassenbezeichnung": "Lehen"
+    },
+    {
+        "kurzbezeichnung": "Platten",
+        "id": 89779,
+        "strassenbezeichnung": "Platten"
+    },
+    {
+        "kurzbezeichnung": "Sankt Veit",
+        "id": 89780,
+        "strassenbezeichnung": "Sankt Veit"
+    },
+    {
+        "kurzbezeichnung": "Hans-Brenner-Weg",
+        "id": 100521,
+        "strassenbezeichnung": "Hans-Brenner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Rimml-Straße",
+        "id": 102259,
+        "strassenbezeichnung": "Franz-Rimml-Straße"
+    },
+    {
+        "kurzbezeichnung": "Florianistraße",
+        "id": 103849,
+        "strassenbezeichnung": "Florianistraße"
+    },
+    {
+        "kurzbezeichnung": "Hermann-Broch-Weg",
+        "id": 105017,
+        "strassenbezeichnung": "Hermann-Broch-Weg"
+    },
+    {
+        "kurzbezeichnung": "Felix-Mitterer-Weg",
+        "id": 105018,
+        "strassenbezeichnung": "Felix-Mitterer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Franz-F.-Kohl-W.",
+        "id": 105019,
+        "strassenbezeichnung": "Franz-Friedrich-Kohl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Heilig-Geist-Wohnpark",
+        "id": 105020,
+        "strassenbezeichnung": "Heilig-Geist-Wohnpark"
+    },
+    {
+        "kurzbezeichnung": "Am Fuchsbühel",
+        "id": 105852,
+        "strassenbezeichnung": "Am Fuchsbühel"
+    },
+    {
+        "kurzbezeichnung": "Michael-Gaismair-Str.",
+        "id": 106138,
+        "strassenbezeichnung": "Michael-Gaismair-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenberg",
+        "id": 106139,
+        "strassenbezeichnung": "Am Sonnenberg"
+    },
+    {
+        "kurzbezeichnung": "Sonnensiedlung",
+        "id": 106867,
+        "strassenbezeichnung": "Sonnensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Bease-Buam-Weg",
+        "id": 110072,
+        "strassenbezeichnung": "Bease-Buam-Weg"
+    },
+    {
+        "kurzbezeichnung": "Hermann-Ganner-Straße",
+        "id": 110073,
+        "strassenbezeichnung": "Hermann-Ganner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Klaus-Ebner-Weg",
+        "id": 110074,
+        "strassenbezeichnung": "Dr.-Klaus-Ebner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Liebherr-Alpenstr.",
+        "id": 110917,
+        "strassenbezeichnung": "Dr.-Hans-Liebherr-Alpenstraße"
+    },
+    {
+        "kurzbezeichnung": "Erl-Au",
+        "id": 113727,
+        "strassenbezeichnung": "Erl-Au"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Ernst-Strigl-Str.",
+        "id": 119507,
+        "strassenbezeichnung": "Dr.-Ernst-Strigl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Albert-Ritsch-Weg",
+        "id": 123365,
+        "strassenbezeichnung": "Albert-Ritsch-Weg"
+    }
+]

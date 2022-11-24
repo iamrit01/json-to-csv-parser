@@ -1,0 +1,567 @@
+[
+    {
+        "kurzbezeichnung": "Grünau",
+        "id": -20084,
+        "strassenbezeichnung": "Grünau"
+    },
+    {
+        "kurzbezeichnung": "Am Graben",
+        "id": 28333,
+        "strassenbezeichnung": "Am Graben"
+    },
+    {
+        "kurzbezeichnung": "Am Hang",
+        "id": 28363,
+        "strassenbezeichnung": "Am Hang"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 28376,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Birkhof",
+        "id": 28436,
+        "strassenbezeichnung": "Birkhof"
+    },
+    {
+        "kurzbezeichnung": "Dirnberg",
+        "id": 28468,
+        "strassenbezeichnung": "Dirnberg"
+    },
+    {
+        "kurzbezeichnung": "Dirnbergerstraße",
+        "id": 28518,
+        "strassenbezeichnung": "Dirnbergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Fallstraße",
+        "id": 28547,
+        "strassenbezeichnung": "Fallstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasanenweg",
+        "id": 28567,
+        "strassenbezeichnung": "Fasanenweg"
+    },
+    {
+        "kurzbezeichnung": "Georgestraße",
+        "id": 28776,
+        "strassenbezeichnung": "Georgestraße"
+    },
+    {
+        "kurzbezeichnung": "Hackstieglweg",
+        "id": 28781,
+        "strassenbezeichnung": "Hackstieglweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 28810,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Leitenweg",
+        "id": 28941,
+        "strassenbezeichnung": "Leitenweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlbergstraße",
+        "id": 29269,
+        "strassenbezeichnung": "Mühlbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Pfafferlehnergütl",
+        "id": 29325,
+        "strassenbezeichnung": "Pfafferlehnergütl"
+    },
+    {
+        "kurzbezeichnung": "Rainweg",
+        "id": 29363,
+        "strassenbezeichnung": "Rainweg"
+    },
+    {
+        "kurzbezeichnung": "Riederbachstraße",
+        "id": 29397,
+        "strassenbezeichnung": "Riederbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 29500,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Scherzergütl",
+        "id": 29501,
+        "strassenbezeichnung": "Scherzergütl"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 29507,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Spilbergstraße",
+        "id": 29586,
+        "strassenbezeichnung": "Spilbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Steinbruchstraße",
+        "id": 29711,
+        "strassenbezeichnung": "Steinbruchstraße"
+    },
+    {
+        "kurzbezeichnung": "Neue Heimat",
+        "id": 56390,
+        "strassenbezeichnung": "Neue Heimat"
+    },
+    {
+        "kurzbezeichnung": "Rieddorf",
+        "id": 56391,
+        "strassenbezeichnung": "Rieddorf"
+    },
+    {
+        "kurzbezeichnung": "Zeinersdorf",
+        "id": 56392,
+        "strassenbezeichnung": "Zeinersdorf"
+    },
+    {
+        "kurzbezeichnung": "Poschacherstraße",
+        "id": 58979,
+        "strassenbezeichnung": "Poschacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Flurstraße",
+        "id": 58980,
+        "strassenbezeichnung": "Flurstraße"
+    },
+    {
+        "kurzbezeichnung": "Gillhofstraße",
+        "id": 66293,
+        "strassenbezeichnung": "Gillhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Binderweg",
+        "id": 66294,
+        "strassenbezeichnung": "Binderweg"
+    },
+    {
+        "kurzbezeichnung": "Frankenbergerstraße",
+        "id": 66295,
+        "strassenbezeichnung": "Frankenbergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Derntlgraben",
+        "id": 66296,
+        "strassenbezeichnung": "Derntlgraben"
+    },
+    {
+        "kurzbezeichnung": "Greinsberg",
+        "id": 73293,
+        "strassenbezeichnung": "Greinsberg"
+    },
+    {
+        "kurzbezeichnung": "Grünau",
+        "id": 73294,
+        "strassenbezeichnung": "Grünau"
+    },
+    {
+        "kurzbezeichnung": "Lungitz",
+        "id": 73295,
+        "strassenbezeichnung": "Lungitz"
+    },
+    {
+        "kurzbezeichnung": "Rothof",
+        "id": 73296,
+        "strassenbezeichnung": "Rothof"
+    },
+    {
+        "kurzbezeichnung": "Schwarzendorf",
+        "id": 73297,
+        "strassenbezeichnung": "Schwarzendorf"
+    },
+    {
+        "kurzbezeichnung": "Oberhaider Straße",
+        "id": 73568,
+        "strassenbezeichnung": "Oberhaider Straße"
+    },
+    {
+        "kurzbezeichnung": "Im Unterfeld",
+        "id": 75636,
+        "strassenbezeichnung": "Im Unterfeld"
+    },
+    {
+        "kurzbezeichnung": "Edt",
+        "id": 75764,
+        "strassenbezeichnung": "Edt"
+    },
+    {
+        "kurzbezeichnung": "Blindendorf",
+        "id": 84302,
+        "strassenbezeichnung": "Blindendorf"
+    },
+    {
+        "kurzbezeichnung": "Reiser",
+        "id": 84303,
+        "strassenbezeichnung": "Reiser"
+    },
+    {
+        "kurzbezeichnung": "Frankenberg",
+        "id": 84331,
+        "strassenbezeichnung": "Frankenberg"
+    },
+    {
+        "kurzbezeichnung": "Hinterholz",
+        "id": 84340,
+        "strassenbezeichnung": "Hinterholz"
+    },
+    {
+        "kurzbezeichnung": "Aistbergthal",
+        "id": 84427,
+        "strassenbezeichnung": "Aistbergthal"
+    },
+    {
+        "kurzbezeichnung": "Altaist",
+        "id": 84428,
+        "strassenbezeichnung": "Altaist"
+    },
+    {
+        "kurzbezeichnung": "Anzendorf",
+        "id": 84429,
+        "strassenbezeichnung": "Anzendorf"
+    },
+    {
+        "kurzbezeichnung": "Blindendorf",
+        "id": 84430,
+        "strassenbezeichnung": "Blindendorf"
+    },
+    {
+        "kurzbezeichnung": "Danndorf",
+        "id": 84431,
+        "strassenbezeichnung": "Danndorf"
+    },
+    {
+        "kurzbezeichnung": "Frankenberg",
+        "id": 84432,
+        "strassenbezeichnung": "Frankenberg"
+    },
+    {
+        "kurzbezeichnung": "Grünau",
+        "id": 84433,
+        "strassenbezeichnung": "Grünau"
+    },
+    {
+        "kurzbezeichnung": "Hartl",
+        "id": 84434,
+        "strassenbezeichnung": "Hartl"
+    },
+    {
+        "kurzbezeichnung": "Marbach",
+        "id": 84435,
+        "strassenbezeichnung": "Marbach"
+    },
+    {
+        "kurzbezeichnung": "Marwach",
+        "id": 84436,
+        "strassenbezeichnung": "Marwach"
+    },
+    {
+        "kurzbezeichnung": "Niederzirking",
+        "id": 84437,
+        "strassenbezeichnung": "Niederzirking"
+    },
+    {
+        "kurzbezeichnung": "Obenberg",
+        "id": 84438,
+        "strassenbezeichnung": "Obenberg"
+    },
+    {
+        "kurzbezeichnung": "Oberzirking",
+        "id": 84439,
+        "strassenbezeichnung": "Oberzirking"
+    },
+    {
+        "kurzbezeichnung": "Ried in der Riedmark",
+        "id": 84441,
+        "strassenbezeichnung": "Ried in der Riedmark"
+    },
+    {
+        "kurzbezeichnung": "Thal",
+        "id": 84442,
+        "strassenbezeichnung": "Thal"
+    },
+    {
+        "kurzbezeichnung": "Wachsreith",
+        "id": 84443,
+        "strassenbezeichnung": "Wachsreith"
+    },
+    {
+        "kurzbezeichnung": "Gusenbauerweg",
+        "id": 90684,
+        "strassenbezeichnung": "Gusenbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Narzissenweg",
+        "id": 90685,
+        "strassenbezeichnung": "Narzissenweg"
+    },
+    {
+        "kurzbezeichnung": "Salzweg",
+        "id": 90686,
+        "strassenbezeichnung": "Salzweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 90687,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Kardenweg",
+        "id": 90688,
+        "strassenbezeichnung": "Kardenweg"
+    },
+    {
+        "kurzbezeichnung": "Krokusweg",
+        "id": 90689,
+        "strassenbezeichnung": "Krokusweg"
+    },
+    {
+        "kurzbezeichnung": "Frellerhofweg",
+        "id": 90695,
+        "strassenbezeichnung": "Frellerhofweg"
+    },
+    {
+        "kurzbezeichnung": "Erinnerungsstraße",
+        "id": 90720,
+        "strassenbezeichnung": "Erinnerungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Marbachstraße",
+        "id": 90721,
+        "strassenbezeichnung": "Marbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 90722,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Spilberg",
+        "id": 90827,
+        "strassenbezeichnung": "Spilberg"
+    },
+    {
+        "kurzbezeichnung": "Freiholzstraße",
+        "id": 91264,
+        "strassenbezeichnung": "Freiholzstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaserweg",
+        "id": 91270,
+        "strassenbezeichnung": "Kaserweg"
+    },
+    {
+        "kurzbezeichnung": "Fallnerweg",
+        "id": 91819,
+        "strassenbezeichnung": "Fallnerweg"
+    },
+    {
+        "kurzbezeichnung": "Hinterholzweg",
+        "id": 93106,
+        "strassenbezeichnung": "Hinterholzweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 93107,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Freistädter Straße",
+        "id": 93109,
+        "strassenbezeichnung": "Freistädter Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Bühel",
+        "id": 105347,
+        "strassenbezeichnung": "Am Bühel"
+    },
+    {
+        "kurzbezeichnung": "Auf der Lindn",
+        "id": 105348,
+        "strassenbezeichnung": "Auf der Lindn"
+    },
+    {
+        "kurzbezeichnung": "Augustinerstraße",
+        "id": 105349,
+        "strassenbezeichnung": "Augustinerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Ring",
+        "id": 105350,
+        "strassenbezeichnung": "Am Ring"
+    },
+    {
+        "kurzbezeichnung": "Diakoniestraße",
+        "id": 105351,
+        "strassenbezeichnung": "Diakoniestraße"
+    },
+    {
+        "kurzbezeichnung": "Grünauer Straße",
+        "id": 105352,
+        "strassenbezeichnung": "Grünauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Klostergasse",
+        "id": 105353,
+        "strassenbezeichnung": "Klostergasse"
+    },
+    {
+        "kurzbezeichnung": "Lungitzer Straße",
+        "id": 105354,
+        "strassenbezeichnung": "Lungitzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 105355,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Oberes Brunnenfeld",
+        "id": 105356,
+        "strassenbezeichnung": "Oberes Brunnenfeld"
+    },
+    {
+        "kurzbezeichnung": "Parkring",
+        "id": 105357,
+        "strassenbezeichnung": "Parkring"
+    },
+    {
+        "kurzbezeichnung": "Riedberg",
+        "id": 105358,
+        "strassenbezeichnung": "Riedberg"
+    },
+    {
+        "kurzbezeichnung": "Schlossergasse",
+        "id": 105359,
+        "strassenbezeichnung": "Schlossergasse"
+    },
+    {
+        "kurzbezeichnung": "Schmiedestraße",
+        "id": 105360,
+        "strassenbezeichnung": "Schmiedestraße"
+    },
+    {
+        "kurzbezeichnung": "Schlossweg",
+        "id": 105361,
+        "strassenbezeichnung": "Schlossweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 105362,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Unteres Brunnenfeld",
+        "id": 105363,
+        "strassenbezeichnung": "Unteres Brunnenfeld"
+    },
+    {
+        "kurzbezeichnung": "Wagenfeld",
+        "id": 105364,
+        "strassenbezeichnung": "Wagenfeld"
+    },
+    {
+        "kurzbezeichnung": "Zeinersdorfer Straße",
+        "id": 105365,
+        "strassenbezeichnung": "Zeinersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Zirkinger Straße",
+        "id": 105366,
+        "strassenbezeichnung": "Zirkinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Buchholz",
+        "id": 105367,
+        "strassenbezeichnung": "Buchholz"
+    },
+    {
+        "kurzbezeichnung": "Gerersdorf",
+        "id": 105368,
+        "strassenbezeichnung": "Gerersdorf"
+    },
+    {
+        "kurzbezeichnung": "Hochstraß",
+        "id": 105369,
+        "strassenbezeichnung": "Hochstraß"
+    },
+    {
+        "kurzbezeichnung": "Holzgasse",
+        "id": 105370,
+        "strassenbezeichnung": "Holzgasse"
+    },
+    {
+        "kurzbezeichnung": "Kollnerberg",
+        "id": 105372,
+        "strassenbezeichnung": "Kollnerberg"
+    },
+    {
+        "kurzbezeichnung": "Reidl",
+        "id": 105374,
+        "strassenbezeichnung": "Reidl"
+    },
+    {
+        "kurzbezeichnung": "Schnellendorf",
+        "id": 105375,
+        "strassenbezeichnung": "Schnellendorf"
+    },
+    {
+        "kurzbezeichnung": "Waging",
+        "id": 105376,
+        "strassenbezeichnung": "Waging"
+    },
+    {
+        "kurzbezeichnung": "Weigersdorf",
+        "id": 105377,
+        "strassenbezeichnung": "Weigersdorf"
+    },
+    {
+        "kurzbezeichnung": "Wildberg",
+        "id": 105378,
+        "strassenbezeichnung": "Wildberg"
+    },
+    {
+        "kurzbezeichnung": "Wimm",
+        "id": 105379,
+        "strassenbezeichnung": "Wimm"
+    },
+    {
+        "kurzbezeichnung": "Marktstraße",
+        "id": 105565,
+        "strassenbezeichnung": "Marktstraße"
+    },
+    {
+        "kurzbezeichnung": "Zirking",
+        "id": 105975,
+        "strassenbezeichnung": "Zirking"
+    },
+    {
+        "kurzbezeichnung": "Zirkinger Weg",
+        "id": 105976,
+        "strassenbezeichnung": "Zirkinger Weg"
+    },
+    {
+        "kurzbezeichnung": "Loitzenberg",
+        "id": 106259,
+        "strassenbezeichnung": "Loitzenberg"
+    },
+    {
+        "kurzbezeichnung": "Oberfeldweg",
+        "id": 111976,
+        "strassenbezeichnung": "Oberfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Unterfeldweg",
+        "id": 111977,
+        "strassenbezeichnung": "Unterfeldweg"
+    }
+]

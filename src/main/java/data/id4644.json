@@ -1,0 +1,972 @@
+[
+    {
+        "kurzbezeichnung": "Ober Steinfelden",
+        "id": -31290,
+        "strassenbezeichnung": "Ober Steinfelden"
+    },
+    {
+        "kurzbezeichnung": "Annerlbauerweg",
+        "id": -30105,
+        "strassenbezeichnung": "Annerlbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": -20626,
+        "strassenbezeichnung": "Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Johann-Wolf-Straße",
+        "id": -18849,
+        "strassenbezeichnung": "Johann-Wolf-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Birkenweg",
+        "id": -17852,
+        "strassenbezeichnung": "Am Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg 10",
+        "id": -16718,
+        "strassenbezeichnung": "Lärchenweg 10"
+    },
+    {
+        "kurzbezeichnung": "Scharnstein",
+        "id": -3548,
+        "strassenbezeichnung": "Scharnstein"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 5878,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 5879,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Jörgerstraße",
+        "id": 5880,
+        "strassenbezeichnung": "Jörgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßhaide",
+        "id": 5881,
+        "strassenbezeichnung": "Schloßhaide"
+    },
+    {
+        "kurzbezeichnung": "Promenade",
+        "id": 5882,
+        "strassenbezeichnung": "Promenade"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 5883,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Brauhofstraße",
+        "id": 5884,
+        "strassenbezeichnung": "Brauhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßberg",
+        "id": 5885,
+        "strassenbezeichnung": "Schloßberg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 5886,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Museumstraße",
+        "id": 5888,
+        "strassenbezeichnung": "Museumstraße"
+    },
+    {
+        "kurzbezeichnung": "Wagau",
+        "id": 5890,
+        "strassenbezeichnung": "Wagau"
+    },
+    {
+        "kurzbezeichnung": "Schönau",
+        "id": 5899,
+        "strassenbezeichnung": "Schönau"
+    },
+    {
+        "kurzbezeichnung": "Hamberg",
+        "id": 5900,
+        "strassenbezeichnung": "Hamberg"
+    },
+    {
+        "kurzbezeichnung": "Welserstraße",
+        "id": 5901,
+        "strassenbezeichnung": "Welserstraße"
+    },
+    {
+        "kurzbezeichnung": "Grubbachstraße",
+        "id": 5903,
+        "strassenbezeichnung": "Grubbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Burgweg",
+        "id": 5904,
+        "strassenbezeichnung": "Burgweg"
+    },
+    {
+        "kurzbezeichnung": "Almseestraße",
+        "id": 5913,
+        "strassenbezeichnung": "Almseestraße"
+    },
+    {
+        "kurzbezeichnung": "Nagelschmiedstraße",
+        "id": 5918,
+        "strassenbezeichnung": "Nagelschmiedstraße"
+    },
+    {
+        "kurzbezeichnung": "Tießenbach",
+        "id": 5921,
+        "strassenbezeichnung": "Tießenbach"
+    },
+    {
+        "kurzbezeichnung": "Redtenbacherstraße",
+        "id": 5923,
+        "strassenbezeichnung": "Redtenbacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühldorf",
+        "id": 5930,
+        "strassenbezeichnung": "Mühldorf"
+    },
+    {
+        "kurzbezeichnung": "In der Haid",
+        "id": 5931,
+        "strassenbezeichnung": "In der Haid"
+    },
+    {
+        "kurzbezeichnung": "Wieseck",
+        "id": 5932,
+        "strassenbezeichnung": "Wieseck"
+    },
+    {
+        "kurzbezeichnung": "Mayrhofstraße",
+        "id": 5933,
+        "strassenbezeichnung": "Mayrhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Fischerbühel",
+        "id": 5934,
+        "strassenbezeichnung": "Fischerbühel"
+    },
+    {
+        "kurzbezeichnung": "Matzing",
+        "id": 5936,
+        "strassenbezeichnung": "Matzing"
+    },
+    {
+        "kurzbezeichnung": "Im Forst",
+        "id": 5938,
+        "strassenbezeichnung": "Im Forst"
+    },
+    {
+        "kurzbezeichnung": "Lehenleiten",
+        "id": 5942,
+        "strassenbezeichnung": "Lehenleiten"
+    },
+    {
+        "kurzbezeichnung": "Schaumburgweg",
+        "id": 5943,
+        "strassenbezeichnung": "Schaumburgweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 5950,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Im Feld",
+        "id": 5953,
+        "strassenbezeichnung": "Im Feld"
+    },
+    {
+        "kurzbezeichnung": "Hochbuchegg",
+        "id": 5969,
+        "strassenbezeichnung": "Hochbuchegg"
+    },
+    {
+        "kurzbezeichnung": "Schindlau",
+        "id": 6060,
+        "strassenbezeichnung": "Schindlau"
+    },
+    {
+        "kurzbezeichnung": "Zu Brunn",
+        "id": 6072,
+        "strassenbezeichnung": "Zu Brunn"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 6105,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Liesenwaldstraße",
+        "id": 6131,
+        "strassenbezeichnung": "Liesenwaldstraße"
+    },
+    {
+        "kurzbezeichnung": "Traxenbichl",
+        "id": 6135,
+        "strassenbezeichnung": "Traxenbichl"
+    },
+    {
+        "kurzbezeichnung": "Almegg",
+        "id": 6146,
+        "strassenbezeichnung": "Almegg"
+    },
+    {
+        "kurzbezeichnung": "Hauergraben",
+        "id": 6151,
+        "strassenbezeichnung": "Hauergraben"
+    },
+    {
+        "kurzbezeichnung": "In der Au",
+        "id": 6152,
+        "strassenbezeichnung": "In der Au"
+    },
+    {
+        "kurzbezeichnung": "Obersperr",
+        "id": 6153,
+        "strassenbezeichnung": "Obersperr"
+    },
+    {
+        "kurzbezeichnung": "Dorfbühel",
+        "id": 6154,
+        "strassenbezeichnung": "Dorfbühel"
+    },
+    {
+        "kurzbezeichnung": "In der Thann",
+        "id": 6155,
+        "strassenbezeichnung": "In der Thann"
+    },
+    {
+        "kurzbezeichnung": "Rathberg",
+        "id": 6156,
+        "strassenbezeichnung": "Rathberg"
+    },
+    {
+        "kurzbezeichnung": "Halsgraben",
+        "id": 6157,
+        "strassenbezeichnung": "Halsgraben"
+    },
+    {
+        "kurzbezeichnung": "Birihub",
+        "id": 6158,
+        "strassenbezeichnung": "Birihub"
+    },
+    {
+        "kurzbezeichnung": "Hacklberg",
+        "id": 6159,
+        "strassenbezeichnung": "Hacklberg"
+    },
+    {
+        "kurzbezeichnung": "Viechtwang",
+        "id": 6160,
+        "strassenbezeichnung": "Viechtwang"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 6163,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Neu-Viechtwang",
+        "id": 6166,
+        "strassenbezeichnung": "Neu-Viechtwang"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 6169,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Trambachweg",
+        "id": 6171,
+        "strassenbezeichnung": "Trambachweg"
+    },
+    {
+        "kurzbezeichnung": "Beim Bach",
+        "id": 6172,
+        "strassenbezeichnung": "Beim Bach"
+    },
+    {
+        "kurzbezeichnung": "Brandstatt",
+        "id": 6174,
+        "strassenbezeichnung": "Brandstatt"
+    },
+    {
+        "kurzbezeichnung": "Untersperr",
+        "id": 6175,
+        "strassenbezeichnung": "Untersperr"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 6176,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sperrwald",
+        "id": 6182,
+        "strassenbezeichnung": "Sperrwald"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 6183,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 6184,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Haidholz",
+        "id": 6187,
+        "strassenbezeichnung": "Haidholz"
+    },
+    {
+        "kurzbezeichnung": "Felderweg",
+        "id": 6188,
+        "strassenbezeichnung": "Felderweg"
+    },
+    {
+        "kurzbezeichnung": "Mangerweg",
+        "id": 6192,
+        "strassenbezeichnung": "Mangerweg"
+    },
+    {
+        "kurzbezeichnung": "Siebenbürgerstraße",
+        "id": 6194,
+        "strassenbezeichnung": "Siebenbürgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Altenheimstraße",
+        "id": 6195,
+        "strassenbezeichnung": "Altenheimstraße"
+    },
+    {
+        "kurzbezeichnung": "Flößerstraße",
+        "id": 6196,
+        "strassenbezeichnung": "Flößerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bartwinkel",
+        "id": 6201,
+        "strassenbezeichnung": "Bartwinkel"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 6202,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Stoiberau",
+        "id": 6205,
+        "strassenbezeichnung": "Stoiberau"
+    },
+    {
+        "kurzbezeichnung": "In der Lahn",
+        "id": 6206,
+        "strassenbezeichnung": "In der Lahn"
+    },
+    {
+        "kurzbezeichnung": "Bruckmühle",
+        "id": 6207,
+        "strassenbezeichnung": "Bruckmühle"
+    },
+    {
+        "kurzbezeichnung": "Obergraben",
+        "id": 6210,
+        "strassenbezeichnung": "Obergraben"
+    },
+    {
+        "kurzbezeichnung": "Baumgarten",
+        "id": 6211,
+        "strassenbezeichnung": "Baumgarten"
+    },
+    {
+        "kurzbezeichnung": "Bäckerberg",
+        "id": 6212,
+        "strassenbezeichnung": "Bäckerberg"
+    },
+    {
+        "kurzbezeichnung": "Herrnberg",
+        "id": 6213,
+        "strassenbezeichnung": "Herrnberg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrerberg",
+        "id": 67176,
+        "strassenbezeichnung": "Pfarrerberg"
+    },
+    {
+        "kurzbezeichnung": "Hackerschmiedstraße",
+        "id": 69341,
+        "strassenbezeichnung": "Hackerschmiedstraße"
+    },
+    {
+        "kurzbezeichnung": "Haidfeld",
+        "id": 71201,
+        "strassenbezeichnung": "Haidfeld"
+    },
+    {
+        "kurzbezeichnung": "Hofwiese",
+        "id": 73763,
+        "strassenbezeichnung": "Hofwiese"
+    },
+    {
+        "kurzbezeichnung": "Kellerstraße",
+        "id": 73764,
+        "strassenbezeichnung": "Kellerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lehenstraße",
+        "id": 73765,
+        "strassenbezeichnung": "Lehenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schraubenhausstraße",
+        "id": 73766,
+        "strassenbezeichnung": "Schraubenhausstraße"
+    },
+    {
+        "kurzbezeichnung": "Grünau im Almtal",
+        "id": 83126,
+        "strassenbezeichnung": "Grünau im Almtal"
+    },
+    {
+        "kurzbezeichnung": "Sankt Konrad",
+        "id": 83183,
+        "strassenbezeichnung": "Sankt Konrad"
+    },
+    {
+        "kurzbezeichnung": "Steinbach am Ziehberg",
+        "id": 84106,
+        "strassenbezeichnung": "Steinbach am Ziehberg"
+    },
+    {
+        "kurzbezeichnung": "Rebgau Straße",
+        "id": 96140,
+        "strassenbezeichnung": "Rebgau Straße"
+    },
+    {
+        "kurzbezeichnung": "Neu-Scharnstein",
+        "id": 96141,
+        "strassenbezeichnung": "Neu-Scharnstein"
+    },
+    {
+        "kurzbezeichnung": "Am Kronabeth",
+        "id": 103669,
+        "strassenbezeichnung": "Am Kronabeth"
+    },
+    {
+        "kurzbezeichnung": "Schlehbühel",
+        "id": 105682,
+        "strassenbezeichnung": "Schlehbühel"
+    },
+    {
+        "kurzbezeichnung": "Almeggstraße",
+        "id": 111730,
+        "strassenbezeichnung": "Almeggstraße"
+    },
+    {
+        "kurzbezeichnung": "Almsee",
+        "id": 111731,
+        "strassenbezeichnung": "Almsee"
+    },
+    {
+        "kurzbezeichnung": "Altmannstraße",
+        "id": 111732,
+        "strassenbezeichnung": "Altmannstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Grünaubach",
+        "id": 111733,
+        "strassenbezeichnung": "Am Grünaubach"
+    },
+    {
+        "kurzbezeichnung": "Am Jakobsbrunnen",
+        "id": 111734,
+        "strassenbezeichnung": "Am Jakobsbrunnen"
+    },
+    {
+        "kurzbezeichnung": "Am Nissberg",
+        "id": 111735,
+        "strassenbezeichnung": "Am Nissberg"
+    },
+    {
+        "kurzbezeichnung": "Am Weiher",
+        "id": 111736,
+        "strassenbezeichnung": "Am Weiher"
+    },
+    {
+        "kurzbezeichnung": "Auerbach",
+        "id": 111737,
+        "strassenbezeichnung": "Auerbach"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 111738,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bauernstraße",
+        "id": 111739,
+        "strassenbezeichnung": "Bauernstraße"
+    },
+    {
+        "kurzbezeichnung": "Bründlgasse",
+        "id": 111740,
+        "strassenbezeichnung": "Bründlgasse"
+    },
+    {
+        "kurzbezeichnung": "Brunneckeranger",
+        "id": 111741,
+        "strassenbezeichnung": "Brunneckeranger"
+    },
+    {
+        "kurzbezeichnung": "Edthof",
+        "id": 111742,
+        "strassenbezeichnung": "Edthof"
+    },
+    {
+        "kurzbezeichnung": "Enzenbach",
+        "id": 111743,
+        "strassenbezeichnung": "Enzenbach"
+    },
+    {
+        "kurzbezeichnung": "Fischerau",
+        "id": 111744,
+        "strassenbezeichnung": "Fischerau"
+    },
+    {
+        "kurzbezeichnung": "Fischereckstraße",
+        "id": 111745,
+        "strassenbezeichnung": "Fischereckstraße"
+    },
+    {
+        "kurzbezeichnung": "Gangljodl",
+        "id": 111746,
+        "strassenbezeichnung": "Gangljodl"
+    },
+    {
+        "kurzbezeichnung": "Göschlseben",
+        "id": 111747,
+        "strassenbezeichnung": "Göschlseben"
+    },
+    {
+        "kurzbezeichnung": "Grubbachstraße",
+        "id": 111748,
+        "strassenbezeichnung": "Grubbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Habernau",
+        "id": 111749,
+        "strassenbezeichnung": "Habernau"
+    },
+    {
+        "kurzbezeichnung": "Heckenau",
+        "id": 111750,
+        "strassenbezeichnung": "Heckenau"
+    },
+    {
+        "kurzbezeichnung": "Hetzau",
+        "id": 111751,
+        "strassenbezeichnung": "Hetzau"
+    },
+    {
+        "kurzbezeichnung": "Hochschlag",
+        "id": 111752,
+        "strassenbezeichnung": "Hochschlag"
+    },
+    {
+        "kurzbezeichnung": "Im Dorf",
+        "id": 111753,
+        "strassenbezeichnung": "Im Dorf"
+    },
+    {
+        "kurzbezeichnung": "In der Lahn",
+        "id": 111754,
+        "strassenbezeichnung": "In der Lahn"
+    },
+    {
+        "kurzbezeichnung": "Kalkofenstraße",
+        "id": 111755,
+        "strassenbezeichnung": "Kalkofenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kefergasse",
+        "id": 111756,
+        "strassenbezeichnung": "Kefergasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 111757,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kramesbergstraße",
+        "id": 111758,
+        "strassenbezeichnung": "Kramesbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Kronawettau",
+        "id": 111759,
+        "strassenbezeichnung": "Kronawettau"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 111760,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Langau",
+        "id": 111761,
+        "strassenbezeichnung": "Langau"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 111762,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Nussbergweg",
+        "id": 111763,
+        "strassenbezeichnung": "Nussbergweg"
+    },
+    {
+        "kurzbezeichnung": "Peternwald",
+        "id": 111764,
+        "strassenbezeichnung": "Peternwald"
+    },
+    {
+        "kurzbezeichnung": "Pfarrwiese",
+        "id": 111765,
+        "strassenbezeichnung": "Pfarrwiese"
+    },
+    {
+        "kurzbezeichnung": "Rabenbrunn",
+        "id": 111766,
+        "strassenbezeichnung": "Rabenbrunn"
+    },
+    {
+        "kurzbezeichnung": "Raichenau",
+        "id": 111767,
+        "strassenbezeichnung": "Raichenau"
+    },
+    {
+        "kurzbezeichnung": "Redlmühle",
+        "id": 111768,
+        "strassenbezeichnung": "Redlmühle"
+    },
+    {
+        "kurzbezeichnung": "Redlwies",
+        "id": 111769,
+        "strassenbezeichnung": "Redlwies"
+    },
+    {
+        "kurzbezeichnung": "Sägerstraße",
+        "id": 111770,
+        "strassenbezeichnung": "Sägerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schaiten",
+        "id": 111771,
+        "strassenbezeichnung": "Schaiten"
+    },
+    {
+        "kurzbezeichnung": "Schindlbach",
+        "id": 111772,
+        "strassenbezeichnung": "Schindlbach"
+    },
+    {
+        "kurzbezeichnung": "Schindlbachstraße",
+        "id": 111773,
+        "strassenbezeichnung": "Schindlbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Schullersiedlung",
+        "id": 111774,
+        "strassenbezeichnung": "Schullersiedlung"
+    },
+    {
+        "kurzbezeichnung": "Steinwänd",
+        "id": 111775,
+        "strassenbezeichnung": "Steinwänd"
+    },
+    {
+        "kurzbezeichnung": "Stoßbach",
+        "id": 111776,
+        "strassenbezeichnung": "Stoßbach"
+    },
+    {
+        "kurzbezeichnung": "Unterswänd",
+        "id": 111777,
+        "strassenbezeichnung": "Unterswänd"
+    },
+    {
+        "kurzbezeichnung": "Vorderrinnbach",
+        "id": 111778,
+        "strassenbezeichnung": "Vorderrinnbach"
+    },
+    {
+        "kurzbezeichnung": "Waldwegstraße",
+        "id": 111779,
+        "strassenbezeichnung": "Waldwegstraße"
+    },
+    {
+        "kurzbezeichnung": "Weiherdorf",
+        "id": 111780,
+        "strassenbezeichnung": "Weiherdorf"
+    },
+    {
+        "kurzbezeichnung": "Hinterrinnbach",
+        "id": 111781,
+        "strassenbezeichnung": "Hinterrinnbach"
+    },
+    {
+        "kurzbezeichnung": "Bühlhäuslweg",
+        "id": 111782,
+        "strassenbezeichnung": "Bühlhäuslweg"
+    },
+    {
+        "kurzbezeichnung": "Kasberg",
+        "id": 111783,
+        "strassenbezeichnung": "Kasberg"
+    },
+    {
+        "kurzbezeichnung": "Kalkofen",
+        "id": 115779,
+        "strassenbezeichnung": "Kalkofen"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 119483,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 119484,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Dürnberg",
+        "id": 119486,
+        "strassenbezeichnung": "Dürnberg"
+    },
+    {
+        "kurzbezeichnung": "Fischeredt",
+        "id": 119487,
+        "strassenbezeichnung": "Fischeredt"
+    },
+    {
+        "kurzbezeichnung": "Hals",
+        "id": 119488,
+        "strassenbezeichnung": "Hals"
+    },
+    {
+        "kurzbezeichnung": "Häusern",
+        "id": 119489,
+        "strassenbezeichnung": "Häusern"
+    },
+    {
+        "kurzbezeichnung": "Hub",
+        "id": 119491,
+        "strassenbezeichnung": "Hub"
+    },
+    {
+        "kurzbezeichnung": "Nußbaum",
+        "id": 119494,
+        "strassenbezeichnung": "Nussbaum"
+    },
+    {
+        "kurzbezeichnung": "Ort",
+        "id": 119495,
+        "strassenbezeichnung": "Ort"
+    },
+    {
+        "kurzbezeichnung": "Pühret",
+        "id": 119496,
+        "strassenbezeichnung": "Pühret"
+    },
+    {
+        "kurzbezeichnung": "Straß",
+        "id": 119499,
+        "strassenbezeichnung": "Strass"
+    },
+    {
+        "kurzbezeichnung": "Felling",
+        "id": 123154,
+        "strassenbezeichnung": "Felling"
+    },
+    {
+        "kurzbezeichnung": "Heitzerbauerstraße",
+        "id": 124863,
+        "strassenbezeichnung": "Heitzerbauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Anbauerstraße",
+        "id": 126699,
+        "strassenbezeichnung": "Anbauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Brücklgraben",
+        "id": 126700,
+        "strassenbezeichnung": "Brücklgraben"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 126701,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Edt",
+        "id": 126702,
+        "strassenbezeichnung": "Edt"
+    },
+    {
+        "kurzbezeichnung": "Erlgraben",
+        "id": 126703,
+        "strassenbezeichnung": "Erlgraben"
+    },
+    {
+        "kurzbezeichnung": "Gsoll",
+        "id": 126705,
+        "strassenbezeichnung": "Gsoll"
+    },
+    {
+        "kurzbezeichnung": "Haselwehr",
+        "id": 126706,
+        "strassenbezeichnung": "Haselwehr"
+    },
+    {
+        "kurzbezeichnung": "Höllgraben",
+        "id": 126708,
+        "strassenbezeichnung": "Höllgraben"
+    },
+    {
+        "kurzbezeichnung": "Im Dörfl",
+        "id": 126709,
+        "strassenbezeichnung": "Im Dörfl"
+    },
+    {
+        "kurzbezeichnung": "Kalkofen",
+        "id": 126710,
+        "strassenbezeichnung": "Kalkofen"
+    },
+    {
+        "kurzbezeichnung": "Keferstraße",
+        "id": 126711,
+        "strassenbezeichnung": "Keferstraße"
+    },
+    {
+        "kurzbezeichnung": "Klammbergstraße",
+        "id": 126712,
+        "strassenbezeichnung": "Klammbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Kunzenstraße",
+        "id": 126713,
+        "strassenbezeichnung": "Kunzenstraße"
+    },
+    {
+        "kurzbezeichnung": "Lackergraben",
+        "id": 126714,
+        "strassenbezeichnung": "Lackergraben"
+    },
+    {
+        "kurzbezeichnung": "Lichtenbauerstraße",
+        "id": 126715,
+        "strassenbezeichnung": "Lichtenbauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Ober Vogelsang",
+        "id": 126717,
+        "strassenbezeichnung": "Ober Vogelsang"
+    },
+    {
+        "kurzbezeichnung": "Ödtbruch",
+        "id": 126718,
+        "strassenbezeichnung": "Ödtbruch"
+    },
+    {
+        "kurzbezeichnung": "Perneck",
+        "id": 126719,
+        "strassenbezeichnung": "Perneck"
+    },
+    {
+        "kurzbezeichnung": "Pointpeterstraße",
+        "id": 126720,
+        "strassenbezeichnung": "Pointpeterstraße"
+    },
+    {
+        "kurzbezeichnung": "Scheiblgraben",
+        "id": 126721,
+        "strassenbezeichnung": "Scheiblgraben"
+    },
+    {
+        "kurzbezeichnung": "Schüttwamperstraße",
+        "id": 126722,
+        "strassenbezeichnung": "Schüttwamperstraße"
+    },
+    {
+        "kurzbezeichnung": "Siebenbrünn",
+        "id": 126723,
+        "strassenbezeichnung": "Siebenbrünn"
+    },
+    {
+        "kurzbezeichnung": "Sonnberg",
+        "id": 126724,
+        "strassenbezeichnung": "Sonnberg"
+    },
+    {
+        "kurzbezeichnung": "Spießengraben",
+        "id": 126725,
+        "strassenbezeichnung": "Spießengraben"
+    },
+    {
+        "kurzbezeichnung": "Steinbach",
+        "id": 126726,
+        "strassenbezeichnung": "Steinbach"
+    },
+    {
+        "kurzbezeichnung": "Steinfelden",
+        "id": 126728,
+        "strassenbezeichnung": "Steinfelden"
+    },
+    {
+        "kurzbezeichnung": "Unter Vogelsang",
+        "id": 126729,
+        "strassenbezeichnung": "Unter Vogelsang"
+    },
+    {
+        "kurzbezeichnung": "Wiesbauerstraße",
+        "id": 126730,
+        "strassenbezeichnung": "Wiesbauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Ziehberg",
+        "id": 126731,
+        "strassenbezeichnung": "Ziehberg"
+    },
+    {
+        "kurzbezeichnung": "Ziehbergstraße",
+        "id": 126732,
+        "strassenbezeichnung": "Ziehbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldhauserstraße",
+        "id": 126733,
+        "strassenbezeichnung": "Waldhauserstraße"
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "kurzbezeichnung": "Fritz-Göllner-Gasse",
+        "id": -33052,
+        "strassenbezeichnung": "Fritz-Göllner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Schaflerhof",
+        "id": -32178,
+        "strassenbezeichnung": "Schaflerhof"
+    },
+    {
+        "kurzbezeichnung": "Weidengasse",
+        "id": -20177,
+        "strassenbezeichnung": "Weidengasse "
+    },
+    {
+        "kurzbezeichnung": "Weidengasse",
+        "id": -20176,
+        "strassenbezeichnung": "Weidengasse"
+    },
+    {
+        "kurzbezeichnung": "Nikitscherstrasse",
+        "id": -9973,
+        "strassenbezeichnung": "Nikitscherstraße"
+    },
+    {
+        "kurzbezeichnung": "Hölzlweg",
+        "id": -1280,
+        "strassenbezeichnung": "Hölzlweg"
+    },
+    {
+        "kurzbezeichnung": "Am Teich",
+        "id": 2936,
+        "strassenbezeichnung": "Am Teich"
+    },
+    {
+        "kurzbezeichnung": "Arbeitergasse",
+        "id": 2938,
+        "strassenbezeichnung": "Arbeitergasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 2939,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahngasse",
+        "id": 2941,
+        "strassenbezeichnung": "Bahngasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnsteig",
+        "id": 2944,
+        "strassenbezeichnung": "Bahnsteig"
+    },
+    {
+        "kurzbezeichnung": "Burgenlandstraße",
+        "id": 2946,
+        "strassenbezeichnung": "Burgenlandstraße"
+    },
+    {
+        "kurzbezeichnung": "Elisabethgasse",
+        "id": 2947,
+        "strassenbezeichnung": "Elisabethgasse"
+    },
+    {
+        "kurzbezeichnung": "Esterhazygasse",
+        "id": 2948,
+        "strassenbezeichnung": "Esterhazygasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 2949,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 2951,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Friedlbrunngasse",
+        "id": 2952,
+        "strassenbezeichnung": "Friedlbrunngasse"
+    },
+    {
+        "kurzbezeichnung": "Girmerstraße",
+        "id": 2953,
+        "strassenbezeichnung": "Girmerstraße"
+    },
+    {
+        "kurzbezeichnung": "Karl Goldmark-Gasse",
+        "id": 2954,
+        "strassenbezeichnung": "Karl Goldmark-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 2955,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofstatt",
+        "id": 2956,
+        "strassenbezeichnung": "Hofstatt"
+    },
+    {
+        "kurzbezeichnung": "Johannesgasse",
+        "id": 2957,
+        "strassenbezeichnung": "Johannesgasse"
+    },
+    {
+        "kurzbezeichnung": "Karrnergasse",
+        "id": 2959,
+        "strassenbezeichnung": "Karrnergasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 2960,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Krautäckergasse",
+        "id": 2961,
+        "strassenbezeichnung": "Krautäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Langegasse",
+        "id": 2963,
+        "strassenbezeichnung": "Langegasse"
+    },
+    {
+        "kurzbezeichnung": "Mittelgasse",
+        "id": 2964,
+        "strassenbezeichnung": "Mittelgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlallee",
+        "id": 2965,
+        "strassenbezeichnung": "Mühlallee"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 2966,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 2967,
+        "strassenbezeichnung": "Neubaugasse"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 2968,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Ödenburgerstraße",
+        "id": 2969,
+        "strassenbezeichnung": "Ödenburgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Pater Gratian Leser-G.",
+        "id": 2970,
+        "strassenbezeichnung": "Pater Gratian Leser-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Postgasse",
+        "id": 2971,
+        "strassenbezeichnung": "Postgasse"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisengasse",
+        "id": 2972,
+        "strassenbezeichnung": "Raiffeisengasse"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 2973,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Rausnitzstraße",
+        "id": 2974,
+        "strassenbezeichnung": "Rausnitzstraße"
+    },
+    {
+        "kurzbezeichnung": "Reitschulgasse",
+        "id": 2975,
+        "strassenbezeichnung": "Reitschulgasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 2977,
+        "strassenbezeichnung": "Schloßgasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 2978,
+        "strassenbezeichnung": "Schloßweg"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 2979,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzgasse",
+        "id": 2980,
+        "strassenbezeichnung": "Sportplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Steinmühlgasse",
+        "id": 2981,
+        "strassenbezeichnung": "Steinmühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Tempelgasse",
+        "id": 2982,
+        "strassenbezeichnung": "Tempelgasse"
+    },
+    {
+        "kurzbezeichnung": "Webergasse",
+        "id": 2984,
+        "strassenbezeichnung": "Webergasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 2986,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Zinkendorferstraße",
+        "id": 2987,
+        "strassenbezeichnung": "Zinkendorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloß",
+        "id": 2988,
+        "strassenbezeichnung": "Schloß"
+    },
+    {
+        "kurzbezeichnung": "Fritz Göllner-Gasse",
+        "id": 23828,
+        "strassenbezeichnung": "Fritz Göllner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 47338,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Hotterweg",
+        "id": 53143,
+        "strassenbezeichnung": "Hotterweg"
+    },
+    {
+        "kurzbezeichnung": "Rohrbrunngasse",
+        "id": 53144,
+        "strassenbezeichnung": "Rohrbrunngasse"
+    },
+    {
+        "kurzbezeichnung": "Wettergasse",
+        "id": 71054,
+        "strassenbezeichnung": "Wettergasse"
+    },
+    {
+        "kurzbezeichnung": "Anton Lehmden-Gasse",
+        "id": 72452,
+        "strassenbezeichnung": "Anton Lehmden-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Deutschkreutz",
+        "id": 75932,
+        "strassenbezeichnung": "Deutschkreutz"
+    },
+    {
+        "kurzbezeichnung": "Girm",
+        "id": 76859,
+        "strassenbezeichnung": "Girm"
+    },
+    {
+        "kurzbezeichnung": "Goldbachweg",
+        "id": 100701,
+        "strassenbezeichnung": "Goldbachweg"
+    },
+    {
+        "kurzbezeichnung": "Rotweinweg",
+        "id": 109109,
+        "strassenbezeichnung": "Rotweinweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße 1",
+        "id": 113849,
+        "strassenbezeichnung": "Gewerbestraße 1"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße 2",
+        "id": 113850,
+        "strassenbezeichnung": "Gewerbestraße 2"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße 3",
+        "id": 113851,
+        "strassenbezeichnung": "Gewerbestraße 3"
+    },
+    {
+        "kurzbezeichnung": "Weingartengasse",
+        "id": 114524,
+        "strassenbezeichnung": "Weingartengasse"
+    },
+    {
+        "kurzbezeichnung": "Winzergasse",
+        "id": 114525,
+        "strassenbezeichnung": "Winzergasse"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 114526,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 121988,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Weinbergweg",
+        "id": 122135,
+        "strassenbezeichnung": "Weinbergweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Beilnerweg",
+        "id": 127476,
+        "strassenbezeichnung": "Dr. Beilnerweg"
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": -32326,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Fasanenweg",
+        "id": -32291,
+        "strassenbezeichnung": "Fasanenweg"
+    },
+    {
+        "kurzbezeichnung": "Kiefernstraße",
+        "id": -17658,
+        "strassenbezeichnung": "Kiefernstraße"
+    },
+    {
+        "kurzbezeichnung": "Schalbach",
+        "id": -12567,
+        "strassenbezeichnung": "Schalbach"
+    },
+    {
+        "kurzbezeichnung": "Pichl",
+        "id": -12566,
+        "strassenbezeichnung": "Pichl"
+    },
+    {
+        "kurzbezeichnung": "Krottendorf",
+        "id": 83511,
+        "strassenbezeichnung": "Krottendorf"
+    },
+    {
+        "kurzbezeichnung": "Dingberg",
+        "id": 83824,
+        "strassenbezeichnung": "Dingberg"
+    },
+    {
+        "kurzbezeichnung": "Mitterndorf",
+        "id": 83834,
+        "strassenbezeichnung": "Mitterndorf"
+    },
+    {
+        "kurzbezeichnung": "Ach",
+        "id": 87419,
+        "strassenbezeichnung": "Ach"
+    },
+    {
+        "kurzbezeichnung": "Aichet",
+        "id": 87420,
+        "strassenbezeichnung": "Aichet"
+    },
+    {
+        "kurzbezeichnung": "Aichmühl",
+        "id": 87421,
+        "strassenbezeichnung": "Aichmühl"
+    },
+    {
+        "kurzbezeichnung": "Am Irrach",
+        "id": 87422,
+        "strassenbezeichnung": "Am Irrach"
+    },
+    {
+        "kurzbezeichnung": "Angsterlehen",
+        "id": 87423,
+        "strassenbezeichnung": "Angsterlehen"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 87424,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Auhub",
+        "id": 87425,
+        "strassenbezeichnung": "Auhub"
+    },
+    {
+        "kurzbezeichnung": "Brandstatt",
+        "id": 87426,
+        "strassenbezeichnung": "Brandstatt"
+    },
+    {
+        "kurzbezeichnung": "Breitwies",
+        "id": 87427,
+        "strassenbezeichnung": "Breitwies"
+    },
+    {
+        "kurzbezeichnung": "Etzelsdorf",
+        "id": 87428,
+        "strassenbezeichnung": "Etzelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Fadleiten",
+        "id": 87429,
+        "strassenbezeichnung": "Fadleiten"
+    },
+    {
+        "kurzbezeichnung": "Falzberg",
+        "id": 87430,
+        "strassenbezeichnung": "Falzberg"
+    },
+    {
+        "kurzbezeichnung": "Franzing",
+        "id": 87431,
+        "strassenbezeichnung": "Franzing"
+    },
+    {
+        "kurzbezeichnung": "Freiung",
+        "id": 87432,
+        "strassenbezeichnung": "Freiung"
+    },
+    {
+        "kurzbezeichnung": "Geisensheim",
+        "id": 87433,
+        "strassenbezeichnung": "Geisensheim"
+    },
+    {
+        "kurzbezeichnung": "Haag",
+        "id": 87434,
+        "strassenbezeichnung": "Haag"
+    },
+    {
+        "kurzbezeichnung": "Hochwimm",
+        "id": 87435,
+        "strassenbezeichnung": "Hochwimm"
+    },
+    {
+        "kurzbezeichnung": "Holzhäuser",
+        "id": 87436,
+        "strassenbezeichnung": "Holzhäuser"
+    },
+    {
+        "kurzbezeichnung": "Inn",
+        "id": 87437,
+        "strassenbezeichnung": "Inn"
+    },
+    {
+        "kurzbezeichnung": "Jägersberg",
+        "id": 87438,
+        "strassenbezeichnung": "Jägersberg"
+    },
+    {
+        "kurzbezeichnung": "Kaiserleiten",
+        "id": 87439,
+        "strassenbezeichnung": "Kaiserleiten"
+    },
+    {
+        "kurzbezeichnung": "Kerschberg",
+        "id": 87440,
+        "strassenbezeichnung": "Kerschberg"
+    },
+    {
+        "kurzbezeichnung": "Krottendorf",
+        "id": 87441,
+        "strassenbezeichnung": "Krottendorf"
+    },
+    {
+        "kurzbezeichnung": "Lechlödt",
+        "id": 87442,
+        "strassenbezeichnung": "Lechlödt"
+    },
+    {
+        "kurzbezeichnung": "Malling",
+        "id": 87443,
+        "strassenbezeichnung": "Malling"
+    },
+    {
+        "kurzbezeichnung": "Mitterleiten",
+        "id": 87444,
+        "strassenbezeichnung": "Mitterleiten"
+    },
+    {
+        "kurzbezeichnung": "Moosleiten",
+        "id": 87445,
+        "strassenbezeichnung": "Moosleiten"
+    },
+    {
+        "kurzbezeichnung": "Nisting",
+        "id": 87447,
+        "strassenbezeichnung": "Nisting"
+    },
+    {
+        "kurzbezeichnung": "Oberirrach",
+        "id": 87448,
+        "strassenbezeichnung": "Oberirrach"
+    },
+    {
+        "kurzbezeichnung": "Oberndorf",
+        "id": 87449,
+        "strassenbezeichnung": "Oberndorf"
+    },
+    {
+        "kurzbezeichnung": "Oberthambach",
+        "id": 87450,
+        "strassenbezeichnung": "Oberthambach"
+    },
+    {
+        "kurzbezeichnung": "Ödt",
+        "id": 87451,
+        "strassenbezeichnung": "Ödt"
+    },
+    {
+        "kurzbezeichnung": "Pfaffendorf",
+        "id": 87452,
+        "strassenbezeichnung": "Pfaffendorf"
+    },
+    {
+        "kurzbezeichnung": "Pröstlsberg",
+        "id": 87454,
+        "strassenbezeichnung": "Pröstlsberg"
+    },
+    {
+        "kurzbezeichnung": "Puchet",
+        "id": 87455,
+        "strassenbezeichnung": "Puchet"
+    },
+    {
+        "kurzbezeichnung": "Pühret",
+        "id": 87456,
+        "strassenbezeichnung": "Pühret"
+    },
+    {
+        "kurzbezeichnung": "Schmiedsberg",
+        "id": 87458,
+        "strassenbezeichnung": "Schmiedsberg"
+    },
+    {
+        "kurzbezeichnung": "Schnappling",
+        "id": 87459,
+        "strassenbezeichnung": "Schnappling"
+    },
+    {
+        "kurzbezeichnung": "Schnittering",
+        "id": 87460,
+        "strassenbezeichnung": "Schnittering"
+    },
+    {
+        "kurzbezeichnung": "Schustersberg",
+        "id": 87461,
+        "strassenbezeichnung": "Schustersberg"
+    },
+    {
+        "kurzbezeichnung": "Silbersberg",
+        "id": 87462,
+        "strassenbezeichnung": "Silbersberg"
+    },
+    {
+        "kurzbezeichnung": "Stadl",
+        "id": 87463,
+        "strassenbezeichnung": "Stadl"
+    },
+    {
+        "kurzbezeichnung": "Steinpichl",
+        "id": 87464,
+        "strassenbezeichnung": "Steinpichl"
+    },
+    {
+        "kurzbezeichnung": "Sulzbach",
+        "id": 87465,
+        "strassenbezeichnung": "Sulzbach"
+    },
+    {
+        "kurzbezeichnung": "Trappelsberg",
+        "id": 87466,
+        "strassenbezeichnung": "Trappelsberg"
+    },
+    {
+        "kurzbezeichnung": "Unterirrach",
+        "id": 87467,
+        "strassenbezeichnung": "Unterirrach"
+    },
+    {
+        "kurzbezeichnung": "Unterthambach",
+        "id": 87468,
+        "strassenbezeichnung": "Unterthambach"
+    },
+    {
+        "kurzbezeichnung": "Uttendorf",
+        "id": 87469,
+        "strassenbezeichnung": "Uttendorf"
+    },
+    {
+        "kurzbezeichnung": "Waldgattern",
+        "id": 87470,
+        "strassenbezeichnung": "Waldgattern"
+    },
+    {
+        "kurzbezeichnung": "Weilbach",
+        "id": 87471,
+        "strassenbezeichnung": "Weilbach"
+    },
+    {
+        "kurzbezeichnung": "Weinberg",
+        "id": 87472,
+        "strassenbezeichnung": "Weinberg"
+    },
+    {
+        "kurzbezeichnung": "Winkelfeld",
+        "id": 87473,
+        "strassenbezeichnung": "Winkelfeld"
+    },
+    {
+        "kurzbezeichnung": "Am Auerberg",
+        "id": 91223,
+        "strassenbezeichnung": "Am Auerberg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 91224,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 91225,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 91226,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 91227,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Buchenstraße",
+        "id": 91228,
+        "strassenbezeichnung": "Buchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Eichenstraße",
+        "id": 91229,
+        "strassenbezeichnung": "Eichenstraße"
+    },
+    {
+        "kurzbezeichnung": "Fichtenstraße",
+        "id": 91230,
+        "strassenbezeichnung": "Fichtenstraße"
+    },
+    {
+        "kurzbezeichnung": "Fliederstraße",
+        "id": 91231,
+        "strassenbezeichnung": "Fliederstraße"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 91232,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gemeindeplatz",
+        "id": 91233,
+        "strassenbezeichnung": "Gemeindeplatz"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 91234,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Innbachtalstraße",
+        "id": 91235,
+        "strassenbezeichnung": "Innbachtalstraße"
+    },
+    {
+        "kurzbezeichnung": "Irrachstraße",
+        "id": 91236,
+        "strassenbezeichnung": "Irrachstraße"
+    },
+    {
+        "kurzbezeichnung": "Lärchenstraße",
+        "id": 91237,
+        "strassenbezeichnung": "Lärchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindenstraße",
+        "id": 91238,
+        "strassenbezeichnung": "Lindenstraße"
+    },
+    {
+        "kurzbezeichnung": "Mozartstraße",
+        "id": 91239,
+        "strassenbezeichnung": "Mozartstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlstraße",
+        "id": 91240,
+        "strassenbezeichnung": "Mühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Pfarrplatz",
+        "id": 91241,
+        "strassenbezeichnung": "Pfarrplatz"
+    },
+    {
+        "kurzbezeichnung": "Schalbachstraße",
+        "id": 91242,
+        "strassenbezeichnung": "Schalbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 91243,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 91244,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Sulzbachstraße",
+        "id": 91245,
+        "strassenbezeichnung": "Sulzbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Tannenweg",
+        "id": 91246,
+        "strassenbezeichnung": "Tannenweg"
+    },
+    {
+        "kurzbezeichnung": "Teichstraße",
+        "id": 91247,
+        "strassenbezeichnung": "Teichstraße"
+    },
+    {
+        "kurzbezeichnung": "Tränkstraße",
+        "id": 91248,
+        "strassenbezeichnung": "Tränkstraße"
+    },
+    {
+        "kurzbezeichnung": "Weidenstraße",
+        "id": 91249,
+        "strassenbezeichnung": "Weidenstraße"
+    },
+    {
+        "kurzbezeichnung": "Welserstraße",
+        "id": 91250,
+        "strassenbezeichnung": "Welserstraße"
+    },
+    {
+        "kurzbezeichnung": "Nelkenstraße",
+        "id": 96251,
+        "strassenbezeichnung": "Nelkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 96252,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Forellenweg",
+        "id": 97668,
+        "strassenbezeichnung": "Forellenweg"
+    },
+    {
+        "kurzbezeichnung": "Buchet",
+        "id": 100677,
+        "strassenbezeichnung": "Buchet"
+    },
+    {
+        "kurzbezeichnung": "Brucknerstraße",
+        "id": 103188,
+        "strassenbezeichnung": "Brucknerstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 106279,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Kaplanstraße",
+        "id": 111330,
+        "strassenbezeichnung": "Kaplanstraße"
+    },
+    {
+        "kurzbezeichnung": "Brunnenplatz",
+        "id": 114386,
+        "strassenbezeichnung": "Brunnenplatz"
+    },
+    {
+        "kurzbezeichnung": "Leharstraße",
+        "id": 120010,
+        "strassenbezeichnung": "Leharstrasse"
+    },
+    {
+        "kurzbezeichnung": "Douglasienstraße",
+        "id": 127514,
+        "strassenbezeichnung": "Douglasienstraße"
+    }
+]

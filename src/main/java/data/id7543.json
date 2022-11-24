@@ -1,0 +1,552 @@
+[
+    {
+        "kurzbezeichnung": "Heizwerkstraße",
+        "id": -34088,
+        "strassenbezeichnung": "Heizwerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Genussplatz",
+        "id": -33546,
+        "strassenbezeichnung": "Genussplatz"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": -33522,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Zum Hofriegl",
+        "id": -32477,
+        "strassenbezeichnung": "Zum Hofriegl"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": -16730,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Eisenhüttl",
+        "id": 75851,
+        "strassenbezeichnung": "Eisenhüttl"
+    },
+    {
+        "kurzbezeichnung": "Kukmirn",
+        "id": 75852,
+        "strassenbezeichnung": "Kukmirn"
+    },
+    {
+        "kurzbezeichnung": "Limbach",
+        "id": 75853,
+        "strassenbezeichnung": "Limbach"
+    },
+    {
+        "kurzbezeichnung": "Neusiedl",
+        "id": 75854,
+        "strassenbezeichnung": "Neusiedl"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 111224,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 111227,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Buchgraben",
+        "id": 111228,
+        "strassenbezeichnung": "Buchgraben"
+    },
+    {
+        "kurzbezeichnung": "Ebenweg",
+        "id": 111446,
+        "strassenbezeichnung": "Ebenweg"
+    },
+    {
+        "kurzbezeichnung": "Eilgraben",
+        "id": 111447,
+        "strassenbezeichnung": "Eilgraben"
+    },
+    {
+        "kurzbezeichnung": "Fedenberg",
+        "id": 111448,
+        "strassenbezeichnung": "Fedenberg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 111449,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 111450,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 111451,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Heutal",
+        "id": 111452,
+        "strassenbezeichnung": "Heutal"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 111453,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Krobotheckstraße",
+        "id": 111454,
+        "strassenbezeichnung": "Krobotheckstraße"
+    },
+    {
+        "kurzbezeichnung": "Ledenberg",
+        "id": 111455,
+        "strassenbezeichnung": "Ledenberg"
+    },
+    {
+        "kurzbezeichnung": "Martin Luther-Platz",
+        "id": 111456,
+        "strassenbezeichnung": "Martin Luther-Platz"
+    },
+    {
+        "kurzbezeichnung": "Museumsweg",
+        "id": 111457,
+        "strassenbezeichnung": "Museumsweg"
+    },
+    {
+        "kurzbezeichnung": "Musikschulgasse",
+        "id": 111458,
+        "strassenbezeichnung": "Musikschulgasse"
+    },
+    {
+        "kurzbezeichnung": "Rosenhofweg",
+        "id": 111459,
+        "strassenbezeichnung": "Rosenhofweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedberg",
+        "id": 111460,
+        "strassenbezeichnung": "Schmiedberg"
+    },
+    {
+        "kurzbezeichnung": "Schrötten",
+        "id": 111461,
+        "strassenbezeichnung": "Schrötten"
+    },
+    {
+        "kurzbezeichnung": "Zellenbergstraße",
+        "id": 111462,
+        "strassenbezeichnung": "Zellenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Grindelsberg",
+        "id": 115715,
+        "strassenbezeichnung": "Am Grindelsberg"
+    },
+    {
+        "kurzbezeichnung": "Am Marbach",
+        "id": 115716,
+        "strassenbezeichnung": "Am Marbach"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 115717,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Am Wiesengrund",
+        "id": 115718,
+        "strassenbezeichnung": "Am Wiesengrund"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 115719,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bienenweg",
+        "id": 115720,
+        "strassenbezeichnung": "Bienenweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 115721,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 115722,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 115723,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 115724,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 115725,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 115726,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Grabenstraße",
+        "id": 115727,
+        "strassenbezeichnung": "Grabenstraße"
+    },
+    {
+        "kurzbezeichnung": "Grenzweg",
+        "id": 115728,
+        "strassenbezeichnung": "Grenzweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 115729,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Heizwerkstraße",
+        "id": 115730,
+        "strassenbezeichnung": "Heizwerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Hilfswerkstraße",
+        "id": 115731,
+        "strassenbezeichnung": "Hilfswerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofried",
+        "id": 115732,
+        "strassenbezeichnung": "Hofried"
+    },
+    {
+        "kurzbezeichnung": "Hochweg",
+        "id": 115733,
+        "strassenbezeichnung": "Hochweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 115734,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Holzbergstraße",
+        "id": 115735,
+        "strassenbezeichnung": "Holzbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 115736,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzweg",
+        "id": 115737,
+        "strassenbezeichnung": "Kreuzweg"
+    },
+    {
+        "kurzbezeichnung": "Obere Hauptstraße",
+        "id": 115738,
+        "strassenbezeichnung": "Obere Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Panoramastraße",
+        "id": 115739,
+        "strassenbezeichnung": "Panoramastraße"
+    },
+    {
+        "kurzbezeichnung": "Parkgasse",
+        "id": 115740,
+        "strassenbezeichnung": "Parkgasse"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 115741,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Sandweg",
+        "id": 115742,
+        "strassenbezeichnung": "Sandweg"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 115743,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsstraße",
+        "id": 115744,
+        "strassenbezeichnung": "Siedlungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 115745,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Sportgasse",
+        "id": 115746,
+        "strassenbezeichnung": "Sportgasse"
+    },
+    {
+        "kurzbezeichnung": "Teichgasse",
+        "id": 115747,
+        "strassenbezeichnung": "Teichgasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 115748,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Weinbergstraße",
+        "id": 115749,
+        "strassenbezeichnung": "Weinbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Berg",
+        "id": 118651,
+        "strassenbezeichnung": "Am Berg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnberg",
+        "id": 118652,
+        "strassenbezeichnung": "Am Sonnberg"
+    },
+    {
+        "kurzbezeichnung": "Apfelstraße",
+        "id": 118653,
+        "strassenbezeichnung": "Apfelstraße"
+    },
+    {
+        "kurzbezeichnung": "Apfelweg",
+        "id": 118654,
+        "strassenbezeichnung": "Apfelweg"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 118655,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Bergweg",
+        "id": 118656,
+        "strassenbezeichnung": "Bergweg"
+    },
+    {
+        "kurzbezeichnung": "Blumental",
+        "id": 118657,
+        "strassenbezeichnung": "Blumental"
+    },
+    {
+        "kurzbezeichnung": "Blütenweg",
+        "id": 118658,
+        "strassenbezeichnung": "Blütenweg"
+    },
+    {
+        "kurzbezeichnung": "Buchbergstraße",
+        "id": 118659,
+        "strassenbezeichnung": "Buchbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 118660,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 118661,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Eltendorfer Straße",
+        "id": 118662,
+        "strassenbezeichnung": "Eltendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Erdbeerweg",
+        "id": 118663,
+        "strassenbezeichnung": "Erdbeerweg"
+    },
+    {
+        "kurzbezeichnung": "Forststraße",
+        "id": 118664,
+        "strassenbezeichnung": "Forststraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 118665,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Grabengasse",
+        "id": 118666,
+        "strassenbezeichnung": "Grabengasse"
+    },
+    {
+        "kurzbezeichnung": "Hechenweg",
+        "id": 118667,
+        "strassenbezeichnung": "Hechenweg"
+    },
+    {
+        "kurzbezeichnung": "Himbeerweg",
+        "id": 118668,
+        "strassenbezeichnung": "Himbeerweg"
+    },
+    {
+        "kurzbezeichnung": "Hoanzlriegel",
+        "id": 118669,
+        "strassenbezeichnung": "Hoanzlriegel"
+    },
+    {
+        "kurzbezeichnung": "Hofried",
+        "id": 118670,
+        "strassenbezeichnung": "Hofried"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 118671,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Holunderweg",
+        "id": 118672,
+        "strassenbezeichnung": "Holunderweg"
+    },
+    {
+        "kurzbezeichnung": "Hotelgasse",
+        "id": 118673,
+        "strassenbezeichnung": "Hotelgasse"
+    },
+    {
+        "kurzbezeichnung": "Illigaschgraben",
+        "id": 118674,
+        "strassenbezeichnung": "Illigaschgraben"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 118675,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Königsdorfer Straße",
+        "id": 118676,
+        "strassenbezeichnung": "Königsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lange Äcker",
+        "id": 118677,
+        "strassenbezeichnung": "Lange Äcker"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 118678,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Mausbach",
+        "id": 118679,
+        "strassenbezeichnung": "Mausbach"
+    },
+    {
+        "kurzbezeichnung": "Mitterberg",
+        "id": 118680,
+        "strassenbezeichnung": "Mitterberg"
+    },
+    {
+        "kurzbezeichnung": "Obere Dorfstraße",
+        "id": 118681,
+        "strassenbezeichnung": "Obere Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Parkstraße",
+        "id": 118682,
+        "strassenbezeichnung": "Parkstraße"
+    },
+    {
+        "kurzbezeichnung": "Postweg",
+        "id": 118683,
+        "strassenbezeichnung": "Postweg"
+    },
+    {
+        "kurzbezeichnung": "Quellenstraße",
+        "id": 118684,
+        "strassenbezeichnung": "Quellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 118685,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Schöngrund",
+        "id": 118686,
+        "strassenbezeichnung": "Schöngrund"
+    },
+    {
+        "kurzbezeichnung": "Sonnensiedlung",
+        "id": 118687,
+        "strassenbezeichnung": "Sonnensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Sportgasse",
+        "id": 118688,
+        "strassenbezeichnung": "Sportgasse"
+    },
+    {
+        "kurzbezeichnung": "Talstraße",
+        "id": 118689,
+        "strassenbezeichnung": "Talstraße"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 118690,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Ungargasse",
+        "id": 118691,
+        "strassenbezeichnung": "Ungargasse"
+    },
+    {
+        "kurzbezeichnung": "Ungerberg",
+        "id": 118692,
+        "strassenbezeichnung": "Ungerberg"
+    },
+    {
+        "kurzbezeichnung": "Untere Dorfstraße",
+        "id": 118693,
+        "strassenbezeichnung": "Untere Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 118694,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Zellenbergstraße",
+        "id": 118695,
+        "strassenbezeichnung": "Zellenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Teichsiedlung",
+        "id": 119238,
+        "strassenbezeichnung": "Teichsiedlung"
+    }
+]

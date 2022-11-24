@@ -1,0 +1,567 @@
+[
+    {
+        "kurzbezeichnung": "Gewerbepark Ulmich",
+        "id": -16750,
+        "strassenbezeichnung": "Gewerbepark Ulmich"
+    },
+    {
+        "kurzbezeichnung": "Kirchstraße",
+        "id": 52696,
+        "strassenbezeichnung": "Kirchstraße"
+    },
+    {
+        "kurzbezeichnung": "Ahli",
+        "id": 58203,
+        "strassenbezeichnung": "Ahli"
+    },
+    {
+        "kurzbezeichnung": "Bach",
+        "id": 58204,
+        "strassenbezeichnung": "Bach"
+    },
+    {
+        "kurzbezeichnung": "Bild",
+        "id": 58205,
+        "strassenbezeichnung": "Bild"
+    },
+    {
+        "kurzbezeichnung": "Brandau",
+        "id": 58206,
+        "strassenbezeichnung": "Brandau"
+    },
+    {
+        "kurzbezeichnung": "Dias",
+        "id": 58207,
+        "strassenbezeichnung": "Dias"
+    },
+    {
+        "kurzbezeichnung": "Diasbach",
+        "id": 58208,
+        "strassenbezeichnung": "Diasbach"
+    },
+    {
+        "kurzbezeichnung": "Egg",
+        "id": 58209,
+        "strassenbezeichnung": "Egg"
+    },
+    {
+        "kurzbezeichnung": "Egger Weg",
+        "id": 58210,
+        "strassenbezeichnung": "Egger Weg"
+    },
+    {
+        "kurzbezeichnung": "Grubegg",
+        "id": 58212,
+        "strassenbezeichnung": "Grubegg"
+    },
+    {
+        "kurzbezeichnung": "Höfen",
+        "id": 58213,
+        "strassenbezeichnung": "Höfen"
+    },
+    {
+        "kurzbezeichnung": "Höfer Au",
+        "id": 58214,
+        "strassenbezeichnung": "Höfer Au"
+    },
+    {
+        "kurzbezeichnung": "Hofstatt",
+        "id": 58215,
+        "strassenbezeichnung": "Hofstatt"
+    },
+    {
+        "kurzbezeichnung": "Kappl",
+        "id": 58216,
+        "strassenbezeichnung": "Kappl"
+    },
+    {
+        "kurzbezeichnung": "Larchi",
+        "id": 58217,
+        "strassenbezeichnung": "Larchi"
+    },
+    {
+        "kurzbezeichnung": "Lochau",
+        "id": 58218,
+        "strassenbezeichnung": "Lochau"
+    },
+    {
+        "kurzbezeichnung": "Mahren",
+        "id": 58219,
+        "strassenbezeichnung": "Mahren"
+    },
+    {
+        "kurzbezeichnung": "Mühlele",
+        "id": 58220,
+        "strassenbezeichnung": "Mühlele"
+    },
+    {
+        "kurzbezeichnung": "Nederle",
+        "id": 58221,
+        "strassenbezeichnung": "Nederle"
+    },
+    {
+        "kurzbezeichnung": "Niederelbehütte",
+        "id": 58222,
+        "strassenbezeichnung": "Niederelbehütte"
+    },
+    {
+        "kurzbezeichnung": "Niederhof",
+        "id": 58223,
+        "strassenbezeichnung": "Niederhof"
+    },
+    {
+        "kurzbezeichnung": "Obermahren",
+        "id": 58226,
+        "strassenbezeichnung": "Obermahren"
+    },
+    {
+        "kurzbezeichnung": "Schönwies",
+        "id": 58227,
+        "strassenbezeichnung": "Schönwies"
+    },
+    {
+        "kurzbezeichnung": "Seichle",
+        "id": 58228,
+        "strassenbezeichnung": "Seichle"
+    },
+    {
+        "kurzbezeichnung": "Sinsen",
+        "id": 58229,
+        "strassenbezeichnung": "Sinsen"
+    },
+    {
+        "kurzbezeichnung": "Sinsner Au",
+        "id": 58230,
+        "strassenbezeichnung": "Sinsner Au"
+    },
+    {
+        "kurzbezeichnung": "Stiegenwahl",
+        "id": 58231,
+        "strassenbezeichnung": "Stiegenwahl"
+    },
+    {
+        "kurzbezeichnung": "Tschatscha",
+        "id": 58232,
+        "strassenbezeichnung": "Tschatscha"
+    },
+    {
+        "kurzbezeichnung": "Turnetshaus",
+        "id": 58233,
+        "strassenbezeichnung": "Turnetshaus"
+    },
+    {
+        "kurzbezeichnung": "Ulmich",
+        "id": 58234,
+        "strassenbezeichnung": "Ulmich"
+    },
+    {
+        "kurzbezeichnung": "Wegscheid",
+        "id": 58238,
+        "strassenbezeichnung": "Wegscheid"
+    },
+    {
+        "kurzbezeichnung": "Wiese",
+        "id": 58239,
+        "strassenbezeichnung": "Wiese"
+    },
+    {
+        "kurzbezeichnung": "Ahornach",
+        "id": 58242,
+        "strassenbezeichnung": "Ahornach"
+    },
+    {
+        "kurzbezeichnung": "Althof",
+        "id": 58243,
+        "strassenbezeichnung": "Althof"
+    },
+    {
+        "kurzbezeichnung": "Angerhof",
+        "id": 58244,
+        "strassenbezeichnung": "Angerhof"
+    },
+    {
+        "kurzbezeichnung": "Bachle",
+        "id": 58245,
+        "strassenbezeichnung": "Bachle"
+    },
+    {
+        "kurzbezeichnung": "Ballestadele",
+        "id": 58246,
+        "strassenbezeichnung": "Ballestadele"
+    },
+    {
+        "kurzbezeichnung": "Dengenvolk",
+        "id": 58247,
+        "strassenbezeichnung": "Dengenvolk"
+    },
+    {
+        "kurzbezeichnung": "Gasse",
+        "id": 58249,
+        "strassenbezeichnung": "Gasse"
+    },
+    {
+        "kurzbezeichnung": "Grüble",
+        "id": 58250,
+        "strassenbezeichnung": "Grüble"
+    },
+    {
+        "kurzbezeichnung": "Hof",
+        "id": 58251,
+        "strassenbezeichnung": "Hof"
+    },
+    {
+        "kurzbezeichnung": "Holdernach",
+        "id": 58252,
+        "strassenbezeichnung": "Holdernach"
+    },
+    {
+        "kurzbezeichnung": "Holdernacher Au",
+        "id": 58253,
+        "strassenbezeichnung": "Holdernacher Au"
+    },
+    {
+        "kurzbezeichnung": "Klasen",
+        "id": 58254,
+        "strassenbezeichnung": "Klasen"
+    },
+    {
+        "kurzbezeichnung": "Lochmühl",
+        "id": 58255,
+        "strassenbezeichnung": "Lochmühl"
+    },
+    {
+        "kurzbezeichnung": "Nebenau",
+        "id": 58256,
+        "strassenbezeichnung": "Nebenau"
+    },
+    {
+        "kurzbezeichnung": "Niedergut",
+        "id": 58257,
+        "strassenbezeichnung": "Niedergut"
+    },
+    {
+        "kurzbezeichnung": "Oberbichl",
+        "id": 58258,
+        "strassenbezeichnung": "Oberbichl"
+    },
+    {
+        "kurzbezeichnung": "Oberhaus",
+        "id": 58259,
+        "strassenbezeichnung": "Oberhaus"
+    },
+    {
+        "kurzbezeichnung": "Obermühl",
+        "id": 58260,
+        "strassenbezeichnung": "Obermühl"
+    },
+    {
+        "kurzbezeichnung": "Perpat",
+        "id": 58261,
+        "strassenbezeichnung": "Perpat"
+    },
+    {
+        "kurzbezeichnung": "Pirchegg",
+        "id": 58262,
+        "strassenbezeichnung": "Pirchegg"
+    },
+    {
+        "kurzbezeichnung": "Pitzein",
+        "id": 58263,
+        "strassenbezeichnung": "Pitzein"
+    },
+    {
+        "kurzbezeichnung": "Platti",
+        "id": 58264,
+        "strassenbezeichnung": "Platti"
+    },
+    {
+        "kurzbezeichnung": "Plattwies",
+        "id": 58265,
+        "strassenbezeichnung": "Plattwies"
+    },
+    {
+        "kurzbezeichnung": "Stadlen",
+        "id": 58268,
+        "strassenbezeichnung": "Stadlen"
+    },
+    {
+        "kurzbezeichnung": "Städlen",
+        "id": 58269,
+        "strassenbezeichnung": "Städlen"
+    },
+    {
+        "kurzbezeichnung": "Steinau",
+        "id": 58270,
+        "strassenbezeichnung": "Steinau"
+    },
+    {
+        "kurzbezeichnung": "Unterbichl",
+        "id": 58273,
+        "strassenbezeichnung": "Unterbichl"
+    },
+    {
+        "kurzbezeichnung": "Unterholdernach",
+        "id": 58274,
+        "strassenbezeichnung": "Unterholdernach"
+    },
+    {
+        "kurzbezeichnung": "Untermühl",
+        "id": 58275,
+        "strassenbezeichnung": "Untermühl"
+    },
+    {
+        "kurzbezeichnung": "Ascher Hütte",
+        "id": 58286,
+        "strassenbezeichnung": "Ascher Hütte"
+    },
+    {
+        "kurzbezeichnung": "Falgenair",
+        "id": 58287,
+        "strassenbezeichnung": "Falgenair"
+    },
+    {
+        "kurzbezeichnung": "Frödenegg",
+        "id": 58288,
+        "strassenbezeichnung": "Frödenegg"
+    },
+    {
+        "kurzbezeichnung": "Gande",
+        "id": 58289,
+        "strassenbezeichnung": "Gande"
+    },
+    {
+        "kurzbezeichnung": "Gföll",
+        "id": 58290,
+        "strassenbezeichnung": "Gföll"
+    },
+    {
+        "kurzbezeichnung": "Glitt",
+        "id": 58291,
+        "strassenbezeichnung": "Glitt"
+    },
+    {
+        "kurzbezeichnung": "Glittstein",
+        "id": 58292,
+        "strassenbezeichnung": "Glittstein"
+    },
+    {
+        "kurzbezeichnung": "Kohlgreit",
+        "id": 58293,
+        "strassenbezeichnung": "Kohlgreit"
+    },
+    {
+        "kurzbezeichnung": "Lahngang",
+        "id": 58294,
+        "strassenbezeichnung": "Lahngang"
+    },
+    {
+        "kurzbezeichnung": "Pattrich",
+        "id": 58295,
+        "strassenbezeichnung": "Pattrich"
+    },
+    {
+        "kurzbezeichnung": "Rauth",
+        "id": 58296,
+        "strassenbezeichnung": "Rauth"
+    },
+    {
+        "kurzbezeichnung": "Schaller",
+        "id": 58297,
+        "strassenbezeichnung": "Schaller"
+    },
+    {
+        "kurzbezeichnung": "Seiche",
+        "id": 58298,
+        "strassenbezeichnung": "Seiche"
+    },
+    {
+        "kurzbezeichnung": "Seßlebene",
+        "id": 58299,
+        "strassenbezeichnung": "Seßlebene"
+    },
+    {
+        "kurzbezeichnung": "Sommerstadlen",
+        "id": 58300,
+        "strassenbezeichnung": "Sommerstadlen"
+    },
+    {
+        "kurzbezeichnung": "Staudenmühl",
+        "id": 58301,
+        "strassenbezeichnung": "Staudenmühl"
+    },
+    {
+        "kurzbezeichnung": "Wald",
+        "id": 58303,
+        "strassenbezeichnung": "Wald"
+    },
+    {
+        "kurzbezeichnung": "See",
+        "id": 89891,
+        "strassenbezeichnung": "See"
+    },
+    {
+        "kurzbezeichnung": "Schmiedsegg",
+        "id": 97136,
+        "strassenbezeichnung": "Schmiedsegg"
+    },
+    {
+        "kurzbezeichnung": "Haslen",
+        "id": 97138,
+        "strassenbezeichnung": "Haslen"
+    },
+    {
+        "kurzbezeichnung": "Kälberanger",
+        "id": 97139,
+        "strassenbezeichnung": "Kälberanger"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 97140,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Siedlung Holdernach",
+        "id": 97141,
+        "strassenbezeichnung": "Siedlung Holdernach"
+    },
+    {
+        "kurzbezeichnung": "Gries",
+        "id": 99980,
+        "strassenbezeichnung": "Gries"
+    },
+    {
+        "kurzbezeichnung": "Schnatzerau",
+        "id": 99981,
+        "strassenbezeichnung": "Schnatzerau"
+    },
+    {
+        "kurzbezeichnung": "Schusterhaus",
+        "id": 99982,
+        "strassenbezeichnung": "Schusterhaus"
+    },
+    {
+        "kurzbezeichnung": "Oberhaus",
+        "id": 99983,
+        "strassenbezeichnung": "Oberhaus"
+    },
+    {
+        "kurzbezeichnung": "Ahle",
+        "id": 99984,
+        "strassenbezeichnung": "Ahle"
+    },
+    {
+        "kurzbezeichnung": "Winkl",
+        "id": 99986,
+        "strassenbezeichnung": "Winkl"
+    },
+    {
+        "kurzbezeichnung": "Klaus",
+        "id": 99987,
+        "strassenbezeichnung": "Klaus"
+    },
+    {
+        "kurzbezeichnung": "Habigen",
+        "id": 99988,
+        "strassenbezeichnung": "Habigen"
+    },
+    {
+        "kurzbezeichnung": "Kuratl",
+        "id": 99989,
+        "strassenbezeichnung": "Kuratl"
+    },
+    {
+        "kurzbezeichnung": "Maierhof",
+        "id": 99990,
+        "strassenbezeichnung": "Maierhof"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 99991,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Pillmahd",
+        "id": 99992,
+        "strassenbezeichnung": "Pillmahd"
+    },
+    {
+        "kurzbezeichnung": "Neder",
+        "id": 99993,
+        "strassenbezeichnung": "Neder"
+    },
+    {
+        "kurzbezeichnung": "Gande",
+        "id": 99994,
+        "strassenbezeichnung": "Gande"
+    },
+    {
+        "kurzbezeichnung": "Feichten",
+        "id": 99995,
+        "strassenbezeichnung": "Feichten"
+    },
+    {
+        "kurzbezeichnung": "Platz",
+        "id": 99996,
+        "strassenbezeichnung": "Platz"
+    },
+    {
+        "kurzbezeichnung": "Voräule",
+        "id": 99997,
+        "strassenbezeichnung": "Voräule"
+    },
+    {
+        "kurzbezeichnung": "Trautmannskinden",
+        "id": 99998,
+        "strassenbezeichnung": "Trautmannskinden"
+    },
+    {
+        "kurzbezeichnung": "Elis",
+        "id": 99999,
+        "strassenbezeichnung": "Elis"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 100000,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Maaß-Hofstattle",
+        "id": 100001,
+        "strassenbezeichnung": "Maaß-Hofstattle"
+    },
+    {
+        "kurzbezeichnung": "Schmittal",
+        "id": 100002,
+        "strassenbezeichnung": "Schmittal"
+    },
+    {
+        "kurzbezeichnung": "Hofstattle",
+        "id": 100003,
+        "strassenbezeichnung": "Hofstattle"
+    },
+    {
+        "kurzbezeichnung": "Labebene",
+        "id": 100004,
+        "strassenbezeichnung": "Labebene"
+    },
+    {
+        "kurzbezeichnung": "Wald",
+        "id": 100005,
+        "strassenbezeichnung": "Wald"
+    },
+    {
+        "kurzbezeichnung": "Seßlebene",
+        "id": 100006,
+        "strassenbezeichnung": "Seßlebene"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 100232,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Oberfrödenegg",
+        "id": 100632,
+        "strassenbezeichnung": "Oberfrödenegg"
+    }
+]

@@ -1,0 +1,432 @@
+[
+    {
+        "kurzbezeichnung": "Wasenmoos",
+        "id": -30763,
+        "strassenbezeichnung": "Wasenmoos"
+    },
+    {
+        "kurzbezeichnung": "Rennweg",
+        "id": -18199,
+        "strassenbezeichnung": "Rennweg"
+    },
+    {
+        "kurzbezeichnung": "Löschenbrandweg",
+        "id": -17300,
+        "strassenbezeichnung": "Löschenbrandweg"
+    },
+    {
+        "kurzbezeichnung": "Samergasse",
+        "id": -17176,
+        "strassenbezeichnung": "Samergasse"
+    },
+    {
+        "kurzbezeichnung": "Am Bürgerbach",
+        "id": -16799,
+        "strassenbezeichnung": "Am Bürgerbach"
+    },
+    {
+        "kurzbezeichnung": "Am Bürgerbach 7",
+        "id": -16798,
+        "strassenbezeichnung": "Am Bürgerbach 7"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": -10093,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Alte Paß Straße",
+        "id": 42422,
+        "strassenbezeichnung": "Alte Paß Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Zierteich",
+        "id": 42435,
+        "strassenbezeichnung": "Am Zierteich"
+    },
+    {
+        "kurzbezeichnung": "Anton-Webern-Gasse",
+        "id": 42439,
+        "strassenbezeichnung": "Anton-Webern-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Aufeldstraße",
+        "id": 42451,
+        "strassenbezeichnung": "Aufeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Burgwiesweg",
+        "id": 42454,
+        "strassenbezeichnung": "Burgwiesweg"
+    },
+    {
+        "kurzbezeichnung": "Burkerring",
+        "id": 42462,
+        "strassenbezeichnung": "Burkerring"
+    },
+    {
+        "kurzbezeichnung": "Burkerstraße",
+        "id": 42463,
+        "strassenbezeichnung": "Burkerstraße"
+    },
+    {
+        "kurzbezeichnung": "Felberring",
+        "id": 42474,
+        "strassenbezeichnung": "Felberring"
+    },
+    {
+        "kurzbezeichnung": "Felberstraße",
+        "id": 42479,
+        "strassenbezeichnung": "Felberstraße"
+    },
+    {
+        "kurzbezeichnung": "Felbertalweg",
+        "id": 42483,
+        "strassenbezeichnung": "Felbertalweg"
+    },
+    {
+        "kurzbezeichnung": "Gerlos Straße",
+        "id": 42491,
+        "strassenbezeichnung": "Gerlos Straße"
+    },
+    {
+        "kurzbezeichnung": "Hallenbadstraße",
+        "id": 42510,
+        "strassenbezeichnung": "Hallenbadstraße"
+    },
+    {
+        "kurzbezeichnung": "Herzogweg",
+        "id": 42515,
+        "strassenbezeichnung": "Herzogweg"
+    },
+    {
+        "kurzbezeichnung": "Hintere Lendstraße",
+        "id": 42517,
+        "strassenbezeichnung": "Hintere Lendstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintergasse",
+        "id": 42532,
+        "strassenbezeichnung": "Hintergasse"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 42552,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchgasse",
+        "id": 42572,
+        "strassenbezeichnung": "Kirchgasse"
+    },
+    {
+        "kurzbezeichnung": "Klausgasse",
+        "id": 42579,
+        "strassenbezeichnung": "Klausgasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzgasse",
+        "id": 42583,
+        "strassenbezeichnung": "Kreuzgasse"
+    },
+    {
+        "kurzbezeichnung": "Kürsingerdamm",
+        "id": 42587,
+        "strassenbezeichnung": "Kürsingerdamm"
+    },
+    {
+        "kurzbezeichnung": "Landrichterweg",
+        "id": 42589,
+        "strassenbezeichnung": "Landrichterweg"
+    },
+    {
+        "kurzbezeichnung": "Lebzeltergasse",
+        "id": 42602,
+        "strassenbezeichnung": "Lebzeltergasse"
+    },
+    {
+        "kurzbezeichnung": "Lendstraße",
+        "id": 42622,
+        "strassenbezeichnung": "Lendstraße"
+    },
+    {
+        "kurzbezeichnung": "Stadtplatz",
+        "id": 42624,
+        "strassenbezeichnung": "Stadtplatz"
+    },
+    {
+        "kurzbezeichnung": "Mühlnerweg",
+        "id": 42626,
+        "strassenbezeichnung": "Mühlnerweg"
+    },
+    {
+        "kurzbezeichnung": "Museumstraße",
+        "id": 42628,
+        "strassenbezeichnung": "Museumstraße"
+    },
+    {
+        "kurzbezeichnung": "Poststraße",
+        "id": 42646,
+        "strassenbezeichnung": "Poststraße"
+    },
+    {
+        "kurzbezeichnung": "Rathausgasse",
+        "id": 42655,
+        "strassenbezeichnung": "Rathausgasse"
+    },
+    {
+        "kurzbezeichnung": "Rupert-Steger-Gasse",
+        "id": 42657,
+        "strassenbezeichnung": "Rupert-Steger-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Sankt-Nikolaus-Straße",
+        "id": 42663,
+        "strassenbezeichnung": "Sankt-Nikolaus-Straße"
+    },
+    {
+        "kurzbezeichnung": "Schettbühel",
+        "id": 42669,
+        "strassenbezeichnung": "Schettbühel"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 42670,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportweg",
+        "id": 42838,
+        "strassenbezeichnung": "Sportweg"
+    },
+    {
+        "kurzbezeichnung": "Stampferau",
+        "id": 45027,
+        "strassenbezeichnung": "Stampferau"
+    },
+    {
+        "kurzbezeichnung": "Wachtlehenweg",
+        "id": 45193,
+        "strassenbezeichnung": "Wachtlehenweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 45232,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Zeller Straße",
+        "id": 45338,
+        "strassenbezeichnung": "Zeller Straße"
+    },
+    {
+        "kurzbezeichnung": "Kreuzfeld",
+        "id": 46276,
+        "strassenbezeichnung": "Kreuzfeld"
+    },
+    {
+        "kurzbezeichnung": "Sepp-Bacher-Straße",
+        "id": 46280,
+        "strassenbezeichnung": "Sepp-Bacher-Straße"
+    },
+    {
+        "kurzbezeichnung": "Lofererfeld",
+        "id": 49968,
+        "strassenbezeichnung": "Lofererfeld"
+    },
+    {
+        "kurzbezeichnung": "Brunnfeldweg",
+        "id": 62788,
+        "strassenbezeichnung": "Brunnfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Salzachweg",
+        "id": 62789,
+        "strassenbezeichnung": "Salzachweg"
+    },
+    {
+        "kurzbezeichnung": "Felberturmstraße",
+        "id": 67193,
+        "strassenbezeichnung": "Felberturmstraße"
+    },
+    {
+        "kurzbezeichnung": "Achleitweg",
+        "id": 73306,
+        "strassenbezeichnung": "Achleitweg"
+    },
+    {
+        "kurzbezeichnung": "Einödbergweg",
+        "id": 73442,
+        "strassenbezeichnung": "Einödbergweg"
+    },
+    {
+        "kurzbezeichnung": "Mongweg",
+        "id": 73443,
+        "strassenbezeichnung": "Mongweg"
+    },
+    {
+        "kurzbezeichnung": "Rettenbachstraße",
+        "id": 73444,
+        "strassenbezeichnung": "Rettenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbering-West",
+        "id": 73548,
+        "strassenbezeichnung": "Gewerbering-West"
+    },
+    {
+        "kurzbezeichnung": "Jochberg",
+        "id": 87971,
+        "strassenbezeichnung": "Jochberg"
+    },
+    {
+        "kurzbezeichnung": "Arndorf",
+        "id": 88017,
+        "strassenbezeichnung": "Arndorf"
+    },
+    {
+        "kurzbezeichnung": "Burk",
+        "id": 88018,
+        "strassenbezeichnung": "Burk"
+    },
+    {
+        "kurzbezeichnung": "Feldstein",
+        "id": 88019,
+        "strassenbezeichnung": "Feldstein"
+    },
+    {
+        "kurzbezeichnung": "Jochberg",
+        "id": 88020,
+        "strassenbezeichnung": "Jochberg"
+    },
+    {
+        "kurzbezeichnung": "Jochbergthurn",
+        "id": 88021,
+        "strassenbezeichnung": "Jochbergthurn"
+    },
+    {
+        "kurzbezeichnung": "Lämmerbichl",
+        "id": 88023,
+        "strassenbezeichnung": "Lämmerbichl"
+    },
+    {
+        "kurzbezeichnung": "Loferstein",
+        "id": 88024,
+        "strassenbezeichnung": "Loferstein"
+    },
+    {
+        "kurzbezeichnung": "Mayrhofen",
+        "id": 88025,
+        "strassenbezeichnung": "Mayrhofen"
+    },
+    {
+        "kurzbezeichnung": "Oberfelben",
+        "id": 88027,
+        "strassenbezeichnung": "Oberfelben"
+    },
+    {
+        "kurzbezeichnung": "Paßthurn",
+        "id": 88028,
+        "strassenbezeichnung": "Paßthurn"
+    },
+    {
+        "kurzbezeichnung": "Rettenbach",
+        "id": 88029,
+        "strassenbezeichnung": "Rettenbach"
+    },
+    {
+        "kurzbezeichnung": "Schattberg",
+        "id": 88030,
+        "strassenbezeichnung": "Schattberg"
+    },
+    {
+        "kurzbezeichnung": "Spielbichl",
+        "id": 88031,
+        "strassenbezeichnung": "Spielbichl"
+    },
+    {
+        "kurzbezeichnung": "Thalbach",
+        "id": 88032,
+        "strassenbezeichnung": "Thalbach"
+    },
+    {
+        "kurzbezeichnung": "Unterfelben",
+        "id": 88033,
+        "strassenbezeichnung": "Unterfelben"
+    },
+    {
+        "kurzbezeichnung": "Weißenstein",
+        "id": 88034,
+        "strassenbezeichnung": "Weißenstein"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 94319,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 94320,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 97634,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Hallenbadstraße Süd",
+        "id": 97640,
+        "strassenbezeichnung": "Hallenbadstraße Süd"
+    },
+    {
+        "kurzbezeichnung": "Felben",
+        "id": 101987,
+        "strassenbezeichnung": "Felben"
+    },
+    {
+        "kurzbezeichnung": "Ifangweg",
+        "id": 101988,
+        "strassenbezeichnung": "Ifangweg"
+    },
+    {
+        "kurzbezeichnung": "Gerberweg",
+        "id": 103321,
+        "strassenbezeichnung": "Gerberweg"
+    },
+    {
+        "kurzbezeichnung": "Maurerfeldgasse",
+        "id": 103322,
+        "strassenbezeichnung": "Maurerfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzanger",
+        "id": 109619,
+        "strassenbezeichnung": "Kreuzanger"
+    },
+    {
+        "kurzbezeichnung": "Bräufeldweg",
+        "id": 121198,
+        "strassenbezeichnung": "Bräufeldweg"
+    },
+    {
+        "kurzbezeichnung": "Breitmoos",
+        "id": 122136,
+        "strassenbezeichnung": "Breitmoos"
+    },
+    {
+        "kurzbezeichnung": "Winkelgasse",
+        "id": 124998,
+        "strassenbezeichnung": "Winkelgasse"
+    },
+    {
+        "kurzbezeichnung": "Golfplatzstraße",
+        "id": 125003,
+        "strassenbezeichnung": "Golfplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Sattlerweg",
+        "id": 125004,
+        "strassenbezeichnung": "Sattlerweg "
+    }
+]

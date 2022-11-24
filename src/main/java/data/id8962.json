@@ -1,0 +1,537 @@
+[
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": -33520,
+        "strassenbezeichnung": "Gewerbestrasse"
+    },
+    {
+        "kurzbezeichnung": "Kranzbach",
+        "id": -32301,
+        "strassenbezeichnung": "Kranzbach"
+    },
+    {
+        "kurzbezeichnung": "Anton Schlecker-Straße",
+        "id": -12559,
+        "strassenbezeichnung": "Anton Schlecker-Straße"
+    },
+    {
+        "kurzbezeichnung": "Aich",
+        "id": 56697,
+        "strassenbezeichnung": "Aich"
+    },
+    {
+        "kurzbezeichnung": "Stoder",
+        "id": 56700,
+        "strassenbezeichnung": "Stoder"
+    },
+    {
+        "kurzbezeichnung": "Oberlengdorf",
+        "id": 56715,
+        "strassenbezeichnung": "Oberlengdorf"
+    },
+    {
+        "kurzbezeichnung": "Tipschern",
+        "id": 56721,
+        "strassenbezeichnung": "Tipschern"
+    },
+    {
+        "kurzbezeichnung": "Kranzbach",
+        "id": 56722,
+        "strassenbezeichnung": "Kranzbach"
+    },
+    {
+        "kurzbezeichnung": "Unterlengdorf",
+        "id": 56723,
+        "strassenbezeichnung": "Unterlengdorf"
+    },
+    {
+        "kurzbezeichnung": "Am Grünanger",
+        "id": 67718,
+        "strassenbezeichnung": "Am Grünanger"
+    },
+    {
+        "kurzbezeichnung": "Am Steinacker",
+        "id": 67719,
+        "strassenbezeichnung": "Am Steinacker"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 67720,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 67721,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 67722,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 67723,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Franz-X.-Mayr-Str.",
+        "id": 67724,
+        "strassenbezeichnung": "Dr.-Franz-Xaver-Mayr-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Pommer-Weg",
+        "id": 67725,
+        "strassenbezeichnung": "Dr.-Pommer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-H.-Pirchegger-Weg",
+        "id": 67726,
+        "strassenbezeichnung": "Dr.-Hans-Pirchegger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Eibentalerweg",
+        "id": 67727,
+        "strassenbezeichnung": "Eibentalerweg"
+    },
+    {
+        "kurzbezeichnung": "Einöd",
+        "id": 67728,
+        "strassenbezeichnung": "Einöd"
+    },
+    {
+        "kurzbezeichnung": "Erzherzog-Johann-Weg",
+        "id": 67729,
+        "strassenbezeichnung": "Erzherzog-Johann-Weg"
+    },
+    {
+        "kurzbezeichnung": "Franz Haiger-Weg",
+        "id": 67730,
+        "strassenbezeichnung": "Franz Haiger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Franz Thoma-Weg",
+        "id": 67731,
+        "strassenbezeichnung": "Franz Thoma-Weg"
+    },
+    {
+        "kurzbezeichnung": "Oberwinkl",
+        "id": 67732,
+        "strassenbezeichnung": "Oberwinkl"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 67733,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 67734,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 67735,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Hofmanninger Weg",
+        "id": 67737,
+        "strassenbezeichnung": "Hofmanninger Weg"
+    },
+    {
+        "kurzbezeichnung": "Klostergasse",
+        "id": 67738,
+        "strassenbezeichnung": "Klostergasse"
+    },
+    {
+        "kurzbezeichnung": "Krahbergsiedlung",
+        "id": 67739,
+        "strassenbezeichnung": "Krahbergsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Kulmleitenweg",
+        "id": 67740,
+        "strassenbezeichnung": "Kulmleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Kulmweg",
+        "id": 67741,
+        "strassenbezeichnung": "Kulmweg"
+    },
+    {
+        "kurzbezeichnung": "Loyplatz",
+        "id": 67742,
+        "strassenbezeichnung": "Loyplatz"
+    },
+    {
+        "kurzbezeichnung": "Mautdörfl",
+        "id": 67743,
+        "strassenbezeichnung": "Mautdörfl"
+    },
+    {
+        "kurzbezeichnung": "Mitterbauerweg",
+        "id": 67744,
+        "strassenbezeichnung": "Mitterbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterberger Straße",
+        "id": 67745,
+        "strassenbezeichnung": "Mitterberger Straße"
+    },
+    {
+        "kurzbezeichnung": "Oberwinkler Weg",
+        "id": 67746,
+        "strassenbezeichnung": "Oberwinkler Weg"
+    },
+    {
+        "kurzbezeichnung": "Paula Grogger-Weg",
+        "id": 67747,
+        "strassenbezeichnung": "Paula Grogger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Poststraße",
+        "id": 67748,
+        "strassenbezeichnung": "Poststraße"
+    },
+    {
+        "kurzbezeichnung": "Rennbahnstraße",
+        "id": 67749,
+        "strassenbezeichnung": "Rennbahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Roseggerstraße",
+        "id": 67750,
+        "strassenbezeichnung": "Roseggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Südtiroler Straße",
+        "id": 67751,
+        "strassenbezeichnung": "Südtiroler Straße"
+    },
+    {
+        "kurzbezeichnung": "Schörkmaierweg",
+        "id": 67752,
+        "strassenbezeichnung": "Schörkmaierweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 67754,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Stoderstraße",
+        "id": 67756,
+        "strassenbezeichnung": "Stoderstraße"
+    },
+    {
+        "kurzbezeichnung": "Tunzendorfer Weg",
+        "id": 67757,
+        "strassenbezeichnung": "Tunzendorfer Weg"
+    },
+    {
+        "kurzbezeichnung": "Wamprechtsamerstraße",
+        "id": 67758,
+        "strassenbezeichnung": "Wamprechtsamerstraße"
+    },
+    {
+        "kurzbezeichnung": "Weyrer Straße",
+        "id": 67759,
+        "strassenbezeichnung": "Weyrer Straße"
+    },
+    {
+        "kurzbezeichnung": "Wiesackstraße",
+        "id": 67760,
+        "strassenbezeichnung": "Wiesackstraße"
+    },
+    {
+        "kurzbezeichnung": "Winkler Straße",
+        "id": 67761,
+        "strassenbezeichnung": "Winkler Straße"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatz",
+        "id": 70186,
+        "strassenbezeichnung": "Kirchplatz"
+    },
+    {
+        "kurzbezeichnung": "Stein an der Enns",
+        "id": 73187,
+        "strassenbezeichnung": "Stein an der Enns"
+    },
+    {
+        "kurzbezeichnung": "Gröbming",
+        "id": 89195,
+        "strassenbezeichnung": "Gröbming"
+    },
+    {
+        "kurzbezeichnung": "Kleinsölk",
+        "id": 89204,
+        "strassenbezeichnung": "Kleinsölk"
+    },
+    {
+        "kurzbezeichnung": "Michaelerberg",
+        "id": 89213,
+        "strassenbezeichnung": "Michaelerberg"
+    },
+    {
+        "kurzbezeichnung": "Gersdorf",
+        "id": 89215,
+        "strassenbezeichnung": "Gersdorf"
+    },
+    {
+        "kurzbezeichnung": "Mitterberg",
+        "id": 89216,
+        "strassenbezeichnung": "Mitterberg"
+    },
+    {
+        "kurzbezeichnung": "Pruggern",
+        "id": 89246,
+        "strassenbezeichnung": "Pruggern"
+    },
+    {
+        "kurzbezeichnung": "Dr. R. Haberleitner-Str",
+        "id": 92388,
+        "strassenbezeichnung": "Dr. Rudolf Haberleitner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kaindorf",
+        "id": 93477,
+        "strassenbezeichnung": "Kaindorf"
+    },
+    {
+        "kurzbezeichnung": "Zirting",
+        "id": 93478,
+        "strassenbezeichnung": "Zirting"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 93479,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Ratting",
+        "id": 93480,
+        "strassenbezeichnung": "Ratting"
+    },
+    {
+        "kurzbezeichnung": "Steg",
+        "id": 93481,
+        "strassenbezeichnung": "Steg"
+    },
+    {
+        "kurzbezeichnung": "Matzling",
+        "id": 93482,
+        "strassenbezeichnung": "Matzling"
+    },
+    {
+        "kurzbezeichnung": "Krottendorf",
+        "id": 93485,
+        "strassenbezeichnung": "Krottendorf"
+    },
+    {
+        "kurzbezeichnung": "Berg",
+        "id": 93487,
+        "strassenbezeichnung": "Berg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Emil Knauer-Straße",
+        "id": 97623,
+        "strassenbezeichnung": "Dr. Emil Knauer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Horstigstraße",
+        "id": 97624,
+        "strassenbezeichnung": "Horstigstraße"
+    },
+    {
+        "kurzbezeichnung": "Brandalm",
+        "id": 97625,
+        "strassenbezeichnung": "Brandalm"
+    },
+    {
+        "kurzbezeichnung": "Neubergalm",
+        "id": 97627,
+        "strassenbezeichnung": "Neubergalm"
+    },
+    {
+        "kurzbezeichnung": "Stoderalm",
+        "id": 97629,
+        "strassenbezeichnung": "Stoderalm"
+    },
+    {
+        "kurzbezeichnung": "Viehbergalm",
+        "id": 97630,
+        "strassenbezeichnung": "Viehbergalm"
+    },
+    {
+        "kurzbezeichnung": "Wiesalm",
+        "id": 97631,
+        "strassenbezeichnung": "Wiesalm"
+    },
+    {
+        "kurzbezeichnung": "Hermann Koller-Sdl.",
+        "id": 97648,
+        "strassenbezeichnung": "Hermann Koller-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Josef Schütz-Siedlung",
+        "id": 97649,
+        "strassenbezeichnung": "Josef Schütz-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Kleinalm",
+        "id": 97650,
+        "strassenbezeichnung": "Kleinalm"
+    },
+    {
+        "kurzbezeichnung": "Sölkdörfl",
+        "id": 97652,
+        "strassenbezeichnung": "Sölkdörfl"
+    },
+    {
+        "kurzbezeichnung": "Vorderwald",
+        "id": 97654,
+        "strassenbezeichnung": "Vorderwald"
+    },
+    {
+        "kurzbezeichnung": "Dörfl",
+        "id": 97656,
+        "strassenbezeichnung": "Dörfl"
+    },
+    {
+        "kurzbezeichnung": "Gelsenberg",
+        "id": 97657,
+        "strassenbezeichnung": "Gelsenberg"
+    },
+    {
+        "kurzbezeichnung": "Hinterwald",
+        "id": 97658,
+        "strassenbezeichnung": "Hinterwald"
+    },
+    {
+        "kurzbezeichnung": "Reith",
+        "id": 97659,
+        "strassenbezeichnung": "Reith"
+    },
+    {
+        "kurzbezeichnung": "Moosheim",
+        "id": 97669,
+        "strassenbezeichnung": "Moosheim"
+    },
+    {
+        "kurzbezeichnung": "Nerwein",
+        "id": 97670,
+        "strassenbezeichnung": "Nerwein"
+    },
+    {
+        "kurzbezeichnung": "Tunzendorf",
+        "id": 97671,
+        "strassenbezeichnung": "Tunzendorf"
+    },
+    {
+        "kurzbezeichnung": "Einöd",
+        "id": 97684,
+        "strassenbezeichnung": "Einöd"
+    },
+    {
+        "kurzbezeichnung": "Kulm",
+        "id": 97686,
+        "strassenbezeichnung": "Kulm"
+    },
+    {
+        "kurzbezeichnung": "Kunagrünbergstraße",
+        "id": 97687,
+        "strassenbezeichnung": "Kunagrünbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Pruggererberg",
+        "id": 97688,
+        "strassenbezeichnung": "Pruggererberg"
+    },
+    {
+        "kurzbezeichnung": "Sattental",
+        "id": 97689,
+        "strassenbezeichnung": "Sattental"
+    },
+    {
+        "kurzbezeichnung": "Schlattenbach",
+        "id": 97690,
+        "strassenbezeichnung": "Schlattenbach"
+    },
+    {
+        "kurzbezeichnung": "Stoderplatzl",
+        "id": 100485,
+        "strassenbezeichnung": "Stoderplatzl"
+    },
+    {
+        "kurzbezeichnung": "Miesboden",
+        "id": 101625,
+        "strassenbezeichnung": "Miesboden"
+    },
+    {
+        "kurzbezeichnung": "Kammwiese",
+        "id": 109894,
+        "strassenbezeichnung": "Kammwiese"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 109895,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Eggmoarweg",
+        "id": 119742,
+        "strassenbezeichnung": "Eggmoarweg"
+    },
+    {
+        "kurzbezeichnung": "Vorstadt",
+        "id": 121051,
+        "strassenbezeichnung": "Vorstadt"
+    },
+    {
+        "kurzbezeichnung": "Mühlenacker",
+        "id": 121052,
+        "strassenbezeichnung": "Mühlenacker"
+    },
+    {
+        "kurzbezeichnung": "Gössenbergstraße",
+        "id": 121053,
+        "strassenbezeichnung": "Gössenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Kurztrum",
+        "id": 121054,
+        "strassenbezeichnung": "Kurztrum"
+    },
+    {
+        "kurzbezeichnung": "Mittergasse",
+        "id": 121055,
+        "strassenbezeichnung": "Mittergasse"
+    },
+    {
+        "kurzbezeichnung": "Langtrum",
+        "id": 121056,
+        "strassenbezeichnung": "Langtrum"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 121057,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Mölltal",
+        "id": 121059,
+        "strassenbezeichnung": "Mölltal"
+    },
+    {
+        "kurzbezeichnung": "Ennsboden",
+        "id": 127173,
+        "strassenbezeichnung": "Ennsboden"
+    },
+    {
+        "kurzbezeichnung": "Oberdorf",
+        "id": 127174,
+        "strassenbezeichnung": "Oberdorf"
+    }
+]

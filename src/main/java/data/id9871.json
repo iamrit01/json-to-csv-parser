@@ -1,0 +1,497 @@
+[
+    {
+        "kurzbezeichnung": "Kraut",
+        "id": -31428,
+        "strassenbezeichnung": "Kraut"
+    },
+    {
+        "kurzbezeichnung": "Am Klauberpark",
+        "id": -30412,
+        "strassenbezeichnung": "Am Klauberpark"
+    },
+    {
+        "kurzbezeichnung": "Promenade zum See",
+        "id": -17089,
+        "strassenbezeichnung": "Promenade zum See"
+    },
+    {
+        "kurzbezeichnung": "Zirbenweg",
+        "id": 3029,
+        "strassenbezeichnung": "Zirbenweg"
+    },
+    {
+        "kurzbezeichnung": "Alte Straße",
+        "id": 6911,
+        "strassenbezeichnung": "Alte Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Ertlfeld",
+        "id": 6912,
+        "strassenbezeichnung": "Am Ertlfeld"
+    },
+    {
+        "kurzbezeichnung": "Am Kirchbichl",
+        "id": 6913,
+        "strassenbezeichnung": "Am Kirchbichl"
+    },
+    {
+        "kurzbezeichnung": "Am Korbfeld",
+        "id": 6915,
+        "strassenbezeichnung": "Am Korbfeld"
+    },
+    {
+        "kurzbezeichnung": "Am Mühlbach",
+        "id": 6916,
+        "strassenbezeichnung": "Am Mühlbach"
+    },
+    {
+        "kurzbezeichnung": "Am Oberrain",
+        "id": 6917,
+        "strassenbezeichnung": "Am Oberrain"
+    },
+    {
+        "kurzbezeichnung": "Am Rain",
+        "id": 6919,
+        "strassenbezeichnung": "Am Rain"
+    },
+    {
+        "kurzbezeichnung": "Am Waldrand",
+        "id": 6920,
+        "strassenbezeichnung": "Am Waldrand"
+    },
+    {
+        "kurzbezeichnung": "Amselweg",
+        "id": 6921,
+        "strassenbezeichnung": "Amselweg"
+    },
+    {
+        "kurzbezeichnung": "An der Sandleiten",
+        "id": 6922,
+        "strassenbezeichnung": "An der Sandleiten"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 6923,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Arnikaweg",
+        "id": 6924,
+        "strassenbezeichnung": "Arnikaweg"
+    },
+    {
+        "kurzbezeichnung": "Auf der Ertlhöhe",
+        "id": 6925,
+        "strassenbezeichnung": "Auf der Ertlhöhe"
+    },
+    {
+        "kurzbezeichnung": "Auf der Raun",
+        "id": 6926,
+        "strassenbezeichnung": "Auf der Raun"
+    },
+    {
+        "kurzbezeichnung": "Bäderweg",
+        "id": 6927,
+        "strassenbezeichnung": "Bäderweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 6929,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Bootsweg",
+        "id": 6930,
+        "strassenbezeichnung": "Bootsweg"
+    },
+    {
+        "kurzbezeichnung": "Dahlienweg",
+        "id": 6931,
+        "strassenbezeichnung": "Dahlienweg"
+    },
+    {
+        "kurzbezeichnung": "Dobrastraße",
+        "id": 6932,
+        "strassenbezeichnung": "Dobrastraße"
+    },
+    {
+        "kurzbezeichnung": "Dullhöhe",
+        "id": 6933,
+        "strassenbezeichnung": "Dullhöhe"
+    },
+    {
+        "kurzbezeichnung": "Dullhöhenweg",
+        "id": 6934,
+        "strassenbezeichnung": "Dullhöhenweg"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 6935,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Eschenweg",
+        "id": 6936,
+        "strassenbezeichnung": "Eschenweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 6937,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Finkenweg",
+        "id": 6938,
+        "strassenbezeichnung": "Finkenweg"
+    },
+    {
+        "kurzbezeichnung": "Fischerweg",
+        "id": 6939,
+        "strassenbezeichnung": "Fischerweg"
+    },
+    {
+        "kurzbezeichnung": "Flurweg",
+        "id": 6940,
+        "strassenbezeichnung": "Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Flußweg",
+        "id": 6941,
+        "strassenbezeichnung": "Flußweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 6942,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gmeineckweg",
+        "id": 6944,
+        "strassenbezeichnung": "Gmeineckweg"
+    },
+    {
+        "kurzbezeichnung": "Goldeckweg",
+        "id": 6945,
+        "strassenbezeichnung": "Goldeckweg"
+    },
+    {
+        "kurzbezeichnung": "Golfweg",
+        "id": 6946,
+        "strassenbezeichnung": "Golfweg"
+    },
+    {
+        "kurzbezeichnung": "Gritschacher Straße",
+        "id": 6947,
+        "strassenbezeichnung": "Gritschacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 6949,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hubertusweg",
+        "id": 6950,
+        "strassenbezeichnung": "Hubertusweg"
+    },
+    {
+        "kurzbezeichnung": "Im Reich",
+        "id": 6951,
+        "strassenbezeichnung": "Im Reich"
+    },
+    {
+        "kurzbezeichnung": "Im Schwalbengrund",
+        "id": 6952,
+        "strassenbezeichnung": "Im Schwalbengrund"
+    },
+    {
+        "kurzbezeichnung": "Im Winkel",
+        "id": 6953,
+        "strassenbezeichnung": "Im Winkel"
+    },
+    {
+        "kurzbezeichnung": "Kochstraße",
+        "id": 6955,
+        "strassenbezeichnung": "Kochstraße"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 6956,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Leitenweg",
+        "id": 6957,
+        "strassenbezeichnung": "Leitenweg"
+    },
+    {
+        "kurzbezeichnung": "Lexhöhe",
+        "id": 6958,
+        "strassenbezeichnung": "Lexhöhe"
+    },
+    {
+        "kurzbezeichnung": "Lieseregger Straße",
+        "id": 6959,
+        "strassenbezeichnung": "Lieseregger Straße"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 6961,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Margeritenweg",
+        "id": 6962,
+        "strassenbezeichnung": "Margeritenweg"
+    },
+    {
+        "kurzbezeichnung": "Meixnerhofweg",
+        "id": 6963,
+        "strassenbezeichnung": "Meixnerhofweg"
+    },
+    {
+        "kurzbezeichnung": "Mirnockweg",
+        "id": 6964,
+        "strassenbezeichnung": "Mirnockweg"
+    },
+    {
+        "kurzbezeichnung": "Nelkenstraße",
+        "id": 6966,
+        "strassenbezeichnung": "Nelkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberbachweg",
+        "id": 6967,
+        "strassenbezeichnung": "Oberbachweg"
+    },
+    {
+        "kurzbezeichnung": "Poststeig",
+        "id": 6968,
+        "strassenbezeichnung": "Poststeig"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 6969,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Salzkofelweg",
+        "id": 6970,
+        "strassenbezeichnung": "Salzkofelweg"
+    },
+    {
+        "kurzbezeichnung": "Schluchtweg",
+        "id": 6971,
+        "strassenbezeichnung": "Schluchtweg"
+    },
+    {
+        "kurzbezeichnung": "Schulallee",
+        "id": 6973,
+        "strassenbezeichnung": "Schulallee"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 6974,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Seeallee",
+        "id": 6975,
+        "strassenbezeichnung": "Seeallee"
+    },
+    {
+        "kurzbezeichnung": "Seebacher Straße",
+        "id": 6976,
+        "strassenbezeichnung": "Seebacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Seeblickweg",
+        "id": 6977,
+        "strassenbezeichnung": "Seeblickweg"
+    },
+    {
+        "kurzbezeichnung": "Seehofstraße",
+        "id": 6978,
+        "strassenbezeichnung": "Seehofstraße"
+    },
+    {
+        "kurzbezeichnung": "Seepromenade",
+        "id": 6979,
+        "strassenbezeichnung": "Seepromenade"
+    },
+    {
+        "kurzbezeichnung": "Seespitz",
+        "id": 6980,
+        "strassenbezeichnung": "Seespitz"
+    },
+    {
+        "kurzbezeichnung": "Seestraße",
+        "id": 6981,
+        "strassenbezeichnung": "Seestraße"
+    },
+    {
+        "kurzbezeichnung": "Seutterweg",
+        "id": 6982,
+        "strassenbezeichnung": "Seutterweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitenweg",
+        "id": 6983,
+        "strassenbezeichnung": "Sonnleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Steiner Straße",
+        "id": 6984,
+        "strassenbezeichnung": "Steiner Straße"
+    },
+    {
+        "kurzbezeichnung": "Süduferweg",
+        "id": 6985,
+        "strassenbezeichnung": "Süduferweg"
+    },
+    {
+        "kurzbezeichnung": "Tangerner Straße",
+        "id": 6986,
+        "strassenbezeichnung": "Tangerner Straße"
+    },
+    {
+        "kurzbezeichnung": "Techendorfer Straße",
+        "id": 6987,
+        "strassenbezeichnung": "Techendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Trefflinger Straße",
+        "id": 6988,
+        "strassenbezeichnung": "Trefflinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Unterhauser Weg",
+        "id": 6989,
+        "strassenbezeichnung": "Unterhauser Weg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 6991,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wirlsdorfer Straße",
+        "id": 6992,
+        "strassenbezeichnung": "Wirlsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Kornblumenweg",
+        "id": 63878,
+        "strassenbezeichnung": "Kornblumenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Unterrain",
+        "id": 68215,
+        "strassenbezeichnung": "Am Unterrain"
+    },
+    {
+        "kurzbezeichnung": "Lilienweg",
+        "id": 69442,
+        "strassenbezeichnung": "Lilienweg"
+    },
+    {
+        "kurzbezeichnung": "Zechnerweg",
+        "id": 71049,
+        "strassenbezeichnung": "Zechnerweg"
+    },
+    {
+        "kurzbezeichnung": "Korbweg",
+        "id": 71050,
+        "strassenbezeichnung": "Korbweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 75557,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Kötzing",
+        "id": 77724,
+        "strassenbezeichnung": "Kötzing"
+    },
+    {
+        "kurzbezeichnung": "Kolm",
+        "id": 77725,
+        "strassenbezeichnung": "Kolm"
+    },
+    {
+        "kurzbezeichnung": "Liedweg",
+        "id": 77727,
+        "strassenbezeichnung": "Liedweg"
+    },
+    {
+        "kurzbezeichnung": "Muskanitzen",
+        "id": 77730,
+        "strassenbezeichnung": "Muskanitzen"
+    },
+    {
+        "kurzbezeichnung": "Pirk",
+        "id": 77731,
+        "strassenbezeichnung": "Pirk"
+    },
+    {
+        "kurzbezeichnung": "Schloßau",
+        "id": 77733,
+        "strassenbezeichnung": "Schloßau"
+    },
+    {
+        "kurzbezeichnung": "Tangern",
+        "id": 77735,
+        "strassenbezeichnung": "Tangern"
+    },
+    {
+        "kurzbezeichnung": "Trasischk",
+        "id": 77737,
+        "strassenbezeichnung": "Trasischk"
+    },
+    {
+        "kurzbezeichnung": "Treffling",
+        "id": 77738,
+        "strassenbezeichnung": "Treffling"
+    },
+    {
+        "kurzbezeichnung": "Unterhaus",
+        "id": 77739,
+        "strassenbezeichnung": "Unterhaus"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 91657,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Solarweg",
+        "id": 103446,
+        "strassenbezeichnung": "Solarweg"
+    },
+    {
+        "kurzbezeichnung": "Thomas Morgenstern Pl.",
+        "id": 118044,
+        "strassenbezeichnung": "Thomas Morgenstern Platz"
+    },
+    {
+        "kurzbezeichnung": "Kraut",
+        "id": 122157,
+        "strassenbezeichnung": "Kraut"
+    },
+    {
+        "kurzbezeichnung": "Seeparkweg",
+        "id": 123405,
+        "strassenbezeichnung": "Seeparkweg"
+    },
+    {
+        "kurzbezeichnung": "Lärchenfeld",
+        "id": 124093,
+        "strassenbezeichnung": "Lärchenfeld"
+    },
+    {
+        "kurzbezeichnung": "Seegarten",
+        "id": 126563,
+        "strassenbezeichnung": "Seegarten"
+    }
+]

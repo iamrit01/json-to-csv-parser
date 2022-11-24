@@ -1,0 +1,772 @@
+[
+    {
+        "kurzbezeichnung": "Am Flurweg",
+        "id": -33055,
+        "strassenbezeichnung": "Am Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark West",
+        "id": -32339,
+        "strassenbezeichnung": "Gewerbepark West"
+    },
+    {
+        "kurzbezeichnung": "Getreidegasse",
+        "id": -20203,
+        "strassenbezeichnung": "Getreidegasse"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": -18863,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Bamederstraße",
+        "id": -1419,
+        "strassenbezeichnung": "Bamederstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Eggenberg",
+        "id": 36009,
+        "strassenbezeichnung": "Am Eggenberg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 36013,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Eggenfelder Straße",
+        "id": 36015,
+        "strassenbezeichnung": "Eggenfelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 36021,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Feldbauerweg",
+        "id": 36022,
+        "strassenbezeichnung": "Feldbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Grüne Gasse",
+        "id": 36024,
+        "strassenbezeichnung": "Grüne Gasse"
+    },
+    {
+        "kurzbezeichnung": "Haritzweg",
+        "id": 36029,
+        "strassenbezeichnung": "Haritzweg"
+    },
+    {
+        "kurzbezeichnung": "Hansbauerweg",
+        "id": 36031,
+        "strassenbezeichnung": "Hansbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Hofbachweg",
+        "id": 36032,
+        "strassenbezeichnung": "Hofbachweg"
+    },
+    {
+        "kurzbezeichnung": "Lerchenweg",
+        "id": 36034,
+        "strassenbezeichnung": "Lerchenweg"
+    },
+    {
+        "kurzbezeichnung": "Petschenweg",
+        "id": 36036,
+        "strassenbezeichnung": "Petschenweg"
+    },
+    {
+        "kurzbezeichnung": "Rötschbachweg",
+        "id": 36037,
+        "strassenbezeichnung": "Rötschbachweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarzer Weg",
+        "id": 36039,
+        "strassenbezeichnung": "Schwarzer Weg"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsweg",
+        "id": 36041,
+        "strassenbezeichnung": "Siedlungsweg"
+    },
+    {
+        "kurzbezeichnung": "Stübingweg",
+        "id": 36045,
+        "strassenbezeichnung": "Stübingweg"
+    },
+    {
+        "kurzbezeichnung": "Wörth",
+        "id": 36046,
+        "strassenbezeichnung": "Wörth"
+    },
+    {
+        "kurzbezeichnung": "Zenzlweg",
+        "id": 36047,
+        "strassenbezeichnung": "Zenzlweg"
+    },
+    {
+        "kurzbezeichnung": "Friesach-Dorf",
+        "id": 49541,
+        "strassenbezeichnung": "Friesach-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Hörgas",
+        "id": 60266,
+        "strassenbezeichnung": "Hörgas"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 62383,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Enzenbach",
+        "id": 62384,
+        "strassenbezeichnung": "Enzenbach"
+    },
+    {
+        "kurzbezeichnung": "Hermann Gmeiner-Sdl.",
+        "id": 62661,
+        "strassenbezeichnung": "Hermann Gmeiner-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 72478,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Hieningstraße",
+        "id": 72479,
+        "strassenbezeichnung": "Hieningstraße"
+    },
+    {
+        "kurzbezeichnung": "Friesachstraße",
+        "id": 72480,
+        "strassenbezeichnung": "Friesachstraße"
+    },
+    {
+        "kurzbezeichnung": "Grazer Bundesstraße",
+        "id": 72481,
+        "strassenbezeichnung": "Grazer Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Weingartenweg",
+        "id": 72482,
+        "strassenbezeichnung": "Weingartenweg"
+    },
+    {
+        "kurzbezeichnung": "Hochdoktersiedlung",
+        "id": 72483,
+        "strassenbezeichnung": "Hochdoktersiedlung"
+    },
+    {
+        "kurzbezeichnung": "Am Oberfeld",
+        "id": 72484,
+        "strassenbezeichnung": "Am Oberfeld"
+    },
+    {
+        "kurzbezeichnung": "Am Auengrund",
+        "id": 72485,
+        "strassenbezeichnung": "Am Auengrund"
+    },
+    {
+        "kurzbezeichnung": "Stübinger Straße",
+        "id": 72486,
+        "strassenbezeichnung": "Stübinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Murweg",
+        "id": 72487,
+        "strassenbezeichnung": "Murweg"
+    },
+    {
+        "kurzbezeichnung": "Matthäus Kahr-Gasse",
+        "id": 72488,
+        "strassenbezeichnung": "Matthäus Kahr-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Semriacher Straße",
+        "id": 72489,
+        "strassenbezeichnung": "Semriacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfirsichgrabenweg",
+        "id": 72490,
+        "strassenbezeichnung": "Pfirsichgrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Lantschbauerweg",
+        "id": 72491,
+        "strassenbezeichnung": "Lantschbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 72492,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 72493,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Murbodenweg",
+        "id": 72494,
+        "strassenbezeichnung": "Murbodenweg"
+    },
+    {
+        "kurzbezeichnung": "Murfeldweg",
+        "id": 75804,
+        "strassenbezeichnung": "Murfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Himberg",
+        "id": 88572,
+        "strassenbezeichnung": "Himberg"
+    },
+    {
+        "kurzbezeichnung": "Kleinstübing",
+        "id": 88573,
+        "strassenbezeichnung": "Kleinstübing"
+    },
+    {
+        "kurzbezeichnung": "Königgraben",
+        "id": 88574,
+        "strassenbezeichnung": "Königgraben"
+    },
+    {
+        "kurzbezeichnung": "Stübinggraben",
+        "id": 88576,
+        "strassenbezeichnung": "Stübinggraben"
+    },
+    {
+        "kurzbezeichnung": "Großstübing",
+        "id": 88596,
+        "strassenbezeichnung": "Großstübing"
+    },
+    {
+        "kurzbezeichnung": "Gschnaidt",
+        "id": 88597,
+        "strassenbezeichnung": "Gschnaidt"
+    },
+    {
+        "kurzbezeichnung": "Thoneben",
+        "id": 88666,
+        "strassenbezeichnung": "Thoneben"
+    },
+    {
+        "kurzbezeichnung": "Deutschfeistritz",
+        "id": 91992,
+        "strassenbezeichnung": "Deutschfeistritz"
+    },
+    {
+        "kurzbezeichnung": "Concept-Straße",
+        "id": 109572,
+        "strassenbezeichnung": "Concept-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gottlieb Filzmoser-Weg",
+        "id": 113514,
+        "strassenbezeichnung": "Gottlieb Filzmoser-Weg"
+    },
+    {
+        "kurzbezeichnung": "Hausbergweg",
+        "id": 120360,
+        "strassenbezeichnung": "Hausbergweg"
+    },
+    {
+        "kurzbezeichnung": "Semriacherstraße",
+        "id": 120362,
+        "strassenbezeichnung": "Semriacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Mitteregg",
+        "id": 120363,
+        "strassenbezeichnung": "Mitteregg"
+    },
+    {
+        "kurzbezeichnung": "Am Hiening",
+        "id": 120423,
+        "strassenbezeichnung": "Am Hiening"
+    },
+    {
+        "kurzbezeichnung": "Pfirsichgrabenweg",
+        "id": 120424,
+        "strassenbezeichnung": "Pfirsichgrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Hieningweg",
+        "id": 120425,
+        "strassenbezeichnung": "Hieningweg"
+    },
+    {
+        "kurzbezeichnung": "Thonebenstraße",
+        "id": 120426,
+        "strassenbezeichnung": "Thonebenstraße"
+    },
+    {
+        "kurzbezeichnung": "Vorderer Weißeck",
+        "id": 120427,
+        "strassenbezeichnung": "Vorderer Weißeck"
+    },
+    {
+        "kurzbezeichnung": "Hüblerweg",
+        "id": 120428,
+        "strassenbezeichnung": "Hüblerweg"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 120429,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Dielachboden",
+        "id": 124205,
+        "strassenbezeichnung": "Am Dielachboden"
+    },
+    {
+        "kurzbezeichnung": "Am Feldboden",
+        "id": 124207,
+        "strassenbezeichnung": "Am Feldboden"
+    },
+    {
+        "kurzbezeichnung": "Am Greith Straße",
+        "id": 124208,
+        "strassenbezeichnung": "Am Greith Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Kirchberg",
+        "id": 124209,
+        "strassenbezeichnung": "Am Kirchberg"
+    },
+    {
+        "kurzbezeichnung": "Am Königgraben",
+        "id": 124210,
+        "strassenbezeichnung": "Am Königgraben"
+    },
+    {
+        "kurzbezeichnung": "Am Oberfeld",
+        "id": 124211,
+        "strassenbezeichnung": "Am Oberfeld"
+    },
+    {
+        "kurzbezeichnung": "Am Quellengrund",
+        "id": 124212,
+        "strassenbezeichnung": "Am Quellengrund"
+    },
+    {
+        "kurzbezeichnung": "Am Waldhof",
+        "id": 124214,
+        "strassenbezeichnung": "Am Waldhof"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 124216,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 124217,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahngasse",
+        "id": 124218,
+        "strassenbezeichnung": "Bahngasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofplatz",
+        "id": 124219,
+        "strassenbezeichnung": "Bahnhofplatz"
+    },
+    {
+        "kurzbezeichnung": "Bärensiedlung",
+        "id": 124222,
+        "strassenbezeichnung": "Bärensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Benjamin Kordik-Gasse",
+        "id": 124223,
+        "strassenbezeichnung": "Benjamin Kordik-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 124224,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Brunnenweg",
+        "id": 124225,
+        "strassenbezeichnung": "Brunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Dielachring",
+        "id": 124227,
+        "strassenbezeichnung": "Dielachring"
+    },
+    {
+        "kurzbezeichnung": "Dielachstraße",
+        "id": 124228,
+        "strassenbezeichnung": "Dielachstraße"
+    },
+    {
+        "kurzbezeichnung": "Eibenweg",
+        "id": 124229,
+        "strassenbezeichnung": "Eibenweg"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 124231,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 124232,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "E-Werkstraße",
+        "id": 124233,
+        "strassenbezeichnung": "E-Werkstraße"
+    },
+    {
+        "kurzbezeichnung": "Färbergasse",
+        "id": 124236,
+        "strassenbezeichnung": "Färbergasse"
+    },
+    {
+        "kurzbezeichnung": "Feisterweg",
+        "id": 124237,
+        "strassenbezeichnung": "Feisterweg"
+    },
+    {
+        "kurzbezeichnung": "Feldbodenring",
+        "id": 124238,
+        "strassenbezeichnung": "Feldbodenring"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 124239,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Ferdinandgasse",
+        "id": 124240,
+        "strassenbezeichnung": "Ferdinandgasse"
+    },
+    {
+        "kurzbezeichnung": "Flurweg",
+        "id": 124241,
+        "strassenbezeichnung": "Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Försterweg",
+        "id": 124242,
+        "strassenbezeichnung": "Försterweg"
+    },
+    {
+        "kurzbezeichnung": "Fralliweg",
+        "id": 124243,
+        "strassenbezeichnung": "Fralliweg"
+    },
+    {
+        "kurzbezeichnung": "Franziskahöhe",
+        "id": 124244,
+        "strassenbezeichnung": "Franziskahöhe"
+    },
+    {
+        "kurzbezeichnung": "Fünfhausgasse",
+        "id": 124246,
+        "strassenbezeichnung": "Fünfhausgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 124247,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gärtnereistraße",
+        "id": 124248,
+        "strassenbezeichnung": "Gärtnereistraße"
+    },
+    {
+        "kurzbezeichnung": "Gärtnerweg",
+        "id": 124249,
+        "strassenbezeichnung": "Gärtnerweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark Nord",
+        "id": 124250,
+        "strassenbezeichnung": "Gewerbepark Nord"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark Süd",
+        "id": 124251,
+        "strassenbezeichnung": "Gewerbepark Süd"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 124252,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Gratweinerstraße",
+        "id": 124253,
+        "strassenbezeichnung": "Gratweinerstraße"
+    },
+    {
+        "kurzbezeichnung": "Grazerstraße",
+        "id": 124254,
+        "strassenbezeichnung": "Grazerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gruberweg",
+        "id": 124255,
+        "strassenbezeichnung": "Gruberweg"
+    },
+    {
+        "kurzbezeichnung": "Grünegasse",
+        "id": 124256,
+        "strassenbezeichnung": "Grünegasse"
+    },
+    {
+        "kurzbezeichnung": "Grünerweg",
+        "id": 124257,
+        "strassenbezeichnung": "Grünerweg"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 124258,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Hofweinzierl",
+        "id": 124263,
+        "strassenbezeichnung": "Hofweinzierl"
+    },
+    {
+        "kurzbezeichnung": "Hörgasstraße",
+        "id": 124265,
+        "strassenbezeichnung": "Hörgasstraße"
+    },
+    {
+        "kurzbezeichnung": "Johannesviertel",
+        "id": 124266,
+        "strassenbezeichnung": "Johannesviertel"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 124267,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Kinogasse",
+        "id": 124268,
+        "strassenbezeichnung": "Kinogasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchberggasse",
+        "id": 124269,
+        "strassenbezeichnung": "Kirchberggasse"
+    },
+    {
+        "kurzbezeichnung": "Klammweg",
+        "id": 124271,
+        "strassenbezeichnung": "Klammweg"
+    },
+    {
+        "kurzbezeichnung": "Königgrabenstraße",
+        "id": 124272,
+        "strassenbezeichnung": "Königgrabenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kupferschmiedriegel",
+        "id": 124273,
+        "strassenbezeichnung": "Kupferschmiedriegel"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 124275,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 124277,
+        "strassenbezeichnung": "Lindengasse"
+    },
+    {
+        "kurzbezeichnung": "Murgasse",
+        "id": 124279,
+        "strassenbezeichnung": "Murgasse"
+    },
+    {
+        "kurzbezeichnung": "Murweg",
+        "id": 124280,
+        "strassenbezeichnung": "Murweg"
+    },
+    {
+        "kurzbezeichnung": "Obere E-Werkstraße",
+        "id": 124281,
+        "strassenbezeichnung": "Obere E-Werkstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberschwarzerweg",
+        "id": 124282,
+        "strassenbezeichnung": "Oberschwarzerweg"
+    },
+    {
+        "kurzbezeichnung": "Obstweg",
+        "id": 124283,
+        "strassenbezeichnung": "Obstweg"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": 124284,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Peinterweg",
+        "id": 124285,
+        "strassenbezeichnung": "Peinterweg"
+    },
+    {
+        "kurzbezeichnung": "Peter Tunnerplatz",
+        "id": 124286,
+        "strassenbezeichnung": "Peter Tunnerplatz"
+    },
+    {
+        "kurzbezeichnung": "Ringsiedlung",
+        "id": 124288,
+        "strassenbezeichnung": "Ringsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Rocherlgraben",
+        "id": 124289,
+        "strassenbezeichnung": "Rocherlgraben"
+    },
+    {
+        "kurzbezeichnung": "Roseggergasse",
+        "id": 124290,
+        "strassenbezeichnung": "Roseggergasse"
+    },
+    {
+        "kurzbezeichnung": "Rudolf Klug-Gasse",
+        "id": 124291,
+        "strassenbezeichnung": "Rudolf Klug-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Schiessstattgasse",
+        "id": 124292,
+        "strassenbezeichnung": "Schiessstattgasse"
+    },
+    {
+        "kurzbezeichnung": "Schlossergasse",
+        "id": 124293,
+        "strassenbezeichnung": "Schlossergasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 124294,
+        "strassenbezeichnung": "Schloßweg"
+    },
+    {
+        "kurzbezeichnung": "Schützenweg",
+        "id": 124296,
+        "strassenbezeichnung": "Schützenweg"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 124297,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Silberhofweg",
+        "id": 124298,
+        "strassenbezeichnung": "Silberhofweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenstraße",
+        "id": 124299,
+        "strassenbezeichnung": "Sonnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 124300,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Streicherstraße",
+        "id": 124303,
+        "strassenbezeichnung": "Streicherstraße"
+    },
+    {
+        "kurzbezeichnung": "Stübingtalstraße",
+        "id": 124304,
+        "strassenbezeichnung": "Stübingtalstraße"
+    },
+    {
+        "kurzbezeichnung": "Tischlerweg",
+        "id": 124305,
+        "strassenbezeichnung": "Tischlerweg"
+    },
+    {
+        "kurzbezeichnung": "Übelbacherstraße",
+        "id": 124306,
+        "strassenbezeichnung": "Übelbacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterer Dielachboden",
+        "id": 124307,
+        "strassenbezeichnung": "Unterer Dielachboden"
+    },
+    {
+        "kurzbezeichnung": "Vorgartenweg",
+        "id": 124308,
+        "strassenbezeichnung": "Vorgartenweg"
+    },
+    {
+        "kurzbezeichnung": "Walchergraben",
+        "id": 124309,
+        "strassenbezeichnung": "Walchergraben"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 124310,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wasserwerkstraße",
+        "id": 124311,
+        "strassenbezeichnung": "Wasserwerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 124314,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wintergasse",
+        "id": 124315,
+        "strassenbezeichnung": "Wintergasse"
+    },
+    {
+        "kurzbezeichnung": "Zöhrergraben",
+        "id": 124317,
+        "strassenbezeichnung": "Zöhrergraben"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 124378,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Florianiweg",
+        "id": 127488,
+        "strassenbezeichnung": "Florianiweg"
+    }
+]

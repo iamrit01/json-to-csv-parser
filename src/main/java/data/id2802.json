@@ -1,0 +1,442 @@
+[
+    {
+        "kurzbezeichnung": "Zerstreut",
+        "id": -9682,
+        "strassenbezeichnung": "Zerstreut"
+    },
+    {
+        "kurzbezeichnung": "Rotten",
+        "id": -9681,
+        "strassenbezeichnung": "Rotten"
+    },
+    {
+        "kurzbezeichnung": "Hochwolkersdorf",
+        "id": -9679,
+        "strassenbezeichnung": "Hochwolkersdorf"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": -9678,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Steidelleiten",
+        "id": 21098,
+        "strassenbezeichnung": "Steidelleiten"
+    },
+    {
+        "kurzbezeichnung": "Stögersbach",
+        "id": 21117,
+        "strassenbezeichnung": "Stögersbach"
+    },
+    {
+        "kurzbezeichnung": "Schlager Straße",
+        "id": 21134,
+        "strassenbezeichnung": "Schlager Straße"
+    },
+    {
+        "kurzbezeichnung": "Michelbach",
+        "id": 21266,
+        "strassenbezeichnung": "Michelbach"
+    },
+    {
+        "kurzbezeichnung": "Hochstraße",
+        "id": 21382,
+        "strassenbezeichnung": "Hochstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlriegel",
+        "id": 21439,
+        "strassenbezeichnung": "Mühlriegel"
+    },
+    {
+        "kurzbezeichnung": "Steinbichl",
+        "id": 21852,
+        "strassenbezeichnung": "Steinbichl"
+    },
+    {
+        "kurzbezeichnung": "Ziegelberg",
+        "id": 21864,
+        "strassenbezeichnung": "Ziegelberg"
+    },
+    {
+        "kurzbezeichnung": "Holzerhöfen",
+        "id": 21900,
+        "strassenbezeichnung": "Holzerhöfen"
+    },
+    {
+        "kurzbezeichnung": "Ober-Schlatten",
+        "id": 21901,
+        "strassenbezeichnung": "Ober-Schlatten"
+    },
+    {
+        "kurzbezeichnung": "Süßenriegel",
+        "id": 21974,
+        "strassenbezeichnung": "Süßenriegel"
+    },
+    {
+        "kurzbezeichnung": "Schloßberg",
+        "id": 22036,
+        "strassenbezeichnung": "Schloßberg"
+    },
+    {
+        "kurzbezeichnung": "Stanglgraben",
+        "id": 22069,
+        "strassenbezeichnung": "Stanglgraben"
+    },
+    {
+        "kurzbezeichnung": "Ohaberg",
+        "id": 22118,
+        "strassenbezeichnung": "Ohaberg"
+    },
+    {
+        "kurzbezeichnung": "Spritzengraben",
+        "id": 22131,
+        "strassenbezeichnung": "Spritzengraben"
+    },
+    {
+        "kurzbezeichnung": "Karnthal",
+        "id": 22223,
+        "strassenbezeichnung": "Karnthal"
+    },
+    {
+        "kurzbezeichnung": "Hahnhof",
+        "id": 22250,
+        "strassenbezeichnung": "Hahnhof"
+    },
+    {
+        "kurzbezeichnung": "Maierhöfen",
+        "id": 22268,
+        "strassenbezeichnung": "Maierhöfen"
+    },
+    {
+        "kurzbezeichnung": "Eichleiten",
+        "id": 22270,
+        "strassenbezeichnung": "Eichleiten"
+    },
+    {
+        "kurzbezeichnung": "Dreibuchen",
+        "id": 22275,
+        "strassenbezeichnung": "Dreibuchen"
+    },
+    {
+        "kurzbezeichnung": "Hofstätten",
+        "id": 22277,
+        "strassenbezeichnung": "Hofstätten"
+    },
+    {
+        "kurzbezeichnung": "Forst",
+        "id": 22323,
+        "strassenbezeichnung": "Forst"
+    },
+    {
+        "kurzbezeichnung": "Holzhof",
+        "id": 22324,
+        "strassenbezeichnung": "Holzhof"
+    },
+    {
+        "kurzbezeichnung": "Klingfurth",
+        "id": 22326,
+        "strassenbezeichnung": "Klingfurth"
+    },
+    {
+        "kurzbezeichnung": "Rosenbrunn",
+        "id": 22337,
+        "strassenbezeichnung": "Rosenbrunn"
+    },
+    {
+        "kurzbezeichnung": "Schlatten",
+        "id": 22340,
+        "strassenbezeichnung": "Schlatten"
+    },
+    {
+        "kurzbezeichnung": "Alm",
+        "id": 74747,
+        "strassenbezeichnung": "Alm"
+    },
+    {
+        "kurzbezeichnung": "Eggenbuch",
+        "id": 74748,
+        "strassenbezeichnung": "Eggenbuch"
+    },
+    {
+        "kurzbezeichnung": "Essengraben",
+        "id": 74749,
+        "strassenbezeichnung": "Essengraben"
+    },
+    {
+        "kurzbezeichnung": "Glasgraben",
+        "id": 74750,
+        "strassenbezeichnung": "Glasgraben"
+    },
+    {
+        "kurzbezeichnung": "Hackbichl",
+        "id": 74751,
+        "strassenbezeichnung": "Hackbichl"
+    },
+    {
+        "kurzbezeichnung": "Hochegg",
+        "id": 74752,
+        "strassenbezeichnung": "Hochegg"
+    },
+    {
+        "kurzbezeichnung": "Hocheckgraben",
+        "id": 74753,
+        "strassenbezeichnung": "Hocheckgraben"
+    },
+    {
+        "kurzbezeichnung": "Königsbühel",
+        "id": 74754,
+        "strassenbezeichnung": "Königsbühel"
+    },
+    {
+        "kurzbezeichnung": "Oberau",
+        "id": 74755,
+        "strassenbezeichnung": "Oberau"
+    },
+    {
+        "kurzbezeichnung": "Radschuhleiten",
+        "id": 74756,
+        "strassenbezeichnung": "Radschuhleiten"
+    },
+    {
+        "kurzbezeichnung": "Schölderl",
+        "id": 74757,
+        "strassenbezeichnung": "Schölderl"
+    },
+    {
+        "kurzbezeichnung": "Schön",
+        "id": 74758,
+        "strassenbezeichnung": "Schön"
+    },
+    {
+        "kurzbezeichnung": "Schulau",
+        "id": 74759,
+        "strassenbezeichnung": "Schulau"
+    },
+    {
+        "kurzbezeichnung": "Trift",
+        "id": 74760,
+        "strassenbezeichnung": "Trift"
+    },
+    {
+        "kurzbezeichnung": "Hackbichl",
+        "id": 81270,
+        "strassenbezeichnung": "Hackbichl"
+    },
+    {
+        "kurzbezeichnung": "Rosenbrunn",
+        "id": 81273,
+        "strassenbezeichnung": "Rosenbrunn"
+    },
+    {
+        "kurzbezeichnung": "Schleinz",
+        "id": 81302,
+        "strassenbezeichnung": "Schleinz"
+    },
+    {
+        "kurzbezeichnung": "Alm",
+        "id": 99522,
+        "strassenbezeichnung": "Alm"
+    },
+    {
+        "kurzbezeichnung": "Hollerberg",
+        "id": 99523,
+        "strassenbezeichnung": "Hollerberg"
+    },
+    {
+        "kurzbezeichnung": "Kirchenriegel",
+        "id": 102138,
+        "strassenbezeichnung": "Kirchenriegel"
+    },
+    {
+        "kurzbezeichnung": "Äußere Alm",
+        "id": 105507,
+        "strassenbezeichnung": "Äußere Alm"
+    },
+    {
+        "kurzbezeichnung": "Alpenlandstraße",
+        "id": 105508,
+        "strassenbezeichnung": "Alpenlandstraße"
+    },
+    {
+        "kurzbezeichnung": "Bauernhöfe",
+        "id": 105509,
+        "strassenbezeichnung": "Bauernhöfe"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 105510,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Brennt",
+        "id": 105511,
+        "strassenbezeichnung": "Brennt"
+    },
+    {
+        "kurzbezeichnung": "Brombergerstraße",
+        "id": 105512,
+        "strassenbezeichnung": "Brombergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 105513,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Grabenweg",
+        "id": 105514,
+        "strassenbezeichnung": "Grabenweg"
+    },
+    {
+        "kurzbezeichnung": "Haag",
+        "id": 105515,
+        "strassenbezeichnung": "Haag"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 105516,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofgasse",
+        "id": 105517,
+        "strassenbezeichnung": "Hofgasse"
+    },
+    {
+        "kurzbezeichnung": "Hohe Wand-Gasse",
+        "id": 105518,
+        "strassenbezeichnung": "Hohe Wand-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hollerbergstraße",
+        "id": 105519,
+        "strassenbezeichnung": "Hollerbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Hübenweg",
+        "id": 105520,
+        "strassenbezeichnung": "Hübenweg"
+    },
+    {
+        "kurzbezeichnung": "In der Au",
+        "id": 105521,
+        "strassenbezeichnung": "In der Au"
+    },
+    {
+        "kurzbezeichnung": "Kehbrunn",
+        "id": 105522,
+        "strassenbezeichnung": "Kehbrunn"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 105523,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kuhberg",
+        "id": 105525,
+        "strassenbezeichnung": "Kuhberg"
+    },
+    {
+        "kurzbezeichnung": "Laahof",
+        "id": 105526,
+        "strassenbezeichnung": "Laahof"
+    },
+    {
+        "kurzbezeichnung": "Neustädterstraße",
+        "id": 105527,
+        "strassenbezeichnung": "Neustädterstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Gasse",
+        "id": 105528,
+        "strassenbezeichnung": "Obere Gasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrgasse",
+        "id": 105529,
+        "strassenbezeichnung": "Pfarrgasse"
+    },
+    {
+        "kurzbezeichnung": "Rothenstein",
+        "id": 105530,
+        "strassenbezeichnung": "Rothenstein"
+    },
+    {
+        "kurzbezeichnung": "Schneeberggasse",
+        "id": 105531,
+        "strassenbezeichnung": "Schneeberggasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 105532,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Schwarzenbachstraße",
+        "id": 105533,
+        "strassenbezeichnung": "Schwarzenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Steghof",
+        "id": 105534,
+        "strassenbezeichnung": "Steghof"
+    },
+    {
+        "kurzbezeichnung": "Steghofweg",
+        "id": 105535,
+        "strassenbezeichnung": "Steghofweg"
+    },
+    {
+        "kurzbezeichnung": "Untere Alm",
+        "id": 105536,
+        "strassenbezeichnung": "Untere Alm"
+    },
+    {
+        "kurzbezeichnung": "Unter-Ort",
+        "id": 105537,
+        "strassenbezeichnung": "Unter-Ort"
+    },
+    {
+        "kurzbezeichnung": "Villaweg",
+        "id": 105538,
+        "strassenbezeichnung": "Villaweg"
+    },
+    {
+        "kurzbezeichnung": "Vorstadtweg",
+        "id": 105539,
+        "strassenbezeichnung": "Vorstadtweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesmatherstraße",
+        "id": 105540,
+        "strassenbezeichnung": "Wiesmatherstraße"
+    },
+    {
+        "kurzbezeichnung": "Raxgasse",
+        "id": 105558,
+        "strassenbezeichnung": "Raxgasse"
+    },
+    {
+        "kurzbezeichnung": "Vorstadt",
+        "id": 105559,
+        "strassenbezeichnung": "Vorstadt"
+    },
+    {
+        "kurzbezeichnung": "Wechselgasse",
+        "id": 106361,
+        "strassenbezeichnung": "Wechselgasse"
+    },
+    {
+        "kurzbezeichnung": "Semmeringgasse",
+        "id": 106362,
+        "strassenbezeichnung": "Semmeringgasse"
+    },
+    {
+        "kurzbezeichnung": "Panoramagasse",
+        "id": 121711,
+        "strassenbezeichnung": "Panoramagasse"
+    }
+]

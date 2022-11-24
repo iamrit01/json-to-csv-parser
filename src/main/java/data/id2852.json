@@ -1,0 +1,622 @@
+[
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": -32952,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Winkelgasse",
+        "id": -32079,
+        "strassenbezeichnung": "Winkelgasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": -32078,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Turmweg",
+        "id": -32077,
+        "strassenbezeichnung": "Turmweg"
+    },
+    {
+        "kurzbezeichnung": "Tauchener Straße",
+        "id": -32076,
+        "strassenbezeichnung": "Tauchener Straße"
+    },
+    {
+        "kurzbezeichnung": "Sterngasse",
+        "id": -32075,
+        "strassenbezeichnung": "Sterngasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": -32074,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": -32073,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": -32072,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Panoramastraße",
+        "id": -32071,
+        "strassenbezeichnung": "Panoramastraße"
+    },
+    {
+        "kurzbezeichnung": "Offenegger Straße",
+        "id": -32070,
+        "strassenbezeichnung": "Offenegger Straße"
+    },
+    {
+        "kurzbezeichnung": "Malterner Straße",
+        "id": -32069,
+        "strassenbezeichnung": "Malterner Straße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": -32068,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": -32067,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": -32066,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenweg",
+        "id": -32065,
+        "strassenbezeichnung": "Brunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Bergweg",
+        "id": -32064,
+        "strassenbezeichnung": "Bergweg"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": -32063,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Apfelweg",
+        "id": -32062,
+        "strassenbezeichnung": "Apfelweg"
+    },
+    {
+        "kurzbezeichnung": "Am Steinbühel",
+        "id": -32061,
+        "strassenbezeichnung": "Am Steinbühel"
+    },
+    {
+        "kurzbezeichnung": "Am Spitz",
+        "id": -32060,
+        "strassenbezeichnung": "Am Spitz"
+    },
+    {
+        "kurzbezeichnung": "Am Kreuzberg",
+        "id": -32059,
+        "strassenbezeichnung": "Am Kreuzberg"
+    },
+    {
+        "kurzbezeichnung": "Am Kirchenwald",
+        "id": -32058,
+        "strassenbezeichnung": "Am Kirchenwald"
+    },
+    {
+        "kurzbezeichnung": "Am Feld",
+        "id": -32057,
+        "strassenbezeichnung": "Am Feld"
+    },
+    {
+        "kurzbezeichnung": "Alte Gasse",
+        "id": -32056,
+        "strassenbezeichnung": "Alte Gasse"
+    },
+    {
+        "kurzbezeichnung": "Alleegasse",
+        "id": -32055,
+        "strassenbezeichnung": "Alleegasse"
+    },
+    {
+        "kurzbezeichnung": "Grenzweg",
+        "id": -31390,
+        "strassenbezeichnung": "Grenzweg"
+    },
+    {
+        "kurzbezeichnung": "Kastaniengasse",
+        "id": -31368,
+        "strassenbezeichnung": "Kastaniengasse"
+    },
+    {
+        "kurzbezeichnung": "Hochtanngasse",
+        "id": -31364,
+        "strassenbezeichnung": "Hochtanngasse"
+    },
+    {
+        "kurzbezeichnung": "Fliederweg",
+        "id": -31357,
+        "strassenbezeichnung": "Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Fernblickgasse",
+        "id": -31354,
+        "strassenbezeichnung": "Fernblickgasse"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": -31352,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Burgblickweg",
+        "id": -31349,
+        "strassenbezeichnung": "Burgblickweg"
+    },
+    {
+        "kurzbezeichnung": "Buchengasse",
+        "id": -31348,
+        "strassenbezeichnung": "Buchengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Wechselblick",
+        "id": -31342,
+        "strassenbezeichnung": "Am Wechselblick"
+    },
+    {
+        "kurzbezeichnung": "Am Hang",
+        "id": -31340,
+        "strassenbezeichnung": "Am Hang"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 2604,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Panoramastraße",
+        "id": 2790,
+        "strassenbezeichnung": "Panoramastraße"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 33384,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Burgstallweg",
+        "id": 46871,
+        "strassenbezeichnung": "Burgstallweg"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 47485,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 47796,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Lindenstraße",
+        "id": 47854,
+        "strassenbezeichnung": "Lindenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kastanienweg",
+        "id": 48558,
+        "strassenbezeichnung": "Kastanienweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 49322,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Brunnenplatz",
+        "id": 49820,
+        "strassenbezeichnung": "Brunnenplatz"
+    },
+    {
+        "kurzbezeichnung": "Austraße",
+        "id": 52757,
+        "strassenbezeichnung": "Austraße"
+    },
+    {
+        "kurzbezeichnung": "Beim Höhwirt",
+        "id": 53520,
+        "strassenbezeichnung": "Beim Höhwirt"
+    },
+    {
+        "kurzbezeichnung": "Kurzer Weg",
+        "id": 55997,
+        "strassenbezeichnung": "Kurzer Weg"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 56663,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Semmering",
+        "id": 56666,
+        "strassenbezeichnung": "Am Semmering"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 56667,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Gesriegelgasse",
+        "id": 56668,
+        "strassenbezeichnung": "Gesriegelgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Gartenriegel",
+        "id": 56671,
+        "strassenbezeichnung": "Am Gartenriegel"
+    },
+    {
+        "kurzbezeichnung": "Tiefenbach",
+        "id": 56832,
+        "strassenbezeichnung": "Tiefenbach"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 61773,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Knappenhofweg",
+        "id": 61785,
+        "strassenbezeichnung": "Knappenhofweg"
+    },
+    {
+        "kurzbezeichnung": "Tiefenbachstraße",
+        "id": 61796,
+        "strassenbezeichnung": "Tiefenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Außerlehen",
+        "id": 61800,
+        "strassenbezeichnung": "Außerlehen"
+    },
+    {
+        "kurzbezeichnung": "Buchegg",
+        "id": 61802,
+        "strassenbezeichnung": "Buchegg"
+    },
+    {
+        "kurzbezeichnung": "Edererweg",
+        "id": 61803,
+        "strassenbezeichnung": "Edererweg"
+    },
+    {
+        "kurzbezeichnung": "Egg",
+        "id": 61804,
+        "strassenbezeichnung": "Egg"
+    },
+    {
+        "kurzbezeichnung": "Feichten",
+        "id": 61805,
+        "strassenbezeichnung": "Feichten"
+    },
+    {
+        "kurzbezeichnung": "Fronleiten",
+        "id": 61806,
+        "strassenbezeichnung": "Fronleiten"
+    },
+    {
+        "kurzbezeichnung": "Groß-Buchegg",
+        "id": 61807,
+        "strassenbezeichnung": "Groß-Buchegg"
+    },
+    {
+        "kurzbezeichnung": "Gumpoldshof",
+        "id": 61808,
+        "strassenbezeichnung": "Gumpoldshof"
+    },
+    {
+        "kurzbezeichnung": "Haselgraben",
+        "id": 61809,
+        "strassenbezeichnung": "Haselgraben"
+    },
+    {
+        "kurzbezeichnung": "Henmühle",
+        "id": 61810,
+        "strassenbezeichnung": "Henmühle"
+    },
+    {
+        "kurzbezeichnung": "Hochhalt",
+        "id": 61811,
+        "strassenbezeichnung": "Hochhalt"
+    },
+    {
+        "kurzbezeichnung": "Hochneukirchenstraße",
+        "id": 61812,
+        "strassenbezeichnung": "Hochneukirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hohe Brücke",
+        "id": 61813,
+        "strassenbezeichnung": "Hohe Brücke"
+    },
+    {
+        "kurzbezeichnung": "Hosien",
+        "id": 61814,
+        "strassenbezeichnung": "Hosien"
+    },
+    {
+        "kurzbezeichnung": "Karlgraben",
+        "id": 61815,
+        "strassenbezeichnung": "Karlgraben"
+    },
+    {
+        "kurzbezeichnung": "Kindlweg",
+        "id": 61816,
+        "strassenbezeichnung": "Kindlweg"
+    },
+    {
+        "kurzbezeichnung": "Königsegg",
+        "id": 61817,
+        "strassenbezeichnung": "Königsegg"
+    },
+    {
+        "kurzbezeichnung": "Kraxenberg",
+        "id": 61818,
+        "strassenbezeichnung": "Kraxenberg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzberg",
+        "id": 61819,
+        "strassenbezeichnung": "Kreuzberg"
+    },
+    {
+        "kurzbezeichnung": "Löder",
+        "id": 61820,
+        "strassenbezeichnung": "Löder"
+    },
+    {
+        "kurzbezeichnung": "Mölterner Höhe",
+        "id": 61821,
+        "strassenbezeichnung": "Mölterner Höhe"
+    },
+    {
+        "kurzbezeichnung": "Möltern",
+        "id": 61822,
+        "strassenbezeichnung": "Möltern"
+    },
+    {
+        "kurzbezeichnung": "Möltern-Dörfl",
+        "id": 61823,
+        "strassenbezeichnung": "Möltern-Dörfl"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 61824,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Ödhöfen",
+        "id": 61825,
+        "strassenbezeichnung": "Ödhöfen"
+    },
+    {
+        "kurzbezeichnung": "Ödhöfen-Au",
+        "id": 61826,
+        "strassenbezeichnung": "Ödhöfen-Au"
+    },
+    {
+        "kurzbezeichnung": "Ödhöfen-Berg",
+        "id": 61827,
+        "strassenbezeichnung": "Ödhöfen-Berg"
+    },
+    {
+        "kurzbezeichnung": "Ponholz",
+        "id": 61828,
+        "strassenbezeichnung": "Ponholz"
+    },
+    {
+        "kurzbezeichnung": "Ponholzweg",
+        "id": 61829,
+        "strassenbezeichnung": "Ponholzweg"
+    },
+    {
+        "kurzbezeichnung": "Prägart",
+        "id": 61830,
+        "strassenbezeichnung": "Prägart"
+    },
+    {
+        "kurzbezeichnung": "Ransgraben",
+        "id": 61831,
+        "strassenbezeichnung": "Ransgraben"
+    },
+    {
+        "kurzbezeichnung": "Sägemühle",
+        "id": 61833,
+        "strassenbezeichnung": "Sägemühle"
+    },
+    {
+        "kurzbezeichnung": "Saubichl",
+        "id": 61834,
+        "strassenbezeichnung": "Saubichl"
+    },
+    {
+        "kurzbezeichnung": "Schloß",
+        "id": 61835,
+        "strassenbezeichnung": "Schloß"
+    },
+    {
+        "kurzbezeichnung": "Schloßstraße",
+        "id": 61836,
+        "strassenbezeichnung": "Schloßstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitengasse",
+        "id": 61838,
+        "strassenbezeichnung": "Sonnleitengasse"
+    },
+    {
+        "kurzbezeichnung": "Tiefenbach",
+        "id": 61839,
+        "strassenbezeichnung": "Tiefenbach"
+    },
+    {
+        "kurzbezeichnung": "Unterhaus",
+        "id": 61840,
+        "strassenbezeichnung": "Unterhaus"
+    },
+    {
+        "kurzbezeichnung": "Unterhaus-Au",
+        "id": 61841,
+        "strassenbezeichnung": "Unterhaus-Au"
+    },
+    {
+        "kurzbezeichnung": "Untertiefenbach",
+        "id": 61842,
+        "strassenbezeichnung": "Untertiefenbach"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 61843,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Weißes Kreuz",
+        "id": 61844,
+        "strassenbezeichnung": "Weißes Kreuz"
+    },
+    {
+        "kurzbezeichnung": "Zethoferweg",
+        "id": 61845,
+        "strassenbezeichnung": "Zethoferweg"
+    },
+    {
+        "kurzbezeichnung": "Zöberau",
+        "id": 61846,
+        "strassenbezeichnung": "Zöberau"
+    },
+    {
+        "kurzbezeichnung": "Zöbersdorf",
+        "id": 61847,
+        "strassenbezeichnung": "Zöbersdorf"
+    },
+    {
+        "kurzbezeichnung": "Zöbersdorf-Au",
+        "id": 61848,
+        "strassenbezeichnung": "Zöbersdorf-Au"
+    },
+    {
+        "kurzbezeichnung": "Dreihütten",
+        "id": 75971,
+        "strassenbezeichnung": "Dreihütten"
+    },
+    {
+        "kurzbezeichnung": "Aschau im Burgenland",
+        "id": 76012,
+        "strassenbezeichnung": "Aschau im Burgenland"
+    },
+    {
+        "kurzbezeichnung": "Pichl",
+        "id": 80242,
+        "strassenbezeichnung": "Pichl"
+    },
+    {
+        "kurzbezeichnung": "Stübegg",
+        "id": 80244,
+        "strassenbezeichnung": "Stübegg"
+    },
+    {
+        "kurzbezeichnung": "Burgerschlag",
+        "id": 81258,
+        "strassenbezeichnung": "Burgerschlag"
+    },
+    {
+        "kurzbezeichnung": "Grametschlag",
+        "id": 81259,
+        "strassenbezeichnung": "Grametschlag"
+    },
+    {
+        "kurzbezeichnung": "Gschaidt",
+        "id": 81260,
+        "strassenbezeichnung": "Gschaidt"
+    },
+    {
+        "kurzbezeichnung": "Harmannsdorf",
+        "id": 81261,
+        "strassenbezeichnung": "Harmannsdorf"
+    },
+    {
+        "kurzbezeichnung": "Hattmannsdorf",
+        "id": 81262,
+        "strassenbezeichnung": "Hattmannsdorf"
+    },
+    {
+        "kurzbezeichnung": "Kirchschlagl",
+        "id": 81264,
+        "strassenbezeichnung": "Kirchschlagl"
+    },
+    {
+        "kurzbezeichnung": "Loipersdorf",
+        "id": 81265,
+        "strassenbezeichnung": "Loipersdorf"
+    },
+    {
+        "kurzbezeichnung": "Maltern",
+        "id": 81266,
+        "strassenbezeichnung": "Maltern"
+    },
+    {
+        "kurzbezeichnung": "Offenegg",
+        "id": 81267,
+        "strassenbezeichnung": "Offenegg"
+    },
+    {
+        "kurzbezeichnung": "Ulrichsdorf",
+        "id": 81268,
+        "strassenbezeichnung": "Ulrichsdorf"
+    },
+    {
+        "kurzbezeichnung": "Züggen",
+        "id": 81269,
+        "strassenbezeichnung": "Züggen"
+    },
+    {
+        "kurzbezeichnung": "Elsenau",
+        "id": 88800,
+        "strassenbezeichnung": "Elsenau"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 91783,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrplatz",
+        "id": 102733,
+        "strassenbezeichnung": "Pfarrplatz"
+    },
+    {
+        "kurzbezeichnung": "Karnegg",
+        "id": 124829,
+        "strassenbezeichnung": "Karnegg"
+    },
+    {
+        "kurzbezeichnung": "Hofersiedlung",
+        "id": 124830,
+        "strassenbezeichnung": "Hofersiedlung"
+    }
+]

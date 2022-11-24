@@ -1,0 +1,322 @@
+[
+    {
+        "kurzbezeichnung": "Harland",
+        "id": -33798,
+        "strassenbezeichnung": "Harland"
+    },
+    {
+        "kurzbezeichnung": "Wolfausiedlung",
+        "id": 63121,
+        "strassenbezeichnung": "Wolfausiedlung"
+    },
+    {
+        "kurzbezeichnung": "Lehne",
+        "id": 63122,
+        "strassenbezeichnung": "Lehne"
+    },
+    {
+        "kurzbezeichnung": "Innkniesiedlung",
+        "id": 63123,
+        "strassenbezeichnung": "Innkniesiedlung"
+    },
+    {
+        "kurzbezeichnung": "Neufeldsiedlung",
+        "id": 63124,
+        "strassenbezeichnung": "Neufeldsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Löckpuit",
+        "id": 63125,
+        "strassenbezeichnung": "Löckpuit"
+    },
+    {
+        "kurzbezeichnung": "Mairhof",
+        "id": 63126,
+        "strassenbezeichnung": "Mairhof"
+    },
+    {
+        "kurzbezeichnung": "Oberängern",
+        "id": 63127,
+        "strassenbezeichnung": "Oberängern"
+    },
+    {
+        "kurzbezeichnung": "Roppen",
+        "id": 89717,
+        "strassenbezeichnung": "Roppen"
+    },
+    {
+        "kurzbezeichnung": "MS-Design-Straße",
+        "id": 95041,
+        "strassenbezeichnung": "MS-Design-Straße"
+    },
+    {
+        "kurzbezeichnung": "Industriegebiet",
+        "id": 100169,
+        "strassenbezeichnung": "Industriegebiet"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 100170,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterfeld",
+        "id": 100171,
+        "strassenbezeichnung": "Unterfeld"
+    },
+    {
+        "kurzbezeichnung": "Bugglweg",
+        "id": 100172,
+        "strassenbezeichnung": "Bugglweg"
+    },
+    {
+        "kurzbezeichnung": "Obbruck",
+        "id": 100173,
+        "strassenbezeichnung": "Obbruck"
+    },
+    {
+        "kurzbezeichnung": "Ötzbruck",
+        "id": 100174,
+        "strassenbezeichnung": "Ötzbruck"
+    },
+    {
+        "kurzbezeichnung": "Breitweg",
+        "id": 100175,
+        "strassenbezeichnung": "Breitweg"
+    },
+    {
+        "kurzbezeichnung": "Trankhütte",
+        "id": 100176,
+        "strassenbezeichnung": "Trankhütte"
+    },
+    {
+        "kurzbezeichnung": "Mühle",
+        "id": 100177,
+        "strassenbezeichnung": "Mühle"
+    },
+    {
+        "kurzbezeichnung": "Waldele",
+        "id": 100178,
+        "strassenbezeichnung": "Waldele"
+    },
+    {
+        "kurzbezeichnung": "Hohenegg",
+        "id": 102784,
+        "strassenbezeichnung": "Hohenegg"
+    },
+    {
+        "kurzbezeichnung": "Ötztaler Achstraße",
+        "id": 125599,
+        "strassenbezeichnung": "Ötztaler Achstraße"
+    },
+    {
+        "kurzbezeichnung": "Angerle",
+        "id": 125892,
+        "strassenbezeichnung": "Angerle"
+    },
+    {
+        "kurzbezeichnung": "Bischlang",
+        "id": 125893,
+        "strassenbezeichnung": "Bischlang"
+    },
+    {
+        "kurzbezeichnung": "Burschlweg",
+        "id": 125894,
+        "strassenbezeichnung": "Burschlweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 125895,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 125896,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Forchetweg",
+        "id": 125897,
+        "strassenbezeichnung": "Forchetweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbegeb. Tschirgan",
+        "id": 125898,
+        "strassenbezeichnung": "Gewerbegebiet Tschirgant"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 125899,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Hamerle",
+        "id": 125900,
+        "strassenbezeichnung": "Hamerle"
+    },
+    {
+        "kurzbezeichnung": "Hofacker",
+        "id": 125901,
+        "strassenbezeichnung": "Hofacker"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 125902,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Innsiedlung",
+        "id": 125903,
+        "strassenbezeichnung": "Innsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Innweg",
+        "id": 125904,
+        "strassenbezeichnung": "Innweg"
+    },
+    {
+        "kurzbezeichnung": "Kalkofenweg",
+        "id": 125905,
+        "strassenbezeichnung": "Kalkofenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatz",
+        "id": 125906,
+        "strassenbezeichnung": "Kirchplatz"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 125907,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Kohlstattweg",
+        "id": 125908,
+        "strassenbezeichnung": "Kohlstattweg"
+    },
+    {
+        "kurzbezeichnung": "Kuppenweg",
+        "id": 125909,
+        "strassenbezeichnung": "Kuppenweg"
+    },
+    {
+        "kurzbezeichnung": "Leithe",
+        "id": 125910,
+        "strassenbezeichnung": "Leithe"
+    },
+    {
+        "kurzbezeichnung": "Neufeld",
+        "id": 125911,
+        "strassenbezeichnung": "Neufeld"
+    },
+    {
+        "kurzbezeichnung": "Olang",
+        "id": 125912,
+        "strassenbezeichnung": "Olang"
+    },
+    {
+        "kurzbezeichnung": "Rauthweg",
+        "id": 125913,
+        "strassenbezeichnung": "Rauthweg"
+    },
+    {
+        "kurzbezeichnung": "Riedegg",
+        "id": 125914,
+        "strassenbezeichnung": "Riedegg"
+    },
+    {
+        "kurzbezeichnung": "Riedgasse",
+        "id": 125915,
+        "strassenbezeichnung": "Riedgasse"
+    },
+    {
+        "kurzbezeichnung": "Römerstraße",
+        "id": 125916,
+        "strassenbezeichnung": "Römerstraße"
+    },
+    {
+        "kurzbezeichnung": "Roppnerweg",
+        "id": 125917,
+        "strassenbezeichnung": "Roppnerweg"
+    },
+    {
+        "kurzbezeichnung": "Sand",
+        "id": 125918,
+        "strassenbezeichnung": "Sand"
+    },
+    {
+        "kurzbezeichnung": "Scheibenbichl",
+        "id": 125919,
+        "strassenbezeichnung": "Scheibenbichl"
+    },
+    {
+        "kurzbezeichnung": "Schießstand",
+        "id": 125920,
+        "strassenbezeichnung": "Schießstand"
+    },
+    {
+        "kurzbezeichnung": "Schönegg",
+        "id": 125921,
+        "strassenbezeichnung": "Schönegg"
+    },
+    {
+        "kurzbezeichnung": "Sonnbichl",
+        "id": 125922,
+        "strassenbezeichnung": "Sonnbichl"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 125923,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Steinacker",
+        "id": 125924,
+        "strassenbezeichnung": "Steinacker"
+    },
+    {
+        "kurzbezeichnung": "Steinweg",
+        "id": 125925,
+        "strassenbezeichnung": "Steinweg"
+    },
+    {
+        "kurzbezeichnung": "Sternrain",
+        "id": 125926,
+        "strassenbezeichnung": "Sternrain"
+    },
+    {
+        "kurzbezeichnung": "Tschirgantweg",
+        "id": 125927,
+        "strassenbezeichnung": "Tschirgantweg"
+    },
+    {
+        "kurzbezeichnung": "Waldacker",
+        "id": 125928,
+        "strassenbezeichnung": "Waldacker"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 125929,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Widumfeld",
+        "id": 125930,
+        "strassenbezeichnung": "Widumfeld"
+    },
+    {
+        "kurzbezeichnung": "Widumweg",
+        "id": 125931,
+        "strassenbezeichnung": "Widumweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 125932,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wolfau",
+        "id": 125933,
+        "strassenbezeichnung": "Wolfau"
+    }
+]

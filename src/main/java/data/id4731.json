@@ -1,0 +1,382 @@
+[
+    {
+        "kurzbezeichnung": "Buchenstraße",
+        "id": -20630,
+        "strassenbezeichnung": "Buchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Passauer Straße",
+        "id": 69730,
+        "strassenbezeichnung": "Passauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Langstögener Straße",
+        "id": 69731,
+        "strassenbezeichnung": "Langstögener Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 69965,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 69966,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 69967,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Eferdinger Straße",
+        "id": 69968,
+        "strassenbezeichnung": "Eferdinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 69969,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Grieskirchner Straße",
+        "id": 69970,
+        "strassenbezeichnung": "Grieskirchner Straße"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 69971,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 69972,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofweg",
+        "id": 69973,
+        "strassenbezeichnung": "Hofweg"
+    },
+    {
+        "kurzbezeichnung": "Prof.-Anton-Lutz-Weg",
+        "id": 69974,
+        "strassenbezeichnung": "Prof.-Anton-Lutz-Weg"
+    },
+    {
+        "kurzbezeichnung": "Meteoritenweg",
+        "id": 69975,
+        "strassenbezeichnung": "Meteoritenweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 69976,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 69977,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Rosenstraße",
+        "id": 69978,
+        "strassenbezeichnung": "Rosenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sandstraße",
+        "id": 69979,
+        "strassenbezeichnung": "Sandstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": 69980,
+        "strassenbezeichnung": "Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Sternenweg",
+        "id": 69981,
+        "strassenbezeichnung": "Sternenweg"
+    },
+    {
+        "kurzbezeichnung": "Südhang",
+        "id": 69982,
+        "strassenbezeichnung": "Südhang"
+    },
+    {
+        "kurzbezeichnung": "Tannenweg",
+        "id": 69983,
+        "strassenbezeichnung": "Tannenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Berg",
+        "id": 69984,
+        "strassenbezeichnung": "Am Berg"
+    },
+    {
+        "kurzbezeichnung": "Amselweg",
+        "id": 69985,
+        "strassenbezeichnung": "Amselweg"
+    },
+    {
+        "kurzbezeichnung": "Auf der Wies",
+        "id": 69986,
+        "strassenbezeichnung": "Auf der Wies"
+    },
+    {
+        "kurzbezeichnung": "Birkenstraße",
+        "id": 69987,
+        "strassenbezeichnung": "Birkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasanweg",
+        "id": 69988,
+        "strassenbezeichnung": "Fasanweg"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 69989,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Kreuzberg",
+        "id": 69990,
+        "strassenbezeichnung": "Kreuzberg"
+    },
+    {
+        "kurzbezeichnung": "Melissenweg",
+        "id": 69991,
+        "strassenbezeichnung": "Melissenweg"
+    },
+    {
+        "kurzbezeichnung": "Unterbruck",
+        "id": 69992,
+        "strassenbezeichnung": "Unterbruck"
+    },
+    {
+        "kurzbezeichnung": "Unterbrucker Weg",
+        "id": 69993,
+        "strassenbezeichnung": "Unterbrucker Weg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 69994,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 69995,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Gföllnerwald",
+        "id": 70153,
+        "strassenbezeichnung": "Gföllnerwald"
+    },
+    {
+        "kurzbezeichnung": "Andrichsberg",
+        "id": 82631,
+        "strassenbezeichnung": "Andrichsberg"
+    },
+    {
+        "kurzbezeichnung": "Baumgarten",
+        "id": 82632,
+        "strassenbezeichnung": "Baumgarten"
+    },
+    {
+        "kurzbezeichnung": "Dachsberg",
+        "id": 82633,
+        "strassenbezeichnung": "Dachsberg"
+    },
+    {
+        "kurzbezeichnung": "Gallham",
+        "id": 82634,
+        "strassenbezeichnung": "Gallham"
+    },
+    {
+        "kurzbezeichnung": "Großsteingrub",
+        "id": 82635,
+        "strassenbezeichnung": "Großsteingrub"
+    },
+    {
+        "kurzbezeichnung": "Grüben",
+        "id": 82636,
+        "strassenbezeichnung": "Grüben"
+    },
+    {
+        "kurzbezeichnung": "Gschnarret",
+        "id": 82637,
+        "strassenbezeichnung": "Gschnarret"
+    },
+    {
+        "kurzbezeichnung": "Hundswies",
+        "id": 82638,
+        "strassenbezeichnung": "Hundswies"
+    },
+    {
+        "kurzbezeichnung": "Kleinsteingrub",
+        "id": 82639,
+        "strassenbezeichnung": "Kleinsteingrub"
+    },
+    {
+        "kurzbezeichnung": "Langstögen",
+        "id": 82640,
+        "strassenbezeichnung": "Langstögen"
+    },
+    {
+        "kurzbezeichnung": "Mairing",
+        "id": 82641,
+        "strassenbezeichnung": "Mairing"
+    },
+    {
+        "kurzbezeichnung": "Mittergallsbach",
+        "id": 82642,
+        "strassenbezeichnung": "Mittergallsbach"
+    },
+    {
+        "kurzbezeichnung": "Oberdoppl",
+        "id": 82645,
+        "strassenbezeichnung": "Oberdoppl"
+    },
+    {
+        "kurzbezeichnung": "Obereschlbach",
+        "id": 82646,
+        "strassenbezeichnung": "Obereschlbach"
+    },
+    {
+        "kurzbezeichnung": "Oberfreundorf",
+        "id": 82647,
+        "strassenbezeichnung": "Oberfreundorf"
+    },
+    {
+        "kurzbezeichnung": "Obergallsbach",
+        "id": 82648,
+        "strassenbezeichnung": "Obergallsbach"
+    },
+    {
+        "kurzbezeichnung": "Pertmannshub",
+        "id": 82649,
+        "strassenbezeichnung": "Pertmannshub"
+    },
+    {
+        "kurzbezeichnung": "Prattsdorf",
+        "id": 82651,
+        "strassenbezeichnung": "Prattsdorf"
+    },
+    {
+        "kurzbezeichnung": "Sallmannsberg",
+        "id": 82653,
+        "strassenbezeichnung": "Sallmannsberg"
+    },
+    {
+        "kurzbezeichnung": "Stallberg",
+        "id": 82655,
+        "strassenbezeichnung": "Stallberg"
+    },
+    {
+        "kurzbezeichnung": "Steinbruch",
+        "id": 82656,
+        "strassenbezeichnung": "Steinbruch"
+    },
+    {
+        "kurzbezeichnung": "Taubing",
+        "id": 82657,
+        "strassenbezeichnung": "Taubing"
+    },
+    {
+        "kurzbezeichnung": "Unterdoppl",
+        "id": 82658,
+        "strassenbezeichnung": "Unterdoppl"
+    },
+    {
+        "kurzbezeichnung": "Untereschlbach",
+        "id": 82659,
+        "strassenbezeichnung": "Untereschlbach"
+    },
+    {
+        "kurzbezeichnung": "Untergallsbach",
+        "id": 82660,
+        "strassenbezeichnung": "Untergallsbach"
+    },
+    {
+        "kurzbezeichnung": "Unterprambach",
+        "id": 82661,
+        "strassenbezeichnung": "Unterprambach"
+    },
+    {
+        "kurzbezeichnung": "Uttenthal",
+        "id": 82662,
+        "strassenbezeichnung": "Uttenthal"
+    },
+    {
+        "kurzbezeichnung": "Weinberg",
+        "id": 82663,
+        "strassenbezeichnung": "Weinberg"
+    },
+    {
+        "kurzbezeichnung": "Birihub",
+        "id": 82708,
+        "strassenbezeichnung": "Birihub"
+    },
+    {
+        "kurzbezeichnung": "Gschnarret",
+        "id": 82713,
+        "strassenbezeichnung": "Gschnarret"
+    },
+    {
+        "kurzbezeichnung": "Kleinstroheim",
+        "id": 82716,
+        "strassenbezeichnung": "Kleinstroheim"
+    },
+    {
+        "kurzbezeichnung": "Gföll",
+        "id": 83932,
+        "strassenbezeichnung": "Gföll"
+    },
+    {
+        "kurzbezeichnung": "Manzing",
+        "id": 83945,
+        "strassenbezeichnung": "Manzing"
+    },
+    {
+        "kurzbezeichnung": "Ritzing",
+        "id": 83956,
+        "strassenbezeichnung": "Ritzing"
+    },
+    {
+        "kurzbezeichnung": "Watzenbach",
+        "id": 83971,
+        "strassenbezeichnung": "Watzenbach"
+    },
+    {
+        "kurzbezeichnung": "Weinzierlbruck",
+        "id": 83973,
+        "strassenbezeichnung": "Weinzierlbruck"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 91794,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 96423,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Hochstraße",
+        "id": 104034,
+        "strassenbezeichnung": "Hochstraße"
+    },
+    {
+        "kurzbezeichnung": "Strassfeld",
+        "id": 115663,
+        "strassenbezeichnung": "Strassfeld"
+    },
+    {
+        "kurzbezeichnung": "Eichenstraße",
+        "id": 128359,
+        "strassenbezeichnung": "Eichenstraße"
+    }
+]

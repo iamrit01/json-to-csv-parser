@@ -1,0 +1,537 @@
+[
+    {
+        "kurzbezeichnung": "Weizenfeldweg",
+        "id": -33161,
+        "strassenbezeichnung": "Weizenfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": -32366,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Kirchengrund",
+        "id": -17841,
+        "strassenbezeichnung": "Am Kirchengrund"
+    },
+    {
+        "kurzbezeichnung": "Blumenstraße",
+        "id": 37172,
+        "strassenbezeichnung": "Blumenstraße"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 37173,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Edelweißgasse",
+        "id": 37174,
+        "strassenbezeichnung": "Edelweißgasse"
+    },
+    {
+        "kurzbezeichnung": "Enziangasse",
+        "id": 37175,
+        "strassenbezeichnung": "Enziangasse"
+    },
+    {
+        "kurzbezeichnung": "Fichtenstraße",
+        "id": 37176,
+        "strassenbezeichnung": "Fichtenstraße"
+    },
+    {
+        "kurzbezeichnung": "Goldregenstraße",
+        "id": 37177,
+        "strassenbezeichnung": "Goldregenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hochreichartgasse",
+        "id": 37178,
+        "strassenbezeichnung": "Hochreichartgasse"
+    },
+    {
+        "kurzbezeichnung": "Kornblumenstraße",
+        "id": 37179,
+        "strassenbezeichnung": "Kornblumenstraße"
+    },
+    {
+        "kurzbezeichnung": "Lärchenstraße",
+        "id": 37180,
+        "strassenbezeichnung": "Lärchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Nelkengasse",
+        "id": 37181,
+        "strassenbezeichnung": "Nelkengasse"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 37182,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnblickgasse",
+        "id": 37183,
+        "strassenbezeichnung": "Sonnblickgasse"
+    },
+    {
+        "kurzbezeichnung": "Waldesruhgasse",
+        "id": 37184,
+        "strassenbezeichnung": "Waldesruhgasse"
+    },
+    {
+        "kurzbezeichnung": "Eichengasse",
+        "id": 52648,
+        "strassenbezeichnung": "Eichengasse"
+    },
+    {
+        "kurzbezeichnung": "Eichbergsiedlung",
+        "id": 72806,
+        "strassenbezeichnung": "Eichbergsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Kobenz",
+        "id": 88907,
+        "strassenbezeichnung": "Kobenz"
+    },
+    {
+        "kurzbezeichnung": "Oberfarrach",
+        "id": 88908,
+        "strassenbezeichnung": "Oberfarrach"
+    },
+    {
+        "kurzbezeichnung": "Raßnitz",
+        "id": 88909,
+        "strassenbezeichnung": "Raßnitz"
+    },
+    {
+        "kurzbezeichnung": "Reifersdorf",
+        "id": 88910,
+        "strassenbezeichnung": "Reifersdorf"
+    },
+    {
+        "kurzbezeichnung": "Unterfarrach",
+        "id": 88911,
+        "strassenbezeichnung": "Unterfarrach"
+    },
+    {
+        "kurzbezeichnung": "Liliensiedlung",
+        "id": 102137,
+        "strassenbezeichnung": "Liliensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 104293,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Ernst-Dier-Siedlung",
+        "id": 109842,
+        "strassenbezeichnung": "Ernst-Dier-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Farracher Siedlung",
+        "id": 111180,
+        "strassenbezeichnung": "Farracher Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Birkenwegsiedlung",
+        "id": 116871,
+        "strassenbezeichnung": "Birkenwegsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Am Wiesengrund",
+        "id": 124106,
+        "strassenbezeichnung": "Am Wiesengrund"
+    },
+    {
+        "kurzbezeichnung": "Brauniweg",
+        "id": 124391,
+        "strassenbezeichnung": "Brauniweg"
+    },
+    {
+        "kurzbezeichnung": "Forststraße",
+        "id": 124392,
+        "strassenbezeichnung": "Forststraße"
+    },
+    {
+        "kurzbezeichnung": "Forstwiesenweg",
+        "id": 124393,
+        "strassenbezeichnung": "Forstwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Gutesserweg",
+        "id": 124394,
+        "strassenbezeichnung": "Gutesserweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": 124395,
+        "strassenbezeichnung": "Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Stockerweg",
+        "id": 124396,
+        "strassenbezeichnung": "Stockerweg"
+    },
+    {
+        "kurzbezeichnung": "Adelsberg",
+        "id": 124397,
+        "strassenbezeichnung": "Adelsberg"
+    },
+    {
+        "kurzbezeichnung": "Adelsbergweg",
+        "id": 124398,
+        "strassenbezeichnung": "Adelsbergweg"
+    },
+    {
+        "kurzbezeichnung": "Hochalmstraße",
+        "id": 124399,
+        "strassenbezeichnung": "Hochalmstraße"
+    },
+    {
+        "kurzbezeichnung": "Hoftal",
+        "id": 124400,
+        "strassenbezeichnung": "Hoftal"
+    },
+    {
+        "kurzbezeichnung": "Rußoldweg",
+        "id": 124401,
+        "strassenbezeichnung": "Rußoldweg"
+    },
+    {
+        "kurzbezeichnung": "Veitbergerweg",
+        "id": 124402,
+        "strassenbezeichnung": "Veitbergerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Dietrich Hof",
+        "id": 124403,
+        "strassenbezeichnung": "Am Dietrich Hof"
+    },
+    {
+        "kurzbezeichnung": "Am Rainergrund",
+        "id": 124404,
+        "strassenbezeichnung": "Am Rainergrund"
+    },
+    {
+        "kurzbezeichnung": "Auwiesenweg",
+        "id": 124405,
+        "strassenbezeichnung": "Auwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 124406,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Eichbergweg",
+        "id": 124407,
+        "strassenbezeichnung": "Eichbergweg"
+    },
+    {
+        "kurzbezeichnung": "Freweinweg",
+        "id": 124408,
+        "strassenbezeichnung": "Freweinweg"
+    },
+    {
+        "kurzbezeichnung": "Frühlingsgasse",
+        "id": 124409,
+        "strassenbezeichnung": "Frühlingsgasse"
+    },
+    {
+        "kurzbezeichnung": "Grössinghof",
+        "id": 124410,
+        "strassenbezeichnung": "Grössinghof"
+    },
+    {
+        "kurzbezeichnung": "Josef-Krainer-Weg",
+        "id": 124411,
+        "strassenbezeichnung": "Josef-Krainer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Kobenzer Straße",
+        "id": 124412,
+        "strassenbezeichnung": "Kobenzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lannacherweg",
+        "id": 124413,
+        "strassenbezeichnung": "Lannacherweg"
+    },
+    {
+        "kurzbezeichnung": "Mareiner Straße",
+        "id": 124414,
+        "strassenbezeichnung": "Mareiner Straße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 124415,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Marktstraße",
+        "id": 124416,
+        "strassenbezeichnung": "Marktstraße"
+    },
+    {
+        "kurzbezeichnung": "Mondscheinweg",
+        "id": 124417,
+        "strassenbezeichnung": "Mondscheinweg"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisengasse",
+        "id": 124418,
+        "strassenbezeichnung": "Raiffeisengasse"
+    },
+    {
+        "kurzbezeichnung": "Rainerweg",
+        "id": 124419,
+        "strassenbezeichnung": "Rainerweg"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 124420,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnscheinweg",
+        "id": 124421,
+        "strassenbezeichnung": "Sonnscheinweg"
+    },
+    {
+        "kurzbezeichnung": "Sportgasse",
+        "id": 124422,
+        "strassenbezeichnung": "Sportgasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 124423,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wilfingweg",
+        "id": 124424,
+        "strassenbezeichnung": "Wilfingweg"
+    },
+    {
+        "kurzbezeichnung": "Biedermannweg",
+        "id": 124425,
+        "strassenbezeichnung": "Biedermannweg"
+    },
+    {
+        "kurzbezeichnung": "Brückenweg",
+        "id": 124426,
+        "strassenbezeichnung": "Brückenweg"
+    },
+    {
+        "kurzbezeichnung": "Dürnbergweg",
+        "id": 124427,
+        "strassenbezeichnung": "Dürnbergweg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 124428,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Oberfarrach-Dorf",
+        "id": 124429,
+        "strassenbezeichnung": "Oberfarrach-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Scherbweg",
+        "id": 124430,
+        "strassenbezeichnung": "Scherbweg"
+    },
+    {
+        "kurzbezeichnung": "Brandlweg",
+        "id": 124431,
+        "strassenbezeichnung": "Brandlweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 124432,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Kornfeldgasse",
+        "id": 124434,
+        "strassenbezeichnung": "Kornfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Moosbartlweg",
+        "id": 124435,
+        "strassenbezeichnung": "Moosbartlweg"
+    },
+    {
+        "kurzbezeichnung": "Raßnitz-Dorf",
+        "id": 124436,
+        "strassenbezeichnung": "Raßnitz-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Raßnitzer Straße",
+        "id": 124437,
+        "strassenbezeichnung": "Raßnitzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Raßnitzgraben",
+        "id": 124438,
+        "strassenbezeichnung": "Raßnitzgraben"
+    },
+    {
+        "kurzbezeichnung": "Schattenweg",
+        "id": 124439,
+        "strassenbezeichnung": "Schattenweg"
+    },
+    {
+        "kurzbezeichnung": "Strohschneiderweg",
+        "id": 124440,
+        "strassenbezeichnung": "Strohschneiderweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 124441,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wölflweg",
+        "id": 124442,
+        "strassenbezeichnung": "Wölflweg"
+    },
+    {
+        "kurzbezeichnung": "Fliederweg",
+        "id": 124443,
+        "strassenbezeichnung": "Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Genossenschaftsweg",
+        "id": 124444,
+        "strassenbezeichnung": "Genossenschaftsweg"
+    },
+    {
+        "kurzbezeichnung": "Goldhügel",
+        "id": 124445,
+        "strassenbezeichnung": "Goldhügel"
+    },
+    {
+        "kurzbezeichnung": "Murweg",
+        "id": 124446,
+        "strassenbezeichnung": "Murweg"
+    },
+    {
+        "kurzbezeichnung": "Reifersdorfer Straße",
+        "id": 124447,
+        "strassenbezeichnung": "Reifersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Seckauer Straße",
+        "id": 124448,
+        "strassenbezeichnung": "Seckauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Sonnengasse",
+        "id": 124449,
+        "strassenbezeichnung": "Sonnengasse"
+    },
+    {
+        "kurzbezeichnung": "Tiefenbachweg",
+        "id": 124450,
+        "strassenbezeichnung": "Tiefenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Wegscheiderweg",
+        "id": 124451,
+        "strassenbezeichnung": "Wegscheiderweg"
+    },
+    {
+        "kurzbezeichnung": "Am Waldeck",
+        "id": 124452,
+        "strassenbezeichnung": "Am Waldeck"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 124453,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Grüner Weg",
+        "id": 124454,
+        "strassenbezeichnung": "Grüner Weg"
+    },
+    {
+        "kurzbezeichnung": "Grüngrabenweg",
+        "id": 124455,
+        "strassenbezeichnung": "Grüngrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Holzstraße",
+        "id": 124456,
+        "strassenbezeichnung": "Holzstraße"
+    },
+    {
+        "kurzbezeichnung": "Okampweg",
+        "id": 124457,
+        "strassenbezeichnung": "Okampweg"
+    },
+    {
+        "kurzbezeichnung": "Pruttiweg",
+        "id": 124458,
+        "strassenbezeichnung": "Pruttiweg"
+    },
+    {
+        "kurzbezeichnung": "Unterfarrach Weg",
+        "id": 124459,
+        "strassenbezeichnung": "Unterfarrach Weg"
+    },
+    {
+        "kurzbezeichnung": "Unterfarracher Straße",
+        "id": 124460,
+        "strassenbezeichnung": "Unterfarracher Straße"
+    },
+    {
+        "kurzbezeichnung": "Wasserwirtweg",
+        "id": 124461,
+        "strassenbezeichnung": "Wasserwirtweg"
+    },
+    {
+        "kurzbezeichnung": "Bienenweg",
+        "id": 124462,
+        "strassenbezeichnung": "Bienenweg"
+    },
+    {
+        "kurzbezeichnung": "Brandbauerweg",
+        "id": 124463,
+        "strassenbezeichnung": "Brandbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Josefiweg",
+        "id": 124464,
+        "strassenbezeichnung": "Josefiweg"
+    },
+    {
+        "kurzbezeichnung": "Krallweg",
+        "id": 124465,
+        "strassenbezeichnung": "Krallweg"
+    },
+    {
+        "kurzbezeichnung": "Riefflweg",
+        "id": 124466,
+        "strassenbezeichnung": "Riefflweg"
+    },
+    {
+        "kurzbezeichnung": "Waldmüllerweg",
+        "id": 124467,
+        "strassenbezeichnung": "Waldmüllerweg"
+    },
+    {
+        "kurzbezeichnung": "Waldrandstraße",
+        "id": 124468,
+        "strassenbezeichnung": "Waldrandstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzring",
+        "id": 126000,
+        "strassenbezeichnung": "Sportplatzring"
+    }
+]

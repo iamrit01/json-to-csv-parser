@@ -1,0 +1,762 @@
+[
+    {
+        "kurzbezeichnung": "Waldegg",
+        "id": -32805,
+        "strassenbezeichnung": "Waldegg"
+    },
+    {
+        "kurzbezeichnung": "Steg",
+        "id": -17086,
+        "strassenbezeichnung": "Steg"
+    },
+    {
+        "kurzbezeichnung": "Au bei Reute",
+        "id": -17085,
+        "strassenbezeichnung": "Au bei Reute"
+    },
+    {
+        "kurzbezeichnung": "Bolgenach",
+        "id": -205,
+        "strassenbezeichnung": "Bolgenach"
+    },
+    {
+        "kurzbezeichnung": "Scheidbachtobel",
+        "id": 56258,
+        "strassenbezeichnung": "Scheidbachtobel"
+    },
+    {
+        "kurzbezeichnung": "Grub",
+        "id": 66338,
+        "strassenbezeichnung": "Grub"
+    },
+    {
+        "kurzbezeichnung": "Schloß",
+        "id": 66339,
+        "strassenbezeichnung": "Schloß"
+    },
+    {
+        "kurzbezeichnung": "Gfäll",
+        "id": 66340,
+        "strassenbezeichnung": "Gfäll"
+    },
+    {
+        "kurzbezeichnung": "Fenkern",
+        "id": 66341,
+        "strassenbezeichnung": "Fenkern"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 66342,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Kurzentobel",
+        "id": 66343,
+        "strassenbezeichnung": "Kurzentobel"
+    },
+    {
+        "kurzbezeichnung": "Häusern",
+        "id": 66344,
+        "strassenbezeichnung": "Häusern"
+    },
+    {
+        "kurzbezeichnung": "Ach",
+        "id": 66345,
+        "strassenbezeichnung": "Ach"
+    },
+    {
+        "kurzbezeichnung": "Küng",
+        "id": 66346,
+        "strassenbezeichnung": "Küng"
+    },
+    {
+        "kurzbezeichnung": "Reute",
+        "id": 66347,
+        "strassenbezeichnung": "Reute"
+    },
+    {
+        "kurzbezeichnung": "Herbigen",
+        "id": 66348,
+        "strassenbezeichnung": "Herbigen"
+    },
+    {
+        "kurzbezeichnung": "Ließenbach",
+        "id": 66349,
+        "strassenbezeichnung": "Ließenbach"
+    },
+    {
+        "kurzbezeichnung": "Höfle",
+        "id": 66350,
+        "strassenbezeichnung": "Höfle"
+    },
+    {
+        "kurzbezeichnung": "Bad",
+        "id": 66373,
+        "strassenbezeichnung": "Bad"
+    },
+    {
+        "kurzbezeichnung": "Basen",
+        "id": 66374,
+        "strassenbezeichnung": "Basen"
+    },
+    {
+        "kurzbezeichnung": "Banholz",
+        "id": 66375,
+        "strassenbezeichnung": "Banholz"
+    },
+    {
+        "kurzbezeichnung": "Branderau",
+        "id": 66376,
+        "strassenbezeichnung": "Branderau"
+    },
+    {
+        "kurzbezeichnung": "Brand",
+        "id": 66377,
+        "strassenbezeichnung": "Brand"
+    },
+    {
+        "kurzbezeichnung": "Bütscheln",
+        "id": 66378,
+        "strassenbezeichnung": "Bütscheln"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 66379,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Dornbündt",
+        "id": 66380,
+        "strassenbezeichnung": "Dornbündt"
+    },
+    {
+        "kurzbezeichnung": "Gerisgschwend",
+        "id": 66381,
+        "strassenbezeichnung": "Gerisgschwend"
+    },
+    {
+        "kurzbezeichnung": "Genabend",
+        "id": 66382,
+        "strassenbezeichnung": "Genabend"
+    },
+    {
+        "kurzbezeichnung": "Großenbündt",
+        "id": 66383,
+        "strassenbezeichnung": "Großenbündt"
+    },
+    {
+        "kurzbezeichnung": "Häleisen",
+        "id": 66384,
+        "strassenbezeichnung": "Häleisen"
+    },
+    {
+        "kurzbezeichnung": "Hangernfluh",
+        "id": 66385,
+        "strassenbezeichnung": "Hangernfluh"
+    },
+    {
+        "kurzbezeichnung": "Heideggen",
+        "id": 66386,
+        "strassenbezeichnung": "Heideggen"
+    },
+    {
+        "kurzbezeichnung": "Helmisau",
+        "id": 66387,
+        "strassenbezeichnung": "Helmisau"
+    },
+    {
+        "kurzbezeichnung": "Hinteregg",
+        "id": 66388,
+        "strassenbezeichnung": "Hinteregg"
+    },
+    {
+        "kurzbezeichnung": "Platz",
+        "id": 66389,
+        "strassenbezeichnung": "Platz"
+    },
+    {
+        "kurzbezeichnung": "Hirtobel",
+        "id": 66390,
+        "strassenbezeichnung": "Hirtobel"
+    },
+    {
+        "kurzbezeichnung": "Kirchenbühl",
+        "id": 66391,
+        "strassenbezeichnung": "Kirchenbühl"
+    },
+    {
+        "kurzbezeichnung": "Korlen",
+        "id": 66392,
+        "strassenbezeichnung": "Korlen"
+    },
+    {
+        "kurzbezeichnung": "Mühlbach",
+        "id": 66393,
+        "strassenbezeichnung": "Mühlbach"
+    },
+    {
+        "kurzbezeichnung": "Mühle",
+        "id": 66394,
+        "strassenbezeichnung": "Mühle"
+    },
+    {
+        "kurzbezeichnung": "Rain",
+        "id": 66395,
+        "strassenbezeichnung": "Rain"
+    },
+    {
+        "kurzbezeichnung": "Rainerau",
+        "id": 66396,
+        "strassenbezeichnung": "Rainerau"
+    },
+    {
+        "kurzbezeichnung": "Sippersegg",
+        "id": 66397,
+        "strassenbezeichnung": "Sippersegg"
+    },
+    {
+        "kurzbezeichnung": "Steinpis",
+        "id": 66398,
+        "strassenbezeichnung": "Steinpis"
+    },
+    {
+        "kurzbezeichnung": "Stiel",
+        "id": 66399,
+        "strassenbezeichnung": "Stiel"
+    },
+    {
+        "kurzbezeichnung": "Stöcken",
+        "id": 66400,
+        "strassenbezeichnung": "Stöcken"
+    },
+    {
+        "kurzbezeichnung": "Sütten",
+        "id": 66401,
+        "strassenbezeichnung": "Sütten"
+    },
+    {
+        "kurzbezeichnung": "Tannenmannsbühl",
+        "id": 66402,
+        "strassenbezeichnung": "Tannenmannsbühl"
+    },
+    {
+        "kurzbezeichnung": "Tannen",
+        "id": 66403,
+        "strassenbezeichnung": "Tannen"
+    },
+    {
+        "kurzbezeichnung": "Töbele",
+        "id": 66404,
+        "strassenbezeichnung": "Töbele"
+    },
+    {
+        "kurzbezeichnung": "Windern",
+        "id": 66405,
+        "strassenbezeichnung": "Windern"
+    },
+    {
+        "kurzbezeichnung": "Völken",
+        "id": 66406,
+        "strassenbezeichnung": "Völken"
+    },
+    {
+        "kurzbezeichnung": "Ebene",
+        "id": 66907,
+        "strassenbezeichnung": "Ebene"
+    },
+    {
+        "kurzbezeichnung": "Hut",
+        "id": 66908,
+        "strassenbezeichnung": "Hut"
+    },
+    {
+        "kurzbezeichnung": "Schnall",
+        "id": 66909,
+        "strassenbezeichnung": "Schnall"
+    },
+    {
+        "kurzbezeichnung": "Wieshalden",
+        "id": 66910,
+        "strassenbezeichnung": "Wieshalden"
+    },
+    {
+        "kurzbezeichnung": "Scheidbach",
+        "id": 66913,
+        "strassenbezeichnung": "Scheidbach"
+    },
+    {
+        "kurzbezeichnung": "Nußbaum",
+        "id": 66914,
+        "strassenbezeichnung": "Nußbaum"
+    },
+    {
+        "kurzbezeichnung": "Wirt",
+        "id": 66915,
+        "strassenbezeichnung": "Wirt"
+    },
+    {
+        "kurzbezeichnung": "Krinegg",
+        "id": 67230,
+        "strassenbezeichnung": "Krinegg"
+    },
+    {
+        "kurzbezeichnung": "Tobel",
+        "id": 67231,
+        "strassenbezeichnung": "Tobel"
+    },
+    {
+        "kurzbezeichnung": "Buchboden",
+        "id": 67232,
+        "strassenbezeichnung": "Buchboden"
+    },
+    {
+        "kurzbezeichnung": "Steig",
+        "id": 67233,
+        "strassenbezeichnung": "Steig"
+    },
+    {
+        "kurzbezeichnung": "Rindberg",
+        "id": 67234,
+        "strassenbezeichnung": "Rindberg"
+    },
+    {
+        "kurzbezeichnung": "Tieftobel",
+        "id": 67235,
+        "strassenbezeichnung": "Tieftobel"
+    },
+    {
+        "kurzbezeichnung": "Krähenberg",
+        "id": 68069,
+        "strassenbezeichnung": "Krähenberg"
+    },
+    {
+        "kurzbezeichnung": "Sausteig",
+        "id": 68070,
+        "strassenbezeichnung": "Sausteig"
+    },
+    {
+        "kurzbezeichnung": "Nest",
+        "id": 70290,
+        "strassenbezeichnung": "Nest"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 70291,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Mähmoos",
+        "id": 70292,
+        "strassenbezeichnung": "Mähmoos"
+    },
+    {
+        "kurzbezeichnung": "Kipfen",
+        "id": 70293,
+        "strassenbezeichnung": "Kipfen"
+    },
+    {
+        "kurzbezeichnung": "Wieseln",
+        "id": 70294,
+        "strassenbezeichnung": "Wieseln"
+    },
+    {
+        "kurzbezeichnung": "Berg",
+        "id": 70295,
+        "strassenbezeichnung": "Berg"
+    },
+    {
+        "kurzbezeichnung": "Kees",
+        "id": 70296,
+        "strassenbezeichnung": "Kees"
+    },
+    {
+        "kurzbezeichnung": "Widumsiedlung",
+        "id": 70297,
+        "strassenbezeichnung": "Widumsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Scheibladegg",
+        "id": 70298,
+        "strassenbezeichnung": "Scheibladegg"
+    },
+    {
+        "kurzbezeichnung": "Hofhalden",
+        "id": 70330,
+        "strassenbezeichnung": "Hofhalden"
+    },
+    {
+        "kurzbezeichnung": "Sibratsgfäll",
+        "id": 90186,
+        "strassenbezeichnung": "Sibratsgfäll"
+    },
+    {
+        "kurzbezeichnung": "Altgfäll",
+        "id": 92557,
+        "strassenbezeichnung": "Altgfäll"
+    },
+    {
+        "kurzbezeichnung": "Altgschwend",
+        "id": 92558,
+        "strassenbezeichnung": "Altgschwend"
+    },
+    {
+        "kurzbezeichnung": "Äuele",
+        "id": 92559,
+        "strassenbezeichnung": "Äuele"
+    },
+    {
+        "kurzbezeichnung": "Dreißiggschwenden",
+        "id": 92560,
+        "strassenbezeichnung": "Dreißiggschwenden"
+    },
+    {
+        "kurzbezeichnung": "Egg",
+        "id": 92561,
+        "strassenbezeichnung": "Egg"
+    },
+    {
+        "kurzbezeichnung": "Gehren",
+        "id": 92563,
+        "strassenbezeichnung": "Gehren"
+    },
+    {
+        "kurzbezeichnung": "Glockenplatte",
+        "id": 92564,
+        "strassenbezeichnung": "Glockenplatte"
+    },
+    {
+        "kurzbezeichnung": "Gsäß",
+        "id": 92565,
+        "strassenbezeichnung": "Gsäß"
+    },
+    {
+        "kurzbezeichnung": "Gschwend",
+        "id": 92566,
+        "strassenbezeichnung": "Gschwend"
+    },
+    {
+        "kurzbezeichnung": "Hennenmoos",
+        "id": 92568,
+        "strassenbezeichnung": "Hennenmoos"
+    },
+    {
+        "kurzbezeichnung": "Heugschwend",
+        "id": 92569,
+        "strassenbezeichnung": "Heugschwend"
+    },
+    {
+        "kurzbezeichnung": "Heuwachs",
+        "id": 92570,
+        "strassenbezeichnung": "Heuwachs"
+    },
+    {
+        "kurzbezeichnung": "Hochstadel",
+        "id": 92571,
+        "strassenbezeichnung": "Hochstadel"
+    },
+    {
+        "kurzbezeichnung": "Juliansplatte",
+        "id": 92572,
+        "strassenbezeichnung": "Juliansplatte"
+    },
+    {
+        "kurzbezeichnung": "Kälberweide",
+        "id": 92573,
+        "strassenbezeichnung": "Kälberweide"
+    },
+    {
+        "kurzbezeichnung": "Klammen",
+        "id": 92574,
+        "strassenbezeichnung": "Klammen"
+    },
+    {
+        "kurzbezeichnung": "Koppach",
+        "id": 92575,
+        "strassenbezeichnung": "Koppach"
+    },
+    {
+        "kurzbezeichnung": "Lad",
+        "id": 92576,
+        "strassenbezeichnung": "Lad"
+    },
+    {
+        "kurzbezeichnung": "Leckach",
+        "id": 92577,
+        "strassenbezeichnung": "Leckach"
+    },
+    {
+        "kurzbezeichnung": "Leckenholz",
+        "id": 92578,
+        "strassenbezeichnung": "Leckenholz"
+    },
+    {
+        "kurzbezeichnung": "Neugut",
+        "id": 92580,
+        "strassenbezeichnung": "Neugut"
+    },
+    {
+        "kurzbezeichnung": "Neuschwand",
+        "id": 92581,
+        "strassenbezeichnung": "Neuschwand"
+    },
+    {
+        "kurzbezeichnung": "Ochsenlager",
+        "id": 92582,
+        "strassenbezeichnung": "Ochsenlager"
+    },
+    {
+        "kurzbezeichnung": "Ohlisgschwend",
+        "id": 92583,
+        "strassenbezeichnung": "Ohlisgschwend"
+    },
+    {
+        "kurzbezeichnung": "Rohne",
+        "id": 92584,
+        "strassenbezeichnung": "Rohne"
+    },
+    {
+        "kurzbezeichnung": "Rütisfluh",
+        "id": 92585,
+        "strassenbezeichnung": "Rütisfluh"
+    },
+    {
+        "kurzbezeichnung": "Schmalzberg",
+        "id": 92586,
+        "strassenbezeichnung": "Schmalzberg"
+    },
+    {
+        "kurzbezeichnung": "Schwarzenberger-Platte",
+        "id": 92587,
+        "strassenbezeichnung": "Schwarzenberger-Platte"
+    },
+    {
+        "kurzbezeichnung": "Streichbrunnen",
+        "id": 92588,
+        "strassenbezeichnung": "Streichbrunnen"
+    },
+    {
+        "kurzbezeichnung": "Urschlaboden",
+        "id": 92589,
+        "strassenbezeichnung": "Urschlaboden"
+    },
+    {
+        "kurzbezeichnung": "Viehweide",
+        "id": 92590,
+        "strassenbezeichnung": "Viehweide"
+    },
+    {
+        "kurzbezeichnung": "Wegscheiden",
+        "id": 92591,
+        "strassenbezeichnung": "Wegscheiden"
+    },
+    {
+        "kurzbezeichnung": "Wildmoos",
+        "id": 92592,
+        "strassenbezeichnung": "Wildmoos"
+    },
+    {
+        "kurzbezeichnung": "Zimmeregg",
+        "id": 92593,
+        "strassenbezeichnung": "Zimmeregg"
+    },
+    {
+        "kurzbezeichnung": "Biberstein",
+        "id": 92594,
+        "strassenbezeichnung": "Biberstein"
+    },
+    {
+        "kurzbezeichnung": "Burst",
+        "id": 92595,
+        "strassenbezeichnung": "Burst"
+    },
+    {
+        "kurzbezeichnung": "Dürlisberg",
+        "id": 92596,
+        "strassenbezeichnung": "Dürlisberg"
+    },
+    {
+        "kurzbezeichnung": "Eugster",
+        "id": 92597,
+        "strassenbezeichnung": "Eugster"
+    },
+    {
+        "kurzbezeichnung": "Gferen",
+        "id": 92598,
+        "strassenbezeichnung": "Gferen"
+    },
+    {
+        "kurzbezeichnung": "Gschwendwies",
+        "id": 92599,
+        "strassenbezeichnung": "Gschwendwies"
+    },
+    {
+        "kurzbezeichnung": "Guggojen",
+        "id": 92600,
+        "strassenbezeichnung": "Guggojen"
+    },
+    {
+        "kurzbezeichnung": "Gunten",
+        "id": 92601,
+        "strassenbezeichnung": "Gunten"
+    },
+    {
+        "kurzbezeichnung": "Güntle",
+        "id": 92602,
+        "strassenbezeichnung": "Güntle"
+    },
+    {
+        "kurzbezeichnung": "Hinterberg",
+        "id": 92603,
+        "strassenbezeichnung": "Hinterberg"
+    },
+    {
+        "kurzbezeichnung": "Hittisberg",
+        "id": 92604,
+        "strassenbezeichnung": "Hittisberg"
+    },
+    {
+        "kurzbezeichnung": "Hochleckach",
+        "id": 92605,
+        "strassenbezeichnung": "Hochleckach"
+    },
+    {
+        "kurzbezeichnung": "Klupp",
+        "id": 92607,
+        "strassenbezeichnung": "Klupp"
+    },
+    {
+        "kurzbezeichnung": "Lappach",
+        "id": 92608,
+        "strassenbezeichnung": "Lappach"
+    },
+    {
+        "kurzbezeichnung": "Löchle",
+        "id": 92609,
+        "strassenbezeichnung": "Löchle"
+    },
+    {
+        "kurzbezeichnung": "Schönhalden",
+        "id": 92610,
+        "strassenbezeichnung": "Schönhalden"
+    },
+    {
+        "kurzbezeichnung": "Schrofen",
+        "id": 92611,
+        "strassenbezeichnung": "Schrofen"
+    },
+    {
+        "kurzbezeichnung": "Wildenrain",
+        "id": 92612,
+        "strassenbezeichnung": "Wildenrain"
+    },
+    {
+        "kurzbezeichnung": "Plattentisch",
+        "id": 92613,
+        "strassenbezeichnung": "Plattentisch"
+    },
+    {
+        "kurzbezeichnung": "Harrasar",
+        "id": 92614,
+        "strassenbezeichnung": "Harrasar"
+    },
+    {
+        "kurzbezeichnung": "Schneidenbach",
+        "id": 92615,
+        "strassenbezeichnung": "Schneidenbach"
+    },
+    {
+        "kurzbezeichnung": "Hobel",
+        "id": 92617,
+        "strassenbezeichnung": "Hobel"
+    },
+    {
+        "kurzbezeichnung": "Klösterle",
+        "id": 92618,
+        "strassenbezeichnung": "Klösterle"
+    },
+    {
+        "kurzbezeichnung": "Mozenegg",
+        "id": 92619,
+        "strassenbezeichnung": "Mozenegg"
+    },
+    {
+        "kurzbezeichnung": "Zipfel",
+        "id": 92620,
+        "strassenbezeichnung": "Zipfel"
+    },
+    {
+        "kurzbezeichnung": "Wanne",
+        "id": 92621,
+        "strassenbezeichnung": "Wanne"
+    },
+    {
+        "kurzbezeichnung": "Nordhalden",
+        "id": 92623,
+        "strassenbezeichnung": "Nordhalden"
+    },
+    {
+        "kurzbezeichnung": "Komma",
+        "id": 92624,
+        "strassenbezeichnung": "Komma"
+    },
+    {
+        "kurzbezeichnung": "Lager",
+        "id": 92625,
+        "strassenbezeichnung": "Lager"
+    },
+    {
+        "kurzbezeichnung": "Toserloch",
+        "id": 92626,
+        "strassenbezeichnung": "Toserloch"
+    },
+    {
+        "kurzbezeichnung": "Huber",
+        "id": 92627,
+        "strassenbezeichnung": "Huber"
+    },
+    {
+        "kurzbezeichnung": "Engenloch",
+        "id": 92628,
+        "strassenbezeichnung": "Engenloch"
+    },
+    {
+        "kurzbezeichnung": "Dürlinde",
+        "id": 92629,
+        "strassenbezeichnung": "Dürlinde"
+    },
+    {
+        "kurzbezeichnung": "Berg",
+        "id": 92630,
+        "strassenbezeichnung": "Berg"
+    },
+    {
+        "kurzbezeichnung": "Bettat",
+        "id": 92631,
+        "strassenbezeichnung": "Bettat"
+    },
+    {
+        "kurzbezeichnung": "Scheibe",
+        "id": 92632,
+        "strassenbezeichnung": "Scheibe"
+    },
+    {
+        "kurzbezeichnung": "Gschwend",
+        "id": 101066,
+        "strassenbezeichnung": "Gschwend"
+    },
+    {
+        "kurzbezeichnung": "Hochegg",
+        "id": 101067,
+        "strassenbezeichnung": "Hochegg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenrain",
+        "id": 107672,
+        "strassenbezeichnung": "Sonnenrain"
+    },
+    {
+        "kurzbezeichnung": "Kreuzbühl",
+        "id": 116062,
+        "strassenbezeichnung": "Kreuzbühl"
+    }
+]

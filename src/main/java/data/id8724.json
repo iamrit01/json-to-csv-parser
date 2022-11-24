@@ -1,0 +1,747 @@
+[
+    {
+        "kurzbezeichnung": "Eibengasse",
+        "id": -33991,
+        "strassenbezeichnung": "Eibengasse"
+    },
+    {
+        "kurzbezeichnung": "Schrebergartensiedlung",
+        "id": -32576,
+        "strassenbezeichnung": "Schrebergartensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Ring-Rast-Straße",
+        "id": -31265,
+        "strassenbezeichnung": "Ring-Rast-Straße"
+    },
+    {
+        "kurzbezeichnung": "Lacklweg",
+        "id": -30422,
+        "strassenbezeichnung": "Lacklweg"
+    },
+    {
+        "kurzbezeichnung": "Blümelmoarweg",
+        "id": -30420,
+        "strassenbezeichnung": "Blümelmoarweg"
+    },
+    {
+        "kurzbezeichnung": "Ahornstraße",
+        "id": -20082,
+        "strassenbezeichnung": "Ahornstraße"
+    },
+    {
+        "kurzbezeichnung": "Burgstraße",
+        "id": -17203,
+        "strassenbezeichnung": "Burgstraße"
+    },
+    {
+        "kurzbezeichnung": "Österreichringstraße",
+        "id": -10651,
+        "strassenbezeichnung": "Österreichringstraße"
+    },
+    {
+        "kurzbezeichnung": "Hammergraben",
+        "id": 21028,
+        "strassenbezeichnung": "Hammergraben"
+    },
+    {
+        "kurzbezeichnung": "Moosheim",
+        "id": 21040,
+        "strassenbezeichnung": "Moosheim"
+    },
+    {
+        "kurzbezeichnung": "Bauknechtstraße",
+        "id": 52564,
+        "strassenbezeichnung": "Bauknechtstraße"
+    },
+    {
+        "kurzbezeichnung": "Katrin-Ring",
+        "id": 52565,
+        "strassenbezeichnung": "Katrin-Ring"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 52566,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Am Melbengrund",
+        "id": 52567,
+        "strassenbezeichnung": "Am Melbengrund"
+    },
+    {
+        "kurzbezeichnung": "Ennstaler Straße",
+        "id": 52568,
+        "strassenbezeichnung": "Ennstaler Straße"
+    },
+    {
+        "kurzbezeichnung": "Westende",
+        "id": 52569,
+        "strassenbezeichnung": "Westende"
+    },
+    {
+        "kurzbezeichnung": "Sonnenring",
+        "id": 52571,
+        "strassenbezeichnung": "Sonnenring"
+    },
+    {
+        "kurzbezeichnung": "Europaplatz",
+        "id": 53300,
+        "strassenbezeichnung": "Europaplatz"
+    },
+    {
+        "kurzbezeichnung": "Weyernstraße",
+        "id": 54104,
+        "strassenbezeichnung": "Weyernstraße"
+    },
+    {
+        "kurzbezeichnung": "Linderweg",
+        "id": 54105,
+        "strassenbezeichnung": "Linderweg"
+    },
+    {
+        "kurzbezeichnung": "Sackgasse",
+        "id": 54106,
+        "strassenbezeichnung": "Sackgasse"
+    },
+    {
+        "kurzbezeichnung": "Unterer Birkenweg",
+        "id": 54107,
+        "strassenbezeichnung": "Unterer Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Querweg",
+        "id": 54108,
+        "strassenbezeichnung": "Querweg"
+    },
+    {
+        "kurzbezeichnung": "Murstegstraße",
+        "id": 54109,
+        "strassenbezeichnung": "Murstegstraße"
+    },
+    {
+        "kurzbezeichnung": "Pausendorferstraße",
+        "id": 54110,
+        "strassenbezeichnung": "Pausendorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Lärchenhügel",
+        "id": 54111,
+        "strassenbezeichnung": "Am Lärchenhügel"
+    },
+    {
+        "kurzbezeichnung": "An der Mur",
+        "id": 54112,
+        "strassenbezeichnung": "An der Mur"
+    },
+    {
+        "kurzbezeichnung": "Bachzeile",
+        "id": 54113,
+        "strassenbezeichnung": "Bachzeile"
+    },
+    {
+        "kurzbezeichnung": "Am Eichengrund",
+        "id": 54114,
+        "strassenbezeichnung": "Am Eichengrund"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 54115,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Unterer Bahnweg",
+        "id": 54116,
+        "strassenbezeichnung": "Unterer Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 54117,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Nelkengasse",
+        "id": 54118,
+        "strassenbezeichnung": "Nelkengasse"
+    },
+    {
+        "kurzbezeichnung": "Grabenstraße",
+        "id": 54119,
+        "strassenbezeichnung": "Grabenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schotterwiesengasse",
+        "id": 54120,
+        "strassenbezeichnung": "Schotterwiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 54121,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Seitengasse",
+        "id": 54122,
+        "strassenbezeichnung": "Seitengasse"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 54123,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Brückenweg",
+        "id": 54124,
+        "strassenbezeichnung": "Brückenweg"
+    },
+    {
+        "kurzbezeichnung": "Überfuhrweg",
+        "id": 54125,
+        "strassenbezeichnung": "Überfuhrweg"
+    },
+    {
+        "kurzbezeichnung": "Teichbauerweg",
+        "id": 54126,
+        "strassenbezeichnung": "Teichbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatz",
+        "id": 54127,
+        "strassenbezeichnung": "Kirchplatz"
+    },
+    {
+        "kurzbezeichnung": "Unterer Hangweg",
+        "id": 54128,
+        "strassenbezeichnung": "Unterer Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenweg",
+        "id": 54132,
+        "strassenbezeichnung": "Brunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Triester Straße",
+        "id": 54133,
+        "strassenbezeichnung": "Triester Straße"
+    },
+    {
+        "kurzbezeichnung": "Neue Siedlungsstraße",
+        "id": 54134,
+        "strassenbezeichnung": "Neue Siedlungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Flugfeldstraße",
+        "id": 54135,
+        "strassenbezeichnung": "Flugfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Flatschacher-Straße",
+        "id": 54136,
+        "strassenbezeichnung": "Flatschacher-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 54137,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Verbindungsweg",
+        "id": 54138,
+        "strassenbezeichnung": "Verbindungsweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 54139,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Unterer Dorfgrund",
+        "id": 54140,
+        "strassenbezeichnung": "Unterer Dorfgrund"
+    },
+    {
+        "kurzbezeichnung": "Oberer Dorfgrund",
+        "id": 54141,
+        "strassenbezeichnung": "Oberer Dorfgrund"
+    },
+    {
+        "kurzbezeichnung": "Alte Wagnerstraße",
+        "id": 54142,
+        "strassenbezeichnung": "Alte Wagnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Zentrumstraße",
+        "id": 54143,
+        "strassenbezeichnung": "Zentrumstraße"
+    },
+    {
+        "kurzbezeichnung": "Poststraße",
+        "id": 54144,
+        "strassenbezeichnung": "Poststraße"
+    },
+    {
+        "kurzbezeichnung": "Grünangerweg",
+        "id": 54145,
+        "strassenbezeichnung": "Grünangerweg"
+    },
+    {
+        "kurzbezeichnung": "Ackergasse",
+        "id": 54146,
+        "strassenbezeichnung": "Ackergasse"
+    },
+    {
+        "kurzbezeichnung": "Ober dem Marktplatz",
+        "id": 54147,
+        "strassenbezeichnung": "Ober dem Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Südoststraße",
+        "id": 54148,
+        "strassenbezeichnung": "Südoststraße"
+    },
+    {
+        "kurzbezeichnung": "Baumstraße",
+        "id": 54149,
+        "strassenbezeichnung": "Baumstraße"
+    },
+    {
+        "kurzbezeichnung": "Eigenheimweg",
+        "id": 54150,
+        "strassenbezeichnung": "Eigenheimweg"
+    },
+    {
+        "kurzbezeichnung": "Margeritenweg",
+        "id": 54151,
+        "strassenbezeichnung": "Margeritenweg"
+    },
+    {
+        "kurzbezeichnung": "EGAM-Straße",
+        "id": 54152,
+        "strassenbezeichnung": "EGAM-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ringweg",
+        "id": 54153,
+        "strassenbezeichnung": "Ringweg"
+    },
+    {
+        "kurzbezeichnung": "Irisweg",
+        "id": 54154,
+        "strassenbezeichnung": "Irisweg"
+    },
+    {
+        "kurzbezeichnung": "An der Ingering",
+        "id": 54155,
+        "strassenbezeichnung": "An der Ingering"
+    },
+    {
+        "kurzbezeichnung": "Obere Birkengasse",
+        "id": 54156,
+        "strassenbezeichnung": "Obere Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzgasse",
+        "id": 54157,
+        "strassenbezeichnung": "Kreuzgasse"
+    },
+    {
+        "kurzbezeichnung": "Rosenzeile",
+        "id": 54158,
+        "strassenbezeichnung": "Rosenzeile"
+    },
+    {
+        "kurzbezeichnung": "Volksschulstraße",
+        "id": 54159,
+        "strassenbezeichnung": "Volksschulstraße"
+    },
+    {
+        "kurzbezeichnung": "Erzherzog-Johann-Ring",
+        "id": 54160,
+        "strassenbezeichnung": "Erzherzog-Johann-Ring"
+    },
+    {
+        "kurzbezeichnung": "Kirschweg",
+        "id": 54161,
+        "strassenbezeichnung": "Kirschweg"
+    },
+    {
+        "kurzbezeichnung": "Eichenring",
+        "id": 54162,
+        "strassenbezeichnung": "Eichenring"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 54163,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Maßweger Straße",
+        "id": 54164,
+        "strassenbezeichnung": "Maßweger Straße"
+    },
+    {
+        "kurzbezeichnung": "Spielbergstraße",
+        "id": 54165,
+        "strassenbezeichnung": "Spielbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Feuerbachgasse",
+        "id": 54166,
+        "strassenbezeichnung": "Feuerbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Forstweg",
+        "id": 54167,
+        "strassenbezeichnung": "Forstweg"
+    },
+    {
+        "kurzbezeichnung": "Uferweg",
+        "id": 54168,
+        "strassenbezeichnung": "Uferweg"
+    },
+    {
+        "kurzbezeichnung": "Wehrweg",
+        "id": 54169,
+        "strassenbezeichnung": "Wehrweg"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 54170,
+        "strassenbezeichnung": "Schloßweg"
+    },
+    {
+        "kurzbezeichnung": "Immergrünweg",
+        "id": 54171,
+        "strassenbezeichnung": "Immergrünweg"
+    },
+    {
+        "kurzbezeichnung": "Moosweg",
+        "id": 54172,
+        "strassenbezeichnung": "Moosweg"
+    },
+    {
+        "kurzbezeichnung": "Birkachweg",
+        "id": 54173,
+        "strassenbezeichnung": "Birkachweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 54174,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Red Bull Ring Straße",
+        "id": 54175,
+        "strassenbezeichnung": "Red Bull Ring Straße"
+    },
+    {
+        "kurzbezeichnung": "Kattigarweg",
+        "id": 54176,
+        "strassenbezeichnung": "Kattigarweg"
+    },
+    {
+        "kurzbezeichnung": "Am Waldrand",
+        "id": 54177,
+        "strassenbezeichnung": "Am Waldrand"
+    },
+    {
+        "kurzbezeichnung": "Wiesleitenweg",
+        "id": 54178,
+        "strassenbezeichnung": "Wiesleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Stadlmoarweg",
+        "id": 54179,
+        "strassenbezeichnung": "Stadlmoarweg"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 54180,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Frauenbachstraße",
+        "id": 54181,
+        "strassenbezeichnung": "Frauenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Hint. Ingeringfelderg.",
+        "id": 54182,
+        "strassenbezeichnung": "Hintere Ingeringfeldergasse"
+    },
+    {
+        "kurzbezeichnung": "Vord. Ingeringfelderg.",
+        "id": 54183,
+        "strassenbezeichnung": "Vordere Ingeringfeldergasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Sachendorferstr.",
+        "id": 54184,
+        "strassenbezeichnung": "Obere Sachendorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldrandstraße",
+        "id": 54185,
+        "strassenbezeichnung": "Waldrandstraße"
+    },
+    {
+        "kurzbezeichnung": "Tremmelweg",
+        "id": 54186,
+        "strassenbezeichnung": "Tremmelweg"
+    },
+    {
+        "kurzbezeichnung": "Florianiweg",
+        "id": 54187,
+        "strassenbezeichnung": "Florianiweg"
+    },
+    {
+        "kurzbezeichnung": "Einhörnstraße",
+        "id": 54188,
+        "strassenbezeichnung": "Einhörnstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Werkskanal",
+        "id": 54189,
+        "strassenbezeichnung": "Am Werkskanal"
+    },
+    {
+        "kurzbezeichnung": "Rainweg",
+        "id": 54190,
+        "strassenbezeichnung": "Rainweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 54191,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Müllerweg",
+        "id": 54192,
+        "strassenbezeichnung": "Müllerweg"
+    },
+    {
+        "kurzbezeichnung": "Ackerweg",
+        "id": 54193,
+        "strassenbezeichnung": "Ackerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Felde",
+        "id": 54194,
+        "strassenbezeichnung": "Am Felde"
+    },
+    {
+        "kurzbezeichnung": "Anton-Regner-Straße",
+        "id": 54195,
+        "strassenbezeichnung": "Anton-Regner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hochreichartgasse",
+        "id": 54196,
+        "strassenbezeichnung": "Hochreichartgasse"
+    },
+    {
+        "kurzbezeichnung": "Werkstraße",
+        "id": 54198,
+        "strassenbezeichnung": "Werkstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 54199,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Fasanweg",
+        "id": 54200,
+        "strassenbezeichnung": "Fasanweg"
+    },
+    {
+        "kurzbezeichnung": "Neubauweg",
+        "id": 54201,
+        "strassenbezeichnung": "Neubauweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptschulstraße",
+        "id": 61347,
+        "strassenbezeichnung": "Hauptschulstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlengasse",
+        "id": 61348,
+        "strassenbezeichnung": "Erlengasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlbachring",
+        "id": 61349,
+        "strassenbezeichnung": "Mühlbachring"
+    },
+    {
+        "kurzbezeichnung": "Buchenhof",
+        "id": 61350,
+        "strassenbezeichnung": "Buchenhof"
+    },
+    {
+        "kurzbezeichnung": "Weyernring",
+        "id": 61351,
+        "strassenbezeichnung": "Weyernring"
+    },
+    {
+        "kurzbezeichnung": "Auring",
+        "id": 61352,
+        "strassenbezeichnung": "Auring"
+    },
+    {
+        "kurzbezeichnung": "Ostende",
+        "id": 61353,
+        "strassenbezeichnung": "Ostende"
+    },
+    {
+        "kurzbezeichnung": "Steirer Straße",
+        "id": 61354,
+        "strassenbezeichnung": "Steirer Straße"
+    },
+    {
+        "kurzbezeichnung": "Dahlienweg",
+        "id": 61355,
+        "strassenbezeichnung": "Dahlienweg"
+    },
+    {
+        "kurzbezeichnung": "Am Rosenhügel",
+        "id": 61357,
+        "strassenbezeichnung": "Am Rosenhügel"
+    },
+    {
+        "kurzbezeichnung": "Fichtengasse",
+        "id": 69181,
+        "strassenbezeichnung": "Fichtengasse"
+    },
+    {
+        "kurzbezeichnung": "Rottenmanner Straße",
+        "id": 69183,
+        "strassenbezeichnung": "Rottenmanner Straße"
+    },
+    {
+        "kurzbezeichnung": "Marktpassage",
+        "id": 70065,
+        "strassenbezeichnung": "Marktpassage"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 71279,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Parkring",
+        "id": 71280,
+        "strassenbezeichnung": "Parkring"
+    },
+    {
+        "kurzbezeichnung": "Korngasse",
+        "id": 71613,
+        "strassenbezeichnung": "Korngasse"
+    },
+    {
+        "kurzbezeichnung": "Flatschach",
+        "id": 88899,
+        "strassenbezeichnung": "Flatschach"
+    },
+    {
+        "kurzbezeichnung": "Amselweg",
+        "id": 90376,
+        "strassenbezeichnung": "Amselweg"
+    },
+    {
+        "kurzbezeichnung": "Grünfeldstraße",
+        "id": 91969,
+        "strassenbezeichnung": "Grünfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Wiesengrund",
+        "id": 91970,
+        "strassenbezeichnung": "Am Wiesengrund"
+    },
+    {
+        "kurzbezeichnung": "Schloßring",
+        "id": 91971,
+        "strassenbezeichnung": "Schloßring"
+    },
+    {
+        "kurzbezeichnung": "Weidenstraße",
+        "id": 94444,
+        "strassenbezeichnung": "Weidenstraße"
+    },
+    {
+        "kurzbezeichnung": "Steinweg",
+        "id": 94447,
+        "strassenbezeichnung": "Steinweg"
+    },
+    {
+        "kurzbezeichnung": "Kartstraße",
+        "id": 94552,
+        "strassenbezeichnung": "Kartstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Schlossgrund",
+        "id": 100308,
+        "strassenbezeichnung": "Am Schlossgrund"
+    },
+    {
+        "kurzbezeichnung": "Kornblumenweg",
+        "id": 100309,
+        "strassenbezeichnung": "Kornblumenweg"
+    },
+    {
+        "kurzbezeichnung": "Einhörn",
+        "id": 101126,
+        "strassenbezeichnung": "Einhörn"
+    },
+    {
+        "kurzbezeichnung": "Schönberg",
+        "id": 101127,
+        "strassenbezeichnung": "Schönberg"
+    },
+    {
+        "kurzbezeichnung": "Blütenweg",
+        "id": 103318,
+        "strassenbezeichnung": "Blütenweg"
+    },
+    {
+        "kurzbezeichnung": "Blockhausgasse",
+        "id": 103808,
+        "strassenbezeichnung": "Blockhausgasse"
+    },
+    {
+        "kurzbezeichnung": "Helenengasse",
+        "id": 111095,
+        "strassenbezeichnung": "Helenengasse"
+    },
+    {
+        "kurzbezeichnung": "Lorenzgasse",
+        "id": 113609,
+        "strassenbezeichnung": "Lorenzgasse"
+    },
+    {
+        "kurzbezeichnung": "OWG-Straße",
+        "id": 114745,
+        "strassenbezeichnung": "OWG-Straße"
+    },
+    {
+        "kurzbezeichnung": "Rüsthausplatz",
+        "id": 116406,
+        "strassenbezeichnung": "Rüsthausplatz"
+    },
+    {
+        "kurzbezeichnung": "Schelmwinkelweg",
+        "id": 119116,
+        "strassenbezeichnung": "Schelmwinkelweg"
+    },
+    {
+        "kurzbezeichnung": "Ulmenstraße",
+        "id": 124183,
+        "strassenbezeichnung": "Ulmenstraße"
+    },
+    {
+        "kurzbezeichnung": "Obermoosweg",
+        "id": 132709,
+        "strassenbezeichnung": "Obermoosweg"
+    }
+]

@@ -1,0 +1,622 @@
+[
+    {
+        "kurzbezeichnung": "Finkenweg",
+        "id": -30753,
+        "strassenbezeichnung": "Finkenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Angerle",
+        "id": -30089,
+        "strassenbezeichnung": "Am Angerle"
+    },
+    {
+        "kurzbezeichnung": "Gewerbegebiet",
+        "id": -18868,
+        "strassenbezeichnung": "Gewerbegebiet"
+    },
+    {
+        "kurzbezeichnung": "Steinweg",
+        "id": -16581,
+        "strassenbezeichnung": "Steinweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 42008,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Eppzirl",
+        "id": 42009,
+        "strassenbezeichnung": "Eppzirl"
+    },
+    {
+        "kurzbezeichnung": "Lehenwald",
+        "id": 42010,
+        "strassenbezeichnung": "Lehenwald"
+    },
+    {
+        "kurzbezeichnung": "Maximilianweg",
+        "id": 42011,
+        "strassenbezeichnung": "Maximilianweg"
+    },
+    {
+        "kurzbezeichnung": "Olympiastraße",
+        "id": 42012,
+        "strassenbezeichnung": "Olympiastraße"
+    },
+    {
+        "kurzbezeichnung": "Andreas-Hofer-Straße",
+        "id": 49906,
+        "strassenbezeichnung": "Andreas-Hofer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofplatz",
+        "id": 49908,
+        "strassenbezeichnung": "Bahnhofplatz"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 49909,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Claudiastraße",
+        "id": 49910,
+        "strassenbezeichnung": "Claudiastraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 49911,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Föhrenwald",
+        "id": 49913,
+        "strassenbezeichnung": "Föhrenwald"
+    },
+    {
+        "kurzbezeichnung": "Geigenbühel",
+        "id": 49914,
+        "strassenbezeichnung": "Geigenbühel"
+    },
+    {
+        "kurzbezeichnung": "Geigenbühelstraße",
+        "id": 49915,
+        "strassenbezeichnung": "Geigenbühelstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Klosterwald",
+        "id": 49916,
+        "strassenbezeichnung": "Am Klosterwald"
+    },
+    {
+        "kurzbezeichnung": "Haspingerstraße",
+        "id": 49917,
+        "strassenbezeichnung": "Haspingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Heilbadstraße",
+        "id": 49918,
+        "strassenbezeichnung": "Heilbadstraße"
+    },
+    {
+        "kurzbezeichnung": "Hermannstalstraße",
+        "id": 49919,
+        "strassenbezeichnung": "Hermannstalstraße"
+    },
+    {
+        "kurzbezeichnung": "Hocheggstraße",
+        "id": 49920,
+        "strassenbezeichnung": "Hocheggstraße"
+    },
+    {
+        "kurzbezeichnung": "Hohe-Munde-Straße",
+        "id": 49921,
+        "strassenbezeichnung": "Hohe-Munde-Straße"
+    },
+    {
+        "kurzbezeichnung": "Karwendelweg",
+        "id": 49922,
+        "strassenbezeichnung": "Karwendelweg"
+    },
+    {
+        "kurzbezeichnung": "Innsbrucker Straße",
+        "id": 49923,
+        "strassenbezeichnung": "Innsbrucker Straße"
+    },
+    {
+        "kurzbezeichnung": "Kalkkögelweg",
+        "id": 49924,
+        "strassenbezeichnung": "Kalkkögelweg"
+    },
+    {
+        "kurzbezeichnung": "Am Kirchwald",
+        "id": 49925,
+        "strassenbezeichnung": "Am Kirchwald"
+    },
+    {
+        "kurzbezeichnung": "Klosterstraße",
+        "id": 49927,
+        "strassenbezeichnung": "Klosterstraße"
+    },
+    {
+        "kurzbezeichnung": "Kurhotelpromenade",
+        "id": 49928,
+        "strassenbezeichnung": "Kurhotelpromenade"
+    },
+    {
+        "kurzbezeichnung": "Leutascher Straße",
+        "id": 49929,
+        "strassenbezeichnung": "Leutascher Straße"
+    },
+    {
+        "kurzbezeichnung": "Milserstraße",
+        "id": 49930,
+        "strassenbezeichnung": "Milserstraße"
+    },
+    {
+        "kurzbezeichnung": "Möserer Straße",
+        "id": 49931,
+        "strassenbezeichnung": "Möserer Straße"
+    },
+    {
+        "kurzbezeichnung": "Münchner Straße",
+        "id": 49932,
+        "strassenbezeichnung": "Münchner Straße"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 49933,
+        "strassenbezeichnung": "Panoramaweg"
+    },
+    {
+        "kurzbezeichnung": "Reitherspitzstraße",
+        "id": 49935,
+        "strassenbezeichnung": "Reitherspitzstraße"
+    },
+    {
+        "kurzbezeichnung": "Riehlweg",
+        "id": 49936,
+        "strassenbezeichnung": "Riehlweg"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 49937,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Schönangerweg",
+        "id": 49938,
+        "strassenbezeichnung": "Schönangerweg"
+    },
+    {
+        "kurzbezeichnung": "Speckbacherstraße",
+        "id": 49940,
+        "strassenbezeichnung": "Speckbacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Triendlsäge",
+        "id": 49941,
+        "strassenbezeichnung": "Triendlsäge"
+    },
+    {
+        "kurzbezeichnung": "Wasserfallweg",
+        "id": 49943,
+        "strassenbezeichnung": "Wasserfallweg"
+    },
+    {
+        "kurzbezeichnung": "Wettersteinstraße",
+        "id": 49944,
+        "strassenbezeichnung": "Wettersteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Wildseepromenade",
+        "id": 49945,
+        "strassenbezeichnung": "Wildseepromenade"
+    },
+    {
+        "kurzbezeichnung": "Föhrenwald",
+        "id": 55915,
+        "strassenbezeichnung": "Föhrenwald"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 55916,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Obere Wiese",
+        "id": 55917,
+        "strassenbezeichnung": "Obere Wiese"
+    },
+    {
+        "kurzbezeichnung": "Obern",
+        "id": 55918,
+        "strassenbezeichnung": "Obern"
+    },
+    {
+        "kurzbezeichnung": "Ostbach",
+        "id": 55919,
+        "strassenbezeichnung": "Ostbach"
+    },
+    {
+        "kurzbezeichnung": "Auland Gstoag",
+        "id": 55957,
+        "strassenbezeichnung": "Auland Gstoag"
+    },
+    {
+        "kurzbezeichnung": "Krinz",
+        "id": 55960,
+        "strassenbezeichnung": "Krinz"
+    },
+    {
+        "kurzbezeichnung": "Maxhüttenweg",
+        "id": 55961,
+        "strassenbezeichnung": "Maxhüttenweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlbergweg",
+        "id": 55962,
+        "strassenbezeichnung": "Mühlbergweg"
+    },
+    {
+        "kurzbezeichnung": "Roßhütte",
+        "id": 58406,
+        "strassenbezeichnung": "Roßhütte"
+    },
+    {
+        "kurzbezeichnung": "Lehner",
+        "id": 59363,
+        "strassenbezeichnung": "Lehner"
+    },
+    {
+        "kurzbezeichnung": "Plaik",
+        "id": 59364,
+        "strassenbezeichnung": "Plaik"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatzl",
+        "id": 59365,
+        "strassenbezeichnung": "Kirchplatzl"
+    },
+    {
+        "kurzbezeichnung": "Aue",
+        "id": 59366,
+        "strassenbezeichnung": "Aue"
+    },
+    {
+        "kurzbezeichnung": "Ahrn",
+        "id": 62315,
+        "strassenbezeichnung": "Ahrn"
+    },
+    {
+        "kurzbezeichnung": "Burggraben",
+        "id": 62382,
+        "strassenbezeichnung": "Burggraben"
+    },
+    {
+        "kurzbezeichnung": "Gasse",
+        "id": 62450,
+        "strassenbezeichnung": "Gasse"
+    },
+    {
+        "kurzbezeichnung": "Klamm",
+        "id": 62607,
+        "strassenbezeichnung": "Klamm"
+    },
+    {
+        "kurzbezeichnung": "Lehenwald",
+        "id": 62694,
+        "strassenbezeichnung": "Lehenwald"
+    },
+    {
+        "kurzbezeichnung": "Seewald",
+        "id": 62884,
+        "strassenbezeichnung": "Seewald"
+    },
+    {
+        "kurzbezeichnung": "Lochlehn",
+        "id": 62977,
+        "strassenbezeichnung": "Lochlehn"
+    },
+    {
+        "kurzbezeichnung": "Neuleutasch",
+        "id": 62980,
+        "strassenbezeichnung": "Neuleutasch"
+    },
+    {
+        "kurzbezeichnung": "Platzl",
+        "id": 63455,
+        "strassenbezeichnung": "Platzl"
+    },
+    {
+        "kurzbezeichnung": "Puitbach",
+        "id": 64726,
+        "strassenbezeichnung": "Puitbach"
+    },
+    {
+        "kurzbezeichnung": "Reindlau",
+        "id": 64727,
+        "strassenbezeichnung": "Reindlau"
+    },
+    {
+        "kurzbezeichnung": "Schanz",
+        "id": 64850,
+        "strassenbezeichnung": "Schanz"
+    },
+    {
+        "kurzbezeichnung": "Unterkirchen",
+        "id": 65006,
+        "strassenbezeichnung": "Unterkirchen"
+    },
+    {
+        "kurzbezeichnung": "Weidach",
+        "id": 65049,
+        "strassenbezeichnung": "Weidach"
+    },
+    {
+        "kurzbezeichnung": "Nördlinger Hütte",
+        "id": 67271,
+        "strassenbezeichnung": "Nördlinger Hütte"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 72816,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 72878,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Kindergartenweg",
+        "id": 72879,
+        "strassenbezeichnung": "Kindergartenweg"
+    },
+    {
+        "kurzbezeichnung": "Moosweg",
+        "id": 72881,
+        "strassenbezeichnung": "Moosweg"
+    },
+    {
+        "kurzbezeichnung": "Gschwandtkopf",
+        "id": 72882,
+        "strassenbezeichnung": "Gschwandtkopf"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 72883,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Ahrnspitzweg",
+        "id": 72885,
+        "strassenbezeichnung": "Ahrnspitzweg"
+    },
+    {
+        "kurzbezeichnung": "Alte Leutascher Straße",
+        "id": 72887,
+        "strassenbezeichnung": "Alte Leutascher Straße"
+    },
+    {
+        "kurzbezeichnung": "Liftweg",
+        "id": 73756,
+        "strassenbezeichnung": "Liftweg"
+    },
+    {
+        "kurzbezeichnung": "Buntsteig",
+        "id": 74306,
+        "strassenbezeichnung": "Buntsteig"
+    },
+    {
+        "kurzbezeichnung": "Gstoagweg",
+        "id": 74307,
+        "strassenbezeichnung": "Gstoagweg"
+    },
+    {
+        "kurzbezeichnung": "Gschwandtkopfweg",
+        "id": 74308,
+        "strassenbezeichnung": "Gschwandtkopfweg"
+    },
+    {
+        "kurzbezeichnung": "Möslweg",
+        "id": 74309,
+        "strassenbezeichnung": "Möslweg"
+    },
+    {
+        "kurzbezeichnung": "Kaltwasserweg",
+        "id": 74310,
+        "strassenbezeichnung": "Kaltwasserweg"
+    },
+    {
+        "kurzbezeichnung": "Sagweg",
+        "id": 74311,
+        "strassenbezeichnung": "Sagweg"
+    },
+    {
+        "kurzbezeichnung": "Auländer Dorfstraße",
+        "id": 74312,
+        "strassenbezeichnung": "Auländer Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Lobaweg",
+        "id": 74313,
+        "strassenbezeichnung": "Lobaweg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzweg",
+        "id": 74314,
+        "strassenbezeichnung": "Kreuzweg"
+    },
+    {
+        "kurzbezeichnung": "Römerstraße",
+        "id": 74315,
+        "strassenbezeichnung": "Römerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lauserweg",
+        "id": 74316,
+        "strassenbezeichnung": "Lauserweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofsweg",
+        "id": 74317,
+        "strassenbezeichnung": "Bahnhofsweg"
+    },
+    {
+        "kurzbezeichnung": "Bichlweg",
+        "id": 74318,
+        "strassenbezeichnung": "Bichlweg"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 74319,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lus",
+        "id": 74320,
+        "strassenbezeichnung": "Lus"
+    },
+    {
+        "kurzbezeichnung": "Meilerweg",
+        "id": 74321,
+        "strassenbezeichnung": "Meilerweg"
+    },
+    {
+        "kurzbezeichnung": "Kaiserstandweg",
+        "id": 74322,
+        "strassenbezeichnung": "Kaiserstandweg"
+    },
+    {
+        "kurzbezeichnung": "Kobesbichlweg",
+        "id": 74323,
+        "strassenbezeichnung": "Kobesbichlweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 74324,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Kalktalweg",
+        "id": 74325,
+        "strassenbezeichnung": "Kalktalweg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 74326,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Leithener Wiesenweg",
+        "id": 74327,
+        "strassenbezeichnung": "Leithener Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Gschwandtkopf",
+        "id": 74328,
+        "strassenbezeichnung": "Gschwandtkopf"
+    },
+    {
+        "kurzbezeichnung": "Leithener Dorfstraße",
+        "id": 74329,
+        "strassenbezeichnung": "Leithener Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Gschwandtweg",
+        "id": 74330,
+        "strassenbezeichnung": "Gschwandtweg"
+    },
+    {
+        "kurzbezeichnung": "Gschwandtweg",
+        "id": 74335,
+        "strassenbezeichnung": "Gschwandtweg"
+    },
+    {
+        "kurzbezeichnung": "Wildmoos",
+        "id": 89781,
+        "strassenbezeichnung": "Wildmoos"
+    },
+    {
+        "kurzbezeichnung": "Sonnweg",
+        "id": 94492,
+        "strassenbezeichnung": "Sonnweg"
+    },
+    {
+        "kurzbezeichnung": "Boden-Niederlög",
+        "id": 95646,
+        "strassenbezeichnung": "Boden-Niederlög"
+    },
+    {
+        "kurzbezeichnung": "Am Schlossberg",
+        "id": 96883,
+        "strassenbezeichnung": "Am Schlossberg"
+    },
+    {
+        "kurzbezeichnung": "Niederbachweg",
+        "id": 99947,
+        "strassenbezeichnung": "Niederbachweg"
+    },
+    {
+        "kurzbezeichnung": "Jochalm",
+        "id": 101060,
+        "strassenbezeichnung": "Jochalm"
+    },
+    {
+        "kurzbezeichnung": "Emmat",
+        "id": 102530,
+        "strassenbezeichnung": "Emmat"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 103847,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrer-Prieth-Weg",
+        "id": 108444,
+        "strassenbezeichnung": "Pfarrer-Prieth-Weg"
+    },
+    {
+        "kurzbezeichnung": "Albrecht-Dürer-Weg",
+        "id": 108450,
+        "strassenbezeichnung": "Albrecht-Dürer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 108451,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Bichl",
+        "id": 108452,
+        "strassenbezeichnung": "Am Bichl"
+    },
+    {
+        "kurzbezeichnung": "Am Wiesenhang",
+        "id": 108453,
+        "strassenbezeichnung": "Am Wiesenhang"
+    },
+    {
+        "kurzbezeichnung": "Broch-Weg",
+        "id": 108454,
+        "strassenbezeichnung": "Broch-Weg"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 108455,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Möserer Dorfstraße",
+        "id": 108456,
+        "strassenbezeichnung": "Möserer Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Möserer Seeweg",
+        "id": 108457,
+        "strassenbezeichnung": "Möserer Seeweg"
+    }
+]

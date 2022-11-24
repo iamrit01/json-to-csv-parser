@@ -1,0 +1,512 @@
+[
+    {
+        "kurzbezeichnung": "Achenallee",
+        "id": 40976,
+        "strassenbezeichnung": "Achenallee"
+    },
+    {
+        "kurzbezeichnung": "Ackerlweg",
+        "id": 40977,
+        "strassenbezeichnung": "Ackerlweg"
+    },
+    {
+        "kurzbezeichnung": "Almdorf",
+        "id": 56060,
+        "strassenbezeichnung": "Almdorf"
+    },
+    {
+        "kurzbezeichnung": "Almen am Kaiser",
+        "id": 73570,
+        "strassenbezeichnung": "Almen am Kaiser"
+    },
+    {
+        "kurzbezeichnung": "Almen am Kalkstein",
+        "id": 73571,
+        "strassenbezeichnung": "Almen am Kalkstein"
+    },
+    {
+        "kurzbezeichnung": "Almen/Kitzbüheler Horn",
+        "id": 73254,
+        "strassenbezeichnung": "Almen am Kitzbüheler Horn"
+    },
+    {
+        "kurzbezeichnung": "Anichweg",
+        "id": 39677,
+        "strassenbezeichnung": "Anichweg"
+    },
+    {
+        "kurzbezeichnung": "Apfeldorf",
+        "id": 56063,
+        "strassenbezeichnung": "Apfeldorf"
+    },
+    {
+        "kurzbezeichnung": "Assmannweg",
+        "id": 28782,
+        "strassenbezeichnung": "Assmannweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 40984,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofweg",
+        "id": 40985,
+        "strassenbezeichnung": "Bahnhofweg"
+    },
+    {
+        "kurzbezeichnung": "Bärnstetten",
+        "id": 56053,
+        "strassenbezeichnung": "Bärnstetten"
+    },
+    {
+        "kurzbezeichnung": "Baumoos",
+        "id": 40986,
+        "strassenbezeichnung": "Baumoos"
+    },
+    {
+        "kurzbezeichnung": "Bergerweg",
+        "id": 39658,
+        "strassenbezeichnung": "Bergerweg"
+    },
+    {
+        "kurzbezeichnung": "Berglandweg",
+        "id": 40987,
+        "strassenbezeichnung": "Berglandweg"
+    },
+    {
+        "kurzbezeichnung": "Berglehen",
+        "id": 56061,
+        "strassenbezeichnung": "Berglehen"
+    },
+    {
+        "kurzbezeichnung": "Birkenstraße",
+        "id": 40989,
+        "strassenbezeichnung": "Birkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumbergweg",
+        "id": 40990,
+        "strassenbezeichnung": "Blumbergweg"
+    },
+    {
+        "kurzbezeichnung": "Boznerstraße",
+        "id": 40991,
+        "strassenbezeichnung": "Boznerstraße"
+    },
+    {
+        "kurzbezeichnung": "Brauweg",
+        "id": 40992,
+        "strassenbezeichnung": "Brauweg"
+    },
+    {
+        "kurzbezeichnung": "Brucknerweg",
+        "id": 48405,
+        "strassenbezeichnung": "Brucknerweg"
+    },
+    {
+        "kurzbezeichnung": "Bruggbäckweg",
+        "id": 40993,
+        "strassenbezeichnung": "Bruggbäckweg"
+    },
+    {
+        "kurzbezeichnung": "Christian Blattl-Weg",
+        "id": 40994,
+        "strassenbezeichnung": "Christian Blattl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Dampflfeld",
+        "id": 72749,
+        "strassenbezeichnung": "Dampflfeld"
+    },
+    {
+        "kurzbezeichnung": "Dechant-Wieshoferstr.",
+        "id": 40995,
+        "strassenbezeichnung": "Dechant-Wieshoferstraße"
+    },
+    {
+        "kurzbezeichnung": "Dekan-Ritterweg",
+        "id": 52822,
+        "strassenbezeichnung": "Dekan-Ritterweg"
+    },
+    {
+        "kurzbezeichnung": "Eifersbachweg",
+        "id": -18174,
+        "strassenbezeichnung": "Eifersbachweg"
+    },
+    {
+        "kurzbezeichnung": "Farberweg",
+        "id": 35998,
+        "strassenbezeichnung": "Farberweg"
+    },
+    {
+        "kurzbezeichnung": "Farcherweg",
+        "id": 40996,
+        "strassenbezeichnung": "Farcherweg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 128341,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Fieberbrunnerstraße",
+        "id": 40997,
+        "strassenbezeichnung": "Fieberbrunnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Frickingweg",
+        "id": 40998,
+        "strassenbezeichnung": "Frickingweg"
+    },
+    {
+        "kurzbezeichnung": "Gasteigerstraße",
+        "id": 40999,
+        "strassenbezeichnung": "Gasteigerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hagerweg",
+        "id": 41000,
+        "strassenbezeichnung": "Hagerweg"
+    },
+    {
+        "kurzbezeichnung": "Haspingerweg",
+        "id": 41001,
+        "strassenbezeichnung": "Haspingerweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 41002,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Haydnweg",
+        "id": 35987,
+        "strassenbezeichnung": "Haydnweg"
+    },
+    {
+        "kurzbezeichnung": "Hinterkaiserweg",
+        "id": 41003,
+        "strassenbezeichnung": "Hinterkaiserweg"
+    },
+    {
+        "kurzbezeichnung": "Hirzingerweg",
+        "id": 41004,
+        "strassenbezeichnung": "Hirzingerweg"
+    },
+    {
+        "kurzbezeichnung": "Hornweg",
+        "id": 41005,
+        "strassenbezeichnung": "Hornweg"
+    },
+    {
+        "kurzbezeichnung": "Innsbruckerstraße",
+        "id": 41006,
+        "strassenbezeichnung": "Innsbruckerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaiserblickweg",
+        "id": 105060,
+        "strassenbezeichnung": "Kaiserblickweg"
+    },
+    {
+        "kurzbezeichnung": "Kaiserstraße",
+        "id": 41007,
+        "strassenbezeichnung": "Kaiserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaiserweg",
+        "id": 125581,
+        "strassenbezeichnung": "Kaiserweg"
+    },
+    {
+        "kurzbezeichnung": "Kalksteinweg",
+        "id": 35996,
+        "strassenbezeichnung": "Kalksteinweg"
+    },
+    {
+        "kurzbezeichnung": "Knappengasse",
+        "id": 41008,
+        "strassenbezeichnung": "Knappengasse"
+    },
+    {
+        "kurzbezeichnung": "Kössener Straße",
+        "id": 128340,
+        "strassenbezeichnung": "Kössener Straße"
+    },
+    {
+        "kurzbezeichnung": "Lacknerweg",
+        "id": 41009,
+        "strassenbezeichnung": "Lacknerweg"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 35997,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lederergasse",
+        "id": 41010,
+        "strassenbezeichnung": "Lederergasse"
+    },
+    {
+        "kurzbezeichnung": "Leharweg",
+        "id": 41011,
+        "strassenbezeichnung": "Leharweg"
+    },
+    {
+        "kurzbezeichnung": "Leukentalweg",
+        "id": 128342,
+        "strassenbezeichnung": "Leukentalweg"
+    },
+    {
+        "kurzbezeichnung": "Maderspergerweg",
+        "id": 41012,
+        "strassenbezeichnung": "Maderspergerweg"
+    },
+    {
+        "kurzbezeichnung": "Mag.Eduard-Angererweg",
+        "id": 41013,
+        "strassenbezeichnung": "Mag.Eduard-Angererweg"
+    },
+    {
+        "kurzbezeichnung": "Mauckweg",
+        "id": 41014,
+        "strassenbezeichnung": "Mauckweg"
+    },
+    {
+        "kurzbezeichnung": "Mauthfeld",
+        "id": 118321,
+        "strassenbezeichnung": "Mauthfeld"
+    },
+    {
+        "kurzbezeichnung": "Meranerstraße",
+        "id": 41015,
+        "strassenbezeichnung": "Meranerstraße"
+    },
+    {
+        "kurzbezeichnung": "Mitterndorf",
+        "id": 56054,
+        "strassenbezeichnung": "Mitterndorf"
+    },
+    {
+        "kurzbezeichnung": "Mitterndorferweg",
+        "id": 41017,
+        "strassenbezeichnung": "Mitterndorferweg"
+    },
+    {
+        "kurzbezeichnung": "Mozartweg",
+        "id": 41018,
+        "strassenbezeichnung": "Mozartweg"
+    },
+    {
+        "kurzbezeichnung": "Murweg",
+        "id": 41019,
+        "strassenbezeichnung": "Murweg"
+    },
+    {
+        "kurzbezeichnung": "Neubauweg",
+        "id": 41020,
+        "strassenbezeichnung": "Neubauweg"
+    },
+    {
+        "kurzbezeichnung": "Neuhausweg",
+        "id": -18173,
+        "strassenbezeichnung": "Neuhausweg"
+    },
+    {
+        "kurzbezeichnung": "Neureithweg",
+        "id": 128338,
+        "strassenbezeichnung": "Neureithweg"
+    },
+    {
+        "kurzbezeichnung": "Niederhofen",
+        "id": 41021,
+        "strassenbezeichnung": "Niederhofen"
+    },
+    {
+        "kurzbezeichnung": "Niederkaiserweg",
+        "id": 125583,
+        "strassenbezeichnung": "Niederkaiserweg"
+    },
+    {
+        "kurzbezeichnung": "Oberhofen",
+        "id": 56055,
+        "strassenbezeichnung": "Oberhofen"
+    },
+    {
+        "kurzbezeichnung": "Oberhofenweg",
+        "id": 41023,
+        "strassenbezeichnung": "Oberhofenweg"
+    },
+    {
+        "kurzbezeichnung": "Parzachweg",
+        "id": 41024,
+        "strassenbezeichnung": "Parzachweg"
+    },
+    {
+        "kurzbezeichnung": "Pass-Thurn-Straße",
+        "id": 41025,
+        "strassenbezeichnung": "Pass-Thurn-Straße"
+    },
+    {
+        "kurzbezeichnung": "Postfeld",
+        "id": 36001,
+        "strassenbezeichnung": "Postfeld"
+    },
+    {
+        "kurzbezeichnung": "Poststraße",
+        "id": 41026,
+        "strassenbezeichnung": "Poststraße"
+    },
+    {
+        "kurzbezeichnung": "Prantlstraße",
+        "id": 41027,
+        "strassenbezeichnung": "Prantlstraße"
+    },
+    {
+        "kurzbezeichnung": "Reitham",
+        "id": 56056,
+        "strassenbezeichnung": "Reitham"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 41029,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Salzburgerstraße",
+        "id": 41030,
+        "strassenbezeichnung": "Salzburgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Scheffau",
+        "id": 56057,
+        "strassenbezeichnung": "Scheffau"
+    },
+    {
+        "kurzbezeichnung": "Schießstandgasse",
+        "id": 41032,
+        "strassenbezeichnung": "Schießstandgasse"
+    },
+    {
+        "kurzbezeichnung": "Schmiedweg",
+        "id": 41034,
+        "strassenbezeichnung": "Schmiedweg"
+    },
+    {
+        "kurzbezeichnung": "Schönauweg",
+        "id": 125582,
+        "strassenbezeichnung": "Schönauweg"
+    },
+    {
+        "kurzbezeichnung": "Schönbichlweg",
+        "id": 41035,
+        "strassenbezeichnung": "Schönbichlweg"
+    },
+    {
+        "kurzbezeichnung": "Schubertweg",
+        "id": 35991,
+        "strassenbezeichnung": "Schubertweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarzingerfeld",
+        "id": 73251,
+        "strassenbezeichnung": "Schwarzingerfeld"
+    },
+    {
+        "kurzbezeichnung": "Schwentlingweg",
+        "id": 41036,
+        "strassenbezeichnung": "Schwentlingweg"
+    },
+    {
+        "kurzbezeichnung": "Schwimmbadweg",
+        "id": 41037,
+        "strassenbezeichnung": "Schwimmbadweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitenweg",
+        "id": 128343,
+        "strassenbezeichnung": "Sonnleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Speckbacherstraße",
+        "id": 41038,
+        "strassenbezeichnung": "Speckbacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Sperten",
+        "id": 41039,
+        "strassenbezeichnung": "Sperten"
+    },
+    {
+        "kurzbezeichnung": "Steinerbergweg",
+        "id": 41040,
+        "strassenbezeichnung": "Steinerbergweg"
+    },
+    {
+        "kurzbezeichnung": "Stolzweg",
+        "id": 35992,
+        "strassenbezeichnung": "Stolzweg"
+    },
+    {
+        "kurzbezeichnung": "Tannweg",
+        "id": 41041,
+        "strassenbezeichnung": "Tannweg"
+    },
+    {
+        "kurzbezeichnung": "Taxaweg",
+        "id": 41042,
+        "strassenbezeichnung": "Taxaweg"
+    },
+    {
+        "kurzbezeichnung": "Thalhofweg",
+        "id": 128339,
+        "strassenbezeichnung": "Thalhofweg"
+    },
+    {
+        "kurzbezeichnung": "Ulmbichlweg",
+        "id": 41043,
+        "strassenbezeichnung": "Ulmbichlweg"
+    },
+    {
+        "kurzbezeichnung": "Velbenstraße",
+        "id": 41044,
+        "strassenbezeichnung": "Velbenstraße"
+    },
+    {
+        "kurzbezeichnung": "Wegscheidgasse",
+        "id": 41045,
+        "strassenbezeichnung": "Wegscheidgasse"
+    },
+    {
+        "kurzbezeichnung": "Weiberndorf",
+        "id": 56062,
+        "strassenbezeichnung": "Weiberndorf"
+    },
+    {
+        "kurzbezeichnung": "Weitauweg",
+        "id": 41047,
+        "strassenbezeichnung": "Weitauweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 41048,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Winkl-Schattseite",
+        "id": 56058,
+        "strassenbezeichnung": "Winkl-Schattseite"
+    },
+    {
+        "kurzbezeichnung": "Winkl-Sonnseite",
+        "id": 56059,
+        "strassenbezeichnung": "Winkl-Sonnseite"
+    },
+    {
+        "kurzbezeichnung": "Winterstellerweg",
+        "id": 41051,
+        "strassenbezeichnung": "Winterstellerweg"
+    }
+]

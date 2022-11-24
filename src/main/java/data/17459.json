@@ -1,0 +1,547 @@
+[
+    {
+        "kurzbezeichnung": "Alfafarweg",
+        "id": 69526,
+        "strassenbezeichnung": "Alfafarweg"
+    },
+    {
+        "kurzbezeichnung": "Am Eichbach",
+        "id": 33096,
+        "strassenbezeichnung": "Am Eichbach"
+    },
+    {
+        "kurzbezeichnung": "Am Engelsdorfgrund",
+        "id": 75428,
+        "strassenbezeichnung": "Am Engelsdorfgrund"
+    },
+    {
+        "kurzbezeichnung": "Am Mühlgraben",
+        "id": 33120,
+        "strassenbezeichnung": "Am Mühlgraben"
+    },
+    {
+        "kurzbezeichnung": "Ampfererweg",
+        "id": 33133,
+        "strassenbezeichnung": "Ampfererweg"
+    },
+    {
+        "kurzbezeichnung": "Andersengasse",
+        "id": 33138,
+        "strassenbezeichnung": "Andersengasse"
+    },
+    {
+        "kurzbezeichnung": "Anton-Lippe-Platz",
+        "id": 33156,
+        "strassenbezeichnung": "Anton-Lippe-Platz"
+    },
+    {
+        "kurzbezeichnung": "Auf der Heide",
+        "id": 33179,
+        "strassenbezeichnung": "Auf der Heide"
+    },
+    {
+        "kurzbezeichnung": "Auf der Murwiese",
+        "id": 33180,
+        "strassenbezeichnung": "Auf der Murwiese"
+    },
+    {
+        "kurzbezeichnung": "Auwaldgasse",
+        "id": 33186,
+        "strassenbezeichnung": "Auwaldgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 33194,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Boschweg",
+        "id": 33223,
+        "strassenbezeichnung": "Boschweg"
+    },
+    {
+        "kurzbezeichnung": "Casalgasse",
+        "id": 33255,
+        "strassenbezeichnung": "Casalgasse"
+    },
+    {
+        "kurzbezeichnung": "C.-v.-Hötzendorf-Str.",
+        "id": 33259,
+        "strassenbezeichnung": "Conrad-von-Hötzendorf-Straße"
+    },
+    {
+        "kurzbezeichnung": "Daimlerweg",
+        "id": 33264,
+        "strassenbezeichnung": "Daimlerweg"
+    },
+    {
+        "kurzbezeichnung": "Dieselweg",
+        "id": 33272,
+        "strassenbezeichnung": "Dieselweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 33279,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Lister-Gasse",
+        "id": 33296,
+        "strassenbezeichnung": "Dr.-Lister-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Eduard-Keil-Gasse",
+        "id": 33318,
+        "strassenbezeichnung": "Eduard-Keil-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Eichäckerweg",
+        "id": 33327,
+        "strassenbezeichnung": "Eichäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Eichbachgasse",
+        "id": 33328,
+        "strassenbezeichnung": "Eichbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Eintrachtgasse",
+        "id": 33338,
+        "strassenbezeichnung": "Eintrachtgasse"
+    },
+    {
+        "kurzbezeichnung": "Engelsdorfer Straße",
+        "id": 33352,
+        "strassenbezeichnung": "Engelsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Esserweg",
+        "id": 33367,
+        "strassenbezeichnung": "Esserweg"
+    },
+    {
+        "kurzbezeichnung": "Ferdinand-Porsche-Pl.",
+        "id": 96628,
+        "strassenbezeichnung": "Ferdinand-Porsche-Platz"
+    },
+    {
+        "kurzbezeichnung": "Fiziastraße",
+        "id": 33400,
+        "strassenbezeichnung": "Fiziastraße"
+    },
+    {
+        "kurzbezeichnung": "Friedmanngasse",
+        "id": 33437,
+        "strassenbezeichnung": "Friedmanngasse"
+    },
+    {
+        "kurzbezeichnung": "Fuchsenfeldweg",
+        "id": 33450,
+        "strassenbezeichnung": "Fuchsenfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Gaslaternenweg",
+        "id": 69525,
+        "strassenbezeichnung": "Gaslaternenweg"
+    },
+    {
+        "kurzbezeichnung": "Georg-Gaß-Weg",
+        "id": 33476,
+        "strassenbezeichnung": "Georg-Gaß-Weg"
+    },
+    {
+        "kurzbezeichnung": "Herbert-Boeckl-Gasse",
+        "id": 33599,
+        "strassenbezeichnung": "Herbert-Boeckl-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Heuweg",
+        "id": 33611,
+        "strassenbezeichnung": "Heuweg"
+    },
+    {
+        "kurzbezeichnung": "Hortgasse",
+        "id": 33646,
+        "strassenbezeichnung": "Hortgasse"
+    },
+    {
+        "kurzbezeichnung": "Hüblweg",
+        "id": 33649,
+        "strassenbezeichnung": "Hüblweg"
+    },
+    {
+        "kurzbezeichnung": "Hutteggerstraße",
+        "id": 33656,
+        "strassenbezeichnung": "Hutteggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Ingeborg-Bachmann-G.",
+        "id": 101556,
+        "strassenbezeichnung": "Ingeborg-Bachmann-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Jägerweg",
+        "id": 33670,
+        "strassenbezeichnung": "Jägerweg"
+    },
+    {
+        "kurzbezeichnung": "Johann-Koller-Weg",
+        "id": 33694,
+        "strassenbezeichnung": "Johann-Koller-Weg"
+    },
+    {
+        "kurzbezeichnung": "Kadettengasse",
+        "id": 33722,
+        "strassenbezeichnung": "Kadettengasse"
+    },
+    {
+        "kurzbezeichnung": "Kammerwehrgasse",
+        "id": 33736,
+        "strassenbezeichnung": "Kammerwehrgasse"
+    },
+    {
+        "kurzbezeichnung": "Karl-Huber-Gasse",
+        "id": 33741,
+        "strassenbezeichnung": "Karl-Huber-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kasernstraße",
+        "id": 33752,
+        "strassenbezeichnung": "Kasernstraße"
+    },
+    {
+        "kurzbezeichnung": "Kiesgasse",
+        "id": 33763,
+        "strassenbezeichnung": "Kiesgasse"
+    },
+    {
+        "kurzbezeichnung": "Kleinweg",
+        "id": 33774,
+        "strassenbezeichnung": "Kleinweg"
+    },
+    {
+        "kurzbezeichnung": "Kloiberweg",
+        "id": 33777,
+        "strassenbezeichnung": "Kloiberweg"
+    },
+    {
+        "kurzbezeichnung": "Kollwitzgasse",
+        "id": 33796,
+        "strassenbezeichnung": "Kollwitzgasse"
+    },
+    {
+        "kurzbezeichnung": "Konrad-Hopferwieser-G.",
+        "id": 33800,
+        "strassenbezeichnung": "Konrad-Hopferwieser-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Krummer Weg",
+        "id": 33824,
+        "strassenbezeichnung": "Krummer Weg"
+    },
+    {
+        "kurzbezeichnung": "Kurzweg",
+        "id": 33831,
+        "strassenbezeichnung": "Kurzweg"
+    },
+    {
+        "kurzbezeichnung": "Leberackerweg",
+        "id": 33848,
+        "strassenbezeichnung": "Leberackerweg"
+    },
+    {
+        "kurzbezeichnung": "Leifhelmgasse",
+        "id": 33853,
+        "strassenbezeichnung": "Leifhelmgasse"
+    },
+    {
+        "kurzbezeichnung": "Leo-Scheu-Gasse",
+        "id": 33859,
+        "strassenbezeichnung": "Leo-Scheu-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Liebenauer Gürtel",
+        "id": 73839,
+        "strassenbezeichnung": "Liebenauer Gürtel"
+    },
+    {
+        "kurzbezeichnung": "Liebenauer Hauptstraße",
+        "id": 33870,
+        "strassenbezeichnung": "Liebenauer Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Lisztgasse",
+        "id": 33883,
+        "strassenbezeichnung": "Lisztgasse"
+    },
+    {
+        "kurzbezeichnung": "Lorenz-Vest-Weg",
+        "id": 33890,
+        "strassenbezeichnung": "Lorenz-Vest-Weg"
+    },
+    {
+        "kurzbezeichnung": "Lortzinggasse",
+        "id": 33891,
+        "strassenbezeichnung": "Lortzinggasse"
+    },
+    {
+        "kurzbezeichnung": "Meisenweg",
+        "id": 33941,
+        "strassenbezeichnung": "Meisenweg"
+    },
+    {
+        "kurzbezeichnung": "Mendelgasse",
+        "id": 33943,
+        "strassenbezeichnung": "Mendelgasse"
+    },
+    {
+        "kurzbezeichnung": "Mittelstraße",
+        "id": 33955,
+        "strassenbezeichnung": "Mittelstraße"
+    },
+    {
+        "kurzbezeichnung": "Montecuccoligasse",
+        "id": 33969,
+        "strassenbezeichnung": "Montecuccoligasse"
+    },
+    {
+        "kurzbezeichnung": "Müllergasse",
+        "id": 33983,
+        "strassenbezeichnung": "Müllergasse"
+    },
+    {
+        "kurzbezeichnung": "Müller-Guttenbrunn-Weg",
+        "id": 33982,
+        "strassenbezeichnung": "Müller-Guttenbrunn-Weg"
+    },
+    {
+        "kurzbezeichnung": "Murfelder Straße",
+        "id": 33988,
+        "strassenbezeichnung": "Murfelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Neudorf",
+        "id": 33998,
+        "strassenbezeichnung": "Neudorf"
+    },
+    {
+        "kurzbezeichnung": "Neudorfer Straße",
+        "id": 33999,
+        "strassenbezeichnung": "Neudorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Neusiedlergasse",
+        "id": 34009,
+        "strassenbezeichnung": "Neusiedlergasse"
+    },
+    {
+        "kurzbezeichnung": "Nikolaus-Otto-Weg",
+        "id": 34020,
+        "strassenbezeichnung": "Nikolaus-Otto-Weg"
+    },
+    {
+        "kurzbezeichnung": "Ostbahnstraße",
+        "id": 67306,
+        "strassenbezeichnung": "Ostbahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Pambergergasse",
+        "id": 34050,
+        "strassenbezeichnung": "Pambergergasse"
+    },
+    {
+        "kurzbezeichnung": "Paul-Ernst-Gasse",
+        "id": 34061,
+        "strassenbezeichnung": "Paul-Ernst-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Petrifelderstraße",
+        "id": 34083,
+        "strassenbezeichnung": "Petrifelderstraße"
+    },
+    {
+        "kurzbezeichnung": "Pichlergasse",
+        "id": 34093,
+        "strassenbezeichnung": "Pichlergasse"
+    },
+    {
+        "kurzbezeichnung": "Porscheweg",
+        "id": 34114,
+        "strassenbezeichnung": "Porscheweg"
+    },
+    {
+        "kurzbezeichnung": "Rainweg",
+        "id": 34152,
+        "strassenbezeichnung": "Rainweg"
+    },
+    {
+        "kurzbezeichnung": "Riedweg",
+        "id": 34178,
+        "strassenbezeichnung": "Riedweg"
+    },
+    {
+        "kurzbezeichnung": "Robert-Musil-Gasse",
+        "id": 53299,
+        "strassenbezeichnung": "Robert-Musil-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Sankt-Paulus-Platz",
+        "id": 62491,
+        "strassenbezeichnung": "Sankt-Paulus-Platz"
+    },
+    {
+        "kurzbezeichnung": "Schrottenbachgasse",
+        "id": 34278,
+        "strassenbezeichnung": "Schrottenbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Senefeldergasse",
+        "id": 34296,
+        "strassenbezeichnung": "Senefeldergasse"
+    },
+    {
+        "kurzbezeichnung": "Siedlerweg",
+        "id": 34299,
+        "strassenbezeichnung": "Siedlerweg"
+    },
+    {
+        "kurzbezeichnung": "Speidlgasse",
+        "id": 34311,
+        "strassenbezeichnung": "Speidlgasse"
+    },
+    {
+        "kurzbezeichnung": "Stadionplatz",
+        "id": 93819,
+        "strassenbezeichnung": "Stadionplatz"
+    },
+    {
+        "kurzbezeichnung": "Stanglmühlstraße",
+        "id": 34328,
+        "strassenbezeichnung": "Stanglmühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Sternäckerweg",
+        "id": 34345,
+        "strassenbezeichnung": "Sternäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Stranzgasse",
+        "id": 34359,
+        "strassenbezeichnung": "Stranzgasse"
+    },
+    {
+        "kurzbezeichnung": "Suttnerweg",
+        "id": 34374,
+        "strassenbezeichnung": "Suttnerweg"
+    },
+    {
+        "kurzbezeichnung": "Theodor-Storm-Straße",
+        "id": 34388,
+        "strassenbezeichnung": "Theodor-Storm-Straße"
+    },
+    {
+        "kurzbezeichnung": "Theyergasse",
+        "id": 34389,
+        "strassenbezeichnung": "Theyergasse"
+    },
+    {
+        "kurzbezeichnung": "Trenkgasse",
+        "id": 34401,
+        "strassenbezeichnung": "Trenkgasse"
+    },
+    {
+        "kurzbezeichnung": "Vaterdorfstraße",
+        "id": 34431,
+        "strassenbezeichnung": "Vaterdorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Virchowgasse",
+        "id": 34444,
+        "strassenbezeichnung": "Virchowgasse"
+    },
+    {
+        "kurzbezeichnung": "Werndlweg",
+        "id": 34496,
+        "strassenbezeichnung": "Werndlweg"
+    },
+    {
+        "kurzbezeichnung": "Wichnergasse",
+        "id": 34500,
+        "strassenbezeichnung": "Wichnergasse"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm-Rösche-Gasse",
+        "id": 34515,
+        "strassenbezeichnung": "Wilhelm-Rösche-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Willi-Thaller-Straße",
+        "id": 34517,
+        "strassenbezeichnung": "Willi-Thaller-Straße"
+    },
+    {
+        "kurzbezeichnung": "Wittenbauerstraße",
+        "id": 34523,
+        "strassenbezeichnung": "Wittenbauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Ziehrerstraße",
+        "id": 34537,
+        "strassenbezeichnung": "Ziehrerstraße"
+    },
+    {
+        "kurzbezeichnung": "Zoisweg",
+        "id": 34543,
+        "strassenbezeichnung": "Zoisweg"
+    },
+    {
+        "kurzbezeichnung": "Banngrabenweg",
+        "id": 33198,
+        "strassenbezeichnung": "Banngrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Plochl-Straße",
+        "id": 33299,
+        "strassenbezeichnung": "Dr.-Plochl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Emil-Ertl-Gasse",
+        "id": 33348,
+        "strassenbezeichnung": "Emil-Ertl-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Johann-S.-Bach-G.",
+        "id": 33691,
+        "strassenbezeichnung": "Johann-Sebastian-Bach-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Messendorfer Straße",
+        "id": 33949,
+        "strassenbezeichnung": "Messendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Neufeldweg",
+        "id": 34004,
+        "strassenbezeichnung": "Neufeldweg"
+    },
+    {
+        "kurzbezeichnung": "Puntigamer Straße",
+        "id": 34130,
+        "strassenbezeichnung": "Puntigamer Straße"
+    },
+    {
+        "kurzbezeichnung": "Raabaweg",
+        "id": 34137,
+        "strassenbezeichnung": "Raabaweg"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenstraße",
+        "id": 34149,
+        "strassenbezeichnung": "Raiffeisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Ulrich-Lichtenstein-G.",
+        "id": 34416,
+        "strassenbezeichnung": "Ulrich-Lichtenstein-Gasse"
+    }
+]

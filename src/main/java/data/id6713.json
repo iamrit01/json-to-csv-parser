@@ -1,0 +1,607 @@
+[
+    {
+        "kurzbezeichnung": "Zehentäcker",
+        "id": -20098,
+        "strassenbezeichnung": "Zehentäcker"
+    },
+    {
+        "kurzbezeichnung": "Gasal",
+        "id": -18449,
+        "strassenbezeichnung": "Gasal"
+    },
+    {
+        "kurzbezeichnung": "Ritza",
+        "id": -16762,
+        "strassenbezeichnung": "Ritza"
+    },
+    {
+        "kurzbezeichnung": "Sankt-Anna-Straße",
+        "id": -4727,
+        "strassenbezeichnung": "Sankt-Anna-Straße"
+    },
+    {
+        "kurzbezeichnung": "St. Hubertus-Weg",
+        "id": -1414,
+        "strassenbezeichnung": "St. Hubertus-Weg"
+    },
+    {
+        "kurzbezeichnung": "Sägenwinkel",
+        "id": -1411,
+        "strassenbezeichnung": "Sägenwinkel"
+    },
+    {
+        "kurzbezeichnung": "Rhatikonweg",
+        "id": -1409,
+        "strassenbezeichnung": "Rhatikonweg"
+    },
+    {
+        "kurzbezeichnung": "Prof. M. Hilti-Straße",
+        "id": -1408,
+        "strassenbezeichnung": "Prof. M. Hilti-Straße"
+    },
+    {
+        "kurzbezeichnung": "Langäckerweg",
+        "id": -1406,
+        "strassenbezeichnung": "Langäckerweg"
+    },
+    {
+        "kurzbezeichnung": "John Douglas-Straße",
+        "id": -1404,
+        "strassenbezeichnung": "John Douglas-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ing. Kastner-Straße",
+        "id": -1403,
+        "strassenbezeichnung": "Ing. Kastner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gurtinätsch",
+        "id": -1402,
+        "strassenbezeichnung": "Gurtinätsch"
+    },
+    {
+        "kurzbezeichnung": "Feldeggstraße",
+        "id": -1400,
+        "strassenbezeichnung": "Feldeggstraße"
+    },
+    {
+        "kurzbezeichnung": "Dr. J. Walter-Straße",
+        "id": -1399,
+        "strassenbezeichnung": "Dr. J. Walter-Straße"
+    },
+    {
+        "kurzbezeichnung": "Blonserberg",
+        "id": -1398,
+        "strassenbezeichnung": "Blonserberg"
+    },
+    {
+        "kurzbezeichnung": "Alter Burgweg",
+        "id": -1397,
+        "strassenbezeichnung": "Alter Burgweg"
+    },
+    {
+        "kurzbezeichnung": "Ludescherberg",
+        "id": 7828,
+        "strassenbezeichnung": "Ludescherberg"
+    },
+    {
+        "kurzbezeichnung": "Allmeinteilweg",
+        "id": 47108,
+        "strassenbezeichnung": "Allmeinteilweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 47109,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Balzweg",
+        "id": 47110,
+        "strassenbezeichnung": "Balzweg"
+    },
+    {
+        "kurzbezeichnung": "Barxerstraße",
+        "id": 47111,
+        "strassenbezeichnung": "Barxerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bieleweg",
+        "id": 47112,
+        "strassenbezeichnung": "Bieleweg"
+    },
+    {
+        "kurzbezeichnung": "Brauentinweg",
+        "id": 47113,
+        "strassenbezeichnung": "Brauentinweg"
+    },
+    {
+        "kurzbezeichnung": "Brühlstraße",
+        "id": 47114,
+        "strassenbezeichnung": "Brühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 47115,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchstraße",
+        "id": 47116,
+        "strassenbezeichnung": "Kirchstraße"
+    },
+    {
+        "kurzbezeichnung": "Langgasse",
+        "id": 47117,
+        "strassenbezeichnung": "Langgasse"
+    },
+    {
+        "kurzbezeichnung": "Raggalerstraße",
+        "id": 47118,
+        "strassenbezeichnung": "Raggalerstraße"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenstraße",
+        "id": 47119,
+        "strassenbezeichnung": "Raiffeisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sägeäcker",
+        "id": 47120,
+        "strassenbezeichnung": "Sägeäcker"
+    },
+    {
+        "kurzbezeichnung": "Sägeweg",
+        "id": 47121,
+        "strassenbezeichnung": "Sägeweg"
+    },
+    {
+        "kurzbezeichnung": "Sankt Martinsweg",
+        "id": 47122,
+        "strassenbezeichnung": "Sankt Martinsweg"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 47123,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Siedlung",
+        "id": 47124,
+        "strassenbezeichnung": "Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Walgaustraße",
+        "id": 47125,
+        "strassenbezeichnung": "Walgaustraße"
+    },
+    {
+        "kurzbezeichnung": "Zementwerkstraße",
+        "id": 47126,
+        "strassenbezeichnung": "Zementwerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Rottaweg",
+        "id": 49705,
+        "strassenbezeichnung": "Rottaweg"
+    },
+    {
+        "kurzbezeichnung": "Austraße",
+        "id": 64868,
+        "strassenbezeichnung": "Austraße"
+    },
+    {
+        "kurzbezeichnung": "Alte Landstraße",
+        "id": 64869,
+        "strassenbezeichnung": "Alte Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Bargrand",
+        "id": 64871,
+        "strassenbezeichnung": "Bargrand"
+    },
+    {
+        "kurzbezeichnung": "Bildweg",
+        "id": 64872,
+        "strassenbezeichnung": "Bildweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 64873,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Flugelin",
+        "id": 64874,
+        "strassenbezeichnung": "Flugelin"
+    },
+    {
+        "kurzbezeichnung": "Faschinastraße",
+        "id": 64875,
+        "strassenbezeichnung": "Faschinastraße"
+    },
+    {
+        "kurzbezeichnung": "Gäßle",
+        "id": 64877,
+        "strassenbezeichnung": "Gäßle"
+    },
+    {
+        "kurzbezeichnung": "Gerbeweg",
+        "id": 64878,
+        "strassenbezeichnung": "Gerbeweg"
+    },
+    {
+        "kurzbezeichnung": "Herrengasse",
+        "id": 64879,
+        "strassenbezeichnung": "Herrengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchgasse",
+        "id": 64880,
+        "strassenbezeichnung": "Kirchgasse"
+    },
+    {
+        "kurzbezeichnung": "Kläfisweg",
+        "id": 64881,
+        "strassenbezeichnung": "Kläfisweg"
+    },
+    {
+        "kurzbezeichnung": "Lafun",
+        "id": 64882,
+        "strassenbezeichnung": "Lafun"
+    },
+    {
+        "kurzbezeichnung": "Länderweg",
+        "id": 64883,
+        "strassenbezeichnung": "Länderweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 64884,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Lunidweg",
+        "id": 64885,
+        "strassenbezeichnung": "Lunidweg"
+    },
+    {
+        "kurzbezeichnung": "Quadernweg",
+        "id": 64886,
+        "strassenbezeichnung": "Quadernweg"
+    },
+    {
+        "kurzbezeichnung": "Novagasse",
+        "id": 64887,
+        "strassenbezeichnung": "Novagasse"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 64888,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgasse",
+        "id": 64890,
+        "strassenbezeichnung": "Schmiedgasse"
+    },
+    {
+        "kurzbezeichnung": "St. Anna Straße",
+        "id": 64891,
+        "strassenbezeichnung": "St. Anna Straße"
+    },
+    {
+        "kurzbezeichnung": "Siedlerweg",
+        "id": 64892,
+        "strassenbezeichnung": "Siedlerweg"
+    },
+    {
+        "kurzbezeichnung": "Torbaried",
+        "id": 64893,
+        "strassenbezeichnung": "Torbaried"
+    },
+    {
+        "kurzbezeichnung": "Walgaustraße",
+        "id": 64894,
+        "strassenbezeichnung": "Walgaustraße"
+    },
+    {
+        "kurzbezeichnung": "Weiherweg",
+        "id": 64895,
+        "strassenbezeichnung": "Weiherweg"
+    },
+    {
+        "kurzbezeichnung": "Werkstraße",
+        "id": 64896,
+        "strassenbezeichnung": "Werkstraße"
+    },
+    {
+        "kurzbezeichnung": "Büntliäcker",
+        "id": 64897,
+        "strassenbezeichnung": "Büntliäcker"
+    },
+    {
+        "kurzbezeichnung": "Bloserberg",
+        "id": 64898,
+        "strassenbezeichnung": "Bloserberg"
+    },
+    {
+        "kurzbezeichnung": "Garoxweg",
+        "id": 64900,
+        "strassenbezeichnung": "Garoxweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 64901,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Gurdinätsch",
+        "id": 64902,
+        "strassenbezeichnung": "Gurdinätsch"
+    },
+    {
+        "kurzbezeichnung": "Rudolf Straße",
+        "id": 64907,
+        "strassenbezeichnung": "Rudolf Straße"
+    },
+    {
+        "kurzbezeichnung": "Schwarzbachweg",
+        "id": 64909,
+        "strassenbezeichnung": "Schwarzbachweg"
+    },
+    {
+        "kurzbezeichnung": "Rätikonweg",
+        "id": 64910,
+        "strassenbezeichnung": "Rätikonweg"
+    },
+    {
+        "kurzbezeichnung": "Vogelgsang",
+        "id": 96405,
+        "strassenbezeichnung": "Vogelgsang"
+    },
+    {
+        "kurzbezeichnung": "Gütleweg",
+        "id": 96737,
+        "strassenbezeichnung": "Gütleweg"
+    },
+    {
+        "kurzbezeichnung": "Alte Raggalerstraße",
+        "id": 97416,
+        "strassenbezeichnung": "Alte Raggalerstraße"
+    },
+    {
+        "kurzbezeichnung": "Altes Kirchwegle",
+        "id": 97417,
+        "strassenbezeichnung": "Altes Kirchwegle"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 97418,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Betrg. Hängender Stein",
+        "id": 97419,
+        "strassenbezeichnung": "Betriebsgebiet Hängender Stein"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 97420,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnengarten",
+        "id": 97421,
+        "strassenbezeichnung": "Brunnengarten"
+    },
+    {
+        "kurzbezeichnung": "Daläus",
+        "id": 97422,
+        "strassenbezeichnung": "Daläus"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 97423,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Gabiacker",
+        "id": 97424,
+        "strassenbezeichnung": "Gabiacker"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 97425,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Grafisweg",
+        "id": 97426,
+        "strassenbezeichnung": "Grafisweg"
+    },
+    {
+        "kurzbezeichnung": "Hans-Wucher-Platz",
+        "id": 97427,
+        "strassenbezeichnung": "Hans-Wucher-Platz"
+    },
+    {
+        "kurzbezeichnung": "Kirchenäcker",
+        "id": 97428,
+        "strassenbezeichnung": "Kirchenäcker"
+    },
+    {
+        "kurzbezeichnung": "Kreuzacker",
+        "id": 97429,
+        "strassenbezeichnung": "Kreuzacker"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 97430,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Parsennweg",
+        "id": 97432,
+        "strassenbezeichnung": "Parsennweg"
+    },
+    {
+        "kurzbezeichnung": "Quadernweg",
+        "id": 97434,
+        "strassenbezeichnung": "Quadernweg"
+    },
+    {
+        "kurzbezeichnung": "Rochusweg",
+        "id": 97436,
+        "strassenbezeichnung": "Rochusweg"
+    },
+    {
+        "kurzbezeichnung": "Rösleweg",
+        "id": 97437,
+        "strassenbezeichnung": "Rösleweg"
+    },
+    {
+        "kurzbezeichnung": "Seeger an der Lutz-Weg",
+        "id": 97438,
+        "strassenbezeichnung": "Seeger an der Lutz-Weg"
+    },
+    {
+        "kurzbezeichnung": "Strassenäcker",
+        "id": 97439,
+        "strassenbezeichnung": "Strassenäcker"
+    },
+    {
+        "kurzbezeichnung": "Tannenweg",
+        "id": 97440,
+        "strassenbezeichnung": "Tannenweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 97441,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wingert Geissberg",
+        "id": 97442,
+        "strassenbezeichnung": "Wingert Geissberg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelhütte",
+        "id": 97443,
+        "strassenbezeichnung": "Ziegelhütte"
+    },
+    {
+        "kurzbezeichnung": "Burgweg",
+        "id": 104703,
+        "strassenbezeichnung": "Burgweg"
+    },
+    {
+        "kurzbezeichnung": "Oberburgweg",
+        "id": 104704,
+        "strassenbezeichnung": "Oberburgweg"
+    },
+    {
+        "kurzbezeichnung": "Walter Straße",
+        "id": 104705,
+        "strassenbezeichnung": "Walter Straße"
+    },
+    {
+        "kurzbezeichnung": "Webereiweg",
+        "id": 104706,
+        "strassenbezeichnung": "Webereiweg"
+    },
+    {
+        "kurzbezeichnung": "Feldegg",
+        "id": 104707,
+        "strassenbezeichnung": "Feldegg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 104708,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Gorishalde",
+        "id": 104709,
+        "strassenbezeichnung": "Gorishalde"
+    },
+    {
+        "kurzbezeichnung": "Kastner Straße",
+        "id": 104710,
+        "strassenbezeichnung": "Kastner Straße"
+    },
+    {
+        "kurzbezeichnung": "Douglass Straße",
+        "id": 104711,
+        "strassenbezeichnung": "Douglass Straße"
+    },
+    {
+        "kurzbezeichnung": "Stubahag",
+        "id": 104712,
+        "strassenbezeichnung": "Stubahag"
+    },
+    {
+        "kurzbezeichnung": "Oberlafun",
+        "id": 104713,
+        "strassenbezeichnung": "Oberlafun"
+    },
+    {
+        "kurzbezeichnung": "Langäcker",
+        "id": 104714,
+        "strassenbezeichnung": "Langäcker"
+    },
+    {
+        "kurzbezeichnung": "Vogelsang",
+        "id": 104715,
+        "strassenbezeichnung": "Vogelsang"
+    },
+    {
+        "kurzbezeichnung": "Hilti Straße",
+        "id": 104716,
+        "strassenbezeichnung": "Hilti Straße"
+    },
+    {
+        "kurzbezeichnung": "Sägawinkl",
+        "id": 104717,
+        "strassenbezeichnung": "Sägawinkl"
+    },
+    {
+        "kurzbezeichnung": "Leonhardweg",
+        "id": 104718,
+        "strassenbezeichnung": "Leonhardweg"
+    },
+    {
+        "kurzbezeichnung": "Hubertusweg",
+        "id": 104719,
+        "strassenbezeichnung": "Hubertusweg"
+    },
+    {
+        "kurzbezeichnung": "Unterer Hubertusweg",
+        "id": 104720,
+        "strassenbezeichnung": "Unterer Hubertusweg"
+    },
+    {
+        "kurzbezeichnung": "Almeinweg",
+        "id": 109393,
+        "strassenbezeichnung": "Almeinweg"
+    },
+    {
+        "kurzbezeichnung": "Torggelweg",
+        "id": 114831,
+        "strassenbezeichnung": "Torggelweg"
+    },
+    {
+        "kurzbezeichnung": "Neugut",
+        "id": 115579,
+        "strassenbezeichnung": "Neugut"
+    },
+    {
+        "kurzbezeichnung": "Gallus Wucher-Weg",
+        "id": 115778,
+        "strassenbezeichnung": "Gallus Wucher-Weg"
+    },
+    {
+        "kurzbezeichnung": "Obere Werkstraße",
+        "id": 125119,
+        "strassenbezeichnung": "Obere Werkstrasse "
+    }
+]

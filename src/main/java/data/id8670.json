@@ -1,0 +1,372 @@
+[
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": -32333,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Am Rainhof",
+        "id": 334,
+        "strassenbezeichnung": "Am Rainhof"
+    },
+    {
+        "kurzbezeichnung": "Eisenhammerstraße",
+        "id": 499,
+        "strassenbezeichnung": "Eisenhammerstraße"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 857,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Flurstraße",
+        "id": 1027,
+        "strassenbezeichnung": "Flurstraße"
+    },
+    {
+        "kurzbezeichnung": "Freßnitz",
+        "id": 1031,
+        "strassenbezeichnung": "Freßnitz"
+    },
+    {
+        "kurzbezeichnung": "Hochfeldstraße",
+        "id": 1034,
+        "strassenbezeichnung": "Hochfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Lohnackerstraße",
+        "id": 1158,
+        "strassenbezeichnung": "Lohnackerstraße"
+    },
+    {
+        "kurzbezeichnung": "Mürzstraße",
+        "id": 1358,
+        "strassenbezeichnung": "Mürzstraße"
+    },
+    {
+        "kurzbezeichnung": "Quarzweg",
+        "id": 2043,
+        "strassenbezeichnung": "Quarzweg"
+    },
+    {
+        "kurzbezeichnung": "Freßnitzstraße",
+        "id": 2049,
+        "strassenbezeichnung": "Freßnitzstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 2055,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 2062,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Aichfeld",
+        "id": 38159,
+        "strassenbezeichnung": "Aichfeld"
+    },
+    {
+        "kurzbezeichnung": "Alplstraße",
+        "id": 38160,
+        "strassenbezeichnung": "Alplstraße"
+    },
+    {
+        "kurzbezeichnung": "Anzengruberweg",
+        "id": 38161,
+        "strassenbezeichnung": "Anzengruberweg"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 38162,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Massingstraße",
+        "id": 38163,
+        "strassenbezeichnung": "Massingstraße"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 38164,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Brunngassl",
+        "id": 38165,
+        "strassenbezeichnung": "Brunngassl"
+    },
+    {
+        "kurzbezeichnung": "Erzherzog-Johann-Str.",
+        "id": 38166,
+        "strassenbezeichnung": "Erzherzog-Johann-Straße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofweg",
+        "id": 38167,
+        "strassenbezeichnung": "Friedhofweg"
+    },
+    {
+        "kurzbezeichnung": "Gölksiedlung I",
+        "id": 38168,
+        "strassenbezeichnung": "Gölksiedlung I"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 38170,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Höllweg",
+        "id": 38171,
+        "strassenbezeichnung": "Höllweg"
+    },
+    {
+        "kurzbezeichnung": "Karl-Morre-Gasse",
+        "id": 38173,
+        "strassenbezeichnung": "Karl-Morre-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kernstockweg",
+        "id": 38174,
+        "strassenbezeichnung": "Kernstockweg"
+    },
+    {
+        "kurzbezeichnung": "Koglweg",
+        "id": 38176,
+        "strassenbezeichnung": "Koglweg"
+    },
+    {
+        "kurzbezeichnung": "Lastenstraße",
+        "id": 38177,
+        "strassenbezeichnung": "Lastenstraße"
+    },
+    {
+        "kurzbezeichnung": "Longingasse",
+        "id": 38178,
+        "strassenbezeichnung": "Longingasse"
+    },
+    {
+        "kurzbezeichnung": "Pestalozzistraße",
+        "id": 38179,
+        "strassenbezeichnung": "Pestalozzistraße"
+    },
+    {
+        "kurzbezeichnung": "Roseggerstraße",
+        "id": 38180,
+        "strassenbezeichnung": "Roseggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedrich-Schlegel-G.",
+        "id": 38181,
+        "strassenbezeichnung": "Friedrich-Schlegel-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Steinfeldsiedlung",
+        "id": 38182,
+        "strassenbezeichnung": "Steinfeldsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Steinfeldstraße",
+        "id": 38183,
+        "strassenbezeichnung": "Steinfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Turnplatzsiedlung",
+        "id": 38186,
+        "strassenbezeichnung": "Turnplatzsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Wassertalweg",
+        "id": 38187,
+        "strassenbezeichnung": "Wassertalweg"
+    },
+    {
+        "kurzbezeichnung": "Westsiedlung",
+        "id": 38188,
+        "strassenbezeichnung": "Westsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Am Koglacker",
+        "id": 45335,
+        "strassenbezeichnung": "Am Koglacker"
+    },
+    {
+        "kurzbezeichnung": "Werkstraße",
+        "id": 46486,
+        "strassenbezeichnung": "Werkstraße"
+    },
+    {
+        "kurzbezeichnung": "Grazer Straße",
+        "id": 52152,
+        "strassenbezeichnung": "Grazer Straße"
+    },
+    {
+        "kurzbezeichnung": "Gölksiedlung II",
+        "id": 52153,
+        "strassenbezeichnung": "Gölksiedlung II"
+    },
+    {
+        "kurzbezeichnung": "Bürstadtstraße",
+        "id": 52154,
+        "strassenbezeichnung": "Bürstadtstraße"
+    },
+    {
+        "kurzbezeichnung": "Himmelweg",
+        "id": 52155,
+        "strassenbezeichnung": "Himmelweg"
+    },
+    {
+        "kurzbezeichnung": "Neudörfl",
+        "id": 52156,
+        "strassenbezeichnung": "Neudörfl"
+    },
+    {
+        "kurzbezeichnung": "Schwöbing",
+        "id": 52158,
+        "strassenbezeichnung": "Schwöbing"
+    },
+    {
+        "kurzbezeichnung": "Sommersiedlung",
+        "id": 52159,
+        "strassenbezeichnung": "Sommersiedlung"
+    },
+    {
+        "kurzbezeichnung": "Sommerstraße",
+        "id": 52160,
+        "strassenbezeichnung": "Sommerstraße"
+    },
+    {
+        "kurzbezeichnung": "Alter Sommer",
+        "id": 52161,
+        "strassenbezeichnung": "Alter Sommer"
+    },
+    {
+        "kurzbezeichnung": "Rittis",
+        "id": 52162,
+        "strassenbezeichnung": "Rittis"
+    },
+    {
+        "kurzbezeichnung": "Rittisstraße",
+        "id": 52163,
+        "strassenbezeichnung": "Rittisstraße"
+    },
+    {
+        "kurzbezeichnung": "Eisnitzerhöhe",
+        "id": 52164,
+        "strassenbezeichnung": "Eisnitzerhöhe"
+    },
+    {
+        "kurzbezeichnung": "Berghaussiedlung",
+        "id": 52165,
+        "strassenbezeichnung": "Berghaussiedlung"
+    },
+    {
+        "kurzbezeichnung": "Buschenkoglweg",
+        "id": 52166,
+        "strassenbezeichnung": "Buschenkoglweg"
+    },
+    {
+        "kurzbezeichnung": "Sommerberg",
+        "id": 52167,
+        "strassenbezeichnung": "Sommerberg"
+    },
+    {
+        "kurzbezeichnung": "Gölkweg",
+        "id": 52168,
+        "strassenbezeichnung": "Gölkweg"
+    },
+    {
+        "kurzbezeichnung": "Postmühlweg",
+        "id": 52169,
+        "strassenbezeichnung": "Postmühlweg"
+    },
+    {
+        "kurzbezeichnung": "Paula-Grogger-Weg",
+        "id": 62153,
+        "strassenbezeichnung": "Paula-Grogger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Max-Mell-Straße",
+        "id": 62154,
+        "strassenbezeichnung": "Dr.-Max-Mell-Straße"
+    },
+    {
+        "kurzbezeichnung": "Rainhofsiedlung",
+        "id": 62155,
+        "strassenbezeichnung": "Rainhofsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Klöpferweg",
+        "id": 68273,
+        "strassenbezeichnung": "Klöpferweg"
+    },
+    {
+        "kurzbezeichnung": "Freßnitzgraben",
+        "id": 89300,
+        "strassenbezeichnung": "Freßnitzgraben"
+    },
+    {
+        "kurzbezeichnung": "Malleisten",
+        "id": 89301,
+        "strassenbezeichnung": "Malleisten"
+    },
+    {
+        "kurzbezeichnung": "Massing",
+        "id": 89302,
+        "strassenbezeichnung": "Massing"
+    },
+    {
+        "kurzbezeichnung": "Feistritzberg",
+        "id": 89303,
+        "strassenbezeichnung": "Feistritzberg"
+    },
+    {
+        "kurzbezeichnung": "Schwöbing",
+        "id": 89305,
+        "strassenbezeichnung": "Schwöbing"
+    },
+    {
+        "kurzbezeichnung": "Aichfeld-West",
+        "id": 95871,
+        "strassenbezeichnung": "Aichfeld-West"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 96193,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Umfahrungsstraße",
+        "id": 96194,
+        "strassenbezeichnung": "Umfahrungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Hans-Ludwig-Gasse",
+        "id": 103956,
+        "strassenbezeichnung": "Hans-Ludwig-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Brahmsweg",
+        "id": 106376,
+        "strassenbezeichnung": "Brahmsweg"
+    },
+    {
+        "kurzbezeichnung": "Hofackerstraße",
+        "id": 109773,
+        "strassenbezeichnung": "Hofackerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gölksiedlung III",
+        "id": 116849,
+        "strassenbezeichnung": "Gölksiedlung III"
+    },
+    {
+        "kurzbezeichnung": "Lindenstraße",
+        "id": 126581,
+        "strassenbezeichnung": "Lindenstraße"
+    }
+]

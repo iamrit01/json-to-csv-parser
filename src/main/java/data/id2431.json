@@ -1,0 +1,382 @@
+[
+    {
+        "kurzbezeichnung": "Gemüseweg",
+        "id": -32637,
+        "strassenbezeichnung": "Gemüseweg"
+    },
+    {
+        "kurzbezeichnung": "Andreas Heilinger Pl.",
+        "id": -32364,
+        "strassenbezeichnung": "Andreas Heilinger Platz"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": -32337,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Arthur Krupp-Straße",
+        "id": -20498,
+        "strassenbezeichnung": "Arthur Krupp-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Campus",
+        "id": -18220,
+        "strassenbezeichnung": "Am Campus"
+    },
+    {
+        "kurzbezeichnung": "Am Neuberg",
+        "id": -16781,
+        "strassenbezeichnung": "Am Neuberg "
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 1154,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 11522,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Dreifaltigkeitsplatz",
+        "id": 11525,
+        "strassenbezeichnung": "Dreifaltigkeitsplatz"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 11526,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischamender Straße",
+        "id": 11527,
+        "strassenbezeichnung": "Fischamender Straße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 11528,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Goldgasse",
+        "id": 11529,
+        "strassenbezeichnung": "Goldgasse"
+    },
+    {
+        "kurzbezeichnung": "Haydngasse",
+        "id": 11531,
+        "strassenbezeichnung": "Haydngasse"
+    },
+    {
+        "kurzbezeichnung": "Heideweg",
+        "id": 11533,
+        "strassenbezeichnung": "Heideweg"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 11534,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Julius-Raab-Gasse",
+        "id": 11535,
+        "strassenbezeichnung": "Julius-Raab-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Karlsdorf",
+        "id": 11536,
+        "strassenbezeichnung": "Karlsdorf"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 11537,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Königsberg",
+        "id": 11538,
+        "strassenbezeichnung": "Königsberg"
+    },
+    {
+        "kurzbezeichnung": "Lagerhausstraße",
+        "id": 11541,
+        "strassenbezeichnung": "Lagerhausstraße"
+    },
+    {
+        "kurzbezeichnung": "Litschausiedlung",
+        "id": 11545,
+        "strassenbezeichnung": "Litschausiedlung"
+    },
+    {
+        "kurzbezeichnung": "Margarethner Straße",
+        "id": 11546,
+        "strassenbezeichnung": "Margarethner Straße"
+    },
+    {
+        "kurzbezeichnung": "Ludwigshof",
+        "id": 11547,
+        "strassenbezeichnung": "Ludwigshof"
+    },
+    {
+        "kurzbezeichnung": "Mozartgasse",
+        "id": 11549,
+        "strassenbezeichnung": "Mozartgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlstraße",
+        "id": 11551,
+        "strassenbezeichnung": "Mühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Neubergsiedlung",
+        "id": 11552,
+        "strassenbezeichnung": "Neubergsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Oskar-Helmer-Gasse",
+        "id": 11554,
+        "strassenbezeichnung": "Oskar-Helmer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Reisenbachsiedlung",
+        "id": 11556,
+        "strassenbezeichnung": "Reisenbachsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 11558,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 11560,
+        "strassenbezeichnung": "Schloßgasse"
+    },
+    {
+        "kurzbezeichnung": "Schubertgasse",
+        "id": 11561,
+        "strassenbezeichnung": "Schubertgasse"
+    },
+    {
+        "kurzbezeichnung": "Seegrabenweg",
+        "id": 11563,
+        "strassenbezeichnung": "Seegrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Tulpengasse",
+        "id": 11564,
+        "strassenbezeichnung": "Tulpengasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 11565,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Arbeitergasse",
+        "id": 22230,
+        "strassenbezeichnung": "Arbeitergasse"
+    },
+    {
+        "kurzbezeichnung": "Bankgasse",
+        "id": 22231,
+        "strassenbezeichnung": "Bankgasse"
+    },
+    {
+        "kurzbezeichnung": "Enzersdorfer Weg",
+        "id": 22232,
+        "strassenbezeichnung": "Enzersdorfer Weg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 22233,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischamender Straße",
+        "id": 22234,
+        "strassenbezeichnung": "Fischamender Straße"
+    },
+    {
+        "kurzbezeichnung": "Fischapromenade",
+        "id": 22235,
+        "strassenbezeichnung": "Fischapromenade"
+    },
+    {
+        "kurzbezeichnung": "Friedhofsgasse",
+        "id": 22236,
+        "strassenbezeichnung": "Friedhofsgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 22237,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Heideweg",
+        "id": 22238,
+        "strassenbezeichnung": "Heideweg"
+    },
+    {
+        "kurzbezeichnung": "Hutweide",
+        "id": 22239,
+        "strassenbezeichnung": "Hutweide"
+    },
+    {
+        "kurzbezeichnung": "Johannesgasse",
+        "id": 22240,
+        "strassenbezeichnung": "Johannesgasse"
+    },
+    {
+        "kurzbezeichnung": "Katharinenhofstraße",
+        "id": 22241,
+        "strassenbezeichnung": "Katharinenhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 22242,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Lerchengasse",
+        "id": 22243,
+        "strassenbezeichnung": "Lerchengasse"
+    },
+    {
+        "kurzbezeichnung": "Schwadorfer Straße",
+        "id": 22244,
+        "strassenbezeichnung": "Schwadorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 22245,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Teichgasse",
+        "id": 22246,
+        "strassenbezeichnung": "Teichgasse"
+    },
+    {
+        "kurzbezeichnung": "Ernst-Polsterer-Weg",
+        "id": 48018,
+        "strassenbezeichnung": "Ernst-Polsterer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Wiener Siedlung",
+        "id": 51055,
+        "strassenbezeichnung": "Wiener Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Kleinneusiedler-Gasse",
+        "id": 51559,
+        "strassenbezeichnung": "Kleinneusiedler-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Bankweg",
+        "id": 51713,
+        "strassenbezeichnung": "Bankweg"
+    },
+    {
+        "kurzbezeichnung": "An der Bundesstraße 10",
+        "id": 52864,
+        "strassenbezeichnung": "An der Bundesstraße 10"
+    },
+    {
+        "kurzbezeichnung": "Huberzeile",
+        "id": 52865,
+        "strassenbezeichnung": "Huberzeile"
+    },
+    {
+        "kurzbezeichnung": "Mittergasse",
+        "id": 54628,
+        "strassenbezeichnung": "Mittergasse"
+    },
+    {
+        "kurzbezeichnung": "Kellerzeile",
+        "id": 60834,
+        "strassenbezeichnung": "Kellerzeile"
+    },
+    {
+        "kurzbezeichnung": "Bahngasse",
+        "id": 60835,
+        "strassenbezeichnung": "Bahngasse"
+    },
+    {
+        "kurzbezeichnung": "Fischaweg",
+        "id": 65582,
+        "strassenbezeichnung": "Fischaweg"
+    },
+    {
+        "kurzbezeichnung": "Bergzeile",
+        "id": 65583,
+        "strassenbezeichnung": "Bergzeile"
+    },
+    {
+        "kurzbezeichnung": "Nelkensiedlung",
+        "id": 65584,
+        "strassenbezeichnung": "Nelkensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 65585,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Leharweg",
+        "id": 65586,
+        "strassenbezeichnung": "Leharweg"
+    },
+    {
+        "kurzbezeichnung": "Bahngasse",
+        "id": 66574,
+        "strassenbezeichnung": "Bahngasse"
+    },
+    {
+        "kurzbezeichnung": "TNS-Gasse",
+        "id": 69571,
+        "strassenbezeichnung": "TNS-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Am Felde",
+        "id": 91680,
+        "strassenbezeichnung": "Am Felde"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 91681,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Unterer Birkenweg",
+        "id": 99258,
+        "strassenbezeichnung": "Unterer Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Schüttbergweg",
+        "id": 99259,
+        "strassenbezeichnung": "Schüttbergweg"
+    },
+    {
+        "kurzbezeichnung": "Franz Binder-Gasse",
+        "id": 103495,
+        "strassenbezeichnung": "Franz Binder-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Eichengasse",
+        "id": 103496,
+        "strassenbezeichnung": "Eichengasse"
+    },
+    {
+        "kurzbezeichnung": "Ulmengasse",
+        "id": 103497,
+        "strassenbezeichnung": "Ulmengasse"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 103498,
+        "strassenbezeichnung": "Lindengasse"
+    }
+]

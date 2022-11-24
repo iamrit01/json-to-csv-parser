@@ -1,0 +1,392 @@
+[
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": -30886,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Naturpfad",
+        "id": -17322,
+        "strassenbezeichnung": "Naturpfad"
+    },
+    {
+        "kurzbezeichnung": "Aulandstraße",
+        "id": 1179,
+        "strassenbezeichnung": "Aulandstraße"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 1180,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 1181,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumenstraße",
+        "id": 1182,
+        "strassenbezeichnung": "Blumenstraße"
+    },
+    {
+        "kurzbezeichnung": "Brunngarten",
+        "id": 1183,
+        "strassenbezeichnung": "Brunngarten"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Obernhumer-Straße",
+        "id": 1184,
+        "strassenbezeichnung": "Dr.-Obernhumer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 1185,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Flurweg",
+        "id": 1186,
+        "strassenbezeichnung": "Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Hauserstraße",
+        "id": 1197,
+        "strassenbezeichnung": "Hauserstraße"
+    },
+    {
+        "kurzbezeichnung": "Hochweg",
+        "id": 1203,
+        "strassenbezeichnung": "Hochweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 1207,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 1209,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 1213,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kreuzberg",
+        "id": 1220,
+        "strassenbezeichnung": "Kreuzberg"
+    },
+    {
+        "kurzbezeichnung": "Maierhoferweg",
+        "id": 1223,
+        "strassenbezeichnung": "Maierhoferweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 1224,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 1228,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Pfenebergerstraße",
+        "id": 1236,
+        "strassenbezeichnung": "Pfenebergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 1237,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedweg",
+        "id": 1238,
+        "strassenbezeichnung": "Schmiedweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 1239,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": 1240,
+        "strassenbezeichnung": "Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Steinweg",
+        "id": 1241,
+        "strassenbezeichnung": "Steinweg"
+    },
+    {
+        "kurzbezeichnung": "Vischerstraße",
+        "id": 1242,
+        "strassenbezeichnung": "Vischerstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 1243,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Weidweg",
+        "id": 1244,
+        "strassenbezeichnung": "Weidweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 59393,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Vorauweg",
+        "id": 59394,
+        "strassenbezeichnung": "Vorauweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenstraße",
+        "id": 65839,
+        "strassenbezeichnung": "Birkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Moosbachweg",
+        "id": 71373,
+        "strassenbezeichnung": "Moosbachweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 71374,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Pfeneberg",
+        "id": 76117,
+        "strassenbezeichnung": "Pfeneberg"
+    },
+    {
+        "kurzbezeichnung": "Püret",
+        "id": 76160,
+        "strassenbezeichnung": "Püret"
+    },
+    {
+        "kurzbezeichnung": "Bernrad",
+        "id": 76462,
+        "strassenbezeichnung": "Bernrad"
+    },
+    {
+        "kurzbezeichnung": "Untereck",
+        "id": 76463,
+        "strassenbezeichnung": "Untereck"
+    },
+    {
+        "kurzbezeichnung": "Au bei Ed",
+        "id": 83590,
+        "strassenbezeichnung": "Au bei Ed"
+    },
+    {
+        "kurzbezeichnung": "Au bei Natternbach",
+        "id": 83591,
+        "strassenbezeichnung": "Au bei Natternbach"
+    },
+    {
+        "kurzbezeichnung": "Baumühl",
+        "id": 83592,
+        "strassenbezeichnung": "Baumühl"
+    },
+    {
+        "kurzbezeichnung": "Berndorf",
+        "id": 83593,
+        "strassenbezeichnung": "Berndorf"
+    },
+    {
+        "kurzbezeichnung": "Dopl",
+        "id": 83594,
+        "strassenbezeichnung": "Dopl"
+    },
+    {
+        "kurzbezeichnung": "Eck",
+        "id": 83595,
+        "strassenbezeichnung": "Eck"
+    },
+    {
+        "kurzbezeichnung": "Ed",
+        "id": 83596,
+        "strassenbezeichnung": "Ed"
+    },
+    {
+        "kurzbezeichnung": "Wolfgrub",
+        "id": 83597,
+        "strassenbezeichnung": "Wolfgrub"
+    },
+    {
+        "kurzbezeichnung": "Fronberg",
+        "id": 83598,
+        "strassenbezeichnung": "Fronberg"
+    },
+    {
+        "kurzbezeichnung": "Gaisbuchen",
+        "id": 83599,
+        "strassenbezeichnung": "Gaisbuchen"
+    },
+    {
+        "kurzbezeichnung": "Gschaid",
+        "id": 83600,
+        "strassenbezeichnung": "Gschaid"
+    },
+    {
+        "kurzbezeichnung": "Haibach",
+        "id": 83601,
+        "strassenbezeichnung": "Haibach"
+    },
+    {
+        "kurzbezeichnung": "Hairet",
+        "id": 83602,
+        "strassenbezeichnung": "Hairet"
+    },
+    {
+        "kurzbezeichnung": "Hochstraß",
+        "id": 83603,
+        "strassenbezeichnung": "Hochstraß"
+    },
+    {
+        "kurzbezeichnung": "Hörmating",
+        "id": 83604,
+        "strassenbezeichnung": "Hörmating"
+    },
+    {
+        "kurzbezeichnung": "Hörzingerwald",
+        "id": 83605,
+        "strassenbezeichnung": "Hörzingerwald"
+    },
+    {
+        "kurzbezeichnung": "Hungberg",
+        "id": 83606,
+        "strassenbezeichnung": "Hungberg"
+    },
+    {
+        "kurzbezeichnung": "Kapping",
+        "id": 83607,
+        "strassenbezeichnung": "Kapping"
+    },
+    {
+        "kurzbezeichnung": "Kirchberg",
+        "id": 83608,
+        "strassenbezeichnung": "Kirchberg"
+    },
+    {
+        "kurzbezeichnung": "Knotzberg",
+        "id": 83609,
+        "strassenbezeichnung": "Knotzberg"
+    },
+    {
+        "kurzbezeichnung": "Kreuz",
+        "id": 83610,
+        "strassenbezeichnung": "Kreuz"
+    },
+    {
+        "kurzbezeichnung": "Lichtberg",
+        "id": 83611,
+        "strassenbezeichnung": "Lichtberg"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 83612,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Oberhörzing",
+        "id": 83613,
+        "strassenbezeichnung": "Oberhörzing"
+    },
+    {
+        "kurzbezeichnung": "Obermaggau",
+        "id": 83614,
+        "strassenbezeichnung": "Obermaggau"
+    },
+    {
+        "kurzbezeichnung": "Obertresleinsbach",
+        "id": 83615,
+        "strassenbezeichnung": "Obertresleinsbach"
+    },
+    {
+        "kurzbezeichnung": "Pötzenau",
+        "id": 83616,
+        "strassenbezeichnung": "Pötzenau"
+    },
+    {
+        "kurzbezeichnung": "Pötzling",
+        "id": 83617,
+        "strassenbezeichnung": "Pötzling"
+    },
+    {
+        "kurzbezeichnung": "Reiting",
+        "id": 83618,
+        "strassenbezeichnung": "Reiting"
+    },
+    {
+        "kurzbezeichnung": "Rittberg",
+        "id": 83619,
+        "strassenbezeichnung": "Rittberg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedparz",
+        "id": 83620,
+        "strassenbezeichnung": "Schmiedparz"
+    },
+    {
+        "kurzbezeichnung": "Tal",
+        "id": 83621,
+        "strassenbezeichnung": "Tal"
+    },
+    {
+        "kurzbezeichnung": "Traunolding",
+        "id": 83622,
+        "strassenbezeichnung": "Traunolding"
+    },
+    {
+        "kurzbezeichnung": "Unterhörzing",
+        "id": 83623,
+        "strassenbezeichnung": "Unterhörzing"
+    },
+    {
+        "kurzbezeichnung": "Untermaggau",
+        "id": 83624,
+        "strassenbezeichnung": "Untermaggau"
+    },
+    {
+        "kurzbezeichnung": "Entholz",
+        "id": 85732,
+        "strassenbezeichnung": "Entholz"
+    },
+    {
+        "kurzbezeichnung": "Bachstraße",
+        "id": 96113,
+        "strassenbezeichnung": "Bachstraße"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 96116,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Bauhofstraße",
+        "id": 105608,
+        "strassenbezeichnung": "Bauhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Ökostraße",
+        "id": 108545,
+        "strassenbezeichnung": "Ökostraße"
+    },
+    {
+        "kurzbezeichnung": "Hochfeld",
+        "id": 124105,
+        "strassenbezeichnung": "Hochfeld"
+    }
+]

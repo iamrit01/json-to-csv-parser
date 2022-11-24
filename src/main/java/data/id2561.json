@@ -1,0 +1,392 @@
+[
+    {
+        "kurzbezeichnung": "Pecherweg",
+        "id": -33244,
+        "strassenbezeichnung": "Pecherweg"
+    },
+    {
+        "kurzbezeichnung": "Dolomitstraße",
+        "id": -33243,
+        "strassenbezeichnung": "Dolomitstraße"
+    },
+    {
+        "kurzbezeichnung": "Dolomitplatz",
+        "id": -33242,
+        "strassenbezeichnung": "Dolomitplatz"
+    },
+    {
+        "kurzbezeichnung": "Pechergasse",
+        "id": -30067,
+        "strassenbezeichnung": "Pechergasse"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": -18537,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Aigner Straße",
+        "id": 54496,
+        "strassenbezeichnung": "Aigner Straße"
+    },
+    {
+        "kurzbezeichnung": "Alkersdorfer Straße",
+        "id": 54497,
+        "strassenbezeichnung": "Alkersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Haltebühel",
+        "id": 54498,
+        "strassenbezeichnung": "Am Haltebühel"
+    },
+    {
+        "kurzbezeichnung": "Am Knappenhof",
+        "id": 54499,
+        "strassenbezeichnung": "Am Knappenhof"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 54501,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Berndorfer Straße",
+        "id": 54502,
+        "strassenbezeichnung": "Berndorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Brücklweg",
+        "id": 54503,
+        "strassenbezeichnung": "Brücklweg"
+    },
+    {
+        "kurzbezeichnung": "Buchriegelgasse",
+        "id": 54504,
+        "strassenbezeichnung": "Buchriegelgasse"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 54505,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 54506,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 54507,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 54508,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Gemeindegasse",
+        "id": 54509,
+        "strassenbezeichnung": "Gemeindegasse"
+    },
+    {
+        "kurzbezeichnung": "Glashüttenweg",
+        "id": 54510,
+        "strassenbezeichnung": "Glashüttenweg"
+    },
+    {
+        "kurzbezeichnung": "Hartstraße",
+        "id": 54511,
+        "strassenbezeichnung": "Hartstraße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 54512,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hernsteiner Straße",
+        "id": 54513,
+        "strassenbezeichnung": "Hernsteiner Straße"
+    },
+    {
+        "kurzbezeichnung": "Hinteraigen",
+        "id": 54514,
+        "strassenbezeichnung": "Hinteraigen"
+    },
+    {
+        "kurzbezeichnung": "Hintersteindl",
+        "id": 54515,
+        "strassenbezeichnung": "Hintersteindl"
+    },
+    {
+        "kurzbezeichnung": "Hochstraße",
+        "id": 54516,
+        "strassenbezeichnung": "Hochstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofkogelgasse",
+        "id": 54517,
+        "strassenbezeichnung": "Hofkogelgasse"
+    },
+    {
+        "kurzbezeichnung": "Kippweg",
+        "id": 54518,
+        "strassenbezeichnung": "Kippweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 54519,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 54520,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Kirchensteig",
+        "id": 54521,
+        "strassenbezeichnung": "Kirchensteig"
+    },
+    {
+        "kurzbezeichnung": "Kreithgasse",
+        "id": 54522,
+        "strassenbezeichnung": "Kreithgasse"
+    },
+    {
+        "kurzbezeichnung": "Kurze Gasse",
+        "id": 54523,
+        "strassenbezeichnung": "Kurze Gasse"
+    },
+    {
+        "kurzbezeichnung": "Lindabrunner Straße",
+        "id": 54524,
+        "strassenbezeichnung": "Lindabrunner Straße"
+    },
+    {
+        "kurzbezeichnung": "Mandlinggasse",
+        "id": 54525,
+        "strassenbezeichnung": "Mandlinggasse"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 54526,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Neusiedler Straße",
+        "id": 54527,
+        "strassenbezeichnung": "Neusiedler Straße"
+    },
+    {
+        "kurzbezeichnung": "Pechergasse",
+        "id": 54528,
+        "strassenbezeichnung": "Pechergasse"
+    },
+    {
+        "kurzbezeichnung": "Pechersteig",
+        "id": 54529,
+        "strassenbezeichnung": "Pechersteig"
+    },
+    {
+        "kurzbezeichnung": "Pechhüttengasse",
+        "id": 54530,
+        "strassenbezeichnung": "Pechhüttengasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrgasse",
+        "id": 54531,
+        "strassenbezeichnung": "Pfarrgasse"
+    },
+    {
+        "kurzbezeichnung": "Piestinger Straße",
+        "id": 54532,
+        "strassenbezeichnung": "Piestinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Quergasse",
+        "id": 54533,
+        "strassenbezeichnung": "Quergasse"
+    },
+    {
+        "kurzbezeichnung": "Rosental",
+        "id": 54534,
+        "strassenbezeichnung": "Rosental"
+    },
+    {
+        "kurzbezeichnung": "Sandackergasse",
+        "id": 54535,
+        "strassenbezeichnung": "Sandackergasse"
+    },
+    {
+        "kurzbezeichnung": "Schneebergblick",
+        "id": 54536,
+        "strassenbezeichnung": "Schneebergblick"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 54537,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 54538,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Sicherlweg",
+        "id": 54539,
+        "strassenbezeichnung": "Sicherlweg"
+    },
+    {
+        "kurzbezeichnung": "Stadtweg",
+        "id": 54541,
+        "strassenbezeichnung": "Stadtweg"
+    },
+    {
+        "kurzbezeichnung": "Steinhofstraße",
+        "id": 54543,
+        "strassenbezeichnung": "Steinhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Steinkogelgasse",
+        "id": 54544,
+        "strassenbezeichnung": "Steinkogelgasse"
+    },
+    {
+        "kurzbezeichnung": "Stieglgasse",
+        "id": 54545,
+        "strassenbezeichnung": "Stieglgasse"
+    },
+    {
+        "kurzbezeichnung": "Trift",
+        "id": 54546,
+        "strassenbezeichnung": "Trift"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 54547,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Weißenbrunn",
+        "id": 54548,
+        "strassenbezeichnung": "Weißenbrunn"
+    },
+    {
+        "kurzbezeichnung": "Wolfsbiegel",
+        "id": 54550,
+        "strassenbezeichnung": "Wolfsbiegel"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 61035,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 61036,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Schafflerhofweg",
+        "id": 61037,
+        "strassenbezeichnung": "Schafflerhofweg"
+    },
+    {
+        "kurzbezeichnung": "Sportgasse",
+        "id": 74169,
+        "strassenbezeichnung": "Sportgasse"
+    },
+    {
+        "kurzbezeichnung": "Spielplatzgasse",
+        "id": 74170,
+        "strassenbezeichnung": "Spielplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Alkersdorf",
+        "id": 78715,
+        "strassenbezeichnung": "Alkersdorf"
+    },
+    {
+        "kurzbezeichnung": "Kleinfeld",
+        "id": 78716,
+        "strassenbezeichnung": "Kleinfeld"
+    },
+    {
+        "kurzbezeichnung": "Pöllau",
+        "id": 78718,
+        "strassenbezeichnung": "Pöllau"
+    },
+    {
+        "kurzbezeichnung": "Kohlackergasse",
+        "id": 91675,
+        "strassenbezeichnung": "Kohlackergasse"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsstraße",
+        "id": 98066,
+        "strassenbezeichnung": "Siedlungsstraße"
+    },
+    {
+        "kurzbezeichnung": "Grillenberg",
+        "id": 98067,
+        "strassenbezeichnung": "Grillenberg"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 101148,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 101149,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Zobeltgasse",
+        "id": 101150,
+        "strassenbezeichnung": "Zobeltgasse"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 101151,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Urhausweg",
+        "id": 101152,
+        "strassenbezeichnung": "Urhausweg"
+    },
+    {
+        "kurzbezeichnung": "Edelseegasse",
+        "id": 101153,
+        "strassenbezeichnung": "Edelseegasse"
+    },
+    {
+        "kurzbezeichnung": "Hügelweg",
+        "id": 101154,
+        "strassenbezeichnung": "Hügelweg"
+    },
+    {
+        "kurzbezeichnung": "Flurweg",
+        "id": 102977,
+        "strassenbezeichnung": "Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Am Schlosspark",
+        "id": 113284,
+        "strassenbezeichnung": "Am Schlosspark"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 114656,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Falterweg",
+        "id": 125275,
+        "strassenbezeichnung": "Falterweg"
+    }
+]

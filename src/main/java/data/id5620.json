@@ -1,0 +1,522 @@
+[
+    {
+        "kurzbezeichnung": "Kard. Schwarzenbergpl.",
+        "id": -17423,
+        "strassenbezeichnung": "Kardinal Schwarzenbergplatz"
+    },
+    {
+        "kurzbezeichnung": "Voglstraße",
+        "id": -17414,
+        "strassenbezeichnung": "Voglstraße"
+    },
+    {
+        "kurzbezeichnung": "Veitlweg",
+        "id": -17413,
+        "strassenbezeichnung": "Veitlweg"
+    },
+    {
+        "kurzbezeichnung": "Urfahr",
+        "id": -17412,
+        "strassenbezeichnung": "Urfahr"
+    },
+    {
+        "kurzbezeichnung": "Tauernstraße",
+        "id": -17411,
+        "strassenbezeichnung": "Tauernstraße"
+    },
+    {
+        "kurzbezeichnung": "Supanicweg",
+        "id": -17410,
+        "strassenbezeichnung": "Supanicweg"
+    },
+    {
+        "kurzbezeichnung": "Stöllingerstraße",
+        "id": -17409,
+        "strassenbezeichnung": "Stöllingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Stegfeld",
+        "id": -17408,
+        "strassenbezeichnung": "Stegfeld"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": -17407,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Schönrain",
+        "id": -17405,
+        "strassenbezeichnung": "Schönrain"
+    },
+    {
+        "kurzbezeichnung": "Schönberg",
+        "id": -17404,
+        "strassenbezeichnung": "Schönberg"
+    },
+    {
+        "kurzbezeichnung": "Schernbergstraße",
+        "id": -17402,
+        "strassenbezeichnung": "Schernbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Salzleckerstraße",
+        "id": -17401,
+        "strassenbezeichnung": "Salzleckerstraße"
+    },
+    {
+        "kurzbezeichnung": "Salzachweg",
+        "id": -17400,
+        "strassenbezeichnung": "Salzachweg"
+    },
+    {
+        "kurzbezeichnung": "Richterhöhe",
+        "id": -17399,
+        "strassenbezeichnung": "Richterhöhe"
+    },
+    {
+        "kurzbezeichnung": "Retzenegg",
+        "id": -17398,
+        "strassenbezeichnung": "Retzenegg"
+    },
+    {
+        "kurzbezeichnung": "Panoramastraße",
+        "id": -17397,
+        "strassenbezeichnung": "Panoramastraße"
+    },
+    {
+        "kurzbezeichnung": "Oberthalerweg",
+        "id": -17396,
+        "strassenbezeichnung": "Oberthalerweg"
+    },
+    {
+        "kurzbezeichnung": "Löwenstraße",
+        "id": -17395,
+        "strassenbezeichnung": "Löwenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kraftwerkstraße",
+        "id": -17394,
+        "strassenbezeichnung": "Kraftwerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Hiermansedergasse",
+        "id": -17393,
+        "strassenbezeichnung": "Hiermansedergasse"
+    },
+    {
+        "kurzbezeichnung": "Hainstraße",
+        "id": -17392,
+        "strassenbezeichnung": "Hainstraße"
+    },
+    {
+        "kurzbezeichnung": "Ellenberg",
+        "id": -17391,
+        "strassenbezeichnung": "Ellenberg"
+    },
+    {
+        "kurzbezeichnung": "Brucknerstraße",
+        "id": -17390,
+        "strassenbezeichnung": "Brucknerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": -17389,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Baderstraße",
+        "id": -17388,
+        "strassenbezeichnung": "Baderstraße"
+    },
+    {
+        "kurzbezeichnung": "Achenweg",
+        "id": -17387,
+        "strassenbezeichnung": "Achenweg"
+    },
+    {
+        "kurzbezeichnung": "Abtsdorf",
+        "id": -17386,
+        "strassenbezeichnung": "Abtsdorf"
+    },
+    {
+        "kurzbezeichnung": "Vinzenzstraße",
+        "id": -17337,
+        "strassenbezeichnung": "Vinzenzstraße"
+    },
+    {
+        "kurzbezeichnung": "WM-Otto-Supanic-Weg",
+        "id": -17326,
+        "strassenbezeichnung": "WM-Otto-Supanic-Weg"
+    },
+    {
+        "kurzbezeichnung": "Sankt Veiter Straße",
+        "id": -4446,
+        "strassenbezeichnung": "Sankt Veiter Straße"
+    },
+    {
+        "kurzbezeichnung": "Sankt Veiter Straße",
+        "id": -4445,
+        "strassenbezeichnung": "Sankt Veiter Straße"
+    },
+    {
+        "kurzbezeichnung": "Kraftwerk",
+        "id": -936,
+        "strassenbezeichnung": "Kraftwerk"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 32848,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Brauhausgasse",
+        "id": 32849,
+        "strassenbezeichnung": "Brauhausgasse"
+    },
+    {
+        "kurzbezeichnung": "Markt",
+        "id": 32850,
+        "strassenbezeichnung": "Markt"
+    },
+    {
+        "kurzbezeichnung": "Dr. Franz-Hainstraße",
+        "id": 32851,
+        "strassenbezeichnung": "Dr. Franz-Hainstraße"
+    },
+    {
+        "kurzbezeichnung": "Prim. Dr. Oberthalerw.",
+        "id": 32852,
+        "strassenbezeichnung": "Prim. Dr. Oberthalerweg"
+    },
+    {
+        "kurzbezeichnung": "Forststraße",
+        "id": 32853,
+        "strassenbezeichnung": "Forststraße"
+    },
+    {
+        "kurzbezeichnung": "Goldeggerstraße",
+        "id": 32854,
+        "strassenbezeichnung": "Goldeggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 32856,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Leopold-Brucknerstraße",
+        "id": 32857,
+        "strassenbezeichnung": "Leopold-Brucknerstraße"
+    },
+    {
+        "kurzbezeichnung": "Max-Baderplatz",
+        "id": 32858,
+        "strassenbezeichnung": "Max-Baderplatz"
+    },
+    {
+        "kurzbezeichnung": "Neue Heimat",
+        "id": 32859,
+        "strassenbezeichnung": "Neue Heimat"
+    },
+    {
+        "kurzbezeichnung": "Prim. Dr. Veitlweg",
+        "id": 32860,
+        "strassenbezeichnung": "Prim. Dr. Veitlweg"
+    },
+    {
+        "kurzbezeichnung": "Putzengrabenstraße",
+        "id": 32861,
+        "strassenbezeichnung": "Putzengrabenstraße"
+    },
+    {
+        "kurzbezeichnung": "Rudolf-Richterhöhe",
+        "id": 32862,
+        "strassenbezeichnung": "Rudolf-Richterhöhe"
+    },
+    {
+        "kurzbezeichnung": "Salzburgerstraße",
+        "id": 32863,
+        "strassenbezeichnung": "Salzburgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schernberg",
+        "id": 32864,
+        "strassenbezeichnung": "Schernberg"
+    },
+    {
+        "kurzbezeichnung": "Schönbergsiedlung",
+        "id": 32866,
+        "strassenbezeichnung": "Schönbergsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Schulplatz",
+        "id": 32867,
+        "strassenbezeichnung": "Schulplatz"
+    },
+    {
+        "kurzbezeichnung": "St. Veiterstraße",
+        "id": 32868,
+        "strassenbezeichnung": "St. Veiterstraße"
+    },
+    {
+        "kurzbezeichnung": "Untersbergstraße",
+        "id": 32869,
+        "strassenbezeichnung": "Untersbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Schernberggasse",
+        "id": 46090,
+        "strassenbezeichnung": "Schernberggasse"
+    },
+    {
+        "kurzbezeichnung": "MedR.-Dr.-A.-Vogl-Str.",
+        "id": 49707,
+        "strassenbezeichnung": "Med.-Rat-Dr.-Alois-Vogl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Talblickstraße",
+        "id": 52452,
+        "strassenbezeichnung": "Talblickstraße"
+    },
+    {
+        "kurzbezeichnung": "Grüblstraße",
+        "id": 52454,
+        "strassenbezeichnung": "Grüblstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenhöhe",
+        "id": 52562,
+        "strassenbezeichnung": "Birkenhöhe"
+    },
+    {
+        "kurzbezeichnung": "Kard. Schwarzenbergtr.",
+        "id": 54326,
+        "strassenbezeichnung": "Kard. Schwarzenbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 54327,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Abtsdorf",
+        "id": 56298,
+        "strassenbezeichnung": "Abtsdorf"
+    },
+    {
+        "kurzbezeichnung": "Astenweg",
+        "id": 56299,
+        "strassenbezeichnung": "Astenweg"
+    },
+    {
+        "kurzbezeichnung": "Bichlwirt",
+        "id": 56301,
+        "strassenbezeichnung": "Bichlwirt"
+    },
+    {
+        "kurzbezeichnung": "Buchacker",
+        "id": 56302,
+        "strassenbezeichnung": "Buchacker"
+    },
+    {
+        "kurzbezeichnung": "Feldmair",
+        "id": 56303,
+        "strassenbezeichnung": "Feldmair"
+    },
+    {
+        "kurzbezeichnung": "Glanweg",
+        "id": 56304,
+        "strassenbezeichnung": "Glanweg"
+    },
+    {
+        "kurzbezeichnung": "Grafenhof-Dorf",
+        "id": 56305,
+        "strassenbezeichnung": "Grafenhof-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Haidachweg",
+        "id": 56306,
+        "strassenbezeichnung": "Haidachweg"
+    },
+    {
+        "kurzbezeichnung": "Hohe-Mauer",
+        "id": 56419,
+        "strassenbezeichnung": "Hohe-Mauer"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 56595,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Klamm",
+        "id": 56609,
+        "strassenbezeichnung": "Klamm"
+    },
+    {
+        "kurzbezeichnung": "Langmoos",
+        "id": 56610,
+        "strassenbezeichnung": "Langmoos"
+    },
+    {
+        "kurzbezeichnung": "Lehen",
+        "id": 56662,
+        "strassenbezeichnung": "Lehen"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 57551,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Markt",
+        "id": 57552,
+        "strassenbezeichnung": "Markt"
+    },
+    {
+        "kurzbezeichnung": "Möslehenweg",
+        "id": 57554,
+        "strassenbezeichnung": "Möslehenweg"
+    },
+    {
+        "kurzbezeichnung": "Niederuntersberg",
+        "id": 57555,
+        "strassenbezeichnung": "Niederuntersberg"
+    },
+    {
+        "kurzbezeichnung": "Oberlehen",
+        "id": 57556,
+        "strassenbezeichnung": "Oberlehen"
+    },
+    {
+        "kurzbezeichnung": "Obergrafenhof",
+        "id": 57559,
+        "strassenbezeichnung": "Obergrafenhof"
+    },
+    {
+        "kurzbezeichnung": "Oberuntersberg",
+        "id": 57560,
+        "strassenbezeichnung": "Oberuntersberg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrfeld",
+        "id": 57561,
+        "strassenbezeichnung": "Pfarrfeld"
+    },
+    {
+        "kurzbezeichnung": "Pichl",
+        "id": 57562,
+        "strassenbezeichnung": "Pichl"
+    },
+    {
+        "kurzbezeichnung": "Pichl-Dorf",
+        "id": 57563,
+        "strassenbezeichnung": "Pichl-Dorf"
+    },
+    {
+        "kurzbezeichnung": "Rennlehenweg",
+        "id": 57564,
+        "strassenbezeichnung": "Rennlehenweg"
+    },
+    {
+        "kurzbezeichnung": "Schönrain",
+        "id": 57565,
+        "strassenbezeichnung": "Schönrain"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 57566,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnfeld",
+        "id": 57567,
+        "strassenbezeichnung": "Sonnfeld"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitn",
+        "id": 57568,
+        "strassenbezeichnung": "Sonnleitn"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 57569,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "St. Veiter-Straße",
+        "id": 57570,
+        "strassenbezeichnung": "St. Veiter-Straße"
+    },
+    {
+        "kurzbezeichnung": "Stein",
+        "id": 57571,
+        "strassenbezeichnung": "Stein"
+    },
+    {
+        "kurzbezeichnung": "Stöcklfeld",
+        "id": 57572,
+        "strassenbezeichnung": "Stöcklfeld"
+    },
+    {
+        "kurzbezeichnung": "Urpaß",
+        "id": 57573,
+        "strassenbezeichnung": "Urpaß"
+    },
+    {
+        "kurzbezeichnung": "Viellehen",
+        "id": 57574,
+        "strassenbezeichnung": "Viellehen"
+    },
+    {
+        "kurzbezeichnung": "Wengerstraße",
+        "id": 57575,
+        "strassenbezeichnung": "Wengerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bgm.A. Stöllinger-Pl.",
+        "id": 59691,
+        "strassenbezeichnung": "Bgm.A. Stöllinger-Platz"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 68217,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Wallnerfeld",
+        "id": 68623,
+        "strassenbezeichnung": "Wallnerfeld"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 68624,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Schloß Schernbergstr.",
+        "id": 69125,
+        "strassenbezeichnung": "Schloß Schernbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 74507,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Metzgerfeld",
+        "id": 115384,
+        "strassenbezeichnung": "Metzgerfeld"
+    },
+    {
+        "kurzbezeichnung": "Unterhuab",
+        "id": 118007,
+        "strassenbezeichnung": "Unterhuab"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 124777,
+        "strassenbezeichnung": "Marktplatz"
+    }
+]

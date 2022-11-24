@@ -1,0 +1,337 @@
+[
+    {
+        "kurzbezeichnung": "Mokreit",
+        "id": -30739,
+        "strassenbezeichnung": "Mokreit"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": -17510,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Löwengasse",
+        "id": -17509,
+        "strassenbezeichnung": "Löwengasse"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": -17507,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Alter Garten",
+        "id": -17506,
+        "strassenbezeichnung": "Alter Garten"
+    },
+    {
+        "kurzbezeichnung": "Grandlweg",
+        "id": -17505,
+        "strassenbezeichnung": "Grandlweg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": -17504,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Rainweg",
+        "id": -17503,
+        "strassenbezeichnung": "Rainweg"
+    },
+    {
+        "kurzbezeichnung": "Rotleiten",
+        "id": -17502,
+        "strassenbezeichnung": "Rotleiten"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": -17501,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Zur Quelle",
+        "id": -17500,
+        "strassenbezeichnung": "Zur Quelle "
+    },
+    {
+        "kurzbezeichnung": "Pfarrsiedlung",
+        "id": 55944,
+        "strassenbezeichnung": "Pfarrsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Günserstraße",
+        "id": 57898,
+        "strassenbezeichnung": "Günserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 58110,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrplatz",
+        "id": 58111,
+        "strassenbezeichnung": "Pfarrplatz"
+    },
+    {
+        "kurzbezeichnung": "Kirchschlagerstraße",
+        "id": 58112,
+        "strassenbezeichnung": "Kirchschlagerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hohe Gasse",
+        "id": 58113,
+        "strassenbezeichnung": "Hohe Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hafnergasse",
+        "id": 58114,
+        "strassenbezeichnung": "Hafnergasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarräcker",
+        "id": 58115,
+        "strassenbezeichnung": "Pfarräcker"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 58116,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Brunnenplatz",
+        "id": 58117,
+        "strassenbezeichnung": "Brunnenplatz"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 58118,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 58119,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Ägydiplatz",
+        "id": 58120,
+        "strassenbezeichnung": "Ägydiplatz"
+    },
+    {
+        "kurzbezeichnung": "Johannesgasse",
+        "id": 58121,
+        "strassenbezeichnung": "Johannesgasse"
+    },
+    {
+        "kurzbezeichnung": "Kreutenweg",
+        "id": 58122,
+        "strassenbezeichnung": "Kreutenweg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzgasse",
+        "id": 58123,
+        "strassenbezeichnung": "Sportplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Neugründeweg",
+        "id": 58124,
+        "strassenbezeichnung": "Neugründeweg"
+    },
+    {
+        "kurzbezeichnung": "Neukreuten",
+        "id": 58125,
+        "strassenbezeichnung": "Neukreuten"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 58126,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 72650,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 72651,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Anger",
+        "id": 72995,
+        "strassenbezeichnung": "Anger"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": 72996,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Brunnwiese",
+        "id": 72997,
+        "strassenbezeichnung": "Brunnwiese"
+    },
+    {
+        "kurzbezeichnung": "Eicht",
+        "id": 72998,
+        "strassenbezeichnung": "Eicht"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 72999,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Graben",
+        "id": 73000,
+        "strassenbezeichnung": "Graben"
+    },
+    {
+        "kurzbezeichnung": "Hochfeld",
+        "id": 73001,
+        "strassenbezeichnung": "Hochfeld"
+    },
+    {
+        "kurzbezeichnung": "Steinriegel",
+        "id": 73002,
+        "strassenbezeichnung": "Steinriegel"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 74347,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Kogl",
+        "id": 75961,
+        "strassenbezeichnung": "Kogl"
+    },
+    {
+        "kurzbezeichnung": "Lebenbrunn",
+        "id": 75962,
+        "strassenbezeichnung": "Lebenbrunn"
+    },
+    {
+        "kurzbezeichnung": "Salmannsdorf",
+        "id": 75964,
+        "strassenbezeichnung": "Salmannsdorf"
+    },
+    {
+        "kurzbezeichnung": "Steinbach",
+        "id": 75965,
+        "strassenbezeichnung": "Steinbach"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 91255,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Trift",
+        "id": 91256,
+        "strassenbezeichnung": "Trift"
+    },
+    {
+        "kurzbezeichnung": "Untere Gasse",
+        "id": 91257,
+        "strassenbezeichnung": "Untere Gasse"
+    },
+    {
+        "kurzbezeichnung": "Eck",
+        "id": 91346,
+        "strassenbezeichnung": "Eck"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 91347,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Gasse",
+        "id": 91348,
+        "strassenbezeichnung": "Obere Gasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 91349,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 91357,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Gartensiedlung",
+        "id": 99967,
+        "strassenbezeichnung": "Gartensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Am Sattel",
+        "id": 111363,
+        "strassenbezeichnung": "Am Sattel"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 111364,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 111365,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Florianiweg",
+        "id": 111366,
+        "strassenbezeichnung": "Florianiweg"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 111367,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gschorrholz",
+        "id": 111368,
+        "strassenbezeichnung": "Gschorrholz"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 111369,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberort",
+        "id": 111370,
+        "strassenbezeichnung": "Oberort"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 111371,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnengasse",
+        "id": 111372,
+        "strassenbezeichnung": "Sonnengasse"
+    },
+    {
+        "kurzbezeichnung": "Unterort",
+        "id": 111373,
+        "strassenbezeichnung": "Unterort"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 114692,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Mokreit",
+        "id": 119055,
+        "strassenbezeichnung": "Mokreit"
+    }
+]

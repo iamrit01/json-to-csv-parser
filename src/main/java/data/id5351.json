@@ -1,0 +1,592 @@
+[
+    {
+        "kurzbezeichnung": "Scharfenweg",
+        "id": -32475,
+        "strassenbezeichnung": "Scharfenweg"
+    },
+    {
+        "kurzbezeichnung": "Farnweg",
+        "id": -31245,
+        "strassenbezeichnung": "Farnweg"
+    },
+    {
+        "kurzbezeichnung": "Weißenbachtalstraße",
+        "id": -20202,
+        "strassenbezeichnung": "Weißenbachtalstraße"
+    },
+    {
+        "kurzbezeichnung": "Vocknerweg",
+        "id": -20201,
+        "strassenbezeichnung": "Vocknerweg"
+    },
+    {
+        "kurzbezeichnung": "Postalmstraße",
+        "id": -20199,
+        "strassenbezeichnung": "Postalmstraße"
+    },
+    {
+        "kurzbezeichnung": "Kleefeldstraße",
+        "id": -20197,
+        "strassenbezeichnung": "Kleefeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Hinterau",
+        "id": -20196,
+        "strassenbezeichnung": "Hinterau"
+    },
+    {
+        "kurzbezeichnung": "Helene-Thimig-Weg",
+        "id": -20195,
+        "strassenbezeichnung": "Helene-Thimig-Weg"
+    },
+    {
+        "kurzbezeichnung": "Bichlerweg",
+        "id": -20194,
+        "strassenbezeichnung": "Bichlerweg"
+    },
+    {
+        "kurzbezeichnung": "Ferdinand-Götz-Weg",
+        "id": -18512,
+        "strassenbezeichnung": "Ferdinand-Götz-Weg"
+    },
+    {
+        "kurzbezeichnung": "Zum Kogl",
+        "id": -18511,
+        "strassenbezeichnung": "Zum Kogl"
+    },
+    {
+        "kurzbezeichnung": "Eggstraße",
+        "id": -18510,
+        "strassenbezeichnung": "Eggstraße"
+    },
+    {
+        "kurzbezeichnung": "Rinnkogelweg",
+        "id": -18509,
+        "strassenbezeichnung": "Rinnkogelweg"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": -18508,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Oberegg",
+        "id": -18507,
+        "strassenbezeichnung": "Oberegg"
+    },
+    {
+        "kurzbezeichnung": "Niederegg",
+        "id": -18506,
+        "strassenbezeichnung": "Niederegg"
+    },
+    {
+        "kurzbezeichnung": "Wolfgangerstraße",
+        "id": -18171,
+        "strassenbezeichnung": "Wolfgangerstraße"
+    },
+    {
+        "kurzbezeichnung": "Sommerauweg",
+        "id": -18170,
+        "strassenbezeichnung": "Sommerauweg"
+    },
+    {
+        "kurzbezeichnung": "Seethurnstraße",
+        "id": -18169,
+        "strassenbezeichnung": "Seethurnstraße"
+    },
+    {
+        "kurzbezeichnung": "Schlagstraße",
+        "id": -18168,
+        "strassenbezeichnung": "Schlagstraße"
+    },
+    {
+        "kurzbezeichnung": "Satoriweg",
+        "id": -18167,
+        "strassenbezeichnung": "Satoriweg"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": -18166,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Ringstraße",
+        "id": -18165,
+        "strassenbezeichnung": "Ringstraße"
+    },
+    {
+        "kurzbezeichnung": "Amselweg",
+        "id": -18164,
+        "strassenbezeichnung": "Amselweg"
+    },
+    {
+        "kurzbezeichnung": "Weißberger-Allee",
+        "id": -17540,
+        "strassenbezeichnung": "Weißberger-Allee"
+    },
+    {
+        "kurzbezeichnung": "Voglhub",
+        "id": -17539,
+        "strassenbezeichnung": "Voglhub"
+    },
+    {
+        "kurzbezeichnung": "Vogelgasse",
+        "id": -17538,
+        "strassenbezeichnung": "Vogelgasse"
+    },
+    {
+        "kurzbezeichnung": "Schönburgweg",
+        "id": -17536,
+        "strassenbezeichnung": "Schönburgweg"
+    },
+    {
+        "kurzbezeichnung": "Schöffaustraße",
+        "id": -17535,
+        "strassenbezeichnung": "Schöffaustraße"
+    },
+    {
+        "kurzbezeichnung": "Schneiderweg",
+        "id": -17534,
+        "strassenbezeichnung": "Schneiderweg"
+    },
+    {
+        "kurzbezeichnung": "Schindlauerweg",
+        "id": -17533,
+        "strassenbezeichnung": "Schindlauerweg"
+    },
+    {
+        "kurzbezeichnung": "Salzleitnerweg",
+        "id": -17532,
+        "strassenbezeichnung": "Salzleitnerweg"
+    },
+    {
+        "kurzbezeichnung": "Reiter-Straße",
+        "id": -17531,
+        "strassenbezeichnung": "Reiter-Straße"
+    },
+    {
+        "kurzbezeichnung": "Primelweg",
+        "id": -17530,
+        "strassenbezeichnung": "Primelweg"
+    },
+    {
+        "kurzbezeichnung": "Poschlehenweg",
+        "id": -17529,
+        "strassenbezeichnung": "Poschlehenweg"
+    },
+    {
+        "kurzbezeichnung": "Kohlstattweg",
+        "id": -17528,
+        "strassenbezeichnung": "Kohlstattweg"
+    },
+    {
+        "kurzbezeichnung": "Koglermühlenstraße",
+        "id": -17527,
+        "strassenbezeichnung": "Koglermühlenstraße"
+    },
+    {
+        "kurzbezeichnung": "Josef-Lechner-Weg",
+        "id": -17526,
+        "strassenbezeichnung": "Josef-Lechner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Hollerweg",
+        "id": -17525,
+        "strassenbezeichnung": "Hollerweg"
+    },
+    {
+        "kurzbezeichnung": "Hoferweg",
+        "id": -17524,
+        "strassenbezeichnung": "Hoferweg"
+    },
+    {
+        "kurzbezeichnung": "Hoferriedlweg",
+        "id": -17523,
+        "strassenbezeichnung": "Hoferriedlweg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Schenner-Straße",
+        "id": -17522,
+        "strassenbezeichnung": "Franz-Schenner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Fludergasse",
+        "id": -17521,
+        "strassenbezeichnung": "Fludergasse"
+    },
+    {
+        "kurzbezeichnung": "Finkenweg",
+        "id": -17520,
+        "strassenbezeichnung": "Finkenweg"
+    },
+    {
+        "kurzbezeichnung": "Enzianstraße",
+        "id": -17519,
+        "strassenbezeichnung": "Enzianstraße"
+    },
+    {
+        "kurzbezeichnung": "Asenweg",
+        "id": -17518,
+        "strassenbezeichnung": "Asenweg"
+    },
+    {
+        "kurzbezeichnung": "Weiderweg",
+        "id": -16922,
+        "strassenbezeichnung": "Weiderweg"
+    },
+    {
+        "kurzbezeichnung": "Stieglweg",
+        "id": -16921,
+        "strassenbezeichnung": "Stieglweg"
+    },
+    {
+        "kurzbezeichnung": "Schanzenweg",
+        "id": -16920,
+        "strassenbezeichnung": "Schanzenweg"
+    },
+    {
+        "kurzbezeichnung": "Rettenkogelweg",
+        "id": -16919,
+        "strassenbezeichnung": "Rettenkogelweg"
+    },
+    {
+        "kurzbezeichnung": "Meisterstraße",
+        "id": -16918,
+        "strassenbezeichnung": "Meisterstraße"
+    },
+    {
+        "kurzbezeichnung": "Klein-Gmain",
+        "id": -16917,
+        "strassenbezeichnung": "Klein-Gmain"
+    },
+    {
+        "kurzbezeichnung": "Heuschoberweg",
+        "id": -16916,
+        "strassenbezeichnung": "Heuschoberweg"
+    },
+    {
+        "kurzbezeichnung": "Gallweg",
+        "id": -16915,
+        "strassenbezeichnung": "Gallweg"
+    },
+    {
+        "kurzbezeichnung": "Forellenweg",
+        "id": -16914,
+        "strassenbezeichnung": "Forellenweg"
+    },
+    {
+        "kurzbezeichnung": "Enterbachstraße",
+        "id": -16913,
+        "strassenbezeichnung": "Enterbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachwandweg",
+        "id": -16912,
+        "strassenbezeichnung": "Bachwandweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Felix-Mandl-Straße",
+        "id": 2513,
+        "strassenbezeichnung": "Dr.-Felix-Mandl-Straße"
+    },
+    {
+        "kurzbezeichnung": "In der Aschau",
+        "id": 2530,
+        "strassenbezeichnung": "In der Aschau"
+    },
+    {
+        "kurzbezeichnung": "Golfstraße",
+        "id": 2531,
+        "strassenbezeichnung": "Golfstraße"
+    },
+    {
+        "kurzbezeichnung": "Dachsteinweg",
+        "id": 2533,
+        "strassenbezeichnung": "Dachsteinweg"
+    },
+    {
+        "kurzbezeichnung": "Loskoglweg",
+        "id": 2536,
+        "strassenbezeichnung": "Loskoglweg"
+    },
+    {
+        "kurzbezeichnung": "Gamsfeldweg",
+        "id": 2541,
+        "strassenbezeichnung": "Gamsfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Rettenkoglweg",
+        "id": 2547,
+        "strassenbezeichnung": "Rettenkoglweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenzinkenweg",
+        "id": 2552,
+        "strassenbezeichnung": "Gartenzinkenweg"
+    },
+    {
+        "kurzbezeichnung": "Haiden",
+        "id": 11983,
+        "strassenbezeichnung": "Haiden"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 25969,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 25977,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 25978,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Grenzweg",
+        "id": 25989,
+        "strassenbezeichnung": "Grenzweg"
+    },
+    {
+        "kurzbezeichnung": "Heideweg",
+        "id": 25995,
+        "strassenbezeichnung": "Heideweg"
+    },
+    {
+        "kurzbezeichnung": "Ignaz-Heim-Straße",
+        "id": 25996,
+        "strassenbezeichnung": "Ignaz-Heim-Straße"
+    },
+    {
+        "kurzbezeichnung": "Im Kranewitt",
+        "id": 26003,
+        "strassenbezeichnung": "Im Kranewitt"
+    },
+    {
+        "kurzbezeichnung": "Jägersteig",
+        "id": 26005,
+        "strassenbezeichnung": "Jägersteig"
+    },
+    {
+        "kurzbezeichnung": "Krenlehnerweg",
+        "id": 26020,
+        "strassenbezeichnung": "Krenlehnerweg"
+    },
+    {
+        "kurzbezeichnung": "Kreuterer Straße",
+        "id": 26021,
+        "strassenbezeichnung": "Kreuterer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lazzeristraße",
+        "id": 26028,
+        "strassenbezeichnung": "Lazzeristraße"
+    },
+    {
+        "kurzbezeichnung": "Lindaustraße",
+        "id": 26035,
+        "strassenbezeichnung": "Lindaustraße"
+    },
+    {
+        "kurzbezeichnung": "Michael-Pacher-Straße",
+        "id": 26047,
+        "strassenbezeichnung": "Michael-Pacher-Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfandler Straße",
+        "id": 26050,
+        "strassenbezeichnung": "Pfandler Straße"
+    },
+    {
+        "kurzbezeichnung": "Pfeiferweg",
+        "id": 26054,
+        "strassenbezeichnung": "Pfeiferweg"
+    },
+    {
+        "kurzbezeichnung": "Radauweg",
+        "id": 26056,
+        "strassenbezeichnung": "Radauweg"
+    },
+    {
+        "kurzbezeichnung": "Rainerstraße",
+        "id": 26057,
+        "strassenbezeichnung": "Rainerstraße"
+    },
+    {
+        "kurzbezeichnung": "Salzburger Straße",
+        "id": 26064,
+        "strassenbezeichnung": "Salzburger Straße"
+    },
+    {
+        "kurzbezeichnung": "Sendlweg",
+        "id": 26075,
+        "strassenbezeichnung": "Sendlweg"
+    },
+    {
+        "kurzbezeichnung": "Sueßweg",
+        "id": 26087,
+        "strassenbezeichnung": "Sueßweg"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 26100,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wolfganger Straße",
+        "id": 26106,
+        "strassenbezeichnung": "Wolfganger Straße"
+    },
+    {
+        "kurzbezeichnung": "Zimnitzbachweg",
+        "id": 26109,
+        "strassenbezeichnung": "Zimnitzbachweg"
+    },
+    {
+        "kurzbezeichnung": "Zimnitzstraße",
+        "id": 26110,
+        "strassenbezeichnung": "Zimnitzstraße"
+    },
+    {
+        "kurzbezeichnung": "Salzburgerstraße",
+        "id": 53630,
+        "strassenbezeichnung": "Salzburgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindau",
+        "id": 83117,
+        "strassenbezeichnung": "Lindau"
+    },
+    {
+        "kurzbezeichnung": "Ramsau",
+        "id": 83120,
+        "strassenbezeichnung": "Ramsau"
+    },
+    {
+        "kurzbezeichnung": "Radau",
+        "id": 83188,
+        "strassenbezeichnung": "Radau"
+    },
+    {
+        "kurzbezeichnung": "Rußbach",
+        "id": 83189,
+        "strassenbezeichnung": "Rußbach"
+    },
+    {
+        "kurzbezeichnung": "Weinbach",
+        "id": 83192,
+        "strassenbezeichnung": "Weinbach"
+    },
+    {
+        "kurzbezeichnung": "Windhag",
+        "id": 83193,
+        "strassenbezeichnung": "Windhag"
+    },
+    {
+        "kurzbezeichnung": "Wirling",
+        "id": 83194,
+        "strassenbezeichnung": "Wirling"
+    },
+    {
+        "kurzbezeichnung": "Aigen",
+        "id": 87807,
+        "strassenbezeichnung": "Aigen"
+    },
+    {
+        "kurzbezeichnung": "Weißenbach",
+        "id": 87809,
+        "strassenbezeichnung": "Weißenbach"
+    },
+    {
+        "kurzbezeichnung": "Sparberweg",
+        "id": 96464,
+        "strassenbezeichnung": "Sparberweg"
+    },
+    {
+        "kurzbezeichnung": "Filzmoosstraße",
+        "id": 122686,
+        "strassenbezeichnung": "Filzmoosstraße"
+    },
+    {
+        "kurzbezeichnung": "Hauslweg",
+        "id": 122688,
+        "strassenbezeichnung": "Hauslweg"
+    },
+    {
+        "kurzbezeichnung": "Im Gawanz",
+        "id": 122689,
+        "strassenbezeichnung": "Im Gawanz"
+    },
+    {
+        "kurzbezeichnung": "Grabnerbühel",
+        "id": 122690,
+        "strassenbezeichnung": "Grabnerbühel"
+    },
+    {
+        "kurzbezeichnung": "Untere Lindaustraße",
+        "id": 122691,
+        "strassenbezeichnung": "Untere Lindaustraße"
+    },
+    {
+        "kurzbezeichnung": "Auerbachweg",
+        "id": 122692,
+        "strassenbezeichnung": "Auerbachweg"
+    },
+    {
+        "kurzbezeichnung": "Schneiderwirtsstraße",
+        "id": 122693,
+        "strassenbezeichnung": "Schneiderwirtsstraße"
+    },
+    {
+        "kurzbezeichnung": "In der Ramsau",
+        "id": 122694,
+        "strassenbezeichnung": "In der Ramsau"
+    },
+    {
+        "kurzbezeichnung": "Nussenseestraße",
+        "id": 122695,
+        "strassenbezeichnung": "Nussenseestraße"
+    },
+    {
+        "kurzbezeichnung": "Krenngrabenweg",
+        "id": 123629,
+        "strassenbezeichnung": "Krenngrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterzinkenweg",
+        "id": 123630,
+        "strassenbezeichnung": "Mitterzinkenweg"
+    },
+    {
+        "kurzbezeichnung": "Sägewerkgasse",
+        "id": 123631,
+        "strassenbezeichnung": "Sägewerkgasse"
+    },
+    {
+        "kurzbezeichnung": "Zahlerweg",
+        "id": 123632,
+        "strassenbezeichnung": "Zahlerweg"
+    },
+    {
+        "kurzbezeichnung": "Fritz-Löhner-Beda-Str.",
+        "id": 127971,
+        "strassenbezeichnung": "Fritz-Löhner-Beda-Straße"
+    },
+    {
+        "kurzbezeichnung": "Alte Bundesstraße",
+        "id": 129820,
+        "strassenbezeichnung": "Alte Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Paradiesweg",
+        "id": 129906,
+        "strassenbezeichnung": "Paradiesweg"
+    },
+    {
+        "kurzbezeichnung": "Wolfgangseestraße",
+        "id": 131578,
+        "strassenbezeichnung": "Wolfgangseestraße"
+    }
+]

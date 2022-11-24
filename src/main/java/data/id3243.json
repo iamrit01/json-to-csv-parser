@@ -1,0 +1,462 @@
+[
+    {
+        "kurzbezeichnung": "Baumeisterstraße",
+        "id": -17259,
+        "strassenbezeichnung": "Baumeisterstraße"
+    },
+    {
+        "kurzbezeichnung": "Aigenweg",
+        "id": 20387,
+        "strassenbezeichnung": "Aigenweg"
+    },
+    {
+        "kurzbezeichnung": "Alter Badweg",
+        "id": 20441,
+        "strassenbezeichnung": "Alter Badweg"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 20443,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 20445,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 20447,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Fürstenau",
+        "id": 20448,
+        "strassenbezeichnung": "Fürstenau"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 20449,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Hiesbergstraße",
+        "id": 20450,
+        "strassenbezeichnung": "Hiesbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaiserstraße",
+        "id": 20451,
+        "strassenbezeichnung": "Kaiserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaltenbrunnerhöhe",
+        "id": 20452,
+        "strassenbezeichnung": "Kaltenbrunnerhöhe"
+    },
+    {
+        "kurzbezeichnung": "Kirchenstraße",
+        "id": 20453,
+        "strassenbezeichnung": "Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Loosdorfer Straße",
+        "id": 20464,
+        "strassenbezeichnung": "Loosdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Manker Straße",
+        "id": 20466,
+        "strassenbezeichnung": "Manker Straße"
+    },
+    {
+        "kurzbezeichnung": "Melker Straße",
+        "id": 20469,
+        "strassenbezeichnung": "Melker Straße"
+    },
+    {
+        "kurzbezeichnung": "Melkfeld",
+        "id": 20472,
+        "strassenbezeichnung": "Melkfeld"
+    },
+    {
+        "kurzbezeichnung": "Mercedesstraße",
+        "id": 20474,
+        "strassenbezeichnung": "Mercedesstraße"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 20476,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Oberndorfer Straße",
+        "id": 20493,
+        "strassenbezeichnung": "Oberndorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Obere Neusiedlstraße",
+        "id": 20528,
+        "strassenbezeichnung": "Obere Neusiedlstraße"
+    },
+    {
+        "kurzbezeichnung": "Parkstraße",
+        "id": 20529,
+        "strassenbezeichnung": "Parkstraße"
+    },
+    {
+        "kurzbezeichnung": "Quellstraße",
+        "id": 20540,
+        "strassenbezeichnung": "Quellstraße"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 20562,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Schulfeldstraße",
+        "id": 20584,
+        "strassenbezeichnung": "Schulfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 20602,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Steghofweg",
+        "id": 20609,
+        "strassenbezeichnung": "Steghofweg"
+    },
+    {
+        "kurzbezeichnung": "Untere Neusiedlstraße",
+        "id": 20611,
+        "strassenbezeichnung": "Untere Neusiedlstraße"
+    },
+    {
+        "kurzbezeichnung": "Urbachsiedlung",
+        "id": 20612,
+        "strassenbezeichnung": "Urbachsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Volkshausweg",
+        "id": 20709,
+        "strassenbezeichnung": "Volkshausweg"
+    },
+    {
+        "kurzbezeichnung": "Wieselburger Straße",
+        "id": 20712,
+        "strassenbezeichnung": "Wieselburger Straße"
+    },
+    {
+        "kurzbezeichnung": "Ziegelstadl",
+        "id": 20713,
+        "strassenbezeichnung": "Ziegelstadl"
+    },
+    {
+        "kurzbezeichnung": "Dangelsbach",
+        "id": 20714,
+        "strassenbezeichnung": "Dangelsbach"
+    },
+    {
+        "kurzbezeichnung": "Urbach",
+        "id": 20934,
+        "strassenbezeichnung": "Urbach"
+    },
+    {
+        "kurzbezeichnung": "Rottenhofsiedlung",
+        "id": 64182,
+        "strassenbezeichnung": "Rottenhofsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 67782,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 75534,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Altenhofen",
+        "id": 79861,
+        "strassenbezeichnung": "Altenhofen"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 79862,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Brandstatt bei Au",
+        "id": 79863,
+        "strassenbezeichnung": "Brandstatt bei Au"
+    },
+    {
+        "kurzbezeichnung": "Brandstatt bei Oed",
+        "id": 79864,
+        "strassenbezeichnung": "Brandstatt bei Oed"
+    },
+    {
+        "kurzbezeichnung": "Eisguggen",
+        "id": 79865,
+        "strassenbezeichnung": "Eisguggen"
+    },
+    {
+        "kurzbezeichnung": "Eselsteiggraben",
+        "id": 79866,
+        "strassenbezeichnung": "Eselsteiggraben"
+    },
+    {
+        "kurzbezeichnung": "Fachelberg",
+        "id": 79867,
+        "strassenbezeichnung": "Fachelberg"
+    },
+    {
+        "kurzbezeichnung": "Gassen",
+        "id": 79868,
+        "strassenbezeichnung": "Gassen"
+    },
+    {
+        "kurzbezeichnung": "Grillenreith",
+        "id": 79869,
+        "strassenbezeichnung": "Grillenreith"
+    },
+    {
+        "kurzbezeichnung": "Großweichselbach",
+        "id": 79870,
+        "strassenbezeichnung": "Großweichselbach"
+    },
+    {
+        "kurzbezeichnung": "Haindorf",
+        "id": 79871,
+        "strassenbezeichnung": "Haindorf"
+    },
+    {
+        "kurzbezeichnung": "Haslach",
+        "id": 79872,
+        "strassenbezeichnung": "Haslach"
+    },
+    {
+        "kurzbezeichnung": "Hohenreith",
+        "id": 79873,
+        "strassenbezeichnung": "Hohenreith"
+    },
+    {
+        "kurzbezeichnung": "Hub an der Mank",
+        "id": 79874,
+        "strassenbezeichnung": "Hub an der Mank"
+    },
+    {
+        "kurzbezeichnung": "Kleinweichselbach",
+        "id": 79875,
+        "strassenbezeichnung": "Kleinweichselbach"
+    },
+    {
+        "kurzbezeichnung": "Kühberg",
+        "id": 79876,
+        "strassenbezeichnung": "Kühberg"
+    },
+    {
+        "kurzbezeichnung": "Lehenleiten",
+        "id": 79877,
+        "strassenbezeichnung": "Lehenleiten"
+    },
+    {
+        "kurzbezeichnung": "Lunzen",
+        "id": 79878,
+        "strassenbezeichnung": "Lunzen"
+    },
+    {
+        "kurzbezeichnung": "Oed bei Haslach",
+        "id": 79879,
+        "strassenbezeichnung": "Oed bei Haslach"
+    },
+    {
+        "kurzbezeichnung": "Pöllendorf",
+        "id": 79880,
+        "strassenbezeichnung": "Pöllendorf"
+    },
+    {
+        "kurzbezeichnung": "Pühra",
+        "id": 79881,
+        "strassenbezeichnung": "Pühra"
+    },
+    {
+        "kurzbezeichnung": "Reith bei Vornholz",
+        "id": 79882,
+        "strassenbezeichnung": "Reith bei Vornholz"
+    },
+    {
+        "kurzbezeichnung": "Reith bei Weichselbach",
+        "id": 79883,
+        "strassenbezeichnung": "Reith bei Weichselbach"
+    },
+    {
+        "kurzbezeichnung": "Rinn",
+        "id": 79884,
+        "strassenbezeichnung": "Rinn"
+    },
+    {
+        "kurzbezeichnung": "Ritzengrub",
+        "id": 79886,
+        "strassenbezeichnung": "Ritzengrub"
+    },
+    {
+        "kurzbezeichnung": "Sandeben",
+        "id": 79887,
+        "strassenbezeichnung": "Sandeben"
+    },
+    {
+        "kurzbezeichnung": "Schönbuch",
+        "id": 79888,
+        "strassenbezeichnung": "Schönbuch"
+    },
+    {
+        "kurzbezeichnung": "Schweining",
+        "id": 79889,
+        "strassenbezeichnung": "Schweining"
+    },
+    {
+        "kurzbezeichnung": "Seimetzbach",
+        "id": 79890,
+        "strassenbezeichnung": "Seimetzbach"
+    },
+    {
+        "kurzbezeichnung": "Steghof",
+        "id": 79891,
+        "strassenbezeichnung": "Steghof"
+    },
+    {
+        "kurzbezeichnung": "Steinbach",
+        "id": 79892,
+        "strassenbezeichnung": "Steinbach"
+    },
+    {
+        "kurzbezeichnung": "Thal",
+        "id": 79893,
+        "strassenbezeichnung": "Thal"
+    },
+    {
+        "kurzbezeichnung": "Vornholz",
+        "id": 79894,
+        "strassenbezeichnung": "Vornholz"
+    },
+    {
+        "kurzbezeichnung": "Wegscheid",
+        "id": 79895,
+        "strassenbezeichnung": "Wegscheid"
+    },
+    {
+        "kurzbezeichnung": "Hofstetten",
+        "id": 79905,
+        "strassenbezeichnung": "Hofstetten"
+    },
+    {
+        "kurzbezeichnung": "Rottenhof",
+        "id": 79921,
+        "strassenbezeichnung": "Rottenhof"
+    },
+    {
+        "kurzbezeichnung": "Aichbach",
+        "id": 79932,
+        "strassenbezeichnung": "Aichbach"
+    },
+    {
+        "kurzbezeichnung": "Apfaltersbach",
+        "id": 79933,
+        "strassenbezeichnung": "Apfaltersbach"
+    },
+    {
+        "kurzbezeichnung": "Diesendorf",
+        "id": 79934,
+        "strassenbezeichnung": "Diesendorf"
+    },
+    {
+        "kurzbezeichnung": "Geigenberg",
+        "id": 79935,
+        "strassenbezeichnung": "Geigenberg"
+    },
+    {
+        "kurzbezeichnung": "Grimmegg",
+        "id": 79936,
+        "strassenbezeichnung": "Grimmegg"
+    },
+    {
+        "kurzbezeichnung": "Grub bei Harbach",
+        "id": 79937,
+        "strassenbezeichnung": "Grub bei Harbach"
+    },
+    {
+        "kurzbezeichnung": "Harbach",
+        "id": 79939,
+        "strassenbezeichnung": "Harbach"
+    },
+    {
+        "kurzbezeichnung": "Hochstraß",
+        "id": 79940,
+        "strassenbezeichnung": "Hochstraß"
+    },
+    {
+        "kurzbezeichnung": "Hörgerstall",
+        "id": 79941,
+        "strassenbezeichnung": "Hörgerstall"
+    },
+    {
+        "kurzbezeichnung": "Kerndl",
+        "id": 79942,
+        "strassenbezeichnung": "Kerndl"
+    },
+    {
+        "kurzbezeichnung": "Lachau",
+        "id": 79943,
+        "strassenbezeichnung": "Lachau"
+    },
+    {
+        "kurzbezeichnung": "Straß",
+        "id": 79945,
+        "strassenbezeichnung": "Straß"
+    },
+    {
+        "kurzbezeichnung": "Malerstraße",
+        "id": 91713,
+        "strassenbezeichnung": "Malerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 91717,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 99232,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 101475,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Urbach",
+        "id": 109888,
+        "strassenbezeichnung": "Am Urbach"
+    },
+    {
+        "kurzbezeichnung": "Himmelreichweg",
+        "id": 115574,
+        "strassenbezeichnung": "Himmelreichweg"
+    },
+    {
+        "kurzbezeichnung": "Sandweg",
+        "id": 123543,
+        "strassenbezeichnung": "Sandweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 126620,
+        "strassenbezeichnung": "Wiesengasse"
+    }
+]

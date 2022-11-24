@@ -1,0 +1,382 @@
+[
+    {
+        "kurzbezeichnung": "Auergasse",
+        "id": 921,
+        "strassenbezeichnung": "Auergasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 922,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Betr. Gebiet Hutweide",
+        "id": -33974,
+        "strassenbezeichnung": "Betriebsgebiet Hutweide"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 103209,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Brückenplatz",
+        "id": 923,
+        "strassenbezeichnung": "Brückenplatz"
+    },
+    {
+        "kurzbezeichnung": "Burggasse",
+        "id": 924,
+        "strassenbezeichnung": "Burggasse"
+    },
+    {
+        "kurzbezeichnung": "DDr. Stefan Laszlo-Pl.",
+        "id": 70706,
+        "strassenbezeichnung": "DDr. Stefan Laszlo-Platz"
+    },
+    {
+        "kurzbezeichnung": "Dreifaltigkeits-Platz",
+        "id": 52994,
+        "strassenbezeichnung": "Dreifaltigkeits-Platz"
+    },
+    {
+        "kurzbezeichnung": "Eisenstädterstraße",
+        "id": 925,
+        "strassenbezeichnung": "Eisenstädterstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasangasse",
+        "id": 64345,
+        "strassenbezeichnung": "Fasangasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 926,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Feuerweg",
+        "id": 927,
+        "strassenbezeichnung": "Feuerweg"
+    },
+    {
+        "kurzbezeichnung": "Flugplatz",
+        "id": 928,
+        "strassenbezeichnung": "Flugplatz"
+    },
+    {
+        "kurzbezeichnung": "Flugplatzstraße",
+        "id": 929,
+        "strassenbezeichnung": "Flugplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße I",
+        "id": 51650,
+        "strassenbezeichnung": "FS I Straße I"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße II",
+        "id": 51651,
+        "strassenbezeichnung": "FS I Straße II"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße III",
+        "id": 51652,
+        "strassenbezeichnung": "FS I Straße III"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße IV",
+        "id": 51653,
+        "strassenbezeichnung": "FS I Straße IV"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße IX",
+        "id": 51658,
+        "strassenbezeichnung": "FS I Straße IX"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße V",
+        "id": 51654,
+        "strassenbezeichnung": "FS I Straße V"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße VI",
+        "id": 51655,
+        "strassenbezeichnung": "FS I Straße VI"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße VII",
+        "id": 51656,
+        "strassenbezeichnung": "FS I Straße VII"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße VIII",
+        "id": 51657,
+        "strassenbezeichnung": "FS I Straße VIII"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße X",
+        "id": 51659,
+        "strassenbezeichnung": "FS I Straße X"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße XI",
+        "id": 51660,
+        "strassenbezeichnung": "FS I Straße XI"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße XII",
+        "id": 51661,
+        "strassenbezeichnung": "FS I Straße XII"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße XIII",
+        "id": 51662,
+        "strassenbezeichnung": "FS I Straße XIII"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße XIV",
+        "id": 51663,
+        "strassenbezeichnung": "FS I Straße XIV"
+    },
+    {
+        "kurzbezeichnung": "FS I Straße XVI",
+        "id": 113343,
+        "strassenbezeichnung": "FS I Straße XVI"
+    },
+    {
+        "kurzbezeichnung": "FS II Block I",
+        "id": 51664,
+        "strassenbezeichnung": "FS II Block I"
+    },
+    {
+        "kurzbezeichnung": "FS II Block II",
+        "id": 51665,
+        "strassenbezeichnung": "FS II Block II"
+    },
+    {
+        "kurzbezeichnung": "FS II Block III",
+        "id": 51666,
+        "strassenbezeichnung": "FS II Block III"
+    },
+    {
+        "kurzbezeichnung": "FS II Block IV",
+        "id": 51667,
+        "strassenbezeichnung": "FS II Block IV"
+    },
+    {
+        "kurzbezeichnung": "FS II Block IX",
+        "id": 51672,
+        "strassenbezeichnung": "FS II Block IX"
+    },
+    {
+        "kurzbezeichnung": "FS II Block V",
+        "id": 51668,
+        "strassenbezeichnung": "FS II Block V"
+    },
+    {
+        "kurzbezeichnung": "FS II Block VI",
+        "id": 51669,
+        "strassenbezeichnung": "FS II Block VI"
+    },
+    {
+        "kurzbezeichnung": "FS II Block VII",
+        "id": 51670,
+        "strassenbezeichnung": "FS II Block VII"
+    },
+    {
+        "kurzbezeichnung": "FS II Block VIII",
+        "id": 51671,
+        "strassenbezeichnung": "FS II Block VIII"
+    },
+    {
+        "kurzbezeichnung": "FS II Block X",
+        "id": 51673,
+        "strassenbezeichnung": "FS II Block X"
+    },
+    {
+        "kurzbezeichnung": "FS II Block XI",
+        "id": 51674,
+        "strassenbezeichnung": "FS II Block XI"
+    },
+    {
+        "kurzbezeichnung": "FS II Block XII",
+        "id": 51675,
+        "strassenbezeichnung": "FS II Block XII"
+    },
+    {
+        "kurzbezeichnung": "FS II Block XIII",
+        "id": 51676,
+        "strassenbezeichnung": "FS II Block XIII"
+    },
+    {
+        "kurzbezeichnung": "FS II Block XIV",
+        "id": 46087,
+        "strassenbezeichnung": "FS II Block XIV"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 931,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Grossäcker",
+        "id": 124912,
+        "strassenbezeichnung": "Großäcker"
+    },
+    {
+        "kurzbezeichnung": "Gutshof",
+        "id": 7757,
+        "strassenbezeichnung": "Gutshof"
+    },
+    {
+        "kurzbezeichnung": "Heideweg",
+        "id": 933,
+        "strassenbezeichnung": "Heideweg"
+    },
+    {
+        "kurzbezeichnung": "Hintere Gärten",
+        "id": -33545,
+        "strassenbezeichnung": "Hintere Gärten"
+    },
+    {
+        "kurzbezeichnung": "Johann Nepomuk-Platz",
+        "id": 943,
+        "strassenbezeichnung": "Johann Nepomuk-Platz"
+    },
+    {
+        "kurzbezeichnung": "Johann Rosarowitz-G.",
+        "id": 64346,
+        "strassenbezeichnung": "Johann Rosarowitz-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzgasse",
+        "id": 75142,
+        "strassenbezeichnung": "Kreuzgasse"
+    },
+    {
+        "kurzbezeichnung": "Langegasse",
+        "id": 935,
+        "strassenbezeichnung": "Langegasse"
+    },
+    {
+        "kurzbezeichnung": "Leithaberggasse",
+        "id": 936,
+        "strassenbezeichnung": "Leithaberggasse"
+    },
+    {
+        "kurzbezeichnung": "Lerchengasse",
+        "id": 938,
+        "strassenbezeichnung": "Lerchengasse"
+    },
+    {
+        "kurzbezeichnung": "Linke Wulkazeile",
+        "id": 939,
+        "strassenbezeichnung": "Linke Wulkazeile"
+    },
+    {
+        "kurzbezeichnung": "Magdalenagasse",
+        "id": 940,
+        "strassenbezeichnung": "Magdalenagasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlau",
+        "id": 51102,
+        "strassenbezeichnung": "Mühlau"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 942,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 944,
+        "strassenbezeichnung": "Neubaugasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Hauptstraße",
+        "id": 945,
+        "strassenbezeichnung": "Obere Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Rechte Wulkazeile",
+        "id": 947,
+        "strassenbezeichnung": "Rechte Wulkazeile"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 948,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Scheunenweg",
+        "id": 93785,
+        "strassenbezeichnung": "Scheunenweg"
+    },
+    {
+        "kurzbezeichnung": "Schlachtbrücke",
+        "id": 949,
+        "strassenbezeichnung": "Schlachtbrücke"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 950,
+        "strassenbezeichnung": "Schloßgasse"
+    },
+    {
+        "kurzbezeichnung": "Seestraße",
+        "id": 952,
+        "strassenbezeichnung": "Seestraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 106953,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzgasse",
+        "id": 53004,
+        "strassenbezeichnung": "Sportplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Uferparzelle",
+        "id": 946,
+        "strassenbezeichnung": "Uferparzelle"
+    },
+    {
+        "kurzbezeichnung": "Uferstraße Feriensdl.",
+        "id": 957,
+        "strassenbezeichnung": "Uferstraße Feriensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Untere Hauptstraße",
+        "id": 958,
+        "strassenbezeichnung": "Untere Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 960,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Weinberggasse",
+        "id": 964,
+        "strassenbezeichnung": "Weinberggasse"
+    },
+    {
+        "kurzbezeichnung": "Weingartenmühle",
+        "id": 966,
+        "strassenbezeichnung": "Weingartenmühle"
+    },
+    {
+        "kurzbezeichnung": "Weingartenweg",
+        "id": 965,
+        "strassenbezeichnung": "Weingartenweg"
+    },
+    {
+        "kurzbezeichnung": "Weingut Esterhazy",
+        "id": 113775,
+        "strassenbezeichnung": "Weingut Esterhazy"
+    }
+]

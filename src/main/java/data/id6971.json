@@ -1,0 +1,817 @@
+[
+    {
+        "kurzbezeichnung": "Am Mühlebach",
+        "id": -20631,
+        "strassenbezeichnung": "Am Mühlebach"
+    },
+    {
+        "kurzbezeichnung": "Inselstraße",
+        "id": 1499,
+        "strassenbezeichnung": "Inselstraße"
+    },
+    {
+        "kurzbezeichnung": "Im Acker",
+        "id": 14200,
+        "strassenbezeichnung": "Im Acker"
+    },
+    {
+        "kurzbezeichnung": "Achstraße",
+        "id": 42683,
+        "strassenbezeichnung": "Achstraße"
+    },
+    {
+        "kurzbezeichnung": "Alandgasse",
+        "id": 42684,
+        "strassenbezeichnung": "Alandgasse"
+    },
+    {
+        "kurzbezeichnung": "Allmendstraße",
+        "id": 42685,
+        "strassenbezeichnung": "Allmendstraße"
+    },
+    {
+        "kurzbezeichnung": "Alte Straße",
+        "id": 42686,
+        "strassenbezeichnung": "Alte Straße"
+    },
+    {
+        "kurzbezeichnung": "Alvierweg",
+        "id": 42687,
+        "strassenbezeichnung": "Alvierweg"
+    },
+    {
+        "kurzbezeichnung": "Am Kohlplatz",
+        "id": 42688,
+        "strassenbezeichnung": "Am Kohlplatz"
+    },
+    {
+        "kurzbezeichnung": "Am Sägenkanal",
+        "id": 42690,
+        "strassenbezeichnung": "Am Sägenkanal"
+    },
+    {
+        "kurzbezeichnung": "Am Wuhrkopf",
+        "id": 42691,
+        "strassenbezeichnung": "Am Wuhrkopf"
+    },
+    {
+        "kurzbezeichnung": "An der Steinlache",
+        "id": 42692,
+        "strassenbezeichnung": "An der Steinlache"
+    },
+    {
+        "kurzbezeichnung": "Ankergasse",
+        "id": 42693,
+        "strassenbezeichnung": "Ankergasse"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 42694,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 42695,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bitzeweg",
+        "id": 42696,
+        "strassenbezeichnung": "Bitzeweg"
+    },
+    {
+        "kurzbezeichnung": "Bommenweg",
+        "id": 42697,
+        "strassenbezeichnung": "Bommenweg"
+    },
+    {
+        "kurzbezeichnung": "Burgauerweg",
+        "id": 42698,
+        "strassenbezeichnung": "Burgauerweg"
+    },
+    {
+        "kurzbezeichnung": "Bussardweg",
+        "id": 42699,
+        "strassenbezeichnung": "Bussardweg"
+    },
+    {
+        "kurzbezeichnung": "Dorngasse",
+        "id": 42700,
+        "strassenbezeichnung": "Dorngasse"
+    },
+    {
+        "kurzbezeichnung": "Eicheleweg",
+        "id": 42701,
+        "strassenbezeichnung": "Eicheleweg"
+    },
+    {
+        "kurzbezeichnung": "Elisabethweg",
+        "id": 42702,
+        "strassenbezeichnung": "Elisabethweg"
+    },
+    {
+        "kurzbezeichnung": "Elsterweg",
+        "id": 42703,
+        "strassenbezeichnung": "Elsterweg"
+    },
+    {
+        "kurzbezeichnung": "Erikastraße",
+        "id": 42704,
+        "strassenbezeichnung": "Erikastraße"
+    },
+    {
+        "kurzbezeichnung": "Erlachstraße",
+        "id": 42705,
+        "strassenbezeichnung": "Erlachstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlengrund",
+        "id": 42706,
+        "strassenbezeichnung": "Erlengrund"
+    },
+    {
+        "kurzbezeichnung": "Eschlestraße",
+        "id": 42707,
+        "strassenbezeichnung": "Eschlestraße"
+    },
+    {
+        "kurzbezeichnung": "Fallenweg",
+        "id": 42708,
+        "strassenbezeichnung": "Fallenweg"
+    },
+    {
+        "kurzbezeichnung": "Fellentorweg",
+        "id": 42710,
+        "strassenbezeichnung": "Fellentorweg"
+    },
+    {
+        "kurzbezeichnung": "Finkenweg",
+        "id": 42711,
+        "strassenbezeichnung": "Finkenweg"
+    },
+    {
+        "kurzbezeichnung": "Fischergasse",
+        "id": 42712,
+        "strassenbezeichnung": "Fischergasse"
+    },
+    {
+        "kurzbezeichnung": "Flötzerweg",
+        "id": 42713,
+        "strassenbezeichnung": "Flötzerweg"
+    },
+    {
+        "kurzbezeichnung": "Fohrengasse",
+        "id": 42714,
+        "strassenbezeichnung": "Fohrengasse"
+    },
+    {
+        "kurzbezeichnung": "Gerbestraße",
+        "id": 42715,
+        "strassenbezeichnung": "Gerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Glasergasse",
+        "id": 42716,
+        "strassenbezeichnung": "Glasergasse"
+    },
+    {
+        "kurzbezeichnung": "Grafenweg",
+        "id": 42717,
+        "strassenbezeichnung": "Grafenweg"
+    },
+    {
+        "kurzbezeichnung": "Habichtweg",
+        "id": 42718,
+        "strassenbezeichnung": "Habichtweg"
+    },
+    {
+        "kurzbezeichnung": "Härdleweg",
+        "id": 42719,
+        "strassenbezeichnung": "Härdleweg"
+    },
+    {
+        "kurzbezeichnung": "Hafenstraße",
+        "id": 42720,
+        "strassenbezeichnung": "Hafenstraße"
+    },
+    {
+        "kurzbezeichnung": "Heimgartstraße",
+        "id": 42721,
+        "strassenbezeichnung": "Heimgartstraße"
+    },
+    {
+        "kurzbezeichnung": "Herrengartenweg",
+        "id": 42722,
+        "strassenbezeichnung": "Herrengartenweg"
+    },
+    {
+        "kurzbezeichnung": "Hölzelestraße",
+        "id": 42723,
+        "strassenbezeichnung": "Hölzelestraße"
+    },
+    {
+        "kurzbezeichnung": "Hofsteigstraße",
+        "id": 42724,
+        "strassenbezeichnung": "Hofsteigstraße"
+    },
+    {
+        "kurzbezeichnung": "Holzlütweg",
+        "id": 42725,
+        "strassenbezeichnung": "Holzlütweg"
+    },
+    {
+        "kurzbezeichnung": "Lustenauer Straße",
+        "id": 42727,
+        "strassenbezeichnung": "Lustenauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Im Kaisermann",
+        "id": 42728,
+        "strassenbezeichnung": "Im Kaisermann"
+    },
+    {
+        "kurzbezeichnung": "In der Au",
+        "id": 42730,
+        "strassenbezeichnung": "In der Au"
+    },
+    {
+        "kurzbezeichnung": "Inselgrund",
+        "id": 42731,
+        "strassenbezeichnung": "Inselgrund"
+    },
+    {
+        "kurzbezeichnung": "Juchartstraße",
+        "id": 42732,
+        "strassenbezeichnung": "Juchartstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaltenbachstraße",
+        "id": 42733,
+        "strassenbezeichnung": "Kaltenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Kastenweg",
+        "id": 42734,
+        "strassenbezeichnung": "Kastenweg"
+    },
+    {
+        "kurzbezeichnung": "Kiesestraße",
+        "id": 42735,
+        "strassenbezeichnung": "Kiesestraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchstraße",
+        "id": 42736,
+        "strassenbezeichnung": "Kirchstraße"
+    },
+    {
+        "kurzbezeichnung": "Kohlplatzstraße",
+        "id": 42737,
+        "strassenbezeichnung": "Kohlplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Kotterstraße",
+        "id": 42738,
+        "strassenbezeichnung": "Kotterstraße"
+    },
+    {
+        "kurzbezeichnung": "Krummenweg",
+        "id": 42739,
+        "strassenbezeichnung": "Krummenweg"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 42740,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Langackerweg",
+        "id": 42741,
+        "strassenbezeichnung": "Langackerweg"
+    },
+    {
+        "kurzbezeichnung": "Langenstegstraße",
+        "id": 42742,
+        "strassenbezeichnung": "Langenstegstraße"
+    },
+    {
+        "kurzbezeichnung": "Lehenweg",
+        "id": 42743,
+        "strassenbezeichnung": "Lehenweg"
+    },
+    {
+        "kurzbezeichnung": "Lerchenmühlstraße",
+        "id": 42745,
+        "strassenbezeichnung": "Lerchenmühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Lerchenweg",
+        "id": 42746,
+        "strassenbezeichnung": "Lerchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lochbachstraße",
+        "id": 42747,
+        "strassenbezeichnung": "Lochbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Margarethendamm",
+        "id": 42748,
+        "strassenbezeichnung": "Margarethendamm"
+    },
+    {
+        "kurzbezeichnung": "Marktstraße",
+        "id": 42749,
+        "strassenbezeichnung": "Marktstraße"
+    },
+    {
+        "kurzbezeichnung": "Mesnergasse",
+        "id": 42750,
+        "strassenbezeichnung": "Mesnergasse"
+    },
+    {
+        "kurzbezeichnung": "Mittelweiherburg",
+        "id": 42751,
+        "strassenbezeichnung": "Mittelweiherburg"
+    },
+    {
+        "kurzbezeichnung": "Mittriedstraße",
+        "id": 42752,
+        "strassenbezeichnung": "Mittriedstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlestraße",
+        "id": 42754,
+        "strassenbezeichnung": "Mühlestraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlwasenstraße",
+        "id": 42755,
+        "strassenbezeichnung": "Mühlwasenstraße"
+    },
+    {
+        "kurzbezeichnung": "Neubaustraße",
+        "id": 42756,
+        "strassenbezeichnung": "Neubaustraße"
+    },
+    {
+        "kurzbezeichnung": "Neulandstraße",
+        "id": 42757,
+        "strassenbezeichnung": "Neulandstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberer Achdamm",
+        "id": 42758,
+        "strassenbezeichnung": "Oberer Achdamm"
+    },
+    {
+        "kurzbezeichnung": "Pfründgasse",
+        "id": 42759,
+        "strassenbezeichnung": "Pfründgasse"
+    },
+    {
+        "kurzbezeichnung": "Poststraße",
+        "id": 42760,
+        "strassenbezeichnung": "Poststraße"
+    },
+    {
+        "kurzbezeichnung": "Quellensiedlung",
+        "id": 42761,
+        "strassenbezeichnung": "Quellensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Quellenstraße",
+        "id": 42762,
+        "strassenbezeichnung": "Quellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Rätikonweg",
+        "id": 42763,
+        "strassenbezeichnung": "Rätikonweg"
+    },
+    {
+        "kurzbezeichnung": "Rauhholzstraße",
+        "id": 42764,
+        "strassenbezeichnung": "Rauhholzstraße"
+    },
+    {
+        "kurzbezeichnung": "Rebengasse",
+        "id": 42765,
+        "strassenbezeichnung": "Rebengasse"
+    },
+    {
+        "kurzbezeichnung": "Rebhuhnweg",
+        "id": 42766,
+        "strassenbezeichnung": "Rebhuhnweg"
+    },
+    {
+        "kurzbezeichnung": "Reutelestraße",
+        "id": 42768,
+        "strassenbezeichnung": "Reutelestraße"
+    },
+    {
+        "kurzbezeichnung": "Rheinstraße",
+        "id": 42769,
+        "strassenbezeichnung": "Rheinstraße"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 42771,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Roßgasse",
+        "id": 42772,
+        "strassenbezeichnung": "Roßgasse"
+    },
+    {
+        "kurzbezeichnung": "Rotachstraße",
+        "id": 42773,
+        "strassenbezeichnung": "Rotachstraße"
+    },
+    {
+        "kurzbezeichnung": "Sägenplatz",
+        "id": 42774,
+        "strassenbezeichnung": "Sägenplatz"
+    },
+    {
+        "kurzbezeichnung": "Sägewerkstraße",
+        "id": 42775,
+        "strassenbezeichnung": "Sägewerkstraße"
+    },
+    {
+        "kurzbezeichnung": "Salbachstraße",
+        "id": 42776,
+        "strassenbezeichnung": "Salbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Sandgasse",
+        "id": 42777,
+        "strassenbezeichnung": "Sandgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 42779,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Schwabengasse",
+        "id": 42780,
+        "strassenbezeichnung": "Schwabengasse"
+    },
+    {
+        "kurzbezeichnung": "Schweizergasse",
+        "id": 42781,
+        "strassenbezeichnung": "Schweizergasse"
+    },
+    {
+        "kurzbezeichnung": "Schwertgasse",
+        "id": 42782,
+        "strassenbezeichnung": "Schwertgasse"
+    },
+    {
+        "kurzbezeichnung": "Seestraße",
+        "id": 42783,
+        "strassenbezeichnung": "Seestraße"
+    },
+    {
+        "kurzbezeichnung": "Sperberweg",
+        "id": 42784,
+        "strassenbezeichnung": "Sperberweg"
+    },
+    {
+        "kurzbezeichnung": "Spinnereistraße",
+        "id": 42785,
+        "strassenbezeichnung": "Spinnereistraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 42786,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Starenweg",
+        "id": 42787,
+        "strassenbezeichnung": "Starenweg"
+    },
+    {
+        "kurzbezeichnung": "Staufenweg",
+        "id": 42788,
+        "strassenbezeichnung": "Staufenweg"
+    },
+    {
+        "kurzbezeichnung": "Steinleserweg",
+        "id": 42789,
+        "strassenbezeichnung": "Steinleserweg"
+    },
+    {
+        "kurzbezeichnung": "Steinlochstraße",
+        "id": 42790,
+        "strassenbezeichnung": "Steinlochstraße"
+    },
+    {
+        "kurzbezeichnung": "Steußbergweg",
+        "id": 42792,
+        "strassenbezeichnung": "Steußbergweg"
+    },
+    {
+        "kurzbezeichnung": "Südtirolerplatz",
+        "id": 42793,
+        "strassenbezeichnung": "Südtirolerplatz"
+    },
+    {
+        "kurzbezeichnung": "Taubenweg",
+        "id": 42794,
+        "strassenbezeichnung": "Taubenweg"
+    },
+    {
+        "kurzbezeichnung": "Torbachstraße",
+        "id": 42795,
+        "strassenbezeichnung": "Torbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Uferstraße",
+        "id": 42797,
+        "strassenbezeichnung": "Uferstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterer Achdamm",
+        "id": 42798,
+        "strassenbezeichnung": "Unterer Achdamm"
+    },
+    {
+        "kurzbezeichnung": "Unterfeldstraße",
+        "id": 42799,
+        "strassenbezeichnung": "Unterfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Wagnergasse",
+        "id": 42801,
+        "strassenbezeichnung": "Wagnergasse"
+    },
+    {
+        "kurzbezeichnung": "Wallstraße",
+        "id": 42802,
+        "strassenbezeichnung": "Wallstraße"
+    },
+    {
+        "kurzbezeichnung": "Walserstraße",
+        "id": 42803,
+        "strassenbezeichnung": "Walserstraße"
+    },
+    {
+        "kurzbezeichnung": "Webereiweg",
+        "id": 42804,
+        "strassenbezeichnung": "Webereiweg"
+    },
+    {
+        "kurzbezeichnung": "Werksiedlung",
+        "id": 42805,
+        "strassenbezeichnung": "Werksiedlung"
+    },
+    {
+        "kurzbezeichnung": "Wiesweg",
+        "id": 42806,
+        "strassenbezeichnung": "Wiesweg"
+    },
+    {
+        "kurzbezeichnung": "Wilhelmstraße",
+        "id": 42807,
+        "strassenbezeichnung": "Wilhelmstraße"
+    },
+    {
+        "kurzbezeichnung": "Wirkerweg",
+        "id": 42808,
+        "strassenbezeichnung": "Wirkerweg"
+    },
+    {
+        "kurzbezeichnung": "Wuhrwaldstraße",
+        "id": 42809,
+        "strassenbezeichnung": "Wuhrwaldstraße"
+    },
+    {
+        "kurzbezeichnung": "Zilatweg",
+        "id": 42810,
+        "strassenbezeichnung": "Zilatweg"
+    },
+    {
+        "kurzbezeichnung": "In der Schanz",
+        "id": 52598,
+        "strassenbezeichnung": "In der Schanz"
+    },
+    {
+        "kurzbezeichnung": "Rechter Rheindamm",
+        "id": 52599,
+        "strassenbezeichnung": "Rechter Rheindamm"
+    },
+    {
+        "kurzbezeichnung": "Am Birkengraben",
+        "id": 52964,
+        "strassenbezeichnung": "Am Birkengraben"
+    },
+    {
+        "kurzbezeichnung": "Binsenfeld",
+        "id": 52965,
+        "strassenbezeichnung": "Binsenfeld"
+    },
+    {
+        "kurzbezeichnung": "Mockenstraße",
+        "id": 52966,
+        "strassenbezeichnung": "Mockenstraße"
+    },
+    {
+        "kurzbezeichnung": "Reitergasse",
+        "id": 52967,
+        "strassenbezeichnung": "Reitergasse"
+    },
+    {
+        "kurzbezeichnung": "Am Römerstein",
+        "id": 52969,
+        "strassenbezeichnung": "Am Römerstein"
+    },
+    {
+        "kurzbezeichnung": "Falkenweg",
+        "id": 52970,
+        "strassenbezeichnung": "Falkenweg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 52971,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Flurstraße",
+        "id": 52972,
+        "strassenbezeichnung": "Flurstraße"
+    },
+    {
+        "kurzbezeichnung": "Im Winkel",
+        "id": 52973,
+        "strassenbezeichnung": "Im Winkel"
+    },
+    {
+        "kurzbezeichnung": "Lerchenauerstraße",
+        "id": 52974,
+        "strassenbezeichnung": "Lerchenauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Pfänderweg",
+        "id": 52975,
+        "strassenbezeichnung": "Pfänderweg"
+    },
+    {
+        "kurzbezeichnung": "Rheintalsiedlung",
+        "id": 52976,
+        "strassenbezeichnung": "Rheintalsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Schäfferhofstraße",
+        "id": 52977,
+        "strassenbezeichnung": "Schäfferhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Schäfferhof",
+        "id": 52978,
+        "strassenbezeichnung": "Schäfferhof"
+    },
+    {
+        "kurzbezeichnung": "Torggelgasse",
+        "id": 52979,
+        "strassenbezeichnung": "Torggelgasse"
+    },
+    {
+        "kurzbezeichnung": "Wachtelweg",
+        "id": 52980,
+        "strassenbezeichnung": "Wachtelweg"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 58849,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Älpeleweg",
+        "id": 65560,
+        "strassenbezeichnung": "Älpeleweg"
+    },
+    {
+        "kurzbezeichnung": "Bödeleweg",
+        "id": 65561,
+        "strassenbezeichnung": "Bödeleweg"
+    },
+    {
+        "kurzbezeichnung": "Rabenweg",
+        "id": 65562,
+        "strassenbezeichnung": "Rabenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 65563,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Auhafendamm",
+        "id": 67203,
+        "strassenbezeichnung": "Auhafendamm"
+    },
+    {
+        "kurzbezeichnung": "Heuweg",
+        "id": 67204,
+        "strassenbezeichnung": "Heuweg"
+    },
+    {
+        "kurzbezeichnung": "Im Böschen",
+        "id": 67205,
+        "strassenbezeichnung": "Im Böschen"
+    },
+    {
+        "kurzbezeichnung": "Im Oberesch",
+        "id": 67206,
+        "strassenbezeichnung": "Im Oberesch"
+    },
+    {
+        "kurzbezeichnung": "Martinsweg",
+        "id": 67207,
+        "strassenbezeichnung": "Martinsweg"
+    },
+    {
+        "kurzbezeichnung": "Apfelweg",
+        "id": 68952,
+        "strassenbezeichnung": "Apfelweg"
+    },
+    {
+        "kurzbezeichnung": "Birnenweg",
+        "id": 68953,
+        "strassenbezeichnung": "Birnenweg"
+    },
+    {
+        "kurzbezeichnung": "Kugelweg",
+        "id": 92214,
+        "strassenbezeichnung": "Kugelweg"
+    },
+    {
+        "kurzbezeichnung": "Nußweg",
+        "id": 94516,
+        "strassenbezeichnung": "Nußweg"
+    },
+    {
+        "kurzbezeichnung": "Schnepfenweg",
+        "id": 98303,
+        "strassenbezeichnung": "Schnepfenweg"
+    },
+    {
+        "kurzbezeichnung": "Dielen",
+        "id": 98541,
+        "strassenbezeichnung": "Dielen"
+    },
+    {
+        "kurzbezeichnung": "Irisweg",
+        "id": 98542,
+        "strassenbezeichnung": "Irisweg"
+    },
+    {
+        "kurzbezeichnung": "Riedstraße",
+        "id": 98543,
+        "strassenbezeichnung": "Riedstraße"
+    },
+    {
+        "kurzbezeichnung": "Sebastianweg",
+        "id": 98544,
+        "strassenbezeichnung": "Sebastianweg"
+    },
+    {
+        "kurzbezeichnung": "Küferweg",
+        "id": 102001,
+        "strassenbezeichnung": "Küferweg"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 106140,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Dreifelderweg",
+        "id": 107573,
+        "strassenbezeichnung": "Dreifelderweg"
+    },
+    {
+        "kurzbezeichnung": "Säntisweg",
+        "id": 108318,
+        "strassenbezeichnung": "Säntisweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchplatz",
+        "id": 112485,
+        "strassenbezeichnung": "Kirchplatz"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 115848,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Altmannweg",
+        "id": 122412,
+        "strassenbezeichnung": "Altmannweg"
+    }
+]

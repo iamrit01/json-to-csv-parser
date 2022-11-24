@@ -1,0 +1,437 @@
+[
+    {
+        "kurzbezeichnung": "Kirschenweg",
+        "id": -32875,
+        "strassenbezeichnung": "Kirschenweg"
+    },
+    {
+        "kurzbezeichnung": "Steinzeitweg",
+        "id": -32325,
+        "strassenbezeichnung": "Steinzeitweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": -31028,
+        "strassenbezeichnung": "Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Geymüllergasse",
+        "id": -30414,
+        "strassenbezeichnung": "Geymüllergasse"
+    },
+    {
+        "kurzbezeichnung": "Im Obstgarten",
+        "id": -20670,
+        "strassenbezeichnung": "Im Obstgarten"
+    },
+    {
+        "kurzbezeichnung": "Bronzezeitweg",
+        "id": -16782,
+        "strassenbezeichnung": "Bronzezeitweg"
+    },
+    {
+        "kurzbezeichnung": "Franzhausen",
+        "id": 80537,
+        "strassenbezeichnung": "Franzhausen"
+    },
+    {
+        "kurzbezeichnung": "Freilehnmühle",
+        "id": 80538,
+        "strassenbezeichnung": "Freilehnmühle"
+    },
+    {
+        "kurzbezeichnung": "Neusiedl",
+        "id": 80539,
+        "strassenbezeichnung": "Neusiedl"
+    },
+    {
+        "kurzbezeichnung": "Nußdorf an der Traisen",
+        "id": 80540,
+        "strassenbezeichnung": "Nußdorf an der Traisen"
+    },
+    {
+        "kurzbezeichnung": "Reichersdorf",
+        "id": 80541,
+        "strassenbezeichnung": "Reichersdorf"
+    },
+    {
+        "kurzbezeichnung": "Ried",
+        "id": 80542,
+        "strassenbezeichnung": "Ried"
+    },
+    {
+        "kurzbezeichnung": "Theyern",
+        "id": 80543,
+        "strassenbezeichnung": "Theyern"
+    },
+    {
+        "kurzbezeichnung": "Bachäckerweg",
+        "id": 114087,
+        "strassenbezeichnung": "Bachäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": 114088,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Bründlweg",
+        "id": 114089,
+        "strassenbezeichnung": "Bründlweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 114090,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Ferdinand-Lutz-Straße",
+        "id": 114091,
+        "strassenbezeichnung": "Ferdinand-Lutz-Straße"
+    },
+    {
+        "kurzbezeichnung": "Fräuleinmühle",
+        "id": 114092,
+        "strassenbezeichnung": "Fräuleinmühle"
+    },
+    {
+        "kurzbezeichnung": "Hans-Olden-Straße",
+        "id": 114093,
+        "strassenbezeichnung": "Hans-Olden-Straße"
+    },
+    {
+        "kurzbezeichnung": "Keltengasse",
+        "id": 114094,
+        "strassenbezeichnung": "Keltengasse"
+    },
+    {
+        "kurzbezeichnung": "Kiesstraße",
+        "id": 114095,
+        "strassenbezeichnung": "Kiesstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchleithenweg",
+        "id": 114096,
+        "strassenbezeichnung": "Kirchleithenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 114097,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Merangasse",
+        "id": 114098,
+        "strassenbezeichnung": "Merangasse"
+    },
+    {
+        "kurzbezeichnung": "Neumühleweg",
+        "id": 114099,
+        "strassenbezeichnung": "Neumühleweg"
+    },
+    {
+        "kurzbezeichnung": "Nußdorfer Straße",
+        "id": 114100,
+        "strassenbezeichnung": "Nußdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Paradiesweg",
+        "id": 114101,
+        "strassenbezeichnung": "Paradiesweg"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 114102,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 114103,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Traubenweg",
+        "id": 114104,
+        "strassenbezeichnung": "Traubenweg"
+    },
+    {
+        "kurzbezeichnung": "Wagramer Straße",
+        "id": 114105,
+        "strassenbezeichnung": "Wagramer Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Graben",
+        "id": 114106,
+        "strassenbezeichnung": "Am Graben"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 114107,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bäckergasse",
+        "id": 114108,
+        "strassenbezeichnung": "Bäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Donaugasse",
+        "id": 114109,
+        "strassenbezeichnung": "Donaugasse"
+    },
+    {
+        "kurzbezeichnung": "Fasangasse",
+        "id": 114110,
+        "strassenbezeichnung": "Fasangasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 114111,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 114112,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 114113,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 114114,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 114115,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Neusiedler Straße",
+        "id": 114116,
+        "strassenbezeichnung": "Neusiedler Straße"
+    },
+    {
+        "kurzbezeichnung": "Oberer Markt",
+        "id": 114117,
+        "strassenbezeichnung": "Oberer Markt"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 114118,
+        "strassenbezeichnung": "Panoramaweg"
+    },
+    {
+        "kurzbezeichnung": "Schlossberggasse",
+        "id": 114119,
+        "strassenbezeichnung": "Schlossberggasse"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgasse",
+        "id": 114120,
+        "strassenbezeichnung": "Schmiedgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 114121,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 114122,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Traismauerstraße",
+        "id": 114123,
+        "strassenbezeichnung": "Traismauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterer Markt",
+        "id": 114124,
+        "strassenbezeichnung": "Unterer Markt"
+    },
+    {
+        "kurzbezeichnung": "Weidengasse",
+        "id": 114125,
+        "strassenbezeichnung": "Weidengasse"
+    },
+    {
+        "kurzbezeichnung": "Weinberggasse",
+        "id": 114126,
+        "strassenbezeichnung": "Weinberggasse"
+    },
+    {
+        "kurzbezeichnung": "Wetterkreuzgasse",
+        "id": 114127,
+        "strassenbezeichnung": "Wetterkreuzgasse"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofenweg",
+        "id": 114128,
+        "strassenbezeichnung": "Ziegelofenweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 114129,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 114130,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Butoniastraße",
+        "id": 114131,
+        "strassenbezeichnung": "Butoniastraße"
+    },
+    {
+        "kurzbezeichnung": "Energiestraße",
+        "id": 114132,
+        "strassenbezeichnung": "Energiestraße"
+    },
+    {
+        "kurzbezeichnung": "Fabrikstraße",
+        "id": 114133,
+        "strassenbezeichnung": "Fabrikstraße"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 114134,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 114135,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Franzhausener Straße",
+        "id": 114136,
+        "strassenbezeichnung": "Franzhausener Straße"
+    },
+    {
+        "kurzbezeichnung": "Getzersdorfer Straße",
+        "id": 114137,
+        "strassenbezeichnung": "Getzersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße-Nord",
+        "id": 114138,
+        "strassenbezeichnung": "Gewerbestraße-Nord"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße-Süd",
+        "id": 114139,
+        "strassenbezeichnung": "Gewerbestraße-Süd"
+    },
+    {
+        "kurzbezeichnung": "Grumbiglgasse",
+        "id": 114140,
+        "strassenbezeichnung": "Grumbiglgasse"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 114141,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 114142,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Koglgasse",
+        "id": 114143,
+        "strassenbezeichnung": "Koglgasse"
+    },
+    {
+        "kurzbezeichnung": "Neuweg",
+        "id": 114144,
+        "strassenbezeichnung": "Neuweg"
+    },
+    {
+        "kurzbezeichnung": "Nussgasse",
+        "id": 114145,
+        "strassenbezeichnung": "Nussgasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Ortsstraße",
+        "id": 114146,
+        "strassenbezeichnung": "Obere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 114147,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Rebgasse",
+        "id": 114148,
+        "strassenbezeichnung": "Rebgasse"
+    },
+    {
+        "kurzbezeichnung": "Traisenstraße",
+        "id": 114149,
+        "strassenbezeichnung": "Traisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Ortsstraße",
+        "id": 114150,
+        "strassenbezeichnung": "Untere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Wegscheidgasse",
+        "id": 114151,
+        "strassenbezeichnung": "Wegscheidgasse"
+    },
+    {
+        "kurzbezeichnung": "Weinriedenweg",
+        "id": 114152,
+        "strassenbezeichnung": "Weinriedenweg"
+    },
+    {
+        "kurzbezeichnung": "Rieder Dorfstraße",
+        "id": 114153,
+        "strassenbezeichnung": "Rieder Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Inzersdorfer Straße",
+        "id": 114154,
+        "strassenbezeichnung": "Inzersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Ringgasse",
+        "id": 114155,
+        "strassenbezeichnung": "Ringgasse"
+    },
+    {
+        "kurzbezeichnung": "Theyerner Dorfstraße",
+        "id": 114156,
+        "strassenbezeichnung": "Theyerner Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Traminerweg",
+        "id": 114157,
+        "strassenbezeichnung": "Traminerweg"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 118889,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Marillenweg",
+        "id": 118890,
+        "strassenbezeichnung": "Marillenweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 121322,
+        "strassenbezeichnung": "Wiesenweg"
+    }
+]

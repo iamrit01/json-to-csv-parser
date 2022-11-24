@@ -1,0 +1,477 @@
+[
+    {
+        "kurzbezeichnung": "Haselweg",
+        "id": -33151,
+        "strassenbezeichnung": "Haselweg"
+    },
+    {
+        "kurzbezeichnung": "Am Welser-Platz",
+        "id": -32943,
+        "strassenbezeichnung": "Am Welser-Platz"
+    },
+    {
+        "kurzbezeichnung": "Wallsiedlung",
+        "id": -16907,
+        "strassenbezeichnung": "Wallsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": -16112,
+        "strassenbezeichnung": "Schloßgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Annenwald",
+        "id": 48801,
+        "strassenbezeichnung": "Am Annenwald"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 48802,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 48803,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Breitenweg",
+        "id": 48804,
+        "strassenbezeichnung": "Breitenweg"
+    },
+    {
+        "kurzbezeichnung": "Campingstraße",
+        "id": 48805,
+        "strassenbezeichnung": "Campingstraße"
+    },
+    {
+        "kurzbezeichnung": "Edlachweg",
+        "id": 48806,
+        "strassenbezeichnung": "Edlachweg"
+    },
+    {
+        "kurzbezeichnung": "Eichengasse",
+        "id": 48807,
+        "strassenbezeichnung": "Eichengasse"
+    },
+    {
+        "kurzbezeichnung": "Erlaufgasse",
+        "id": 48808,
+        "strassenbezeichnung": "Erlaufgasse"
+    },
+    {
+        "kurzbezeichnung": "Erlaufpromenade",
+        "id": 48809,
+        "strassenbezeichnung": "Erlaufpromenade"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 48810,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Forellenweg",
+        "id": 48811,
+        "strassenbezeichnung": "Forellenweg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Alt-Straße",
+        "id": 48812,
+        "strassenbezeichnung": "Franz-Alt-Straße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 48813,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Gaminger Straße",
+        "id": 48814,
+        "strassenbezeichnung": "Gaminger Straße"
+    },
+    {
+        "kurzbezeichnung": "Goganzstraße",
+        "id": 48815,
+        "strassenbezeichnung": "Goganzstraße"
+    },
+    {
+        "kurzbezeichnung": "Hammerweg",
+        "id": 48816,
+        "strassenbezeichnung": "Hammerweg"
+    },
+    {
+        "kurzbezeichnung": "Hoderbergstraße",
+        "id": 48817,
+        "strassenbezeichnung": "Hoderbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Hunnenstraße",
+        "id": 48818,
+        "strassenbezeichnung": "Hunnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Joisingweg",
+        "id": 48819,
+        "strassenbezeichnung": "Joisingweg"
+    },
+    {
+        "kurzbezeichnung": "Johannesweg",
+        "id": 48820,
+        "strassenbezeichnung": "Johannesweg"
+    },
+    {
+        "kurzbezeichnung": "Kinderdorfstraße",
+        "id": 48821,
+        "strassenbezeichnung": "Kinderdorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Knoglstraße",
+        "id": 48822,
+        "strassenbezeichnung": "Knoglstraße"
+    },
+    {
+        "kurzbezeichnung": "Laubengasse",
+        "id": 48823,
+        "strassenbezeichnung": "Laubengasse"
+    },
+    {
+        "kurzbezeichnung": "Lindengasse",
+        "id": 48824,
+        "strassenbezeichnung": "Lindengasse"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 48825,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlbachstraße",
+        "id": 48826,
+        "strassenbezeichnung": "Mühlbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlbergstraße",
+        "id": 48827,
+        "strassenbezeichnung": "Mühlbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberer Markt",
+        "id": 48828,
+        "strassenbezeichnung": "Oberer Markt"
+    },
+    {
+        "kurzbezeichnung": "Otto Ruiß-Straße",
+        "id": 48829,
+        "strassenbezeichnung": "Otto Ruiß-Straße"
+    },
+    {
+        "kurzbezeichnung": "Parkgasse",
+        "id": 48830,
+        "strassenbezeichnung": "Parkgasse"
+    },
+    {
+        "kurzbezeichnung": "Salcherstraße",
+        "id": 48831,
+        "strassenbezeichnung": "Salcherstraße"
+    },
+    {
+        "kurzbezeichnung": "Scheibbser Straße",
+        "id": 48832,
+        "strassenbezeichnung": "Scheibbser Straße"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 48833,
+        "strassenbezeichnung": "Schloßgasse"
+    },
+    {
+        "kurzbezeichnung": "Schloß Stiebar",
+        "id": 48834,
+        "strassenbezeichnung": "Schloß Stiebar"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgasse",
+        "id": 48835,
+        "strassenbezeichnung": "Schmiedgasse"
+    },
+    {
+        "kurzbezeichnung": "Schönauergasse",
+        "id": 48836,
+        "strassenbezeichnung": "Schönauergasse"
+    },
+    {
+        "kurzbezeichnung": "Schützenstraße",
+        "id": 48837,
+        "strassenbezeichnung": "Schützenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 48838,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnengasse",
+        "id": 48839,
+        "strassenbezeichnung": "Sonnengasse"
+    },
+    {
+        "kurzbezeichnung": "Spielberg",
+        "id": 48840,
+        "strassenbezeichnung": "Spielberg"
+    },
+    {
+        "kurzbezeichnung": "Spörken",
+        "id": 48841,
+        "strassenbezeichnung": "Spörken"
+    },
+    {
+        "kurzbezeichnung": "Steinweg",
+        "id": 48842,
+        "strassenbezeichnung": "Steinweg"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 48843,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Ufergasse",
+        "id": 48844,
+        "strassenbezeichnung": "Ufergasse"
+    },
+    {
+        "kurzbezeichnung": "Unterer Markt",
+        "id": 48845,
+        "strassenbezeichnung": "Unterer Markt"
+    },
+    {
+        "kurzbezeichnung": "Waidhofner Straße",
+        "id": 48846,
+        "strassenbezeichnung": "Waidhofner Straße"
+    },
+    {
+        "kurzbezeichnung": "Werkgasse",
+        "id": 48847,
+        "strassenbezeichnung": "Werkgasse"
+    },
+    {
+        "kurzbezeichnung": "Wieselburger Straße",
+        "id": 48848,
+        "strassenbezeichnung": "Wieselburger Straße"
+    },
+    {
+        "kurzbezeichnung": "Ybbsbachpromenade",
+        "id": 48849,
+        "strassenbezeichnung": "Ybbsbachpromenade"
+    },
+    {
+        "kurzbezeichnung": "Ybbsbachstraße",
+        "id": 48850,
+        "strassenbezeichnung": "Ybbsbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Alt-Promenade",
+        "id": 48862,
+        "strassenbezeichnung": "Franz Alt-Promenade"
+    },
+    {
+        "kurzbezeichnung": "Anton Bruckner-Straße",
+        "id": 50200,
+        "strassenbezeichnung": "Anton Bruckner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Erlengasse",
+        "id": 50201,
+        "strassenbezeichnung": "Erlengasse"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 50202,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Hainstraße",
+        "id": 50203,
+        "strassenbezeichnung": "Hainstraße"
+    },
+    {
+        "kurzbezeichnung": "Nikolausstraße",
+        "id": 50205,
+        "strassenbezeichnung": "Nikolausstraße"
+    },
+    {
+        "kurzbezeichnung": "Steigerweg",
+        "id": 50206,
+        "strassenbezeichnung": "Steigerweg"
+    },
+    {
+        "kurzbezeichnung": "Sagmühlgasse",
+        "id": 50207,
+        "strassenbezeichnung": "Sagmühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Schmiedgraben",
+        "id": 53146,
+        "strassenbezeichnung": "Schmiedgraben"
+    },
+    {
+        "kurzbezeichnung": "Kirchstatt",
+        "id": 56300,
+        "strassenbezeichnung": "Kirchstatt"
+    },
+    {
+        "kurzbezeichnung": "Reinsberg",
+        "id": 56386,
+        "strassenbezeichnung": "Reinsberg"
+    },
+    {
+        "kurzbezeichnung": "Altenreith",
+        "id": 57235,
+        "strassenbezeichnung": "Altenreith"
+    },
+    {
+        "kurzbezeichnung": "Brettl",
+        "id": 57245,
+        "strassenbezeichnung": "Brettl"
+    },
+    {
+        "kurzbezeichnung": "Hinterreith",
+        "id": 57254,
+        "strassenbezeichnung": "Hinterreith"
+    },
+    {
+        "kurzbezeichnung": "Wiesergraben",
+        "id": 57280,
+        "strassenbezeichnung": "Wiesergraben"
+    },
+    {
+        "kurzbezeichnung": "Robitzboden",
+        "id": 58057,
+        "strassenbezeichnung": "Robitzboden"
+    },
+    {
+        "kurzbezeichnung": "Burggasse",
+        "id": 58060,
+        "strassenbezeichnung": "Burggasse"
+    },
+    {
+        "kurzbezeichnung": "Leopold Haindl-Straße",
+        "id": 58061,
+        "strassenbezeichnung": "Leopold Haindl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Willi-Sigmund-Straße",
+        "id": 58965,
+        "strassenbezeichnung": "Willi-Sigmund-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mariahilfstraße",
+        "id": 63149,
+        "strassenbezeichnung": "Mariahilfstraße"
+    },
+    {
+        "kurzbezeichnung": "Suttengrestenstraße",
+        "id": 63150,
+        "strassenbezeichnung": "Suttengrestenstraße"
+    },
+    {
+        "kurzbezeichnung": "Angergasse",
+        "id": 63151,
+        "strassenbezeichnung": "Angergasse"
+    },
+    {
+        "kurzbezeichnung": "Hofsiedlung",
+        "id": 70971,
+        "strassenbezeichnung": "Hofsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Im Blumental",
+        "id": 71057,
+        "strassenbezeichnung": "Im Blumental"
+    },
+    {
+        "kurzbezeichnung": "Oberamt",
+        "id": 80745,
+        "strassenbezeichnung": "Oberamt"
+    },
+    {
+        "kurzbezeichnung": "Obergut",
+        "id": 80746,
+        "strassenbezeichnung": "Obergut"
+    },
+    {
+        "kurzbezeichnung": "Schadneramt",
+        "id": 80747,
+        "strassenbezeichnung": "Schadneramt"
+    },
+    {
+        "kurzbezeichnung": "Unteramt",
+        "id": 80748,
+        "strassenbezeichnung": "Unteramt"
+    },
+    {
+        "kurzbezeichnung": "Franzenreith",
+        "id": 80835,
+        "strassenbezeichnung": "Franzenreith"
+    },
+    {
+        "kurzbezeichnung": "Hinterleiten",
+        "id": 80837,
+        "strassenbezeichnung": "Hinterleiten"
+    },
+    {
+        "kurzbezeichnung": "Buchberg",
+        "id": 80844,
+        "strassenbezeichnung": "Buchberg"
+    },
+    {
+        "kurzbezeichnung": "Kerschenberg",
+        "id": 80845,
+        "strassenbezeichnung": "Kerschenberg"
+    },
+    {
+        "kurzbezeichnung": "Schaitten",
+        "id": 80846,
+        "strassenbezeichnung": "Schaitten"
+    },
+    {
+        "kurzbezeichnung": "Am Salcher",
+        "id": 93978,
+        "strassenbezeichnung": "Am Salcher"
+    },
+    {
+        "kurzbezeichnung": "Wohnparkstraße",
+        "id": 93979,
+        "strassenbezeichnung": "Wohnparkstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 101763,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 107160,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Tavernenweg",
+        "id": 108029,
+        "strassenbezeichnung": "Tavernenweg"
+    },
+    {
+        "kurzbezeichnung": "Wilhelm Schleicher-Weg",
+        "id": 110757,
+        "strassenbezeichnung": "Wilhelm Schleicher-Weg"
+    },
+    {
+        "kurzbezeichnung": "Adelheidweg",
+        "id": 118997,
+        "strassenbezeichnung": "Adelheidweg"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 121364,
+        "strassenbezeichnung": "Bachweg"
+    }
+]

@@ -1,0 +1,557 @@
+[
+    {
+        "kurzbezeichnung": "Fruhwirthstraße",
+        "id": -20804,
+        "strassenbezeichnung": "Fruhwirthstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 26878,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bräuberg",
+        "id": 26879,
+        "strassenbezeichnung": "Bräuberg"
+    },
+    {
+        "kurzbezeichnung": "Brandhof",
+        "id": 26880,
+        "strassenbezeichnung": "Brandhof"
+    },
+    {
+        "kurzbezeichnung": "Fadingerstraße",
+        "id": 26881,
+        "strassenbezeichnung": "Fadingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasanweg",
+        "id": 26882,
+        "strassenbezeichnung": "Fasanweg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 26883,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Hochscharten",
+        "id": 26884,
+        "strassenbezeichnung": "Hochscharten"
+    },
+    {
+        "kurzbezeichnung": "Hueberstraße",
+        "id": 26885,
+        "strassenbezeichnung": "Hueberstraße"
+    },
+    {
+        "kurzbezeichnung": "Jägergasse",
+        "id": 26886,
+        "strassenbezeichnung": "Jägergasse"
+    },
+    {
+        "kurzbezeichnung": "Kienzlstraße",
+        "id": 26887,
+        "strassenbezeichnung": "Kienzlstraße"
+    },
+    {
+        "kurzbezeichnung": "Klosterstraße",
+        "id": 26888,
+        "strassenbezeichnung": "Klosterstraße"
+    },
+    {
+        "kurzbezeichnung": "Kuefsteinweg",
+        "id": 26889,
+        "strassenbezeichnung": "Kuefsteinweg"
+    },
+    {
+        "kurzbezeichnung": "Lederergasse",
+        "id": 26890,
+        "strassenbezeichnung": "Lederergasse"
+    },
+    {
+        "kurzbezeichnung": "Losensteinstraße",
+        "id": 26891,
+        "strassenbezeichnung": "Losensteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 26892,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Pfarrerberg",
+        "id": 26893,
+        "strassenbezeichnung": "Pfarrerberg"
+    },
+    {
+        "kurzbezeichnung": "Pfarrwies",
+        "id": 26894,
+        "strassenbezeichnung": "Pfarrwies"
+    },
+    {
+        "kurzbezeichnung": "Pollheimerstraße",
+        "id": 26895,
+        "strassenbezeichnung": "Pollheimerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßfeld",
+        "id": 26896,
+        "strassenbezeichnung": "Schloßfeld"
+    },
+    {
+        "kurzbezeichnung": "Schmidgasse",
+        "id": 26897,
+        "strassenbezeichnung": "Schmidgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulberg",
+        "id": 26898,
+        "strassenbezeichnung": "Schulberg"
+    },
+    {
+        "kurzbezeichnung": "Trappelweg",
+        "id": 26899,
+        "strassenbezeichnung": "Trappelweg"
+    },
+    {
+        "kurzbezeichnung": "Webereistraße",
+        "id": 26900,
+        "strassenbezeichnung": "Webereistraße"
+    },
+    {
+        "kurzbezeichnung": "Weidenholz",
+        "id": 26901,
+        "strassenbezeichnung": "Weidenholz"
+    },
+    {
+        "kurzbezeichnung": "Wiesmühle",
+        "id": 26902,
+        "strassenbezeichnung": "Wiesmühle"
+    },
+    {
+        "kurzbezeichnung": "Zellerstraße",
+        "id": 26903,
+        "strassenbezeichnung": "Zellerstraße"
+    },
+    {
+        "kurzbezeichnung": "Doppelbauerstraße",
+        "id": 51865,
+        "strassenbezeichnung": "Doppelbauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Molkereistraße",
+        "id": 51866,
+        "strassenbezeichnung": "Molkereistraße"
+    },
+    {
+        "kurzbezeichnung": "Petzstraße",
+        "id": 51867,
+        "strassenbezeichnung": "Petzstraße"
+    },
+    {
+        "kurzbezeichnung": "Pucherstraße",
+        "id": 51868,
+        "strassenbezeichnung": "Pucherstraße"
+    },
+    {
+        "kurzbezeichnung": "Römerstraße",
+        "id": 51869,
+        "strassenbezeichnung": "Römerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schiffermüllerstraße",
+        "id": 51870,
+        "strassenbezeichnung": "Schiffermüllerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 59281,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 59282,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Davidstraße",
+        "id": 59283,
+        "strassenbezeichnung": "Davidstraße"
+    },
+    {
+        "kurzbezeichnung": "Gföllnerstraße",
+        "id": 59284,
+        "strassenbezeichnung": "Gföllnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Linzerstraße",
+        "id": 59286,
+        "strassenbezeichnung": "Linzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Meindlstraße",
+        "id": 59287,
+        "strassenbezeichnung": "Meindlstraße"
+    },
+    {
+        "kurzbezeichnung": "Breitenanger",
+        "id": 65890,
+        "strassenbezeichnung": "Breitenanger"
+    },
+    {
+        "kurzbezeichnung": "Corethstraße",
+        "id": 67209,
+        "strassenbezeichnung": "Corethstraße"
+    },
+    {
+        "kurzbezeichnung": "Stelzhamerstraße",
+        "id": 67210,
+        "strassenbezeichnung": "Stelzhamerstraße"
+    },
+    {
+        "kurzbezeichnung": "Baumgartnerstraße",
+        "id": 68235,
+        "strassenbezeichnung": "Baumgartnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wasserweg",
+        "id": 72702,
+        "strassenbezeichnung": "Wasserweg"
+    },
+    {
+        "kurzbezeichnung": "Hohenfeldstraße",
+        "id": 75616,
+        "strassenbezeichnung": "Hohenfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Schöffling",
+        "id": 82654,
+        "strassenbezeichnung": "Schöffling"
+    },
+    {
+        "kurzbezeichnung": "Bergern",
+        "id": 82707,
+        "strassenbezeichnung": "Bergern"
+    },
+    {
+        "kurzbezeichnung": "Gugerling",
+        "id": 82715,
+        "strassenbezeichnung": "Gugerling"
+    },
+    {
+        "kurzbezeichnung": "Wölflhof",
+        "id": 82728,
+        "strassenbezeichnung": "Wölflhof"
+    },
+    {
+        "kurzbezeichnung": "Hech",
+        "id": 83286,
+        "strassenbezeichnung": "Hech"
+    },
+    {
+        "kurzbezeichnung": "Kropfleiten",
+        "id": 83774,
+        "strassenbezeichnung": "Kropfleiten"
+    },
+    {
+        "kurzbezeichnung": "Löwengrub",
+        "id": 83776,
+        "strassenbezeichnung": "Löwengrub"
+    },
+    {
+        "kurzbezeichnung": "Anrath",
+        "id": 83923,
+        "strassenbezeichnung": "Anrath"
+    },
+    {
+        "kurzbezeichnung": "Aschach",
+        "id": 83924,
+        "strassenbezeichnung": "Aschach"
+    },
+    {
+        "kurzbezeichnung": "Auweidenholz",
+        "id": 83925,
+        "strassenbezeichnung": "Auweidenholz"
+    },
+    {
+        "kurzbezeichnung": "Auwies",
+        "id": 83926,
+        "strassenbezeichnung": "Auwies"
+    },
+    {
+        "kurzbezeichnung": "Bäckenhof",
+        "id": 83927,
+        "strassenbezeichnung": "Bäckenhof"
+    },
+    {
+        "kurzbezeichnung": "Breitwies",
+        "id": 83928,
+        "strassenbezeichnung": "Breitwies"
+    },
+    {
+        "kurzbezeichnung": "Dittenbach",
+        "id": 83929,
+        "strassenbezeichnung": "Dittenbach"
+    },
+    {
+        "kurzbezeichnung": "Eitzenberg",
+        "id": 83930,
+        "strassenbezeichnung": "Eitzenberg"
+    },
+    {
+        "kurzbezeichnung": "Esthofen",
+        "id": 83931,
+        "strassenbezeichnung": "Esthofen"
+    },
+    {
+        "kurzbezeichnung": "Grillparz",
+        "id": 83933,
+        "strassenbezeichnung": "Grillparz"
+    },
+    {
+        "kurzbezeichnung": "Hausleiten",
+        "id": 83934,
+        "strassenbezeichnung": "Hausleiten"
+    },
+    {
+        "kurzbezeichnung": "Holzing",
+        "id": 83935,
+        "strassenbezeichnung": "Holzing"
+    },
+    {
+        "kurzbezeichnung": "Hueb bei Lindbruck",
+        "id": 83936,
+        "strassenbezeichnung": "Hueb bei Lindbruck"
+    },
+    {
+        "kurzbezeichnung": "Hueb bei Manzing",
+        "id": 83937,
+        "strassenbezeichnung": "Hueb bei Manzing"
+    },
+    {
+        "kurzbezeichnung": "Imperndorf",
+        "id": 83938,
+        "strassenbezeichnung": "Imperndorf"
+    },
+    {
+        "kurzbezeichnung": "Inzing",
+        "id": 83939,
+        "strassenbezeichnung": "Inzing"
+    },
+    {
+        "kurzbezeichnung": "Keppling",
+        "id": 83940,
+        "strassenbezeichnung": "Keppling"
+    },
+    {
+        "kurzbezeichnung": "Kollerbichl",
+        "id": 83941,
+        "strassenbezeichnung": "Kollerbichl"
+    },
+    {
+        "kurzbezeichnung": "Kranabithen",
+        "id": 83942,
+        "strassenbezeichnung": "Kranabithen"
+    },
+    {
+        "kurzbezeichnung": "Kropfleiten",
+        "id": 83943,
+        "strassenbezeichnung": "Kropfleiten"
+    },
+    {
+        "kurzbezeichnung": "Lindbruck",
+        "id": 83944,
+        "strassenbezeichnung": "Lindbruck"
+    },
+    {
+        "kurzbezeichnung": "Moospolling",
+        "id": 83946,
+        "strassenbezeichnung": "Moospolling"
+    },
+    {
+        "kurzbezeichnung": "Niederndorf",
+        "id": 83947,
+        "strassenbezeichnung": "Niederndorf"
+    },
+    {
+        "kurzbezeichnung": "Niederspaching",
+        "id": 83948,
+        "strassenbezeichnung": "Niederspaching"
+    },
+    {
+        "kurzbezeichnung": "Obergschwendt",
+        "id": 83949,
+        "strassenbezeichnung": "Obergschwendt"
+    },
+    {
+        "kurzbezeichnung": "Oberviehbach",
+        "id": 83950,
+        "strassenbezeichnung": "Oberviehbach"
+    },
+    {
+        "kurzbezeichnung": "Oberwegbach",
+        "id": 83951,
+        "strassenbezeichnung": "Oberwegbach"
+    },
+    {
+        "kurzbezeichnung": "Parzham",
+        "id": 83952,
+        "strassenbezeichnung": "Parzham"
+    },
+    {
+        "kurzbezeichnung": "Prambacherholz",
+        "id": 83953,
+        "strassenbezeichnung": "Prambacherholz"
+    },
+    {
+        "kurzbezeichnung": "Punzing",
+        "id": 83954,
+        "strassenbezeichnung": "Punzing"
+    },
+    {
+        "kurzbezeichnung": "Purgstall",
+        "id": 83955,
+        "strassenbezeichnung": "Purgstall"
+    },
+    {
+        "kurzbezeichnung": "Röckendorferholz",
+        "id": 83957,
+        "strassenbezeichnung": "Röckendorferholz"
+    },
+    {
+        "kurzbezeichnung": "Schurrerprambach",
+        "id": 83958,
+        "strassenbezeichnung": "Schurrerprambach"
+    },
+    {
+        "kurzbezeichnung": "Sittling",
+        "id": 83959,
+        "strassenbezeichnung": "Sittling"
+    },
+    {
+        "kurzbezeichnung": "Steinparz",
+        "id": 83960,
+        "strassenbezeichnung": "Steinparz"
+    },
+    {
+        "kurzbezeichnung": "Stillfüssing",
+        "id": 83961,
+        "strassenbezeichnung": "Stillfüssing"
+    },
+    {
+        "kurzbezeichnung": "Stroiß",
+        "id": 83962,
+        "strassenbezeichnung": "Stroiß"
+    },
+    {
+        "kurzbezeichnung": "Thall",
+        "id": 83963,
+        "strassenbezeichnung": "Thall"
+    },
+    {
+        "kurzbezeichnung": "Thallham",
+        "id": 83964,
+        "strassenbezeichnung": "Thallham"
+    },
+    {
+        "kurzbezeichnung": "Untergschwendt",
+        "id": 83965,
+        "strassenbezeichnung": "Untergschwendt"
+    },
+    {
+        "kurzbezeichnung": "Unterheuberg",
+        "id": 83966,
+        "strassenbezeichnung": "Unterheuberg"
+    },
+    {
+        "kurzbezeichnung": "Unterviehbach",
+        "id": 83967,
+        "strassenbezeichnung": "Unterviehbach"
+    },
+    {
+        "kurzbezeichnung": "Unterwegbach",
+        "id": 83968,
+        "strassenbezeichnung": "Unterwegbach"
+    },
+    {
+        "kurzbezeichnung": "Waikhartsberg",
+        "id": 83969,
+        "strassenbezeichnung": "Waikhartsberg"
+    },
+    {
+        "kurzbezeichnung": "Waldweidenholz",
+        "id": 83970,
+        "strassenbezeichnung": "Waldweidenholz"
+    },
+    {
+        "kurzbezeichnung": "Weg",
+        "id": 83972,
+        "strassenbezeichnung": "Weg"
+    },
+    {
+        "kurzbezeichnung": "Willersdorf",
+        "id": 83974,
+        "strassenbezeichnung": "Willersdorf"
+    },
+    {
+        "kurzbezeichnung": "Prandtstraße",
+        "id": 91810,
+        "strassenbezeichnung": "Prandtstraße"
+    },
+    {
+        "kurzbezeichnung": "Fellingerstraße",
+        "id": 96123,
+        "strassenbezeichnung": "Fellingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kramerstraße",
+        "id": 96124,
+        "strassenbezeichnung": "Kramerstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofstraße",
+        "id": 105609,
+        "strassenbezeichnung": "Friedhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Gärtnereistraße",
+        "id": 109282,
+        "strassenbezeichnung": "Gärtnereistraße"
+    },
+    {
+        "kurzbezeichnung": "Höferstraße",
+        "id": 110635,
+        "strassenbezeichnung": "Höferstraße"
+    },
+    {
+        "kurzbezeichnung": "Wegbachstraße",
+        "id": 111514,
+        "strassenbezeichnung": "Wegbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Brunnwald",
+        "id": 113177,
+        "strassenbezeichnung": "Brunnwald"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark Süd",
+        "id": 113347,
+        "strassenbezeichnung": "Gewerbepark Süd"
+    },
+    {
+        "kurzbezeichnung": "Am Mitterfeld",
+        "id": 121307,
+        "strassenbezeichnung": "Am Mitterfeld"
+    },
+    {
+        "kurzbezeichnung": "Inkobastraße",
+        "id": 124472,
+        "strassenbezeichnung": "Inkobastraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenhang",
+        "id": 125314,
+        "strassenbezeichnung": "Sonnenhang"
+    }
+]

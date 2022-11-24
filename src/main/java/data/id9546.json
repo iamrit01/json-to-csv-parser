@@ -1,0 +1,627 @@
+[
+    {
+        "kurzbezeichnung": "Aigen",
+        "id": 77392,
+        "strassenbezeichnung": "Aigen"
+    },
+    {
+        "kurzbezeichnung": "Bach",
+        "id": 77393,
+        "strassenbezeichnung": "Bach"
+    },
+    {
+        "kurzbezeichnung": "Kleinkirchheim",
+        "id": 77394,
+        "strassenbezeichnung": "Kleinkirchheim"
+    },
+    {
+        "kurzbezeichnung": "Rottenstein",
+        "id": 77396,
+        "strassenbezeichnung": "Rottenstein"
+    },
+    {
+        "kurzbezeichnung": "Sankt Oswald",
+        "id": 77397,
+        "strassenbezeichnung": "Sankt Oswald"
+    },
+    {
+        "kurzbezeichnung": "Zirkitzen",
+        "id": 77400,
+        "strassenbezeichnung": "Zirkitzen"
+    },
+    {
+        "kurzbezeichnung": "Hohensaß",
+        "id": 77675,
+        "strassenbezeichnung": "Hohensaß"
+    },
+    {
+        "kurzbezeichnung": "Edelweißstraße",
+        "id": 103259,
+        "strassenbezeichnung": "Edelweißstraße"
+    },
+    {
+        "kurzbezeichnung": "Maibrunnenweg",
+        "id": 103260,
+        "strassenbezeichnung": "Maibrunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesernockweg",
+        "id": 103261,
+        "strassenbezeichnung": "Wiesernockweg"
+    },
+    {
+        "kurzbezeichnung": "Adlerweg",
+        "id": 104088,
+        "strassenbezeichnung": "Adlerweg"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 104089,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Almrosenweg",
+        "id": 104090,
+        "strassenbezeichnung": "Almrosenweg"
+    },
+    {
+        "kurzbezeichnung": "Amselweg",
+        "id": 104091,
+        "strassenbezeichnung": "Amselweg"
+    },
+    {
+        "kurzbezeichnung": "Arnikastraße",
+        "id": 104092,
+        "strassenbezeichnung": "Arnikastraße"
+    },
+    {
+        "kurzbezeichnung": "Bacher Weg",
+        "id": 104093,
+        "strassenbezeichnung": "Bacher Weg"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 104094,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Beethovenweg",
+        "id": 104095,
+        "strassenbezeichnung": "Beethovenweg"
+    },
+    {
+        "kurzbezeichnung": "Bernsteinweg",
+        "id": 104096,
+        "strassenbezeichnung": "Bernsteinweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 104097,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Brahmsweg",
+        "id": 104098,
+        "strassenbezeichnung": "Brahmsweg"
+    },
+    {
+        "kurzbezeichnung": "Brucknerweg",
+        "id": 104099,
+        "strassenbezeichnung": "Brucknerweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenstraße",
+        "id": 104100,
+        "strassenbezeichnung": "Brunnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Buchenstraße",
+        "id": 104101,
+        "strassenbezeichnung": "Buchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 104102,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Drosselweg",
+        "id": 104103,
+        "strassenbezeichnung": "Drosselweg"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 104104,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Enzianstraße",
+        "id": 104105,
+        "strassenbezeichnung": "Enzianstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 104106,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Eschenweg",
+        "id": 104107,
+        "strassenbezeichnung": "Eschenweg"
+    },
+    {
+        "kurzbezeichnung": "Falkenweg",
+        "id": 104108,
+        "strassenbezeichnung": "Falkenweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 104109,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Finkenweg",
+        "id": 104110,
+        "strassenbezeichnung": "Finkenweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 104111,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gegendtaler Weg",
+        "id": 104112,
+        "strassenbezeichnung": "Gegendtaler Weg"
+    },
+    {
+        "kurzbezeichnung": "Gurktaler Weg",
+        "id": 104113,
+        "strassenbezeichnung": "Gurktaler Weg"
+    },
+    {
+        "kurzbezeichnung": "Habichtweg",
+        "id": 104114,
+        "strassenbezeichnung": "Habichtweg"
+    },
+    {
+        "kurzbezeichnung": "Haydnweg",
+        "id": 104115,
+        "strassenbezeichnung": "Haydnweg"
+    },
+    {
+        "kurzbezeichnung": "Kastanienweg",
+        "id": 104116,
+        "strassenbezeichnung": "Kastanienweg"
+    },
+    {
+        "kurzbezeichnung": "Kiefernweg",
+        "id": 104117,
+        "strassenbezeichnung": "Kiefernweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchheimer Weg",
+        "id": 104118,
+        "strassenbezeichnung": "Kirchheimer Weg"
+    },
+    {
+        "kurzbezeichnung": "Kolmtaler Weg",
+        "id": 104119,
+        "strassenbezeichnung": "Kolmtaler Weg"
+    },
+    {
+        "kurzbezeichnung": "Koschatweg",
+        "id": 104120,
+        "strassenbezeichnung": "Koschatweg"
+    },
+    {
+        "kurzbezeichnung": "Kraabichlweg",
+        "id": 104121,
+        "strassenbezeichnung": "Kraabichlweg"
+    },
+    {
+        "kurzbezeichnung": "Krokusweg",
+        "id": 104122,
+        "strassenbezeichnung": "Krokusweg"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 104123,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Latschenweg",
+        "id": 104124,
+        "strassenbezeichnung": "Latschenweg"
+    },
+    {
+        "kurzbezeichnung": "Leharstraße",
+        "id": 104125,
+        "strassenbezeichnung": "Leharstraße"
+    },
+    {
+        "kurzbezeichnung": "Lilienweg",
+        "id": 104126,
+        "strassenbezeichnung": "Lilienweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 104127,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Lortzingweg",
+        "id": 104128,
+        "strassenbezeichnung": "Lortzingweg"
+    },
+    {
+        "kurzbezeichnung": "Mahlerweg",
+        "id": 104129,
+        "strassenbezeichnung": "Mahlerweg"
+    },
+    {
+        "kurzbezeichnung": "Margeritenweg",
+        "id": 104130,
+        "strassenbezeichnung": "Margeritenweg"
+    },
+    {
+        "kurzbezeichnung": "Meisenweg",
+        "id": 104131,
+        "strassenbezeichnung": "Meisenweg"
+    },
+    {
+        "kurzbezeichnung": "Mohnweg",
+        "id": 104132,
+        "strassenbezeichnung": "Mohnweg"
+    },
+    {
+        "kurzbezeichnung": "Mozartweg",
+        "id": 104133,
+        "strassenbezeichnung": "Mozartweg"
+    },
+    {
+        "kurzbezeichnung": "Oberbachweg",
+        "id": 104134,
+        "strassenbezeichnung": "Oberbachweg"
+    },
+    {
+        "kurzbezeichnung": "Obertscherner Weg",
+        "id": 104135,
+        "strassenbezeichnung": "Obertscherner Weg"
+    },
+    {
+        "kurzbezeichnung": "Offenbachweg",
+        "id": 104136,
+        "strassenbezeichnung": "Offenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 104137,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Rosentaler Weg",
+        "id": 104138,
+        "strassenbezeichnung": "Rosentaler Weg"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 104139,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Rossiniweg",
+        "id": 104140,
+        "strassenbezeichnung": "Rossiniweg"
+    },
+    {
+        "kurzbezeichnung": "Schneerosenweg",
+        "id": 104141,
+        "strassenbezeichnung": "Schneerosenweg"
+    },
+    {
+        "kurzbezeichnung": "Schönbergweg",
+        "id": 104142,
+        "strassenbezeichnung": "Schönbergweg"
+    },
+    {
+        "kurzbezeichnung": "Schubertweg",
+        "id": 104143,
+        "strassenbezeichnung": "Schubertweg"
+    },
+    {
+        "kurzbezeichnung": "Schumannweg",
+        "id": 104144,
+        "strassenbezeichnung": "Schumannweg"
+    },
+    {
+        "kurzbezeichnung": "Schwalbenweg",
+        "id": 104145,
+        "strassenbezeichnung": "Schwalbenweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenblumenweg",
+        "id": 104146,
+        "strassenbezeichnung": "Sonnenblumenweg"
+    },
+    {
+        "kurzbezeichnung": "Sankt Kathrein-Weg",
+        "id": 104147,
+        "strassenbezeichnung": "Sankt Kathrein-Weg"
+    },
+    {
+        "kurzbezeichnung": "Alter Schulweg",
+        "id": 104148,
+        "strassenbezeichnung": "Alter Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Angerbichlweg",
+        "id": 104149,
+        "strassenbezeichnung": "Angerbichlweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnachweg",
+        "id": 104150,
+        "strassenbezeichnung": "Brunnachweg"
+    },
+    {
+        "kurzbezeichnung": "Falkertweg",
+        "id": 104151,
+        "strassenbezeichnung": "Falkertweg"
+    },
+    {
+        "kurzbezeichnung": "Hoferriegelweg",
+        "id": 104152,
+        "strassenbezeichnung": "Hoferriegelweg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 104153,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 104154,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Kohlerweg",
+        "id": 104155,
+        "strassenbezeichnung": "Kohlerweg"
+    },
+    {
+        "kurzbezeichnung": "Mallnockweg",
+        "id": 104156,
+        "strassenbezeichnung": "Mallnockweg"
+    },
+    {
+        "kurzbezeichnung": "Oswin-Moro-Weg",
+        "id": 104157,
+        "strassenbezeichnung": "Oswin-Moro-Weg"
+    },
+    {
+        "kurzbezeichnung": "Rosennockstraße",
+        "id": 104158,
+        "strassenbezeichnung": "Rosennockstraße"
+    },
+    {
+        "kurzbezeichnung": "Schartenweg",
+        "id": 104159,
+        "strassenbezeichnung": "Schartenweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedweg",
+        "id": 104160,
+        "strassenbezeichnung": "Schmiedweg"
+    },
+    {
+        "kurzbezeichnung": "Steinnockweg",
+        "id": 104161,
+        "strassenbezeichnung": "Steinnockweg"
+    },
+    {
+        "kurzbezeichnung": "Trattenstraße",
+        "id": 104162,
+        "strassenbezeichnung": "Trattenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sankt Oswalder Straße",
+        "id": 104163,
+        "strassenbezeichnung": "Sankt Oswalder Straße"
+    },
+    {
+        "kurzbezeichnung": "Staudacher Weg",
+        "id": 104164,
+        "strassenbezeichnung": "Staudacher Weg"
+    },
+    {
+        "kurzbezeichnung": "Stiglitzweg",
+        "id": 104165,
+        "strassenbezeichnung": "Stiglitzweg"
+    },
+    {
+        "kurzbezeichnung": "Straußweg",
+        "id": 104166,
+        "strassenbezeichnung": "Straußweg"
+    },
+    {
+        "kurzbezeichnung": "Talkbrunnenweg",
+        "id": 104167,
+        "strassenbezeichnung": "Talkbrunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Tannenweg",
+        "id": 104168,
+        "strassenbezeichnung": "Tannenweg"
+    },
+    {
+        "kurzbezeichnung": "Teichstraße",
+        "id": 104169,
+        "strassenbezeichnung": "Teichstraße"
+    },
+    {
+        "kurzbezeichnung": "Thermalweg",
+        "id": 104170,
+        "strassenbezeichnung": "Thermalweg"
+    },
+    {
+        "kurzbezeichnung": "Thermenstraße",
+        "id": 104171,
+        "strassenbezeichnung": "Thermenstraße"
+    },
+    {
+        "kurzbezeichnung": "Tiefenbachstraße",
+        "id": 104172,
+        "strassenbezeichnung": "Tiefenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Ulmenweg",
+        "id": 104173,
+        "strassenbezeichnung": "Ulmenweg"
+    },
+    {
+        "kurzbezeichnung": "Untertscherner Weg",
+        "id": 104174,
+        "strassenbezeichnung": "Untertscherner Weg"
+    },
+    {
+        "kurzbezeichnung": "Veilchenweg",
+        "id": 104175,
+        "strassenbezeichnung": "Veilchenweg"
+    },
+    {
+        "kurzbezeichnung": "Verdiweg",
+        "id": 104176,
+        "strassenbezeichnung": "Verdiweg"
+    },
+    {
+        "kurzbezeichnung": "Wagnerweg",
+        "id": 104177,
+        "strassenbezeichnung": "Wagnerweg"
+    },
+    {
+        "kurzbezeichnung": "Wasserbrunnenweg",
+        "id": 104178,
+        "strassenbezeichnung": "Wasserbrunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Wasserfallweg",
+        "id": 104179,
+        "strassenbezeichnung": "Wasserfallweg"
+    },
+    {
+        "kurzbezeichnung": "Wasserschlossweg",
+        "id": 104180,
+        "strassenbezeichnung": "Wasserschlossweg"
+    },
+    {
+        "kurzbezeichnung": "Wasserstraße",
+        "id": 104181,
+        "strassenbezeichnung": "Wasserstraße"
+    },
+    {
+        "kurzbezeichnung": "Weberweg",
+        "id": 104182,
+        "strassenbezeichnung": "Weberweg"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 104183,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Wulfeniastraße",
+        "id": 104184,
+        "strassenbezeichnung": "Wulfeniastraße"
+    },
+    {
+        "kurzbezeichnung": "Ziehrerweg",
+        "id": 104185,
+        "strassenbezeichnung": "Ziehrerweg"
+    },
+    {
+        "kurzbezeichnung": "Zirbenweg",
+        "id": 104186,
+        "strassenbezeichnung": "Zirbenweg"
+    },
+    {
+        "kurzbezeichnung": "Zirkitzer Weg",
+        "id": 104187,
+        "strassenbezeichnung": "Zirkitzer Weg"
+    },
+    {
+        "kurzbezeichnung": "Untertschern",
+        "id": 110762,
+        "strassenbezeichnung": "Untertschern"
+    },
+    {
+        "kurzbezeichnung": "Staudach",
+        "id": 110763,
+        "strassenbezeichnung": "Staudach"
+    },
+    {
+        "kurzbezeichnung": "Obertschern",
+        "id": 110764,
+        "strassenbezeichnung": "Obertschern"
+    },
+    {
+        "kurzbezeichnung": "Unterbachweg",
+        "id": 111011,
+        "strassenbezeichnung": "Unterbachweg"
+    },
+    {
+        "kurzbezeichnung": "Akazienweg",
+        "id": 111017,
+        "strassenbezeichnung": "Akazienweg"
+    },
+    {
+        "kurzbezeichnung": "Aigner Weg",
+        "id": 111876,
+        "strassenbezeichnung": "Aigner Weg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 111877,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Hofweg",
+        "id": 111878,
+        "strassenbezeichnung": "Hofweg"
+    },
+    {
+        "kurzbezeichnung": "Parkweg",
+        "id": 111879,
+        "strassenbezeichnung": "Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Rottensteiner Weg",
+        "id": 111880,
+        "strassenbezeichnung": "Rottensteiner Weg"
+    },
+    {
+        "kurzbezeichnung": "Felsenweg",
+        "id": 111881,
+        "strassenbezeichnung": "Felsenweg"
+    },
+    {
+        "kurzbezeichnung": "Granatweg",
+        "id": 111882,
+        "strassenbezeichnung": "Granatweg"
+    },
+    {
+        "kurzbezeichnung": "Kiesweg",
+        "id": 111883,
+        "strassenbezeichnung": "Kiesweg"
+    },
+    {
+        "kurzbezeichnung": "Magnesitweg",
+        "id": 111884,
+        "strassenbezeichnung": "Magnesitweg"
+    },
+    {
+        "kurzbezeichnung": "Rosenquarzweg",
+        "id": 111885,
+        "strassenbezeichnung": "Rosenquarzweg"
+    }
+]

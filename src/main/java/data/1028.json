@@ -1,0 +1,497 @@
+[
+    {
+        "kurzbezeichnung": "Adlergasse",
+        "id": 33074,
+        "strassenbezeichnung": "Adlergasse"
+    },
+    {
+        "kurzbezeichnung": "Am Eisbach",
+        "id": 33098,
+        "strassenbezeichnung": "Am Eisbach"
+    },
+    {
+        "kurzbezeichnung": "Am Leopoldsgrund",
+        "id": 33115,
+        "strassenbezeichnung": "Am Leopoldsgrund"
+    },
+    {
+        "kurzbezeichnung": "Am Mühlengrund",
+        "id": 33119,
+        "strassenbezeichnung": "Am Mühlengrund"
+    },
+    {
+        "kurzbezeichnung": "Am Stübingeracker",
+        "id": 33129,
+        "strassenbezeichnung": "Am Stübingeracker"
+    },
+    {
+        "kurzbezeichnung": "Am Wagrain",
+        "id": 33130,
+        "strassenbezeichnung": "Am Wagrain"
+    },
+    {
+        "kurzbezeichnung": "Anselm-Franz-Gasse",
+        "id": 101557,
+        "strassenbezeichnung": "Anselm-Franz-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Arthur-March-Gasse",
+        "id": 33169,
+        "strassenbezeichnung": "Arthur-March-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Auer-Welsbach-Gasse",
+        "id": 33177,
+        "strassenbezeichnung": "Auer-Welsbach-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Auwiesenweg",
+        "id": 33187,
+        "strassenbezeichnung": "Auwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Bärlauchweg",
+        "id": 106288,
+        "strassenbezeichnung": "Bärlauchweg"
+    },
+    {
+        "kurzbezeichnung": "Berschenygasse",
+        "id": 33208,
+        "strassenbezeichnung": "Berschenygasse"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 33214,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Brüder-Renner-Weg",
+        "id": 33236,
+        "strassenbezeichnung": "Brüder-Renner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Brunnfeldweg",
+        "id": 33239,
+        "strassenbezeichnung": "Brunnfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Carlonegasse",
+        "id": 33253,
+        "strassenbezeichnung": "Carlonegasse"
+    },
+    {
+        "kurzbezeichnung": "Dr.-T.-Pfeiffer-Str.",
+        "id": 33304,
+        "strassenbezeichnung": "Dr.-Theodor-Pfeiffer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Etrichgasse",
+        "id": 33368,
+        "strassenbezeichnung": "Etrichgasse"
+    },
+    {
+        "kurzbezeichnung": "Eyslergasse",
+        "id": 33373,
+        "strassenbezeichnung": "Eyslergasse"
+    },
+    {
+        "kurzbezeichnung": "Falkenturmgasse",
+        "id": 33379,
+        "strassenbezeichnung": "Falkenturmgasse"
+    },
+    {
+        "kurzbezeichnung": "Fasanturmweg",
+        "id": 33383,
+        "strassenbezeichnung": "Fasanturmweg"
+    },
+    {
+        "kurzbezeichnung": "Feldkirchner Weg",
+        "id": 33387,
+        "strassenbezeichnung": "Feldkirchner Weg"
+    },
+    {
+        "kurzbezeichnung": "Flößerweg",
+        "id": 33402,
+        "strassenbezeichnung": "Flößerweg"
+    },
+    {
+        "kurzbezeichnung": "Frachtengasse",
+        "id": 33419,
+        "strassenbezeichnung": "Frachtengasse"
+    },
+    {
+        "kurzbezeichnung": "Gadollaweg",
+        "id": 96632,
+        "strassenbezeichnung": "Gadollaweg"
+    },
+    {
+        "kurzbezeichnung": "Gaisbacherweg",
+        "id": 95839,
+        "strassenbezeichnung": "Gaisbacherweg"
+    },
+    {
+        "kurzbezeichnung": "Gasometerweg",
+        "id": 33465,
+        "strassenbezeichnung": "Gasometerweg"
+    },
+    {
+        "kurzbezeichnung": "Gebhardgasse",
+        "id": 33468,
+        "strassenbezeichnung": "Gebhardgasse"
+    },
+    {
+        "kurzbezeichnung": "Gmeinstraße",
+        "id": 33492,
+        "strassenbezeichnung": "Gmeinstraße"
+    },
+    {
+        "kurzbezeichnung": "Goldrutenweg",
+        "id": 33495,
+        "strassenbezeichnung": "Goldrutenweg"
+    },
+    {
+        "kurzbezeichnung": "Grenzgasse",
+        "id": 33517,
+        "strassenbezeichnung": "Grenzgasse"
+    },
+    {
+        "kurzbezeichnung": "Grundäckergasse",
+        "id": 33531,
+        "strassenbezeichnung": "Grundäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Hans-Groß-Gasse",
+        "id": 33562,
+        "strassenbezeichnung": "Hans-Groß-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Heidentrattenweg",
+        "id": 33588,
+        "strassenbezeichnung": "Heidentrattenweg"
+    },
+    {
+        "kurzbezeichnung": "Herrgottwiesgasse",
+        "id": 33606,
+        "strassenbezeichnung": "Herrgottwiesgasse"
+    },
+    {
+        "kurzbezeichnung": "Hochleitenweg",
+        "id": 33624,
+        "strassenbezeichnung": "Hochleitenweg"
+    },
+    {
+        "kurzbezeichnung": "Holzerweg",
+        "id": 35958,
+        "strassenbezeichnung": "Holzerweg"
+    },
+    {
+        "kurzbezeichnung": "Im Erlengrund",
+        "id": 33662,
+        "strassenbezeichnung": "Im Erlengrund"
+    },
+    {
+        "kurzbezeichnung": "Jakob-Degen-Gasse",
+        "id": 33672,
+        "strassenbezeichnung": "Jakob-Degen-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Jarlweg",
+        "id": 33686,
+        "strassenbezeichnung": "Jarlweg"
+    },
+    {
+        "kurzbezeichnung": "Joherlgasse",
+        "id": 33702,
+        "strassenbezeichnung": "Joherlgasse"
+    },
+    {
+        "kurzbezeichnung": "Josef-Lanner-Straße",
+        "id": 33708,
+        "strassenbezeichnung": "Josef-Lanner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kauperzgasse",
+        "id": 33755,
+        "strassenbezeichnung": "Kauperzgasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchfelderweg",
+        "id": 33768,
+        "strassenbezeichnung": "Kirchfelderweg"
+    },
+    {
+        "kurzbezeichnung": "Klingendrahtgasse",
+        "id": 33776,
+        "strassenbezeichnung": "Klingendrahtgasse"
+    },
+    {
+        "kurzbezeichnung": "Kreuzfelderweg",
+        "id": 33818,
+        "strassenbezeichnung": "Kreuzfelderweg"
+    },
+    {
+        "kurzbezeichnung": "Kübeckgasse",
+        "id": 33827,
+        "strassenbezeichnung": "Kübeckgasse"
+    },
+    {
+        "kurzbezeichnung": "Lagergasse",
+        "id": 33835,
+        "strassenbezeichnung": "Lagergasse"
+    },
+    {
+        "kurzbezeichnung": "Lebernweg",
+        "id": 33849,
+        "strassenbezeichnung": "Lebernweg"
+    },
+    {
+        "kurzbezeichnung": "Löckwiesenweg",
+        "id": 33885,
+        "strassenbezeichnung": "Löckwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Lodergasse",
+        "id": 33884,
+        "strassenbezeichnung": "Lodergasse"
+    },
+    {
+        "kurzbezeichnung": "Ludwig-Boltzmann-Gasse",
+        "id": 33893,
+        "strassenbezeichnung": "Ludwig-Boltzmann-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Mälzerweg",
+        "id": 33901,
+        "strassenbezeichnung": "Mälzerweg"
+    },
+    {
+        "kurzbezeichnung": "Markusgasse",
+        "id": 33926,
+        "strassenbezeichnung": "Markusgasse"
+    },
+    {
+        "kurzbezeichnung": "Mitterlingweg",
+        "id": 33958,
+        "strassenbezeichnung": "Mitterlingweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterstraße",
+        "id": 33959,
+        "strassenbezeichnung": "Mitterstraße"
+    },
+    {
+        "kurzbezeichnung": "Montfortstraße",
+        "id": 33970,
+        "strassenbezeichnung": "Montfortstraße"
+    },
+    {
+        "kurzbezeichnung": "Nippelgasse",
+        "id": 34021,
+        "strassenbezeichnung": "Nippelgasse"
+    },
+    {
+        "kurzbezeichnung": "Oberer Auweg",
+        "id": 34031,
+        "strassenbezeichnung": "Oberer Auweg"
+    },
+    {
+        "kurzbezeichnung": "Passinigasse",
+        "id": 34060,
+        "strassenbezeichnung": "Passinigasse"
+    },
+    {
+        "kurzbezeichnung": "Piccardigasse",
+        "id": 34092,
+        "strassenbezeichnung": "Piccardigasse"
+    },
+    {
+        "kurzbezeichnung": "Plachelhofstraße",
+        "id": 34098,
+        "strassenbezeichnung": "Plachelhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Pratogasse",
+        "id": 34120,
+        "strassenbezeichnung": "Pratogasse"
+    },
+    {
+        "kurzbezeichnung": "Pulvermühlweg",
+        "id": 34128,
+        "strassenbezeichnung": "Pulvermühlweg"
+    },
+    {
+        "kurzbezeichnung": "Puntigamer Straße",
+        "id": 34130,
+        "strassenbezeichnung": "Puntigamer Straße"
+    },
+    {
+        "kurzbezeichnung": "Rebhuhnweg",
+        "id": 34159,
+        "strassenbezeichnung": "Rebhuhnweg"
+    },
+    {
+        "kurzbezeichnung": "Reitweg",
+        "id": 34170,
+        "strassenbezeichnung": "Reitweg"
+    },
+    {
+        "kurzbezeichnung": "Rudersdorfer Straße",
+        "id": 34218,
+        "strassenbezeichnung": "Rudersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Rudersdorfer-Au-Straße",
+        "id": 34217,
+        "strassenbezeichnung": "Rudersdorfer-Au-Straße"
+    },
+    {
+        "kurzbezeichnung": "Rupertweg",
+        "id": 34223,
+        "strassenbezeichnung": "Rupertweg"
+    },
+    {
+        "kurzbezeichnung": "Ruthardweg",
+        "id": 34225,
+        "strassenbezeichnung": "Ruthardweg"
+    },
+    {
+        "kurzbezeichnung": "Schreibäckerweg",
+        "id": 34273,
+        "strassenbezeichnung": "Schreibäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarzer Weg",
+        "id": 34286,
+        "strassenbezeichnung": "Schwarzer Weg"
+    },
+    {
+        "kurzbezeichnung": "Spitzäckerweg",
+        "id": 34313,
+        "strassenbezeichnung": "Spitzäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Staudenweg",
+        "id": 34331,
+        "strassenbezeichnung": "Staudenweg"
+    },
+    {
+        "kurzbezeichnung": "Strennerweg",
+        "id": 34366,
+        "strassenbezeichnung": "Strennerweg"
+    },
+    {
+        "kurzbezeichnung": "Unterer Auweg",
+        "id": 34424,
+        "strassenbezeichnung": "Unterer Auweg"
+    },
+    {
+        "kurzbezeichnung": "Wagner-Jauregg-Straße",
+        "id": 34453,
+        "strassenbezeichnung": "Wagner-Jauregg-Straße"
+    },
+    {
+        "kurzbezeichnung": "Wagramer Weg",
+        "id": 34455,
+        "strassenbezeichnung": "Wagramer Weg"
+    },
+    {
+        "kurzbezeichnung": "Warnhauserweg",
+        "id": 34467,
+        "strassenbezeichnung": "Warnhauserweg"
+    },
+    {
+        "kurzbezeichnung": "Weblinger Gürtel",
+        "id": 62525,
+        "strassenbezeichnung": "Weblinger Gürtel"
+    },
+    {
+        "kurzbezeichnung": "Weißweg",
+        "id": 34489,
+        "strassenbezeichnung": "Weißweg"
+    },
+    {
+        "kurzbezeichnung": "Wenzlhofstraße",
+        "id": 34495,
+        "strassenbezeichnung": "Wenzlhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Westgasse",
+        "id": 34498,
+        "strassenbezeichnung": "Westgasse"
+    },
+    {
+        "kurzbezeichnung": "Zahnstraße",
+        "id": 34529,
+        "strassenbezeichnung": "Zahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Zeppelinstraße",
+        "id": 34533,
+        "strassenbezeichnung": "Zeppelinstraße"
+    },
+    {
+        "kurzbezeichnung": "Gradnerstraße",
+        "id": 33505,
+        "strassenbezeichnung": "Gradnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Guldinweg",
+        "id": 33536,
+        "strassenbezeichnung": "Guldinweg"
+    },
+    {
+        "kurzbezeichnung": "Hafnerstraße",
+        "id": 33547,
+        "strassenbezeichnung": "Hafnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaiserwiesenweg",
+        "id": 33730,
+        "strassenbezeichnung": "Kaiserwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Laubgasse",
+        "id": 33843,
+        "strassenbezeichnung": "Laubgasse"
+    },
+    {
+        "kurzbezeichnung": "Lauzilgasse",
+        "id": 33845,
+        "strassenbezeichnung": "Lauzilgasse"
+    },
+    {
+        "kurzbezeichnung": "Melanweg",
+        "id": 33942,
+        "strassenbezeichnung": "Melanweg"
+    },
+    {
+        "kurzbezeichnung": "Puchstraße",
+        "id": 34127,
+        "strassenbezeichnung": "Puchstraße"
+    },
+    {
+        "kurzbezeichnung": "Tiergartenweg",
+        "id": 34392,
+        "strassenbezeichnung": "Tiergartenweg"
+    },
+    {
+        "kurzbezeichnung": "Triester Straße",
+        "id": 34402,
+        "strassenbezeichnung": "Triester Straße"
+    },
+    {
+        "kurzbezeichnung": "Alte Poststraße",
+        "id": 33087,
+        "strassenbezeichnung": "Alte Poststraße"
+    },
+    {
+        "kurzbezeichnung": "Brauquartier",
+        "id": -17888,
+        "strassenbezeichnung": "Brauquartier"
+    },
+    {
+        "kurzbezeichnung": "Triester Straße",
+        "id": 36387,
+        "strassenbezeichnung": "Triester Straße"
+    }
+]

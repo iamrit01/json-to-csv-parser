@@ -1,0 +1,382 @@
+[
+    {
+        "kurzbezeichnung": "Im Weingarten",
+        "id": -33508,
+        "strassenbezeichnung": "Im Weingarten"
+    },
+    {
+        "kurzbezeichnung": "Hintausweg",
+        "id": -32828,
+        "strassenbezeichnung": "Hintausweg"
+    },
+    {
+        "kurzbezeichnung": "Johann Miltner-Straße",
+        "id": -32157,
+        "strassenbezeichnung": "Johann Miltner-Straße"
+    },
+    {
+        "kurzbezeichnung": "P. Silberbauer-Straße",
+        "id": -18222,
+        "strassenbezeichnung": "P. Silberbauer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Gottfried Vajan-Straße",
+        "id": -17155,
+        "strassenbezeichnung": "Gottfried Vajan-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Reisenbach",
+        "id": -9098,
+        "strassenbezeichnung": "Am Reisenbach"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 10440,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Bayernlandl",
+        "id": 10449,
+        "strassenbezeichnung": "Bayernlandl"
+    },
+    {
+        "kurzbezeichnung": "Brodersdorfer Straße",
+        "id": 10453,
+        "strassenbezeichnung": "Brodersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Heinrich Bach-Str.",
+        "id": 10454,
+        "strassenbezeichnung": "Dr. Heinrich Bach-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Schreber-Gasse",
+        "id": 10456,
+        "strassenbezeichnung": "Dr. Schreber-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Ebreichsdorfer Straße",
+        "id": 10457,
+        "strassenbezeichnung": "Ebreichsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Goldackerstraße",
+        "id": 10471,
+        "strassenbezeichnung": "Goldackerstraße"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 10476,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Ing. Julius Raab-Str.",
+        "id": 10481,
+        "strassenbezeichnung": "Ing. Julius Raab-Straße"
+    },
+    {
+        "kurzbezeichnung": "Karl Hietz-Gasse",
+        "id": 10487,
+        "strassenbezeichnung": "Karl Hietz-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 10491,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Lederergasse",
+        "id": 10494,
+        "strassenbezeichnung": "Lederergasse"
+    },
+    {
+        "kurzbezeichnung": "Matthäus Mayer-Gasse",
+        "id": 10499,
+        "strassenbezeichnung": "Matthäus Mayer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Mitterndorfer Straße",
+        "id": 10502,
+        "strassenbezeichnung": "Mitterndorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 10503,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Oskar Helmer-Straße",
+        "id": 10507,
+        "strassenbezeichnung": "Oskar Helmer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Pflanzsteig",
+        "id": 10511,
+        "strassenbezeichnung": "Pflanzsteig"
+    },
+    {
+        "kurzbezeichnung": "Reitschulgasse",
+        "id": 10515,
+        "strassenbezeichnung": "Reitschulgasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßgrabenweg",
+        "id": 10520,
+        "strassenbezeichnung": "Schloßgrabenweg"
+    },
+    {
+        "kurzbezeichnung": "Schmaler Weg",
+        "id": 10522,
+        "strassenbezeichnung": "Schmaler Weg"
+    },
+    {
+        "kurzbezeichnung": "Theodor Gülcher-Gasse",
+        "id": 10529,
+        "strassenbezeichnung": "Theodor Gülcher-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Triftgasse",
+        "id": 10531,
+        "strassenbezeichnung": "Triftgasse"
+    },
+    {
+        "kurzbezeichnung": "Rechte Bahnzeile",
+        "id": 46239,
+        "strassenbezeichnung": "Rechte Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Wiener Neustädterstr.",
+        "id": 46240,
+        "strassenbezeichnung": "Wiener Neustädterstraße"
+    },
+    {
+        "kurzbezeichnung": "Ackergasse",
+        "id": 46245,
+        "strassenbezeichnung": "Ackergasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 46246,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Bienengasse",
+        "id": 46247,
+        "strassenbezeichnung": "Bienengasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 46248,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Fischagasse",
+        "id": 46249,
+        "strassenbezeichnung": "Fischagasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 46250,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Linke Bahnzeile",
+        "id": 46251,
+        "strassenbezeichnung": "Linke Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Karl-Renner-Straße",
+        "id": 46252,
+        "strassenbezeichnung": "Dr.-Karl-Renner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Wiener Straße",
+        "id": 46253,
+        "strassenbezeichnung": "Wiener Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. J.Kirchberger-Str.",
+        "id": 53024,
+        "strassenbezeichnung": "Dr. Johann Kirchberger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Feuerwehrplatz",
+        "id": 58305,
+        "strassenbezeichnung": "Feuerwehrplatz"
+    },
+    {
+        "kurzbezeichnung": "Fischazeile",
+        "id": 58306,
+        "strassenbezeichnung": "Fischazeile"
+    },
+    {
+        "kurzbezeichnung": "Fohlenweg",
+        "id": 58307,
+        "strassenbezeichnung": "Fohlenweg"
+    },
+    {
+        "kurzbezeichnung": "Hutweidestraße",
+        "id": 58309,
+        "strassenbezeichnung": "Hutweidestraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlstraße",
+        "id": 58310,
+        "strassenbezeichnung": "Mühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Ortsstraße",
+        "id": 58311,
+        "strassenbezeichnung": "Obere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Ortsstraße",
+        "id": 58312,
+        "strassenbezeichnung": "Untere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 61745,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Gustav Lehner-Gasse",
+        "id": 62011,
+        "strassenbezeichnung": "Gustav Lehner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Unterfeldstraße",
+        "id": 62012,
+        "strassenbezeichnung": "Unterfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Im Winkel",
+        "id": 62013,
+        "strassenbezeichnung": "Im Winkel"
+    },
+    {
+        "kurzbezeichnung": "Pollirmühlstraße",
+        "id": 62014,
+        "strassenbezeichnung": "Pollirmühlstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindenallee",
+        "id": 62015,
+        "strassenbezeichnung": "Lindenallee"
+    },
+    {
+        "kurzbezeichnung": "Drittelweg",
+        "id": 62016,
+        "strassenbezeichnung": "Drittelweg"
+    },
+    {
+        "kurzbezeichnung": "Scheibenweg",
+        "id": 67925,
+        "strassenbezeichnung": "Scheibenweg"
+    },
+    {
+        "kurzbezeichnung": "Wampersdorfer Straße",
+        "id": 67926,
+        "strassenbezeichnung": "Wampersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Rudolf Jursitzky-Weg",
+        "id": 67927,
+        "strassenbezeichnung": "Rudolf Jursitzky-Weg"
+    },
+    {
+        "kurzbezeichnung": "Don Bosco-Straße",
+        "id": 70187,
+        "strassenbezeichnung": "Don Bosco-Straße"
+    },
+    {
+        "kurzbezeichnung": "Anton Studeny-Straße",
+        "id": 70915,
+        "strassenbezeichnung": "Anton Studeny-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Josef Piller-Gasse",
+        "id": 70916,
+        "strassenbezeichnung": "Dr. Josef Piller-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hasensteig",
+        "id": 75456,
+        "strassenbezeichnung": "Hasensteig"
+    },
+    {
+        "kurzbezeichnung": "Jägersteig",
+        "id": 75490,
+        "strassenbezeichnung": "Jägersteig"
+    },
+    {
+        "kurzbezeichnung": "Seibersdorfer Straße",
+        "id": 75660,
+        "strassenbezeichnung": "Seibersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Schloßgarten",
+        "id": 91668,
+        "strassenbezeichnung": "Schloßgarten"
+    },
+    {
+        "kurzbezeichnung": "Reisenbachstraße",
+        "id": 98020,
+        "strassenbezeichnung": "Reisenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Georg Bannert-Straße",
+        "id": 98021,
+        "strassenbezeichnung": "Georg Bannert-Straße"
+    },
+    {
+        "kurzbezeichnung": "Albin Brunec-Straße",
+        "id": 98022,
+        "strassenbezeichnung": "Albin Brunec-Straße"
+    },
+    {
+        "kurzbezeichnung": "Prinz Eugen-Straße",
+        "id": 98061,
+        "strassenbezeichnung": "Prinz Eugen-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Eisteich",
+        "id": 101332,
+        "strassenbezeichnung": "Am Eisteich"
+    },
+    {
+        "kurzbezeichnung": "Schranawand",
+        "id": 103489,
+        "strassenbezeichnung": "Schranawand"
+    },
+    {
+        "kurzbezeichnung": "Figl-Straße",
+        "id": 110924,
+        "strassenbezeichnung": "Figl-Straße"
+    },
+    {
+        "kurzbezeichnung": "E-Werk Straße",
+        "id": 112097,
+        "strassenbezeichnung": "E-Werk Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Rösselhof",
+        "id": 121805,
+        "strassenbezeichnung": "Am Rösselhof"
+    },
+    {
+        "kurzbezeichnung": "Günselweg",
+        "id": 121806,
+        "strassenbezeichnung": "Günselweg"
+    },
+    {
+        "kurzbezeichnung": "Schlehenweg",
+        "id": 121807,
+        "strassenbezeichnung": "Schlehenweg"
+    },
+    {
+        "kurzbezeichnung": "Weißdornweg",
+        "id": 121808,
+        "strassenbezeichnung": "Weißdornweg"
+    }
+]

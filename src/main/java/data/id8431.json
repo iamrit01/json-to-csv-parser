@@ -1,0 +1,362 @@
+[
+    {
+        "kurzbezeichnung": "Elferweg",
+        "id": -32130,
+        "strassenbezeichnung": "Elferweg"
+    },
+    {
+        "kurzbezeichnung": "Tulpenweg",
+        "id": -18346,
+        "strassenbezeichnung": "Tulpenweg"
+    },
+    {
+        "kurzbezeichnung": "Torweg",
+        "id": -17275,
+        "strassenbezeichnung": "Torweg"
+    },
+    {
+        "kurzbezeichnung": "Gralla",
+        "id": 88982,
+        "strassenbezeichnung": "Gralla"
+    },
+    {
+        "kurzbezeichnung": "Götzenauerweg",
+        "id": 97241,
+        "strassenbezeichnung": "Götzenauerweg"
+    },
+    {
+        "kurzbezeichnung": "Hollerweg",
+        "id": 119094,
+        "strassenbezeichnung": "Hollerweg"
+    },
+    {
+        "kurzbezeichnung": "Apfelweg",
+        "id": 122500,
+        "strassenbezeichnung": "Apfelweg"
+    },
+    {
+        "kurzbezeichnung": "Am Rastplatz",
+        "id": 122501,
+        "strassenbezeichnung": "Am Rastplatz"
+    },
+    {
+        "kurzbezeichnung": "Arztgasse",
+        "id": 122502,
+        "strassenbezeichnung": "Arztgasse"
+    },
+    {
+        "kurzbezeichnung": "Auwaldweg",
+        "id": 122503,
+        "strassenbezeichnung": "Auwaldweg"
+    },
+    {
+        "kurzbezeichnung": "Bienenweg",
+        "id": 122504,
+        "strassenbezeichnung": "Bienenweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 122505,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 122506,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Blütenweg",
+        "id": 122507,
+        "strassenbezeichnung": "Blütenweg"
+    },
+    {
+        "kurzbezeichnung": "Bogenweg",
+        "id": 122508,
+        "strassenbezeichnung": "Bogenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 122509,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Eisplatzweg",
+        "id": 122510,
+        "strassenbezeichnung": "Eisplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Elsterweg",
+        "id": 122511,
+        "strassenbezeichnung": "Elsterweg"
+    },
+    {
+        "kurzbezeichnung": "Engelgasse",
+        "id": 122512,
+        "strassenbezeichnung": "Engelgasse"
+    },
+    {
+        "kurzbezeichnung": "Enzianweg",
+        "id": 122513,
+        "strassenbezeichnung": "Enzianweg"
+    },
+    {
+        "kurzbezeichnung": "Fassoldweg",
+        "id": 122514,
+        "strassenbezeichnung": "Fassoldweg"
+    },
+    {
+        "kurzbezeichnung": "Feldmüllerweg",
+        "id": 122515,
+        "strassenbezeichnung": "Feldmüllerweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 122516,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Florianistraße",
+        "id": 122517,
+        "strassenbezeichnung": "Florianistraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark Nord",
+        "id": 122518,
+        "strassenbezeichnung": "Gewerbepark Nord"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark Süd",
+        "id": 122519,
+        "strassenbezeichnung": "Gewerbepark Süd"
+    },
+    {
+        "kurzbezeichnung": "Globusallee",
+        "id": 122520,
+        "strassenbezeichnung": "Globusallee"
+    },
+    {
+        "kurzbezeichnung": "Grabenweg",
+        "id": 122521,
+        "strassenbezeichnung": "Grabenweg"
+    },
+    {
+        "kurzbezeichnung": "Grallaweg",
+        "id": 122522,
+        "strassenbezeichnung": "Grallaweg"
+    },
+    {
+        "kurzbezeichnung": "Grazer Straße",
+        "id": 122523,
+        "strassenbezeichnung": "Grazer Straße"
+    },
+    {
+        "kurzbezeichnung": "Grubenweg",
+        "id": 122524,
+        "strassenbezeichnung": "Grubenweg"
+    },
+    {
+        "kurzbezeichnung": "Grünangerweg",
+        "id": 122525,
+        "strassenbezeichnung": "Grünangerweg"
+    },
+    {
+        "kurzbezeichnung": "Gürtlweg",
+        "id": 122526,
+        "strassenbezeichnung": "Gürtlweg"
+    },
+    {
+        "kurzbezeichnung": "Haasweg",
+        "id": 122527,
+        "strassenbezeichnung": "Haasweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 122528,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Heckenstraße",
+        "id": 122529,
+        "strassenbezeichnung": "Heckenstraße"
+    },
+    {
+        "kurzbezeichnung": "Herrenstraße",
+        "id": 122530,
+        "strassenbezeichnung": "Herrenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hofstraße",
+        "id": 122531,
+        "strassenbezeichnung": "Hofstraße"
+    },
+    {
+        "kurzbezeichnung": "Holzerweg",
+        "id": 122532,
+        "strassenbezeichnung": "Holzerweg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenstraße",
+        "id": 122533,
+        "strassenbezeichnung": "Kapellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kerngastweg",
+        "id": 122534,
+        "strassenbezeichnung": "Kerngastweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchbacher Straße",
+        "id": 122535,
+        "strassenbezeichnung": "Kirchbacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Klärweg",
+        "id": 122536,
+        "strassenbezeichnung": "Klärweg"
+    },
+    {
+        "kurzbezeichnung": "Kleeweg",
+        "id": 122537,
+        "strassenbezeichnung": "Kleeweg"
+    },
+    {
+        "kurzbezeichnung": "Kornblumenweg",
+        "id": 122538,
+        "strassenbezeichnung": "Kornblumenweg"
+    },
+    {
+        "kurzbezeichnung": "Kräuterweg",
+        "id": 122539,
+        "strassenbezeichnung": "Kräuterweg"
+    },
+    {
+        "kurzbezeichnung": "Lilienweg",
+        "id": 122540,
+        "strassenbezeichnung": "Lilienweg"
+    },
+    {
+        "kurzbezeichnung": "Listweg",
+        "id": 122541,
+        "strassenbezeichnung": "Listweg"
+    },
+    {
+        "kurzbezeichnung": "Marienweg",
+        "id": 122542,
+        "strassenbezeichnung": "Marienweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterweg",
+        "id": 122543,
+        "strassenbezeichnung": "Mitterweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 122544,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Nelkenweg",
+        "id": 122545,
+        "strassenbezeichnung": "Nelkenweg"
+    },
+    {
+        "kurzbezeichnung": "Obere Dorfstraße",
+        "id": 122546,
+        "strassenbezeichnung": "Obere Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Murstraße",
+        "id": 122547,
+        "strassenbezeichnung": "Obere Murstraße"
+    },
+    {
+        "kurzbezeichnung": "Ortnerweg",
+        "id": 122548,
+        "strassenbezeichnung": "Ortnerweg"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 122549,
+        "strassenbezeichnung": "Panoramaweg"
+    },
+    {
+        "kurzbezeichnung": "Pichlerstraße",
+        "id": 122550,
+        "strassenbezeichnung": "Pichlerstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 122552,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Rupertistraße",
+        "id": 122553,
+        "strassenbezeichnung": "Rupertistraße"
+    },
+    {
+        "kurzbezeichnung": "Salamanderweg",
+        "id": 122554,
+        "strassenbezeichnung": "Salamanderweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 122555,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Schützenweg",
+        "id": 122556,
+        "strassenbezeichnung": "Schützenweg"
+    },
+    {
+        "kurzbezeichnung": "Sommergasse",
+        "id": 122557,
+        "strassenbezeichnung": "Sommergasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnenring",
+        "id": 122558,
+        "strassenbezeichnung": "Sonnenring"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 122559,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Sternäckerweg",
+        "id": 122560,
+        "strassenbezeichnung": "Sternäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Sternenring",
+        "id": 122561,
+        "strassenbezeichnung": "Sternenring"
+    },
+    {
+        "kurzbezeichnung": "Sturmweg",
+        "id": 122562,
+        "strassenbezeichnung": "Sturmweg"
+    },
+    {
+        "kurzbezeichnung": "Untere Dorfstraße",
+        "id": 122563,
+        "strassenbezeichnung": "Untere Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Murstraße",
+        "id": 122564,
+        "strassenbezeichnung": "Untere Murstraße"
+    },
+    {
+        "kurzbezeichnung": "Veilchenweg",
+        "id": 122565,
+        "strassenbezeichnung": "Veilchenweg"
+    },
+    {
+        "kurzbezeichnung": "Herbstweg",
+        "id": 127008,
+        "strassenbezeichnung": "Herbstweg"
+    }
+]

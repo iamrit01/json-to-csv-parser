@@ -1,0 +1,657 @@
+[
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": -20358,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Pogöriacher Feld",
+        "id": -18866,
+        "strassenbezeichnung": "Pogöriacher Feld"
+    },
+    {
+        "kurzbezeichnung": "Alois-Gasser-Platz",
+        "id": 7224,
+        "strassenbezeichnung": "Alois-Gasser-Platz"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 7226,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Fichtengrund",
+        "id": 7227,
+        "strassenbezeichnung": "Am Fichtengrund"
+    },
+    {
+        "kurzbezeichnung": "Am Rain",
+        "id": 7228,
+        "strassenbezeichnung": "Am Rain"
+    },
+    {
+        "kurzbezeichnung": "Am Waldrand",
+        "id": 7230,
+        "strassenbezeichnung": "Am Waldrand"
+    },
+    {
+        "kurzbezeichnung": "Am Zödl",
+        "id": 7231,
+        "strassenbezeichnung": "Am Zödl"
+    },
+    {
+        "kurzbezeichnung": "Auenstraße",
+        "id": 7232,
+        "strassenbezeichnung": "Auenstraße"
+    },
+    {
+        "kurzbezeichnung": "Auf dem Kikel",
+        "id": 7234,
+        "strassenbezeichnung": "Auf dem Kikel"
+    },
+    {
+        "kurzbezeichnung": "Auf der Görz",
+        "id": 7235,
+        "strassenbezeichnung": "Auf der Görz"
+    },
+    {
+        "kurzbezeichnung": "Bachlweg",
+        "id": 7236,
+        "strassenbezeichnung": "Bachlweg"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 7237,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Bauhofweg",
+        "id": 7240,
+        "strassenbezeichnung": "Bauhofweg"
+    },
+    {
+        "kurzbezeichnung": "Beintenweg",
+        "id": 7241,
+        "strassenbezeichnung": "Beintenweg"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 7242,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Binterweg",
+        "id": 7243,
+        "strassenbezeichnung": "Binterweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 7244,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Bogenweg",
+        "id": 7247,
+        "strassenbezeichnung": "Bogenweg"
+    },
+    {
+        "kurzbezeichnung": "Brückenweg",
+        "id": 7248,
+        "strassenbezeichnung": "Brückenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 7250,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Kaltenegger-Weg",
+        "id": 7252,
+        "strassenbezeichnung": "Dr.-Kaltenegger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Drautalstraße",
+        "id": 7255,
+        "strassenbezeichnung": "Drautalstraße"
+    },
+    {
+        "kurzbezeichnung": "Dueler Straße",
+        "id": 7256,
+        "strassenbezeichnung": "Dueler Straße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 7259,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Ernteweg",
+        "id": 7260,
+        "strassenbezeichnung": "Ernteweg"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 7261,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 7262,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Fliederweg",
+        "id": 7263,
+        "strassenbezeichnung": "Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Fliehburgweg",
+        "id": 7264,
+        "strassenbezeichnung": "Fliehburgweg"
+    },
+    {
+        "kurzbezeichnung": "Flurweg",
+        "id": 7265,
+        "strassenbezeichnung": "Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Forstweg",
+        "id": 7266,
+        "strassenbezeichnung": "Forstweg"
+    },
+    {
+        "kurzbezeichnung": "Friedenstraße",
+        "id": 7267,
+        "strassenbezeichnung": "Friedenstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofweg",
+        "id": 7268,
+        "strassenbezeichnung": "Friedhofweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 7269,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Grabenweg",
+        "id": 7270,
+        "strassenbezeichnung": "Grabenweg"
+    },
+    {
+        "kurzbezeichnung": "Grubenweg",
+        "id": 7272,
+        "strassenbezeichnung": "Grubenweg"
+    },
+    {
+        "kurzbezeichnung": "Habeintenweg",
+        "id": 7273,
+        "strassenbezeichnung": "Habeintenweg"
+    },
+    {
+        "kurzbezeichnung": "Hammerweg",
+        "id": 7274,
+        "strassenbezeichnung": "Hammerweg"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 7275,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Heimatstraße",
+        "id": 7277,
+        "strassenbezeichnung": "Heimatstraße"
+    },
+    {
+        "kurzbezeichnung": "Jägersteig",
+        "id": 7280,
+        "strassenbezeichnung": "Jägersteig"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 7283,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Kohlstatt",
+        "id": 7285,
+        "strassenbezeichnung": "Kohlstatt"
+    },
+    {
+        "kurzbezeichnung": "Koschatweg",
+        "id": 7286,
+        "strassenbezeichnung": "Koschatweg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzner Straße",
+        "id": 7287,
+        "strassenbezeichnung": "Kreuzner Straße"
+    },
+    {
+        "kurzbezeichnung": "Leitenweg",
+        "id": 7290,
+        "strassenbezeichnung": "Leitenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 7291,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Marwiesenweg",
+        "id": 7294,
+        "strassenbezeichnung": "Marwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Mautweg",
+        "id": 7295,
+        "strassenbezeichnung": "Mautweg"
+    },
+    {
+        "kurzbezeichnung": "Mondscheinweg",
+        "id": 7296,
+        "strassenbezeichnung": "Mondscheinweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 7298,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Muldenweg",
+        "id": 7299,
+        "strassenbezeichnung": "Muldenweg"
+    },
+    {
+        "kurzbezeichnung": "Nockweg",
+        "id": 7300,
+        "strassenbezeichnung": "Nockweg"
+    },
+    {
+        "kurzbezeichnung": "Oberdorfweg",
+        "id": 7301,
+        "strassenbezeichnung": "Oberdorfweg"
+    },
+    {
+        "kurzbezeichnung": "Osentweg",
+        "id": 7304,
+        "strassenbezeichnung": "Osentweg"
+    },
+    {
+        "kurzbezeichnung": "Pobersacher Straße",
+        "id": 7307,
+        "strassenbezeichnung": "Pobersacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Pöllaner Straße",
+        "id": 7308,
+        "strassenbezeichnung": "Pöllaner Straße"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 7309,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Rainweg",
+        "id": 7310,
+        "strassenbezeichnung": "Rainweg"
+    },
+    {
+        "kurzbezeichnung": "Reidenbichl",
+        "id": 7313,
+        "strassenbezeichnung": "Reidenbichl"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 7317,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Rubländer Weg",
+        "id": 7318,
+        "strassenbezeichnung": "Rubländer Weg"
+    },
+    {
+        "kurzbezeichnung": "Sandweg",
+        "id": 7319,
+        "strassenbezeichnung": "Sandweg"
+    },
+    {
+        "kurzbezeichnung": "Schloßweg",
+        "id": 7321,
+        "strassenbezeichnung": "Schloßweg"
+    },
+    {
+        "kurzbezeichnung": "Schmiedweg",
+        "id": 7322,
+        "strassenbezeichnung": "Schmiedweg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 7323,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 7328,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "St.-Georg-Weg",
+        "id": 7329,
+        "strassenbezeichnung": "St.-Georg-Weg"
+    },
+    {
+        "kurzbezeichnung": "Tauernweg",
+        "id": 7333,
+        "strassenbezeichnung": "Tauernweg"
+    },
+    {
+        "kurzbezeichnung": "Trattenweg",
+        "id": 7337,
+        "strassenbezeichnung": "Trattenweg"
+    },
+    {
+        "kurzbezeichnung": "Uferweg",
+        "id": 7338,
+        "strassenbezeichnung": "Uferweg"
+    },
+    {
+        "kurzbezeichnung": "Unterdorfweg",
+        "id": 7339,
+        "strassenbezeichnung": "Unterdorfweg"
+    },
+    {
+        "kurzbezeichnung": "Villacher Straße",
+        "id": 7342,
+        "strassenbezeichnung": "Villacher Straße"
+    },
+    {
+        "kurzbezeichnung": "W.-Vogelweide-Str.",
+        "id": 7344,
+        "strassenbezeichnung": "W.-v.-d.-Vogelweide-Straße"
+    },
+    {
+        "kurzbezeichnung": "Weißenbachweg",
+        "id": 7345,
+        "strassenbezeichnung": "Weißenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Werkstraße",
+        "id": 7346,
+        "strassenbezeichnung": "Werkstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 7348,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wurschnigstraße",
+        "id": 7349,
+        "strassenbezeichnung": "Wurschnigstraße"
+    },
+    {
+        "kurzbezeichnung": "Wurweg",
+        "id": 7350,
+        "strassenbezeichnung": "Wurweg"
+    },
+    {
+        "kurzbezeichnung": "Zirbenweg",
+        "id": 7351,
+        "strassenbezeichnung": "Zirbenweg"
+    },
+    {
+        "kurzbezeichnung": "Alte Straße",
+        "id": 50325,
+        "strassenbezeichnung": "Alte Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 50326,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 50327,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 50328,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Kreuzner Straße",
+        "id": 50329,
+        "strassenbezeichnung": "Kreuzner Straße"
+    },
+    {
+        "kurzbezeichnung": "Pestalozzistraße",
+        "id": 50330,
+        "strassenbezeichnung": "Pestalozzistraße"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 50331,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Waldrain",
+        "id": 50332,
+        "strassenbezeichnung": "Waldrain"
+    },
+    {
+        "kurzbezeichnung": "Kreuzner Straße",
+        "id": 53082,
+        "strassenbezeichnung": "Kreuzner Straße"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 53084,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Willi-Sereinigg-Straße",
+        "id": 63873,
+        "strassenbezeichnung": "Willi-Sereinigg-Straße"
+    },
+    {
+        "kurzbezeichnung": "Föhrenwald",
+        "id": 63874,
+        "strassenbezeichnung": "Föhrenwald"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 63875,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Siedlerweg",
+        "id": 63876,
+        "strassenbezeichnung": "Siedlerweg"
+    },
+    {
+        "kurzbezeichnung": "Boglanweg",
+        "id": 63986,
+        "strassenbezeichnung": "Boglanweg"
+    },
+    {
+        "kurzbezeichnung": "Ferndorfer Straße",
+        "id": 64012,
+        "strassenbezeichnung": "Ferndorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 64053,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Drautalstraße",
+        "id": 64358,
+        "strassenbezeichnung": "Drautalstraße"
+    },
+    {
+        "kurzbezeichnung": "Lina-Domenig-Straße",
+        "id": 68218,
+        "strassenbezeichnung": "Lina-Domenig-Straße"
+    },
+    {
+        "kurzbezeichnung": "H.-Scheidenberger-Str.",
+        "id": 74343,
+        "strassenbezeichnung": "Hermann-Scheidenberger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ebenwald",
+        "id": 77971,
+        "strassenbezeichnung": "Ebenwald"
+    },
+    {
+        "kurzbezeichnung": "Pobersach",
+        "id": 77974,
+        "strassenbezeichnung": "Pobersach"
+    },
+    {
+        "kurzbezeichnung": "Pöllan",
+        "id": 77975,
+        "strassenbezeichnung": "Pöllan"
+    },
+    {
+        "kurzbezeichnung": "Rubland",
+        "id": 77976,
+        "strassenbezeichnung": "Rubland"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 95379,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "Willi-Egger-Weg",
+        "id": 99629,
+        "strassenbezeichnung": "Willi-Egger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 99978,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Bauerweg",
+        "id": 100199,
+        "strassenbezeichnung": "Bauerweg"
+    },
+    {
+        "kurzbezeichnung": "Bründlweg",
+        "id": 100200,
+        "strassenbezeichnung": "Bründlweg"
+    },
+    {
+        "kurzbezeichnung": "Stubner Dorfstraße",
+        "id": 100201,
+        "strassenbezeichnung": "Stubner Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Auf dem Kikel",
+        "id": 101476,
+        "strassenbezeichnung": "Auf dem Kikel"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 101477,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 101478,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Drautalstraße",
+        "id": 101479,
+        "strassenbezeichnung": "Drautalstraße"
+    },
+    {
+        "kurzbezeichnung": "Dueler Straße",
+        "id": 101480,
+        "strassenbezeichnung": "Dueler Straße"
+    },
+    {
+        "kurzbezeichnung": "Rubländer Weg",
+        "id": 101481,
+        "strassenbezeichnung": "Rubländer Weg"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 101482,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Staudacherweg",
+        "id": 101483,
+        "strassenbezeichnung": "Staudacherweg"
+    },
+    {
+        "kurzbezeichnung": "Villacher Straße",
+        "id": 101485,
+        "strassenbezeichnung": "Villacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Weißenbachweg",
+        "id": 101486,
+        "strassenbezeichnung": "Weißenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Fliehburgweg",
+        "id": 101487,
+        "strassenbezeichnung": "Fliehburgweg"
+    },
+    {
+        "kurzbezeichnung": "Moosweg",
+        "id": 101489,
+        "strassenbezeichnung": "Moosweg"
+    },
+    {
+        "kurzbezeichnung": "Am Wiesenrain",
+        "id": 102519,
+        "strassenbezeichnung": "Am Wiesenrain"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Albin-Thaler-Weg",
+        "id": 107688,
+        "strassenbezeichnung": "Dr.-Albin-Thaler-Weg"
+    },
+    {
+        "kurzbezeichnung": "Boglansiedlung",
+        "id": 109263,
+        "strassenbezeichnung": "Boglansiedlung"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 112125,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Golfweg",
+        "id": 112126,
+        "strassenbezeichnung": "Golfweg"
+    },
+    {
+        "kurzbezeichnung": "Gustav-Pötsch-Straße",
+        "id": 123138,
+        "strassenbezeichnung": "Gustav-Pötsch-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kraswaldweg",
+        "id": 123140,
+        "strassenbezeichnung": "Kraswaldweg"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 127304,
+        "strassenbezeichnung": "Panoramaweg"
+    }
+]

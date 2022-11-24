@@ -1,0 +1,462 @@
+[
+    {
+        "kurzbezeichnung": "Franziskanerinnenweg",
+        "id": -32927,
+        "strassenbezeichnung": "Franziskanerinnenweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark Ost",
+        "id": -30812,
+        "strassenbezeichnung": "Gewerbepark Ost"
+    },
+    {
+        "kurzbezeichnung": "Unterhart",
+        "id": -30097,
+        "strassenbezeichnung": "Unterhart "
+    },
+    {
+        "kurzbezeichnung": "Traubenweg",
+        "id": -18852,
+        "strassenbezeichnung": "Traubenweg"
+    },
+    {
+        "kurzbezeichnung": "Lauterbachsiedlung",
+        "id": 60300,
+        "strassenbezeichnung": "Lauterbachsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Ach",
+        "id": 86226,
+        "strassenbezeichnung": "Ach"
+    },
+    {
+        "kurzbezeichnung": "Au",
+        "id": 86227,
+        "strassenbezeichnung": "Au"
+    },
+    {
+        "kurzbezeichnung": "Audorf",
+        "id": 86228,
+        "strassenbezeichnung": "Audorf"
+    },
+    {
+        "kurzbezeichnung": "Bergheim",
+        "id": 86229,
+        "strassenbezeichnung": "Bergheim"
+    },
+    {
+        "kurzbezeichnung": "Freudenstein",
+        "id": 86231,
+        "strassenbezeichnung": "Freudenstein"
+    },
+    {
+        "kurzbezeichnung": "Hofham",
+        "id": 86233,
+        "strassenbezeichnung": "Hofham"
+    },
+    {
+        "kurzbezeichnung": "Lacken",
+        "id": 86234,
+        "strassenbezeichnung": "Lacken"
+    },
+    {
+        "kurzbezeichnung": "Mühldorf",
+        "id": 86235,
+        "strassenbezeichnung": "Mühldorf"
+    },
+    {
+        "kurzbezeichnung": "Bad Mühllacken",
+        "id": 86237,
+        "strassenbezeichnung": "Bad Mühllacken"
+    },
+    {
+        "kurzbezeichnung": "Oberhart",
+        "id": 86238,
+        "strassenbezeichnung": "Oberhart"
+    },
+    {
+        "kurzbezeichnung": "Oberlandshaag",
+        "id": 86239,
+        "strassenbezeichnung": "Oberlandshaag"
+    },
+    {
+        "kurzbezeichnung": "Oberndorf",
+        "id": 86240,
+        "strassenbezeichnung": "Oberndorf"
+    },
+    {
+        "kurzbezeichnung": "Oberwallsee",
+        "id": 86242,
+        "strassenbezeichnung": "Oberwallsee"
+    },
+    {
+        "kurzbezeichnung": "Pesenbach",
+        "id": 86243,
+        "strassenbezeichnung": "Pesenbach"
+    },
+    {
+        "kurzbezeichnung": "Rosenleiten",
+        "id": 86244,
+        "strassenbezeichnung": "Rosenleiten"
+    },
+    {
+        "kurzbezeichnung": "Unterhart",
+        "id": 86245,
+        "strassenbezeichnung": "Unterhart"
+    },
+    {
+        "kurzbezeichnung": "Unterlandshaag",
+        "id": 86246,
+        "strassenbezeichnung": "Unterlandshaag"
+    },
+    {
+        "kurzbezeichnung": "Vogging",
+        "id": 86247,
+        "strassenbezeichnung": "Vogging"
+    },
+    {
+        "kurzbezeichnung": "Weidet",
+        "id": 86248,
+        "strassenbezeichnung": "Weidet"
+    },
+    {
+        "kurzbezeichnung": "Oberwallsee",
+        "id": 86297,
+        "strassenbezeichnung": "Oberwallsee"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 92896,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 93198,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Pfarrfeld",
+        "id": 93199,
+        "strassenbezeichnung": "Am Pfarrfeld"
+    },
+    {
+        "kurzbezeichnung": "Audorfer Straße",
+        "id": 93200,
+        "strassenbezeichnung": "Audorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Audorfsiedlung",
+        "id": 93201,
+        "strassenbezeichnung": "Audorfsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Bergheimer Straße",
+        "id": 93202,
+        "strassenbezeichnung": "Bergheimer Straße"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 93203,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 93204,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 93205,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenweg",
+        "id": 93206,
+        "strassenbezeichnung": "Gartenweg"
+    },
+    {
+        "kurzbezeichnung": "Golfplatzstraße",
+        "id": 93207,
+        "strassenbezeichnung": "Golfplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Im Feld",
+        "id": 93208,
+        "strassenbezeichnung": "Im Feld"
+    },
+    {
+        "kurzbezeichnung": "Weingasse",
+        "id": 93209,
+        "strassenbezeichnung": "Weingasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 93210,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lerchenweg",
+        "id": 93211,
+        "strassenbezeichnung": "Lerchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 93212,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 93213,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 93214,
+        "strassenbezeichnung": "Panoramaweg"
+    },
+    {
+        "kurzbezeichnung": "Platzerweg",
+        "id": 93215,
+        "strassenbezeichnung": "Platzerweg"
+    },
+    {
+        "kurzbezeichnung": "Radlerweg",
+        "id": 93216,
+        "strassenbezeichnung": "Radlerweg"
+    },
+    {
+        "kurzbezeichnung": "Reicherlweg",
+        "id": 93217,
+        "strassenbezeichnung": "Reicherlweg"
+    },
+    {
+        "kurzbezeichnung": "Ringstraße",
+        "id": 93218,
+        "strassenbezeichnung": "Ringstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulstraße",
+        "id": 93219,
+        "strassenbezeichnung": "Schulstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 93220,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Weideter Straße",
+        "id": 93221,
+        "strassenbezeichnung": "Weideter Straße"
+    },
+    {
+        "kurzbezeichnung": "Lauterbachstraße",
+        "id": 100048,
+        "strassenbezeichnung": "Lauterbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Badeseestraße",
+        "id": 100049,
+        "strassenbezeichnung": "Badeseestraße"
+    },
+    {
+        "kurzbezeichnung": "Aschacher Straße",
+        "id": 104338,
+        "strassenbezeichnung": "Aschacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Weingarten",
+        "id": 104345,
+        "strassenbezeichnung": "Weingarten"
+    },
+    {
+        "kurzbezeichnung": "Am Waldrand",
+        "id": 104346,
+        "strassenbezeichnung": "Am Waldrand"
+    },
+    {
+        "kurzbezeichnung": "Wolfsbach",
+        "id": 104347,
+        "strassenbezeichnung": "Wolfsbach"
+    },
+    {
+        "kurzbezeichnung": "Windhof",
+        "id": 104348,
+        "strassenbezeichnung": "Windhof"
+    },
+    {
+        "kurzbezeichnung": "Sechterberg",
+        "id": 104349,
+        "strassenbezeichnung": "Sechterberg"
+    },
+    {
+        "kurzbezeichnung": "Pesenbachtal",
+        "id": 104350,
+        "strassenbezeichnung": "Pesenbachtal"
+    },
+    {
+        "kurzbezeichnung": "Mühllackener Straße",
+        "id": 104351,
+        "strassenbezeichnung": "Mühllackener Straße"
+    },
+    {
+        "kurzbezeichnung": "Point",
+        "id": 104352,
+        "strassenbezeichnung": "Point"
+    },
+    {
+        "kurzbezeichnung": "Reuterhügel",
+        "id": 104353,
+        "strassenbezeichnung": "Reuterhügel"
+    },
+    {
+        "kurzbezeichnung": "Koppenederweg",
+        "id": 104354,
+        "strassenbezeichnung": "Koppenederweg"
+    },
+    {
+        "kurzbezeichnung": "Waidholz",
+        "id": 104355,
+        "strassenbezeichnung": "Waidholz"
+    },
+    {
+        "kurzbezeichnung": "Lackener Straße",
+        "id": 107930,
+        "strassenbezeichnung": "Lackener Straße"
+    },
+    {
+        "kurzbezeichnung": "Oberlacken",
+        "id": 107931,
+        "strassenbezeichnung": "Oberlacken"
+    },
+    {
+        "kurzbezeichnung": "Tiefenbachweg",
+        "id": 107932,
+        "strassenbezeichnung": "Tiefenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Harrerweg",
+        "id": 107933,
+        "strassenbezeichnung": "Harrerweg"
+    },
+    {
+        "kurzbezeichnung": "Unterlacken",
+        "id": 107934,
+        "strassenbezeichnung": "Unterlacken"
+    },
+    {
+        "kurzbezeichnung": "Nöbauerstraße",
+        "id": 107935,
+        "strassenbezeichnung": "Nöbauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schauerbachweg",
+        "id": 107936,
+        "strassenbezeichnung": "Schauerbachweg"
+    },
+    {
+        "kurzbezeichnung": "Freudensteiner Straße",
+        "id": 107937,
+        "strassenbezeichnung": "Freudensteiner Straße"
+    },
+    {
+        "kurzbezeichnung": "Laherweg",
+        "id": 107938,
+        "strassenbezeichnung": "Laherweg"
+    },
+    {
+        "kurzbezeichnung": "Schatzsiedlung",
+        "id": 107939,
+        "strassenbezeichnung": "Schatzsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Oberfreudenstein",
+        "id": 107940,
+        "strassenbezeichnung": "Oberfreudenstein"
+    },
+    {
+        "kurzbezeichnung": "Wagerleitnerstraße",
+        "id": 107941,
+        "strassenbezeichnung": "Wagerleitnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Käferbach",
+        "id": 107943,
+        "strassenbezeichnung": "Am Käferbach"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 107945,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Mayrsiedlung",
+        "id": 107946,
+        "strassenbezeichnung": "Mayrsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Schlossblick",
+        "id": 107947,
+        "strassenbezeichnung": "Schlossblick"
+    },
+    {
+        "kurzbezeichnung": "Am Rauschberg",
+        "id": 107948,
+        "strassenbezeichnung": "Am Rauschberg"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 107949,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Bergwerkweg",
+        "id": 107951,
+        "strassenbezeichnung": "Bergwerkweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbepark",
+        "id": 109283,
+        "strassenbezeichnung": "Gewerbepark"
+    },
+    {
+        "kurzbezeichnung": "St. Martiner Straße",
+        "id": 109285,
+        "strassenbezeichnung": "St. Martiner Straße"
+    },
+    {
+        "kurzbezeichnung": "Himmelreich",
+        "id": 109287,
+        "strassenbezeichnung": "Himmelreich"
+    },
+    {
+        "kurzbezeichnung": "Landshaagerweg",
+        "id": 109288,
+        "strassenbezeichnung": "Landshaagerweg"
+    },
+    {
+        "kurzbezeichnung": "Schloss Pesenbach",
+        "id": 109289,
+        "strassenbezeichnung": "Schloss Pesenbach"
+    },
+    {
+        "kurzbezeichnung": "Am Pesenbach",
+        "id": 109290,
+        "strassenbezeichnung": "Am Pesenbach"
+    },
+    {
+        "kurzbezeichnung": "Pesenbachstraße",
+        "id": 109291,
+        "strassenbezeichnung": "Pesenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Pesenbachweg",
+        "id": 109292,
+        "strassenbezeichnung": "Pesenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Gewerbeparkstraße",
+        "id": 119262,
+        "strassenbezeichnung": "Gewerbeparkstraße"
+    }
+]

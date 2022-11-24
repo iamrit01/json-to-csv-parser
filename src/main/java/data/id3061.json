@@ -1,0 +1,557 @@
+[
+    {
+        "kurzbezeichnung": "Tausendblumweg",
+        "id": -32817,
+        "strassenbezeichnung": "Tausendblumweg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": -32422,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchenstraße",
+        "id": -32188,
+        "strassenbezeichnung": "Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": -31212,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Sturmgasse",
+        "id": -31204,
+        "strassenbezeichnung": "Sturmgasse"
+    },
+    {
+        "kurzbezeichnung": "St. Christophener Str.",
+        "id": -31200,
+        "strassenbezeichnung": "St. Christophener Straße"
+    },
+    {
+        "kurzbezeichnung": "Sassmanngasse",
+        "id": -31196,
+        "strassenbezeichnung": "Sassmanngasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchschlägerstraße",
+        "id": -31185,
+        "strassenbezeichnung": "Kirchschlägerstraße"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": -31180,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Höflingergasse",
+        "id": -31179,
+        "strassenbezeichnung": "Höflingergasse"
+    },
+    {
+        "kurzbezeichnung": "Freibauergasse",
+        "id": -31173,
+        "strassenbezeichnung": "Freibauergasse"
+    },
+    {
+        "kurzbezeichnung": "Reiserhof",
+        "id": -18504,
+        "strassenbezeichnung": "Reiserhof"
+    },
+    {
+        "kurzbezeichnung": "Schönfelder Straße",
+        "id": -18443,
+        "strassenbezeichnung": "Schönfelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Froschauer Straße",
+        "id": -18442,
+        "strassenbezeichnung": "Froschauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Alter Schüldenweg",
+        "id": 1013,
+        "strassenbezeichnung": "Alter Schüldenweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 1017,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Baumgartengasse",
+        "id": 1018,
+        "strassenbezeichnung": "Baumgartengasse"
+    },
+    {
+        "kurzbezeichnung": "Fischergasse",
+        "id": 1019,
+        "strassenbezeichnung": "Fischergasse"
+    },
+    {
+        "kurzbezeichnung": "Lustkandlstraße",
+        "id": 1020,
+        "strassenbezeichnung": "Lustkandlstraße"
+    },
+    {
+        "kurzbezeichnung": "Redlgasse",
+        "id": 1021,
+        "strassenbezeichnung": "Redlgasse"
+    },
+    {
+        "kurzbezeichnung": "Schönfelder Straße",
+        "id": 1022,
+        "strassenbezeichnung": "Schönfelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Schulzgasse",
+        "id": 1023,
+        "strassenbezeichnung": "Schulzgasse"
+    },
+    {
+        "kurzbezeichnung": "Theissl",
+        "id": 1024,
+        "strassenbezeichnung": "Theissl"
+    },
+    {
+        "kurzbezeichnung": "Froschauer Straße",
+        "id": 1032,
+        "strassenbezeichnung": "Froschauer Straße"
+    },
+    {
+        "kurzbezeichnung": "Nest am Hang",
+        "id": 1033,
+        "strassenbezeichnung": "Nest am Hang"
+    },
+    {
+        "kurzbezeichnung": "Schönfelder Straße",
+        "id": 1079,
+        "strassenbezeichnung": "Schönfelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 1080,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Hang",
+        "id": 1083,
+        "strassenbezeichnung": "Am Hang"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 1084,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 1085,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Ebersberger Straße",
+        "id": 1087,
+        "strassenbezeichnung": "Ebersberger Straße"
+    },
+    {
+        "kurzbezeichnung": "Figlweg",
+        "id": 1089,
+        "strassenbezeichnung": "Figlweg"
+    },
+    {
+        "kurzbezeichnung": "Gebauergasse",
+        "id": 1090,
+        "strassenbezeichnung": "Gebauergasse"
+    },
+    {
+        "kurzbezeichnung": "Haaghofgasse",
+        "id": 1092,
+        "strassenbezeichnung": "Haaghofgasse"
+    },
+    {
+        "kurzbezeichnung": "Hohlweggasse",
+        "id": 1093,
+        "strassenbezeichnung": "Hohlweggasse"
+    },
+    {
+        "kurzbezeichnung": "Holubgasse",
+        "id": 1094,
+        "strassenbezeichnung": "Holubgasse"
+    },
+    {
+        "kurzbezeichnung": "Körnergasse",
+        "id": 1095,
+        "strassenbezeichnung": "Körnergasse"
+    },
+    {
+        "kurzbezeichnung": "Kummergasse",
+        "id": 1096,
+        "strassenbezeichnung": "Kummergasse"
+    },
+    {
+        "kurzbezeichnung": "Rehaugasse",
+        "id": 1098,
+        "strassenbezeichnung": "Rehaugasse"
+    },
+    {
+        "kurzbezeichnung": "Steinriedlgasse",
+        "id": 1099,
+        "strassenbezeichnung": "Steinriedlgasse"
+    },
+    {
+        "kurzbezeichnung": "Tausendblumer Gasse",
+        "id": 1100,
+        "strassenbezeichnung": "Tausendblumer Gasse"
+    },
+    {
+        "kurzbezeichnung": "Umseer Straße",
+        "id": 1102,
+        "strassenbezeichnung": "Umseer Straße"
+    },
+    {
+        "kurzbezeichnung": "Viaduktweg",
+        "id": 1103,
+        "strassenbezeichnung": "Viaduktweg"
+    },
+    {
+        "kurzbezeichnung": "Wimmergasse",
+        "id": 1104,
+        "strassenbezeichnung": "Wimmergasse"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofengasse",
+        "id": 1109,
+        "strassenbezeichnung": "Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Schöne Aussicht",
+        "id": 1123,
+        "strassenbezeichnung": "Schöne Aussicht"
+    },
+    {
+        "kurzbezeichnung": "Stocketer Straße",
+        "id": 1124,
+        "strassenbezeichnung": "Stocketer Straße"
+    },
+    {
+        "kurzbezeichnung": "Ackergasse",
+        "id": 1125,
+        "strassenbezeichnung": "Ackergasse"
+    },
+    {
+        "kurzbezeichnung": "Engländergasse",
+        "id": 1127,
+        "strassenbezeichnung": "Engländergasse"
+    },
+    {
+        "kurzbezeichnung": "Jonasgasse",
+        "id": 1128,
+        "strassenbezeichnung": "Jonasgasse"
+    },
+    {
+        "kurzbezeichnung": "St. Pöltner Straße",
+        "id": 1129,
+        "strassenbezeichnung": "St. Pöltner Straße"
+    },
+    {
+        "kurzbezeichnung": "Tullner Straße",
+        "id": 1130,
+        "strassenbezeichnung": "Tullner Straße"
+    },
+    {
+        "kurzbezeichnung": "Edelbreitenstraße",
+        "id": 3640,
+        "strassenbezeichnung": "Edelbreitenstraße"
+    },
+    {
+        "kurzbezeichnung": "Karl-Deix-Siedlung",
+        "id": 3833,
+        "strassenbezeichnung": "Karl-Deix-Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 19251,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 19252,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofgasse",
+        "id": 19253,
+        "strassenbezeichnung": "Friedhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 19255,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenstraße",
+        "id": 19256,
+        "strassenbezeichnung": "Kirchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberndorfer Straße",
+        "id": 19257,
+        "strassenbezeichnung": "Oberndorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Schloßstraße",
+        "id": 19258,
+        "strassenbezeichnung": "Schloßstraße"
+    },
+    {
+        "kurzbezeichnung": "Schüldenweg",
+        "id": 19259,
+        "strassenbezeichnung": "Schüldenweg"
+    },
+    {
+        "kurzbezeichnung": "Hilleprandgasse",
+        "id": 61737,
+        "strassenbezeichnung": "Hilleprandgasse"
+    },
+    {
+        "kurzbezeichnung": "Rennergasse",
+        "id": 61741,
+        "strassenbezeichnung": "Rennergasse"
+    },
+    {
+        "kurzbezeichnung": "Buchgrabengasse",
+        "id": 61742,
+        "strassenbezeichnung": "Buchgrabengasse"
+    },
+    {
+        "kurzbezeichnung": "Wagenschöngasse",
+        "id": 67867,
+        "strassenbezeichnung": "Wagenschöngasse"
+    },
+    {
+        "kurzbezeichnung": "Poschgasse",
+        "id": 67868,
+        "strassenbezeichnung": "Poschgasse"
+    },
+    {
+        "kurzbezeichnung": "Müllergasse",
+        "id": 69071,
+        "strassenbezeichnung": "Müllergasse"
+    },
+    {
+        "kurzbezeichnung": "Hofergasse",
+        "id": 74789,
+        "strassenbezeichnung": "Hofergasse"
+    },
+    {
+        "kurzbezeichnung": "Doppel",
+        "id": 80449,
+        "strassenbezeichnung": "Doppel"
+    },
+    {
+        "kurzbezeichnung": "Oberdambach",
+        "id": 80515,
+        "strassenbezeichnung": "Oberdambach"
+    },
+    {
+        "kurzbezeichnung": "Unterwolfsbach",
+        "id": 80522,
+        "strassenbezeichnung": "Unterwolfsbach"
+    },
+    {
+        "kurzbezeichnung": "Wolfersdorf",
+        "id": 80524,
+        "strassenbezeichnung": "Wolfersdorf"
+    },
+    {
+        "kurzbezeichnung": "Schrabatz",
+        "id": 80680,
+        "strassenbezeichnung": "Schrabatz"
+    },
+    {
+        "kurzbezeichnung": "Tausendblum",
+        "id": 80681,
+        "strassenbezeichnung": "Tausendblum"
+    },
+    {
+        "kurzbezeichnung": "Wakoniggasse",
+        "id": 91787,
+        "strassenbezeichnung": "Wakoniggasse"
+    },
+    {
+        "kurzbezeichnung": "Perratgasse",
+        "id": 97183,
+        "strassenbezeichnung": "Perratgasse"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 99073,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Galengasse",
+        "id": 99075,
+        "strassenbezeichnung": "Galengasse"
+    },
+    {
+        "kurzbezeichnung": "Rudolf-Malzer-Gasse",
+        "id": 99077,
+        "strassenbezeichnung": "Rudolf-Malzer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Wiener Weg",
+        "id": 99078,
+        "strassenbezeichnung": "Wiener Weg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenstraße",
+        "id": 111295,
+        "strassenbezeichnung": "Föhrenstraße"
+    },
+    {
+        "kurzbezeichnung": "Mussbachergasse",
+        "id": 111296,
+        "strassenbezeichnung": "Mussbachergasse"
+    },
+    {
+        "kurzbezeichnung": "Rana-Weg",
+        "id": 111320,
+        "strassenbezeichnung": "Rana-Weg"
+    },
+    {
+        "kurzbezeichnung": "Tausendblumstraße",
+        "id": 111321,
+        "strassenbezeichnung": "Tausendblumstraße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 111322,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Fortunagasse",
+        "id": 115961,
+        "strassenbezeichnung": "Fortunagasse"
+    },
+    {
+        "kurzbezeichnung": "Schrabatzstraße",
+        "id": 120131,
+        "strassenbezeichnung": "Schrabatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Kleebühelweg",
+        "id": 121269,
+        "strassenbezeichnung": "Kleebühelweg"
+    },
+    {
+        "kurzbezeichnung": "Windgasse",
+        "id": 125079,
+        "strassenbezeichnung": "Windgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnengasse",
+        "id": 127654,
+        "strassenbezeichnung": "Sonnengasse"
+    },
+    {
+        "kurzbezeichnung": "Athenegasse",
+        "id": 130353,
+        "strassenbezeichnung": "Athenegasse"
+    },
+    {
+        "kurzbezeichnung": "Am Holzweg",
+        "id": 130354,
+        "strassenbezeichnung": "Am Holzweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 130356,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Gaisfeldgasse",
+        "id": 130357,
+        "strassenbezeichnung": "Gaisfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Großer Teichhof",
+        "id": 130358,
+        "strassenbezeichnung": "Großer Teichhof"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 130359,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kleiner Teichhof",
+        "id": 130360,
+        "strassenbezeichnung": "Kleiner Teichhof"
+    },
+    {
+        "kurzbezeichnung": "Krengasse",
+        "id": 130361,
+        "strassenbezeichnung": "Krengasse"
+    },
+    {
+        "kurzbezeichnung": "Löwengasse",
+        "id": 130362,
+        "strassenbezeichnung": "Löwengasse"
+    },
+    {
+        "kurzbezeichnung": "Thümelhofgasse",
+        "id": 130363,
+        "strassenbezeichnung": "Thümelhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Weingartenweg",
+        "id": 130364,
+        "strassenbezeichnung": "Weingartenweg"
+    },
+    {
+        "kurzbezeichnung": "Wolfsbachstraße",
+        "id": 130365,
+        "strassenbezeichnung": "Wolfsbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Ziegelweg",
+        "id": 130366,
+        "strassenbezeichnung": "Ziegelweg"
+    },
+    {
+        "kurzbezeichnung": "Rudolf-Teix-Gasse",
+        "id": 130367,
+        "strassenbezeichnung": "Rudolf-Teix-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Schöner-Weg",
+        "id": 130368,
+        "strassenbezeichnung": "Schöner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Wolfersdorfer Straße",
+        "id": 130369,
+        "strassenbezeichnung": "Wolfersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Obertheißl",
+        "id": 130544,
+        "strassenbezeichnung": "Obertheißl"
+    },
+    {
+        "kurzbezeichnung": "Nest am Hang-Platz",
+        "id": 130545,
+        "strassenbezeichnung": "Nest am Hang-Platz"
+    },
+    {
+        "kurzbezeichnung": "J.-Schabschneider-Pl",
+        "id": 130548,
+        "strassenbezeichnung": "Johann-Schabschneider-Platz"
+    },
+    {
+        "kurzbezeichnung": "Kleiner Bahnweg",
+        "id": 130549,
+        "strassenbezeichnung": "Kleiner Bahnweg"
+    }
+]

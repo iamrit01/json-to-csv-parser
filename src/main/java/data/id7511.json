@@ -1,0 +1,492 @@
+[
+    {
+        "kurzbezeichnung": "Großbachselten",
+        "id": 76006,
+        "strassenbezeichnung": "Großbachselten"
+    },
+    {
+        "kurzbezeichnung": "Kleinbachselten",
+        "id": 76007,
+        "strassenbezeichnung": "Kleinbachselten"
+    },
+    {
+        "kurzbezeichnung": "Kotezicken",
+        "id": 76008,
+        "strassenbezeichnung": "Kotezicken"
+    },
+    {
+        "kurzbezeichnung": "Mischendorf",
+        "id": 76009,
+        "strassenbezeichnung": "Mischendorf"
+    },
+    {
+        "kurzbezeichnung": "Neuhaus in der Wart",
+        "id": 76010,
+        "strassenbezeichnung": "Neuhaus in der Wart"
+    },
+    {
+        "kurzbezeichnung": "Rohrbach an der Teich",
+        "id": 76011,
+        "strassenbezeichnung": "Rohrbach an der Teich"
+    },
+    {
+        "kurzbezeichnung": "Rohrbacherstraße",
+        "id": 117446,
+        "strassenbezeichnung": "Rohrbacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Smaragdgasse",
+        "id": 117447,
+        "strassenbezeichnung": "Smaragdgasse"
+    },
+    {
+        "kurzbezeichnung": "Vordergasse",
+        "id": 117448,
+        "strassenbezeichnung": "Vordergasse"
+    },
+    {
+        "kurzbezeichnung": "Am Eibfeld",
+        "id": 117449,
+        "strassenbezeichnung": "Am Eibfeld"
+    },
+    {
+        "kurzbezeichnung": "Teichbachgasse",
+        "id": 117450,
+        "strassenbezeichnung": "Teichbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Akazienweg",
+        "id": 117451,
+        "strassenbezeichnung": "Akazienweg"
+    },
+    {
+        "kurzbezeichnung": "Edel Bergen",
+        "id": 117452,
+        "strassenbezeichnung": "Edel Bergen"
+    },
+    {
+        "kurzbezeichnung": "Rohrbach Bergen",
+        "id": 117453,
+        "strassenbezeichnung": "Rohrbach Bergen"
+    },
+    {
+        "kurzbezeichnung": "Untere Bergen",
+        "id": 117454,
+        "strassenbezeichnung": "Untere Bergen"
+    },
+    {
+        "kurzbezeichnung": "Obere Bergen",
+        "id": 117455,
+        "strassenbezeichnung": "Obere Bergen"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 117456,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintergasse",
+        "id": 117457,
+        "strassenbezeichnung": "Hintergasse"
+    },
+    {
+        "kurzbezeichnung": "Bienengasse",
+        "id": 117458,
+        "strassenbezeichnung": "Bienengasse"
+    },
+    {
+        "kurzbezeichnung": "Hinter den Gärten",
+        "id": 117459,
+        "strassenbezeichnung": "Hinter den Gärten"
+    },
+    {
+        "kurzbezeichnung": "Brunngraben",
+        "id": 117460,
+        "strassenbezeichnung": "Brunngraben"
+    },
+    {
+        "kurzbezeichnung": "Eckstraße",
+        "id": 117461,
+        "strassenbezeichnung": "Eckstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Waldrand",
+        "id": 117462,
+        "strassenbezeichnung": "Am Waldrand"
+    },
+    {
+        "kurzbezeichnung": "Erlenwiesen",
+        "id": 117463,
+        "strassenbezeichnung": "Erlenwiesen"
+    },
+    {
+        "kurzbezeichnung": "Untertrum",
+        "id": 117652,
+        "strassenbezeichnung": "Untertrum"
+    },
+    {
+        "kurzbezeichnung": "Weingartengasse",
+        "id": 117653,
+        "strassenbezeichnung": "Weingartengasse"
+    },
+    {
+        "kurzbezeichnung": "Obertrum",
+        "id": 117654,
+        "strassenbezeichnung": "Obertrum"
+    },
+    {
+        "kurzbezeichnung": "Brunnengasse",
+        "id": 117655,
+        "strassenbezeichnung": "Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Panoramaweg",
+        "id": 117656,
+        "strassenbezeichnung": "Panoramaweg"
+    },
+    {
+        "kurzbezeichnung": "Teichwaldgasse",
+        "id": 117657,
+        "strassenbezeichnung": "Teichwaldgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Gmeiner",
+        "id": 117658,
+        "strassenbezeichnung": "Am Gmeiner"
+    },
+    {
+        "kurzbezeichnung": "Heckengasse",
+        "id": 117659,
+        "strassenbezeichnung": "Heckengasse"
+    },
+    {
+        "kurzbezeichnung": "Vogelsangweg",
+        "id": 117660,
+        "strassenbezeichnung": "Vogelsangweg"
+    },
+    {
+        "kurzbezeichnung": "Jasmingasse",
+        "id": 117661,
+        "strassenbezeichnung": "Jasmingasse"
+    },
+    {
+        "kurzbezeichnung": "Fischteichweg",
+        "id": 117662,
+        "strassenbezeichnung": "Fischteichweg"
+    },
+    {
+        "kurzbezeichnung": "Am Reitplatz",
+        "id": 117663,
+        "strassenbezeichnung": "Am Reitplatz"
+    },
+    {
+        "kurzbezeichnung": "Neudörfl",
+        "id": 117664,
+        "strassenbezeichnung": "Neudörfl"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 117665,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 117666,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Hasensprung",
+        "id": 117667,
+        "strassenbezeichnung": "Am Hasensprung"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 117668,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Wehrgasse",
+        "id": 117669,
+        "strassenbezeichnung": "Wehrgasse"
+    },
+    {
+        "kurzbezeichnung": "Enggasse",
+        "id": 117670,
+        "strassenbezeichnung": "Enggasse"
+    },
+    {
+        "kurzbezeichnung": "Burgerstraße",
+        "id": 117671,
+        "strassenbezeichnung": "Burgerstraße"
+    },
+    {
+        "kurzbezeichnung": "Pinkaweg",
+        "id": 117672,
+        "strassenbezeichnung": "Pinkaweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlbachweg",
+        "id": 117673,
+        "strassenbezeichnung": "Mühlbachweg"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 117674,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Bründlstraße",
+        "id": 117675,
+        "strassenbezeichnung": "Bründlstraße"
+    },
+    {
+        "kurzbezeichnung": "Brückenstraße",
+        "id": 117676,
+        "strassenbezeichnung": "Brückenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenstraße",
+        "id": 117677,
+        "strassenbezeichnung": "Kapellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 117678,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Hofweg",
+        "id": 117679,
+        "strassenbezeichnung": "Hofweg"
+    },
+    {
+        "kurzbezeichnung": "Lindenstraße",
+        "id": 117680,
+        "strassenbezeichnung": "Lindenstraße"
+    },
+    {
+        "kurzbezeichnung": "Quellenstraße",
+        "id": 117681,
+        "strassenbezeichnung": "Quellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosenberg",
+        "id": 117682,
+        "strassenbezeichnung": "Rosenberg"
+    },
+    {
+        "kurzbezeichnung": "Talweg",
+        "id": 117683,
+        "strassenbezeichnung": "Talweg"
+    },
+    {
+        "kurzbezeichnung": "Glockenweg",
+        "id": 117684,
+        "strassenbezeichnung": "Glockenweg"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 117685,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Riegelstraße",
+        "id": 117686,
+        "strassenbezeichnung": "Riegelstraße"
+    },
+    {
+        "kurzbezeichnung": "Hutweidenweg",
+        "id": 117687,
+        "strassenbezeichnung": "Hutweidenweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 117688,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasanweg",
+        "id": 117689,
+        "strassenbezeichnung": "Fasanweg"
+    },
+    {
+        "kurzbezeichnung": "Am Biotop",
+        "id": 117690,
+        "strassenbezeichnung": "Am Biotop"
+    },
+    {
+        "kurzbezeichnung": "Greinergasse",
+        "id": 117691,
+        "strassenbezeichnung": "Greinergasse"
+    },
+    {
+        "kurzbezeichnung": "Nussbaumgasse",
+        "id": 117692,
+        "strassenbezeichnung": "Nussbaumgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Teichbach",
+        "id": 117693,
+        "strassenbezeichnung": "Am Teichbach"
+    },
+    {
+        "kurzbezeichnung": "Angerstraße",
+        "id": 117694,
+        "strassenbezeichnung": "Angerstraße"
+    },
+    {
+        "kurzbezeichnung": "Sandgasse",
+        "id": 117695,
+        "strassenbezeichnung": "Sandgasse"
+    },
+    {
+        "kurzbezeichnung": "Quergasse",
+        "id": 117696,
+        "strassenbezeichnung": "Quergasse"
+    },
+    {
+        "kurzbezeichnung": "Grenzgasse",
+        "id": 117697,
+        "strassenbezeichnung": "Grenzgasse"
+    },
+    {
+        "kurzbezeichnung": "Pfarrhofgasse",
+        "id": 117698,
+        "strassenbezeichnung": "Pfarrhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Wiesengrund",
+        "id": 117699,
+        "strassenbezeichnung": "Am Wiesengrund"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 117700,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 117701,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Fliedergasse",
+        "id": 117702,
+        "strassenbezeichnung": "Fliedergasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Hauptstraße",
+        "id": 117703,
+        "strassenbezeichnung": "Obere Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Herrengasse",
+        "id": 117704,
+        "strassenbezeichnung": "Herrengasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 117705,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Im Winkel",
+        "id": 117706,
+        "strassenbezeichnung": "Im Winkel"
+    },
+    {
+        "kurzbezeichnung": "Tannengasse",
+        "id": 117707,
+        "strassenbezeichnung": "Tannengasse"
+    },
+    {
+        "kurzbezeichnung": "Getreidegasse",
+        "id": 117708,
+        "strassenbezeichnung": "Getreidegasse"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzgasse",
+        "id": 117709,
+        "strassenbezeichnung": "Sportplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Steinriegel",
+        "id": 117710,
+        "strassenbezeichnung": "Steinriegel"
+    },
+    {
+        "kurzbezeichnung": "Am Riegel",
+        "id": 117711,
+        "strassenbezeichnung": "Am Riegel"
+    },
+    {
+        "kurzbezeichnung": "Untere Hauptstraße",
+        "id": 117712,
+        "strassenbezeichnung": "Untere Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Bauhof",
+        "id": 117713,
+        "strassenbezeichnung": "Am Bauhof"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 117714,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofengasse",
+        "id": 117715,
+        "strassenbezeichnung": "Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 117716,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": 117717,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Buchengasse",
+        "id": 117718,
+        "strassenbezeichnung": "Buchengasse"
+    },
+    {
+        "kurzbezeichnung": "Lärchenweg",
+        "id": 117719,
+        "strassenbezeichnung": "Lärchenweg"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 117720,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 117721,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 117722,
+        "strassenbezeichnung": "Neubaugasse"
+    },
+    {
+        "kurzbezeichnung": "Falkenweg",
+        "id": 117723,
+        "strassenbezeichnung": "Falkenweg"
+    },
+    {
+        "kurzbezeichnung": "Sterngasse",
+        "id": 117724,
+        "strassenbezeichnung": "Sterngasse"
+    },
+    {
+        "kurzbezeichnung": "Kornfeldgasse",
+        "id": 127393,
+        "strassenbezeichnung": "Kornfeldgasse"
+    }
+]

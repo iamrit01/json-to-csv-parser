@@ -1,0 +1,442 @@
+[
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": -32049,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Bach",
+        "id": 28488,
+        "strassenbezeichnung": "Am Bach"
+    },
+    {
+        "kurzbezeichnung": "Am Raiden",
+        "id": 28489,
+        "strassenbezeichnung": "Am Raiden"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 28490,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Hermann-Mathie-Weg",
+        "id": 28491,
+        "strassenbezeichnung": "Hermann-Mathie-Weg"
+    },
+    {
+        "kurzbezeichnung": "Egbertweg",
+        "id": 28492,
+        "strassenbezeichnung": "Egbertweg"
+    },
+    {
+        "kurzbezeichnung": "Fuchsengasse",
+        "id": 28493,
+        "strassenbezeichnung": "Fuchsengasse"
+    },
+    {
+        "kurzbezeichnung": "Graben",
+        "id": 28494,
+        "strassenbezeichnung": "Graben"
+    },
+    {
+        "kurzbezeichnung": "Grubberg",
+        "id": 28495,
+        "strassenbezeichnung": "Grubberg"
+    },
+    {
+        "kurzbezeichnung": "Hammeräcker",
+        "id": 28496,
+        "strassenbezeichnung": "Hammeräcker"
+    },
+    {
+        "kurzbezeichnung": "Hammermühle",
+        "id": 28497,
+        "strassenbezeichnung": "Hammermühle"
+    },
+    {
+        "kurzbezeichnung": "Hochgärten",
+        "id": 28498,
+        "strassenbezeichnung": "Hochgärten"
+    },
+    {
+        "kurzbezeichnung": "Holstein",
+        "id": 28499,
+        "strassenbezeichnung": "Holstein"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 28500,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Lanitz",
+        "id": 28501,
+        "strassenbezeichnung": "Lanitz"
+    },
+    {
+        "kurzbezeichnung": "Lichtenauerstraße",
+        "id": 28502,
+        "strassenbezeichnung": "Lichtenauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Linzerstraße",
+        "id": 28503,
+        "strassenbezeichnung": "Linzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 28504,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Mühlwiesen",
+        "id": 28505,
+        "strassenbezeichnung": "Mühlwiesen"
+    },
+    {
+        "kurzbezeichnung": "Pfarrwiese",
+        "id": 28506,
+        "strassenbezeichnung": "Pfarrwiese"
+    },
+    {
+        "kurzbezeichnung": "Pflaster",
+        "id": 28507,
+        "strassenbezeichnung": "Pflaster"
+    },
+    {
+        "kurzbezeichnung": "Rebenleiten",
+        "id": 28508,
+        "strassenbezeichnung": "Rebenleiten"
+    },
+    {
+        "kurzbezeichnung": "Schlossergasse",
+        "id": 28509,
+        "strassenbezeichnung": "Schlossergasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 28510,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Spitalgasse",
+        "id": 28511,
+        "strassenbezeichnung": "Spitalgasse"
+    },
+    {
+        "kurzbezeichnung": "Stahlmühle",
+        "id": 28512,
+        "strassenbezeichnung": "Stahlmühle"
+    },
+    {
+        "kurzbezeichnung": "Stegmühle",
+        "id": 28513,
+        "strassenbezeichnung": "Stegmühle"
+    },
+    {
+        "kurzbezeichnung": "Stelzen",
+        "id": 28514,
+        "strassenbezeichnung": "Stelzen"
+    },
+    {
+        "kurzbezeichnung": "Sternwaldstraße",
+        "id": 28515,
+        "strassenbezeichnung": "Sternwaldstraße"
+    },
+    {
+        "kurzbezeichnung": "Windgasse",
+        "id": 28516,
+        "strassenbezeichnung": "Windgasse"
+    },
+    {
+        "kurzbezeichnung": "Neue Heimat",
+        "id": 28517,
+        "strassenbezeichnung": "Neue Heimat"
+    },
+    {
+        "kurzbezeichnung": "Bahnhof",
+        "id": 56837,
+        "strassenbezeichnung": "Bahnhof"
+    },
+    {
+        "kurzbezeichnung": "Bärenholz",
+        "id": 56838,
+        "strassenbezeichnung": "Bärenholz"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 56839,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Bründlberg",
+        "id": 56840,
+        "strassenbezeichnung": "Bründlberg"
+    },
+    {
+        "kurzbezeichnung": "Hartmannsdorf",
+        "id": 56841,
+        "strassenbezeichnung": "Hartmannsdorf"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 56842,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Holzhäusln",
+        "id": 56843,
+        "strassenbezeichnung": "Holzhäusln"
+    },
+    {
+        "kurzbezeichnung": "Jaukenberg",
+        "id": 56844,
+        "strassenbezeichnung": "Jaukenberg"
+    },
+    {
+        "kurzbezeichnung": "Obere Felberau",
+        "id": 56852,
+        "strassenbezeichnung": "Obere Felberau"
+    },
+    {
+        "kurzbezeichnung": "Rohrbacherstraße",
+        "id": 56853,
+        "strassenbezeichnung": "Rohrbacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Untere Felberau",
+        "id": 56854,
+        "strassenbezeichnung": "Untere Felberau"
+    },
+    {
+        "kurzbezeichnung": "Weberstraße",
+        "id": 56855,
+        "strassenbezeichnung": "Weberstraße"
+    },
+    {
+        "kurzbezeichnung": "Vorauerstraße",
+        "id": 56856,
+        "strassenbezeichnung": "Vorauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Bohmannstraße",
+        "id": 59521,
+        "strassenbezeichnung": "Bohmannstraße"
+    },
+    {
+        "kurzbezeichnung": "Flachsfeld",
+        "id": 62587,
+        "strassenbezeichnung": "Flachsfeld"
+    },
+    {
+        "kurzbezeichnung": "Auberg",
+        "id": 71227,
+        "strassenbezeichnung": "Auberg"
+    },
+    {
+        "kurzbezeichnung": "Harafl",
+        "id": 71228,
+        "strassenbezeichnung": "Harafl"
+    },
+    {
+        "kurzbezeichnung": "Hehenberg",
+        "id": 71229,
+        "strassenbezeichnung": "Hehenberg"
+    },
+    {
+        "kurzbezeichnung": "Marbach",
+        "id": 71230,
+        "strassenbezeichnung": "Marbach"
+    },
+    {
+        "kurzbezeichnung": "Hollerberg",
+        "id": 71231,
+        "strassenbezeichnung": "Hollerberg"
+    },
+    {
+        "kurzbezeichnung": "Oberafiesl",
+        "id": 85023,
+        "strassenbezeichnung": "Oberafiesl"
+    },
+    {
+        "kurzbezeichnung": "Frindorf",
+        "id": 85092,
+        "strassenbezeichnung": "Frindorf"
+    },
+    {
+        "kurzbezeichnung": "Keppling",
+        "id": 85104,
+        "strassenbezeichnung": "Keppling"
+    },
+    {
+        "kurzbezeichnung": "Nößlbach",
+        "id": 85108,
+        "strassenbezeichnung": "Nößlbach"
+    },
+    {
+        "kurzbezeichnung": "Spielleiten",
+        "id": 85113,
+        "strassenbezeichnung": "Spielleiten"
+    },
+    {
+        "kurzbezeichnung": "Neudorf",
+        "id": 85116,
+        "strassenbezeichnung": "Neudorf"
+    },
+    {
+        "kurzbezeichnung": "Damreith",
+        "id": 85208,
+        "strassenbezeichnung": "Damreith"
+    },
+    {
+        "kurzbezeichnung": "Hinternberg",
+        "id": 85209,
+        "strassenbezeichnung": "Hinternberg"
+    },
+    {
+        "kurzbezeichnung": "Hochhausen",
+        "id": 85210,
+        "strassenbezeichnung": "Hochhausen"
+    },
+    {
+        "kurzbezeichnung": "Hörleinsödt",
+        "id": 85211,
+        "strassenbezeichnung": "Hörleinsödt"
+    },
+    {
+        "kurzbezeichnung": "Lichtenau im Mühlkreis",
+        "id": 85212,
+        "strassenbezeichnung": "Lichtenau im Mühlkreis"
+    },
+    {
+        "kurzbezeichnung": "Oedt",
+        "id": 85213,
+        "strassenbezeichnung": "Oedt"
+    },
+    {
+        "kurzbezeichnung": "Unterurasch",
+        "id": 85214,
+        "strassenbezeichnung": "Unterurasch"
+    },
+    {
+        "kurzbezeichnung": "Almesberg",
+        "id": 85408,
+        "strassenbezeichnung": "Almesberg"
+    },
+    {
+        "kurzbezeichnung": "Günterreith",
+        "id": 85409,
+        "strassenbezeichnung": "Günterreith"
+    },
+    {
+        "kurzbezeichnung": "Laimbach",
+        "id": 85410,
+        "strassenbezeichnung": "Laimbach"
+    },
+    {
+        "kurzbezeichnung": "Minihof",
+        "id": 85411,
+        "strassenbezeichnung": "Minihof"
+    },
+    {
+        "kurzbezeichnung": "Morau",
+        "id": 85412,
+        "strassenbezeichnung": "Morau"
+    },
+    {
+        "kurzbezeichnung": "St. Oswald bei Haslach",
+        "id": 85413,
+        "strassenbezeichnung": "Sankt Oswald bei Haslach"
+    },
+    {
+        "kurzbezeichnung": "Sattling",
+        "id": 85414,
+        "strassenbezeichnung": "Sattling"
+    },
+    {
+        "kurzbezeichnung": "Schwackerreith",
+        "id": 85415,
+        "strassenbezeichnung": "Schwackerreith"
+    },
+    {
+        "kurzbezeichnung": "Kasten",
+        "id": 85419,
+        "strassenbezeichnung": "Kasten"
+    },
+    {
+        "kurzbezeichnung": "Unterriedl",
+        "id": 85424,
+        "strassenbezeichnung": "Unterriedl"
+    },
+    {
+        "kurzbezeichnung": "Dambergschlag",
+        "id": 85426,
+        "strassenbezeichnung": "Dambergschlag"
+    },
+    {
+        "kurzbezeichnung": "Gmain",
+        "id": 85427,
+        "strassenbezeichnung": "Gmain"
+    },
+    {
+        "kurzbezeichnung": "Haid",
+        "id": 85428,
+        "strassenbezeichnung": "Haid"
+    },
+    {
+        "kurzbezeichnung": "Herrnschlag",
+        "id": 85429,
+        "strassenbezeichnung": "Herrnschlag"
+    },
+    {
+        "kurzbezeichnung": "Innenschlag",
+        "id": 85430,
+        "strassenbezeichnung": "Innenschlag"
+    },
+    {
+        "kurzbezeichnung": "Obereben",
+        "id": 85432,
+        "strassenbezeichnung": "Obereben"
+    },
+    {
+        "kurzbezeichnung": "Oberriedl",
+        "id": 85433,
+        "strassenbezeichnung": "Oberriedl"
+    },
+    {
+        "kurzbezeichnung": "Raiden",
+        "id": 85435,
+        "strassenbezeichnung": "Raiden"
+    },
+    {
+        "kurzbezeichnung": "Sankt Stefan am Walde",
+        "id": 85436,
+        "strassenbezeichnung": "Sankt Stefan am Walde"
+    },
+    {
+        "kurzbezeichnung": "Untereben",
+        "id": 85437,
+        "strassenbezeichnung": "Untereben"
+    },
+    {
+        "kurzbezeichnung": "Unterriedl",
+        "id": 85438,
+        "strassenbezeichnung": "Unterriedl"
+    },
+    {
+        "kurzbezeichnung": "Höhenstraße",
+        "id": 91828,
+        "strassenbezeichnung": "Höhenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hopfenfeld",
+        "id": 96500,
+        "strassenbezeichnung": "Hopfenfeld"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 114388,
+        "strassenbezeichnung": "Höhenweg"
+    }
+]

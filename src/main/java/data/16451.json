@@ -1,0 +1,672 @@
+[
+    {
+        "kurzbezeichnung": "Achweg",
+        "id": 114413,
+        "strassenbezeichnung": "Achweg"
+    },
+    {
+        "kurzbezeichnung": "Adlerweg",
+        "id": 114414,
+        "strassenbezeichnung": "Adlerweg"
+    },
+    {
+        "kurzbezeichnung": "Alpenweg",
+        "id": 114415,
+        "strassenbezeichnung": "Alpenweg"
+    },
+    {
+        "kurzbezeichnung": "Atterkarweg",
+        "id": -20616,
+        "strassenbezeichnung": "Atterkarweg"
+    },
+    {
+        "kurzbezeichnung": "Außerwaldstraße",
+        "id": 114416,
+        "strassenbezeichnung": "Außerwaldstraße"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 114417,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Bachleweg",
+        "id": -32986,
+        "strassenbezeichnung": "Bachleweg "
+    },
+    {
+        "kurzbezeichnung": "Bichlweg",
+        "id": 114418,
+        "strassenbezeichnung": "Bichlweg"
+    },
+    {
+        "kurzbezeichnung": "Blumenweg",
+        "id": 114419,
+        "strassenbezeichnung": "Blumenweg"
+    },
+    {
+        "kurzbezeichnung": "Brandleweg",
+        "id": 114421,
+        "strassenbezeichnung": "Brandleweg"
+    },
+    {
+        "kurzbezeichnung": "Brückenweg",
+        "id": 114422,
+        "strassenbezeichnung": "Brückenweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenbergalm",
+        "id": 58893,
+        "strassenbezeichnung": "Brunnenbergalm"
+    },
+    {
+        "kurzbezeichnung": "Brunnenkogelweg",
+        "id": 114423,
+        "strassenbezeichnung": "Brunnenkogelweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnenweg",
+        "id": 114522,
+        "strassenbezeichnung": "Brunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfblickweg",
+        "id": 114424,
+        "strassenbezeichnung": "Dorfblickweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 114425,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Ebeneweg",
+        "id": 114427,
+        "strassenbezeichnung": "Ebeneweg"
+    },
+    {
+        "kurzbezeichnung": "Einzeiger",
+        "id": 114577,
+        "strassenbezeichnung": "Einzeiger"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 114428,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 114430,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Gaisberg",
+        "id": 58712,
+        "strassenbezeichnung": "Gaisberg"
+    },
+    {
+        "kurzbezeichnung": "Gaislach",
+        "id": -4935,
+        "strassenbezeichnung": "Gaislach"
+    },
+    {
+        "kurzbezeichnung": "Gaislachalm",
+        "id": 101723,
+        "strassenbezeichnung": "Gaislachalm"
+    },
+    {
+        "kurzbezeichnung": "Gaislachalmlift",
+        "id": 114433,
+        "strassenbezeichnung": "Gaislachalmlift"
+    },
+    {
+        "kurzbezeichnung": "Gaislachkogel",
+        "id": 114544,
+        "strassenbezeichnung": "Gaislachkogel"
+    },
+    {
+        "kurzbezeichnung": "Gaislachweg",
+        "id": 114434,
+        "strassenbezeichnung": "Gaislachweg"
+    },
+    {
+        "kurzbezeichnung": "Gampealm",
+        "id": 55910,
+        "strassenbezeichnung": "Gampealm"
+    },
+    {
+        "kurzbezeichnung": "Gehördestraße",
+        "id": 114436,
+        "strassenbezeichnung": "Gehördestraße"
+    },
+    {
+        "kurzbezeichnung": "Gemeindestraße",
+        "id": 114437,
+        "strassenbezeichnung": "Gemeindestraße"
+    },
+    {
+        "kurzbezeichnung": "Gewerbestraße",
+        "id": 114519,
+        "strassenbezeichnung": "Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Giggijoch",
+        "id": 58713,
+        "strassenbezeichnung": "Giggijoch"
+    },
+    {
+        "kurzbezeichnung": "Giggijochstraße",
+        "id": 114438,
+        "strassenbezeichnung": "Giggijochstraße"
+    },
+    {
+        "kurzbezeichnung": "Gletscherexpress",
+        "id": 114583,
+        "strassenbezeichnung": "Gletscherexpress"
+    },
+    {
+        "kurzbezeichnung": "Gletscherstraße",
+        "id": 114439,
+        "strassenbezeichnung": "Gletscherstraße"
+    },
+    {
+        "kurzbezeichnung": "Goldeggalm",
+        "id": 114440,
+        "strassenbezeichnung": "Goldeggalm"
+    },
+    {
+        "kurzbezeichnung": "Granbichlstraße",
+        "id": 114441,
+        "strassenbezeichnung": "Granbichlstraße"
+    },
+    {
+        "kurzbezeichnung": "Gransteinalm",
+        "id": 101724,
+        "strassenbezeichnung": "Gransteinalm"
+    },
+    {
+        "kurzbezeichnung": "Gransteinstraße",
+        "id": 114442,
+        "strassenbezeichnung": "Gransteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Gratlift",
+        "id": 114584,
+        "strassenbezeichnung": "Gratlift"
+    },
+    {
+        "kurzbezeichnung": "Haimbachalm",
+        "id": 101726,
+        "strassenbezeichnung": "Haimbachalm"
+    },
+    {
+        "kurzbezeichnung": "Hainbachkar",
+        "id": 114585,
+        "strassenbezeichnung": "Hainbachkar"
+    },
+    {
+        "kurzbezeichnung": "Hainbachweg",
+        "id": 114445,
+        "strassenbezeichnung": "Hainbachweg"
+    },
+    {
+        "kurzbezeichnung": "Hamrachalm",
+        "id": 101727,
+        "strassenbezeichnung": "Hamrachalm"
+    },
+    {
+        "kurzbezeichnung": "Hangweg",
+        "id": 114446,
+        "strassenbezeichnung": "Hangweg"
+    },
+    {
+        "kurzbezeichnung": "Heidebahn",
+        "id": 114567,
+        "strassenbezeichnung": "Heidebahn"
+    },
+    {
+        "kurzbezeichnung": "Hochsöldenstraße",
+        "id": 114449,
+        "strassenbezeichnung": "Hochsöldenstraße"
+    },
+    {
+        "kurzbezeichnung": "Höfleweg",
+        "id": 114451,
+        "strassenbezeichnung": "Höfleweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 114453,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Hütten Sölden",
+        "id": 108428,
+        "strassenbezeichnung": "Hütten Sölden"
+    },
+    {
+        "kurzbezeichnung": "Infangstraße",
+        "id": 114454,
+        "strassenbezeichnung": "Infangstraße"
+    },
+    {
+        "kurzbezeichnung": "Innerwaldstraße",
+        "id": 114293,
+        "strassenbezeichnung": "Innerwaldstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaiserbergalm",
+        "id": 114588,
+        "strassenbezeichnung": "Kaiserbergalm"
+    },
+    {
+        "kurzbezeichnung": "Kaiserbergstraße",
+        "id": 114455,
+        "strassenbezeichnung": "Kaiserbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Kaiserstraße",
+        "id": 114456,
+        "strassenbezeichnung": "Kaiserstraße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 114457,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Karleskogel",
+        "id": 114551,
+        "strassenbezeichnung": "Karleskogel"
+    },
+    {
+        "kurzbezeichnung": "Kirchfeldweg",
+        "id": 114458,
+        "strassenbezeichnung": "Kirchfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Kleblealm",
+        "id": 58898,
+        "strassenbezeichnung": "Kleblealm"
+    },
+    {
+        "kurzbezeichnung": "Langeggbahn",
+        "id": 114589,
+        "strassenbezeichnung": "Langeggbahn"
+    },
+    {
+        "kurzbezeichnung": "Langeggweg",
+        "id": 114528,
+        "strassenbezeichnung": "Langeggweg"
+    },
+    {
+        "kurzbezeichnung": "Lärchenstraße",
+        "id": 114462,
+        "strassenbezeichnung": "Lärchenstraße"
+    },
+    {
+        "kurzbezeichnung": "Leiterbergalm",
+        "id": 72142,
+        "strassenbezeichnung": "Leiterbergalm"
+    },
+    {
+        "kurzbezeichnung": "Lochlehnstraße",
+        "id": 114464,
+        "strassenbezeichnung": "Lochlehnstraße"
+    },
+    {
+        "kurzbezeichnung": "Mahdstuhl",
+        "id": 114590,
+        "strassenbezeichnung": "Mahdstuhl"
+    },
+    {
+        "kurzbezeichnung": "Mini-Tiefenbach",
+        "id": 114552,
+        "strassenbezeichnung": "Mini-Tiefenbach"
+    },
+    {
+        "kurzbezeichnung": "Mittelstation",
+        "id": 114571,
+        "strassenbezeichnung": "Mittelstation"
+    },
+    {
+        "kurzbezeichnung": "Moosalmstraße",
+        "id": 114466,
+        "strassenbezeichnung": "Moosalmstraße"
+    },
+    {
+        "kurzbezeichnung": "Moosstraße",
+        "id": 114467,
+        "strassenbezeichnung": "Moosstraße"
+    },
+    {
+        "kurzbezeichnung": "Möselstraße",
+        "id": -20617,
+        "strassenbezeichnung": "Möselstraße "
+    },
+    {
+        "kurzbezeichnung": "Möslestraße",
+        "id": 114591,
+        "strassenbezeichnung": "Möslestraße"
+    },
+    {
+        "kurzbezeichnung": "Mühlauweg",
+        "id": 58718,
+        "strassenbezeichnung": "Mühlauweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 114468,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Mutkogel",
+        "id": 114553,
+        "strassenbezeichnung": "Mutkogel"
+    },
+    {
+        "kurzbezeichnung": "Obere Gewerbestraße",
+        "id": 114470,
+        "strassenbezeichnung": "Obere Gewerbestraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Issealm",
+        "id": 114592,
+        "strassenbezeichnung": "Obere Issealm"
+    },
+    {
+        "kurzbezeichnung": "Oberwindaustraße",
+        "id": 114471,
+        "strassenbezeichnung": "Oberwindaustraße"
+    },
+    {
+        "kurzbezeichnung": "Ötztalstraße",
+        "id": 114472,
+        "strassenbezeichnung": "Ötztalstraße"
+    },
+    {
+        "kurzbezeichnung": "Panorama",
+        "id": 114554,
+        "strassenbezeichnung": "Panorama"
+    },
+    {
+        "kurzbezeichnung": "Panoramastraße",
+        "id": 114473,
+        "strassenbezeichnung": "Panoramastraße"
+    },
+    {
+        "kurzbezeichnung": "Pitzestraße",
+        "id": 114527,
+        "strassenbezeichnung": "Pitzestraße"
+    },
+    {
+        "kurzbezeichnung": "Plattestraße",
+        "id": 114475,
+        "strassenbezeichnung": "Plattestraße"
+    },
+    {
+        "kurzbezeichnung": "Plörweg",
+        "id": 114476,
+        "strassenbezeichnung": "Plörweg"
+    },
+    {
+        "kurzbezeichnung": "Rauthweg",
+        "id": 114480,
+        "strassenbezeichnung": "Rauthweg"
+    },
+    {
+        "kurzbezeichnung": "Rechenaustraße",
+        "id": 114481,
+        "strassenbezeichnung": "Rechenaustraße"
+    },
+    {
+        "kurzbezeichnung": "Rettenbach",
+        "id": -4934,
+        "strassenbezeichnung": "Rettenbach"
+    },
+    {
+        "kurzbezeichnung": "Rettenbachjoch",
+        "id": 63146,
+        "strassenbezeichnung": "Rettenbachjoch"
+    },
+    {
+        "kurzbezeichnung": "Rettenbachlweg",
+        "id": 114483,
+        "strassenbezeichnung": "Rettenbachlweg"
+    },
+    {
+        "kurzbezeichnung": "Rettenbachstraße",
+        "id": 114484,
+        "strassenbezeichnung": "Rettenbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Rosskirpl",
+        "id": 114545,
+        "strassenbezeichnung": "Rosskirpl"
+    },
+    {
+        "kurzbezeichnung": "Rotkogel",
+        "id": 114593,
+        "strassenbezeichnung": "Rotkogel"
+    },
+    {
+        "kurzbezeichnung": "Sandstraße",
+        "id": 114487,
+        "strassenbezeichnung": "Sandstraße"
+    },
+    {
+        "kurzbezeichnung": "Schmiedhofstraße",
+        "id": 114491,
+        "strassenbezeichnung": "Schmiedhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Schönblickweg",
+        "id": 114492,
+        "strassenbezeichnung": "Schönblickweg"
+    },
+    {
+        "kurzbezeichnung": "Schönfeldweg",
+        "id": 127404,
+        "strassenbezeichnung": "Schönfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Schrofenweg",
+        "id": 114493,
+        "strassenbezeichnung": "Schrofenweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Schneid",
+        "id": 114555,
+        "strassenbezeichnung": "Schwarze Schneid"
+    },
+    {
+        "kurzbezeichnung": "Schwarzkogel",
+        "id": 114598,
+        "strassenbezeichnung": "Schwarzkogel"
+    },
+    {
+        "kurzbezeichnung": "Seekogel",
+        "id": 58710,
+        "strassenbezeichnung": "Seekogel"
+    },
+    {
+        "kurzbezeichnung": "Seestraße",
+        "id": 114495,
+        "strassenbezeichnung": "Seestraße"
+    },
+    {
+        "kurzbezeichnung": "Seiter-Jöchl",
+        "id": 114556,
+        "strassenbezeichnung": "Seiter-Jöchl"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsweg",
+        "id": 114655,
+        "strassenbezeichnung": "Siedlungsweg"
+    },
+    {
+        "kurzbezeichnung": "Silberbrünnl",
+        "id": 114600,
+        "strassenbezeichnung": "Silberbrünnl"
+    },
+    {
+        "kurzbezeichnung": "Söldenkogelweg",
+        "id": -17551,
+        "strassenbezeichnung": "Söldenkogelweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 114496,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenwinklweg",
+        "id": 114497,
+        "strassenbezeichnung": "Sonnenwinklweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnleithenweg",
+        "id": 114516,
+        "strassenbezeichnung": "Sonnleithenweg"
+    },
+    {
+        "kurzbezeichnung": "Stabele",
+        "id": 114603,
+        "strassenbezeichnung": "Stabele"
+    },
+    {
+        "kurzbezeichnung": "Stabelebahn",
+        "id": 114558,
+        "strassenbezeichnung": "Stabelebahn"
+    },
+    {
+        "kurzbezeichnung": "Stallwiesalm",
+        "id": 114499,
+        "strassenbezeichnung": "Stallwiesalm"
+    },
+    {
+        "kurzbezeichnung": "Steinmannlift",
+        "id": 114604,
+        "strassenbezeichnung": "Steinmannlift"
+    },
+    {
+        "kurzbezeichnung": "Steinweg",
+        "id": 114500,
+        "strassenbezeichnung": "Steinweg"
+    },
+    {
+        "kurzbezeichnung": "Talweg",
+        "id": 114501,
+        "strassenbezeichnung": "Talweg"
+    },
+    {
+        "kurzbezeichnung": "Tiefenbachferner",
+        "id": 114557,
+        "strassenbezeichnung": "Tiefenbachferner"
+    },
+    {
+        "kurzbezeichnung": "Tiwagweg",
+        "id": 114503,
+        "strassenbezeichnung": "Tiwagweg"
+    },
+    {
+        "kurzbezeichnung": "Übungslift Gaisberg",
+        "id": 114607,
+        "strassenbezeichnung": "Übungslift Gaisberg"
+    },
+    {
+        "kurzbezeichnung": "Übungslift Giggijoch",
+        "id": 114608,
+        "strassenbezeichnung": "Übungslift Giggijoch"
+    },
+    {
+        "kurzbezeichnung": "Übungslift Rosskar",
+        "id": 114609,
+        "strassenbezeichnung": "Übungslift Rosskar"
+    },
+    {
+        "kurzbezeichnung": "Uferweg",
+        "id": 114504,
+        "strassenbezeichnung": "Uferweg"
+    },
+    {
+        "kurzbezeichnung": "Untere Gewerbestraße",
+        "id": -31297,
+        "strassenbezeichnung": "Untere Gewerbestraße "
+    },
+    {
+        "kurzbezeichnung": "Unterwaldstraße",
+        "id": 114506,
+        "strassenbezeichnung": "Unterwaldstraße"
+    },
+    {
+        "kurzbezeichnung": "Vorderer Wurmkogel I",
+        "id": 114605,
+        "strassenbezeichnung": "Vorderer Wurmkogel I"
+    },
+    {
+        "kurzbezeichnung": "Vorderer Wurmkogel II",
+        "id": 114606,
+        "strassenbezeichnung": "Vorderer Wurmkogel II"
+    },
+    {
+        "kurzbezeichnung": "Waldelestraße",
+        "id": 114508,
+        "strassenbezeichnung": "Waldelestraße"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 114509,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wasserkar",
+        "id": 114517,
+        "strassenbezeichnung": "Wasserkar"
+    },
+    {
+        "kurzbezeichnung": "Wiesenlift",
+        "id": 114610,
+        "strassenbezeichnung": "Wiesenlift"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 114510,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Wildes Mannle",
+        "id": 114612,
+        "strassenbezeichnung": "Wildes Mannle"
+    },
+    {
+        "kurzbezeichnung": "Wildmoosstraße",
+        "id": 114511,
+        "strassenbezeichnung": "Wildmoosstraße"
+    },
+    {
+        "kurzbezeichnung": "Wildspitzlift",
+        "id": 114611,
+        "strassenbezeichnung": "Wildspitzlift"
+    },
+    {
+        "kurzbezeichnung": "Windachalm",
+        "id": 96968,
+        "strassenbezeichnung": "Windachalm"
+    },
+    {
+        "kurzbezeichnung": "Windaustraße",
+        "id": 114512,
+        "strassenbezeichnung": "Windaustraße"
+    },
+    {
+        "kurzbezeichnung": "Wohlfahrtstraße",
+        "id": 114514,
+        "strassenbezeichnung": "Wohlfahrtstraße"
+    },
+    {
+        "kurzbezeichnung": "Zirmweg",
+        "id": 114515,
+        "strassenbezeichnung": "Zirmweg"
+    }
+]

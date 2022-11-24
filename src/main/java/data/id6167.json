@@ -1,0 +1,482 @@
+[
+    {
+        "kurzbezeichnung": "Kampl",
+        "id": -4399,
+        "strassenbezeichnung": "Kampl"
+    },
+    {
+        "kurzbezeichnung": "Neder",
+        "id": -4398,
+        "strassenbezeichnung": "Neder"
+    },
+    {
+        "kurzbezeichnung": "Ebnersteig",
+        "id": 40052,
+        "strassenbezeichnung": "Ebnersteig"
+    },
+    {
+        "kurzbezeichnung": "Sonnensteinweg",
+        "id": 40053,
+        "strassenbezeichnung": "Sonnensteinweg"
+    },
+    {
+        "kurzbezeichnung": "Blutschwitzerweg",
+        "id": 40073,
+        "strassenbezeichnung": "Blutschwitzerweg"
+    },
+    {
+        "kurzbezeichnung": "Gröben",
+        "id": 57973,
+        "strassenbezeichnung": "Gröben"
+    },
+    {
+        "kurzbezeichnung": "Industriegelände Zone A",
+        "id": 57974,
+        "strassenbezeichnung": "Industriegelände Zone A"
+    },
+    {
+        "kurzbezeichnung": "Omesberg",
+        "id": 57975,
+        "strassenbezeichnung": "Omesberg"
+    },
+    {
+        "kurzbezeichnung": "Rastbichl",
+        "id": 57976,
+        "strassenbezeichnung": "Rastbichl"
+    },
+    {
+        "kurzbezeichnung": "Vergör",
+        "id": 57977,
+        "strassenbezeichnung": "Vergör"
+    },
+    {
+        "kurzbezeichnung": "Auenweg",
+        "id": 59359,
+        "strassenbezeichnung": "Auenweg"
+    },
+    {
+        "kurzbezeichnung": "Bischof-Knaus-Weg",
+        "id": 59360,
+        "strassenbezeichnung": "Bischof-Knaus-Weg"
+    },
+    {
+        "kurzbezeichnung": "Greit",
+        "id": 59361,
+        "strassenbezeichnung": "Greit"
+    },
+    {
+        "kurzbezeichnung": "Sonnegg",
+        "id": 59362,
+        "strassenbezeichnung": "Sonnegg"
+    },
+    {
+        "kurzbezeichnung": "Deniflestraße",
+        "id": 66579,
+        "strassenbezeichnung": "Deniflestraße"
+    },
+    {
+        "kurzbezeichnung": "Gänser",
+        "id": 66580,
+        "strassenbezeichnung": "Gänser"
+    },
+    {
+        "kurzbezeichnung": "Garbergasse",
+        "id": 66581,
+        "strassenbezeichnung": "Garbergasse"
+    },
+    {
+        "kurzbezeichnung": "Scheibe",
+        "id": 66600,
+        "strassenbezeichnung": "Scheibe"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 66601,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Rain",
+        "id": 66602,
+        "strassenbezeichnung": "Rain"
+    },
+    {
+        "kurzbezeichnung": "Lehner",
+        "id": 66604,
+        "strassenbezeichnung": "Lehner"
+    },
+    {
+        "kurzbezeichnung": "Stackler",
+        "id": 66605,
+        "strassenbezeichnung": "Stackler"
+    },
+    {
+        "kurzbezeichnung": "Aue",
+        "id": 66606,
+        "strassenbezeichnung": "Aue"
+    },
+    {
+        "kurzbezeichnung": "Milders",
+        "id": 66607,
+        "strassenbezeichnung": "Milders"
+    },
+    {
+        "kurzbezeichnung": "Schaller",
+        "id": 67100,
+        "strassenbezeichnung": "Schaller"
+    },
+    {
+        "kurzbezeichnung": "Außerrain",
+        "id": 67363,
+        "strassenbezeichnung": "Außerrain"
+    },
+    {
+        "kurzbezeichnung": "Herrengasse",
+        "id": 67374,
+        "strassenbezeichnung": "Herrengasse"
+    },
+    {
+        "kurzbezeichnung": "Schmieden",
+        "id": 67375,
+        "strassenbezeichnung": "Schmieden"
+    },
+    {
+        "kurzbezeichnung": "Kartnall",
+        "id": 67994,
+        "strassenbezeichnung": "Kartnall"
+    },
+    {
+        "kurzbezeichnung": "Gasteig",
+        "id": 70760,
+        "strassenbezeichnung": "Gasteig"
+    },
+    {
+        "kurzbezeichnung": "Krößbach",
+        "id": 70762,
+        "strassenbezeichnung": "Krößbach"
+    },
+    {
+        "kurzbezeichnung": "Mutterberg",
+        "id": 70763,
+        "strassenbezeichnung": "Mutterberg"
+    },
+    {
+        "kurzbezeichnung": "Bichl",
+        "id": 70765,
+        "strassenbezeichnung": "Bichl"
+    },
+    {
+        "kurzbezeichnung": "Oberberg",
+        "id": 70766,
+        "strassenbezeichnung": "Oberberg"
+    },
+    {
+        "kurzbezeichnung": "Oberegg",
+        "id": 70767,
+        "strassenbezeichnung": "Oberegg"
+    },
+    {
+        "kurzbezeichnung": "Obergasse",
+        "id": 70768,
+        "strassenbezeichnung": "Obergasse"
+    },
+    {
+        "kurzbezeichnung": "Pfurtschell",
+        "id": 70769,
+        "strassenbezeichnung": "Pfurtschell"
+    },
+    {
+        "kurzbezeichnung": "Ranalt",
+        "id": 70770,
+        "strassenbezeichnung": "Ranalt"
+    },
+    {
+        "kurzbezeichnung": "Volderau",
+        "id": 70771,
+        "strassenbezeichnung": "Volderau"
+    },
+    {
+        "kurzbezeichnung": "Falbeson",
+        "id": 75052,
+        "strassenbezeichnung": "Falbeson"
+    },
+    {
+        "kurzbezeichnung": "Oberissalm",
+        "id": 75054,
+        "strassenbezeichnung": "Oberissalm"
+    },
+    {
+        "kurzbezeichnung": "Industriegelände Zone B",
+        "id": 93974,
+        "strassenbezeichnung": "Industriegelände Zone B"
+    },
+    {
+        "kurzbezeichnung": "Industriegelände Zone C",
+        "id": 93975,
+        "strassenbezeichnung": "Industriegelände Zone C"
+    },
+    {
+        "kurzbezeichnung": "Gewerbezone",
+        "id": 99760,
+        "strassenbezeichnung": "Gewerbezone"
+    },
+    {
+        "kurzbezeichnung": "Serlesstraße",
+        "id": 99847,
+        "strassenbezeichnung": "Serlesstraße"
+    },
+    {
+        "kurzbezeichnung": "Kesselweg",
+        "id": 99848,
+        "strassenbezeichnung": "Kesselweg"
+    },
+    {
+        "kurzbezeichnung": "Bildhauerweg",
+        "id": 99849,
+        "strassenbezeichnung": "Bildhauerweg"
+    },
+    {
+        "kurzbezeichnung": "Höhlebachstraße",
+        "id": 99850,
+        "strassenbezeichnung": "Höhlebachstraße"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 99851,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 99852,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 99853,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 99854,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Habichtsgasse",
+        "id": 99855,
+        "strassenbezeichnung": "Habichtsgasse"
+    },
+    {
+        "kurzbezeichnung": "Knappenweg",
+        "id": 99856,
+        "strassenbezeichnung": "Knappenweg"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 99857,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 99858,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Stubaitalstraße",
+        "id": 99859,
+        "strassenbezeichnung": "Stubaitalstraße"
+    },
+    {
+        "kurzbezeichnung": "Grenzergasse",
+        "id": 99860,
+        "strassenbezeichnung": "Grenzergasse"
+    },
+    {
+        "kurzbezeichnung": "Bichlweg",
+        "id": 99861,
+        "strassenbezeichnung": "Bichlweg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 99862,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 99863,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Alpenweg",
+        "id": 99864,
+        "strassenbezeichnung": "Alpenweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 99865,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Elferweg",
+        "id": 99866,
+        "strassenbezeichnung": "Elferweg"
+    },
+    {
+        "kurzbezeichnung": "Auten",
+        "id": 100085,
+        "strassenbezeichnung": "Auten"
+    },
+    {
+        "kurzbezeichnung": "Unteregg",
+        "id": 100088,
+        "strassenbezeichnung": "Unteregg"
+    },
+    {
+        "kurzbezeichnung": "Forchach",
+        "id": 101054,
+        "strassenbezeichnung": "Forchach"
+    },
+    {
+        "kurzbezeichnung": "Nürnberger Hütte",
+        "id": 101056,
+        "strassenbezeichnung": "Nürnberger Hütte"
+    },
+    {
+        "kurzbezeichnung": "Pinnistal",
+        "id": 101057,
+        "strassenbezeichnung": "Pinnistal"
+    },
+    {
+        "kurzbezeichnung": "Regensburger Hütte",
+        "id": 101058,
+        "strassenbezeichnung": "Regensburger Hütte"
+    },
+    {
+        "kurzbezeichnung": "Starkenburger Hütte",
+        "id": 101059,
+        "strassenbezeichnung": "Starkenburger Hütte"
+    },
+    {
+        "kurzbezeichnung": "Neugasteig",
+        "id": 102373,
+        "strassenbezeichnung": "Neugasteig"
+    },
+    {
+        "kurzbezeichnung": "Bachertalweg",
+        "id": 104791,
+        "strassenbezeichnung": "Bachertalweg"
+    },
+    {
+        "kurzbezeichnung": "Schulweg",
+        "id": 104792,
+        "strassenbezeichnung": "Schulweg"
+    },
+    {
+        "kurzbezeichnung": "Innerrain",
+        "id": 104793,
+        "strassenbezeichnung": "Innerrain"
+    },
+    {
+        "kurzbezeichnung": "Leiraweg",
+        "id": 104794,
+        "strassenbezeichnung": "Leiraweg"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 104795,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Mühle",
+        "id": 104796,
+        "strassenbezeichnung": "Mühle"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 104797,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Holzgasse",
+        "id": 104798,
+        "strassenbezeichnung": "Holzgasse"
+    },
+    {
+        "kurzbezeichnung": "Pinnisweg",
+        "id": 104799,
+        "strassenbezeichnung": "Pinnisweg"
+    },
+    {
+        "kurzbezeichnung": "Ried",
+        "id": 104800,
+        "strassenbezeichnung": "Ried"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 104803,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Oberdorf",
+        "id": 104804,
+        "strassenbezeichnung": "Oberdorf"
+    },
+    {
+        "kurzbezeichnung": "Unterrain",
+        "id": 104805,
+        "strassenbezeichnung": "Unterrain"
+    },
+    {
+        "kurzbezeichnung": "Elferhütte",
+        "id": 104928,
+        "strassenbezeichnung": "Elferhütte"
+    },
+    {
+        "kurzbezeichnung": "Brückenweg",
+        "id": 106466,
+        "strassenbezeichnung": "Brückenweg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Senn-Straße",
+        "id": 106467,
+        "strassenbezeichnung": "Franz-Senn-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlenweg",
+        "id": 106468,
+        "strassenbezeichnung": "Mühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Taxerweg",
+        "id": 106469,
+        "strassenbezeichnung": "Taxerweg"
+    },
+    {
+        "kurzbezeichnung": "Uferweg",
+        "id": 106470,
+        "strassenbezeichnung": "Uferweg"
+    },
+    {
+        "kurzbezeichnung": "Zirbenweg",
+        "id": 106471,
+        "strassenbezeichnung": "Zirbenweg"
+    },
+    {
+        "kurzbezeichnung": "Zwölferweg",
+        "id": 106472,
+        "strassenbezeichnung": "Zwölferweg"
+    },
+    {
+        "kurzbezeichnung": "Föhrenweg",
+        "id": 108012,
+        "strassenbezeichnung": "Föhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Dresdnerhütte",
+        "id": 109566,
+        "strassenbezeichnung": "Dresdnerhütte"
+    },
+    {
+        "kurzbezeichnung": "Sulzenauhütte",
+        "id": 109567,
+        "strassenbezeichnung": "Sulzenauhütte"
+    }
+]

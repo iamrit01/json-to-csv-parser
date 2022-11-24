@@ -1,0 +1,777 @@
+[
+    {
+        "kurzbezeichnung": "Theodor Kery-Straße",
+        "id": -30746,
+        "strassenbezeichnung": "Theodor Kery-Straße"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": -30028,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Keltenweg",
+        "id": -18831,
+        "strassenbezeichnung": "Keltenweg"
+    },
+    {
+        "kurzbezeichnung": "Awarenweg",
+        "id": -18175,
+        "strassenbezeichnung": "Awarenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Bahndamm",
+        "id": 1506,
+        "strassenbezeichnung": "Am Bahndamm"
+    },
+    {
+        "kurzbezeichnung": "Angergasse",
+        "id": 1507,
+        "strassenbezeichnung": "Angergasse"
+    },
+    {
+        "kurzbezeichnung": "Arbeitergasse",
+        "id": 1508,
+        "strassenbezeichnung": "Arbeitergasse"
+    },
+    {
+        "kurzbezeichnung": "Auwinkel",
+        "id": 1509,
+        "strassenbezeichnung": "Auwinkel"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 1510,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhof",
+        "id": 1512,
+        "strassenbezeichnung": "Bahnhof"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 1513,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Johann N. Berger-Str.",
+        "id": 1514,
+        "strassenbezeichnung": "Johann Nepomuk Berger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Berggasse",
+        "id": 1515,
+        "strassenbezeichnung": "Walbersdorf Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Bergstraße",
+        "id": 1516,
+        "strassenbezeichnung": "Bergstraße"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 1517,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Brunneng.",
+        "id": 1518,
+        "strassenbezeichnung": "Walbersdorf Brunnengasse"
+    },
+    {
+        "kurzbezeichnung": "Brunnenplatz",
+        "id": 1519,
+        "strassenbezeichnung": "Brunnenplatz"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Bundesstr.",
+        "id": 1520,
+        "strassenbezeichnung": "Walbersdorf Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Gustav Degen-Gasse",
+        "id": 1521,
+        "strassenbezeichnung": "Gustav Degen-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Donnerweg",
+        "id": 1522,
+        "strassenbezeichnung": "Donnerweg"
+    },
+    {
+        "kurzbezeichnung": "Eckgasse",
+        "id": 1523,
+        "strassenbezeichnung": "Eckgasse"
+    },
+    {
+        "kurzbezeichnung": "W. Eisenstädterstr.",
+        "id": 1524,
+        "strassenbezeichnung": "Walbersdorf Eisenstädterstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Ermes-Gasse",
+        "id": 1525,
+        "strassenbezeichnung": "Franz Ermes-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 1526,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Felixstraße",
+        "id": 1527,
+        "strassenbezeichnung": "Felixstraße"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 1528,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Forchtenauerstraße",
+        "id": 1529,
+        "strassenbezeichnung": "Forchtenauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 1531,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Gerichtsberggasse",
+        "id": 1532,
+        "strassenbezeichnung": "Gerichtsberggasse"
+    },
+    {
+        "kurzbezeichnung": "Otto Glöckel-Gasse",
+        "id": 1533,
+        "strassenbezeichnung": "Otto Glöckel-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hanggasse",
+        "id": 1534,
+        "strassenbezeichnung": "Hanggasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 1536,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 1537,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Haydngasse",
+        "id": 1539,
+        "strassenbezeichnung": "Haydngasse"
+    },
+    {
+        "kurzbezeichnung": "Heimgasse",
+        "id": 1540,
+        "strassenbezeichnung": "Heimgasse"
+    },
+    {
+        "kurzbezeichnung": "Hintergasse",
+        "id": 1541,
+        "strassenbezeichnung": "Hintergasse"
+    },
+    {
+        "kurzbezeichnung": "Hirschkreitgasse",
+        "id": 1543,
+        "strassenbezeichnung": "Hirschkreitgasse"
+    },
+    {
+        "kurzbezeichnung": "Hirtengasse",
+        "id": 1544,
+        "strassenbezeichnung": "Hirtengasse"
+    },
+    {
+        "kurzbezeichnung": "Hochstraße",
+        "id": 1546,
+        "strassenbezeichnung": "Hochstraße"
+    },
+    {
+        "kurzbezeichnung": "Hotterweg",
+        "id": 1547,
+        "strassenbezeichnung": "Hotterweg"
+    },
+    {
+        "kurzbezeichnung": "Josef Hyrtl-Gasse",
+        "id": 1548,
+        "strassenbezeichnung": "Josef Hyrtl-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Judengasse",
+        "id": 1550,
+        "strassenbezeichnung": "Judengasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 1551,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Kitaibelgasse",
+        "id": 1552,
+        "strassenbezeichnung": "Kitaibelgasse"
+    },
+    {
+        "kurzbezeichnung": "Michael Koch-Straße",
+        "id": 1554,
+        "strassenbezeichnung": "Michael Koch-Straße"
+    },
+    {
+        "kurzbezeichnung": "Köpplweg",
+        "id": 1555,
+        "strassenbezeichnung": "Köpplweg"
+    },
+    {
+        "kurzbezeichnung": "Krummegasse",
+        "id": 1556,
+        "strassenbezeichnung": "Krummegasse"
+    },
+    {
+        "kurzbezeichnung": "Kurzegasse",
+        "id": 1557,
+        "strassenbezeichnung": "Kurzegasse"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Kurzgasse",
+        "id": 1558,
+        "strassenbezeichnung": "Walbersdorf Kurzgasse"
+    },
+    {
+        "kurzbezeichnung": "Bauweltstraße",
+        "id": 1559,
+        "strassenbezeichnung": "Bauweltstraße"
+    },
+    {
+        "kurzbezeichnung": "Langegasse",
+        "id": 1561,
+        "strassenbezeichnung": "Langegasse"
+    },
+    {
+        "kurzbezeichnung": "Langendorferweg",
+        "id": 1562,
+        "strassenbezeichnung": "Langendorferweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnwächterhäuser",
+        "id": 1563,
+        "strassenbezeichnung": "Bahnwächterhäuser"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Leonhardg.",
+        "id": 1564,
+        "strassenbezeichnung": "Walbersdorf Leonhardgasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Ludwig Leser-Str.",
+        "id": 1565,
+        "strassenbezeichnung": "Dr. Ludwig Leser-Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz Liszt-Gasse",
+        "id": 1566,
+        "strassenbezeichnung": "Franz Liszt-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Marktgasse",
+        "id": 1567,
+        "strassenbezeichnung": "Marktgasse"
+    },
+    {
+        "kurzbezeichnung": "Martinsplatz",
+        "id": 1568,
+        "strassenbezeichnung": "Martinsplatz"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Marzerstr.",
+        "id": 1569,
+        "strassenbezeichnung": "Walbersdorf Marzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Matschakerhof",
+        "id": 1570,
+        "strassenbezeichnung": "Matschakerhof"
+    },
+    {
+        "kurzbezeichnung": "Johann Morawitz-Gasse",
+        "id": 1571,
+        "strassenbezeichnung": "Johann Morawitz-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Mozartgasse",
+        "id": 1572,
+        "strassenbezeichnung": "Mozartgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 1573,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 1574,
+        "strassenbezeichnung": "Neubaugasse"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 1575,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Panholzgasse",
+        "id": 1576,
+        "strassenbezeichnung": "Panholzgasse"
+    },
+    {
+        "kurzbezeichnung": "Pielgasse",
+        "id": 1577,
+        "strassenbezeichnung": "Pielgasse"
+    },
+    {
+        "kurzbezeichnung": "Quellengasse",
+        "id": 1578,
+        "strassenbezeichnung": "Quellengasse"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisengasse",
+        "id": 1579,
+        "strassenbezeichnung": "Raiffeisengasse"
+    },
+    {
+        "kurzbezeichnung": "Reitschulgasse",
+        "id": 1581,
+        "strassenbezeichnung": "Reitschulgasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Karl Renner-Platz",
+        "id": 1582,
+        "strassenbezeichnung": "Dr. Karl Renner-Platz"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 1583,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Sätzgasse",
+        "id": 1584,
+        "strassenbezeichnung": "Sätzgasse"
+    },
+    {
+        "kurzbezeichnung": "Schubertstraße",
+        "id": 1586,
+        "strassenbezeichnung": "Schubertstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 1587,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Seminargasse",
+        "id": 1588,
+        "strassenbezeichnung": "Seminargasse"
+    },
+    {
+        "kurzbezeichnung": "Semmelweisgasse",
+        "id": 1589,
+        "strassenbezeichnung": "Semmelweisgasse"
+    },
+    {
+        "kurzbezeichnung": "Rohrbrücke",
+        "id": 1590,
+        "strassenbezeichnung": "Rohrbrücke"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsgasse",
+        "id": 1591,
+        "strassenbezeichnung": "Siedlungsgasse"
+    },
+    {
+        "kurzbezeichnung": "Sonnwendgasse",
+        "id": 1594,
+        "strassenbezeichnung": "Sonnwendgasse"
+    },
+    {
+        "kurzbezeichnung": "Koglgasse",
+        "id": 1595,
+        "strassenbezeichnung": "Koglgasse"
+    },
+    {
+        "kurzbezeichnung": "Johann Strauß-Gasse",
+        "id": 1596,
+        "strassenbezeichnung": "Johann Strauß-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Süd-Ost-Gasse",
+        "id": 1597,
+        "strassenbezeichnung": "Süd-Ost-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Sylvestergasse",
+        "id": 1598,
+        "strassenbezeichnung": "Sylvestergasse"
+    },
+    {
+        "kurzbezeichnung": "Tillbrunngasse",
+        "id": 1600,
+        "strassenbezeichnung": "Tillbrunngasse"
+    },
+    {
+        "kurzbezeichnung": "Triftgasse",
+        "id": 1601,
+        "strassenbezeichnung": "Triftgasse"
+    },
+    {
+        "kurzbezeichnung": "Wassergasse",
+        "id": 1602,
+        "strassenbezeichnung": "Wassergasse"
+    },
+    {
+        "kurzbezeichnung": "Wedekindgasse",
+        "id": 1603,
+        "strassenbezeichnung": "Wedekindgasse"
+    },
+    {
+        "kurzbezeichnung": "Wehrgasse",
+        "id": 1605,
+        "strassenbezeichnung": "Wehrgasse"
+    },
+    {
+        "kurzbezeichnung": "Weidenbachgasse",
+        "id": 1606,
+        "strassenbezeichnung": "Weidenbachgasse"
+    },
+    {
+        "kurzbezeichnung": "Weinberggasse",
+        "id": 1607,
+        "strassenbezeichnung": "Weinberggasse"
+    },
+    {
+        "kurzbezeichnung": "Wienerstraße",
+        "id": 1608,
+        "strassenbezeichnung": "Wienerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wieselberggasse",
+        "id": 1609,
+        "strassenbezeichnung": "Wieselberggasse"
+    },
+    {
+        "kurzbezeichnung": "Jakob Wittmann-Gasse",
+        "id": 1610,
+        "strassenbezeichnung": "Jakob Wittmann-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Wulkagasse",
+        "id": 1611,
+        "strassenbezeichnung": "Wulkagasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhof Wiesen-Sigleß",
+        "id": 7768,
+        "strassenbezeichnung": "Bahnhof Wiesen-Sigleß"
+    },
+    {
+        "kurzbezeichnung": "Höhenweg",
+        "id": 46102,
+        "strassenbezeichnung": "Höhenweg"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Bahnstraße",
+        "id": 50116,
+        "strassenbezeichnung": "Walbersdorf Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Feldgasse",
+        "id": 50117,
+        "strassenbezeichnung": "Walbersdorf Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Garteng.",
+        "id": 50118,
+        "strassenbezeichnung": "Walbersdorf Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Hauptstr.",
+        "id": 50119,
+        "strassenbezeichnung": "Walbersdorf Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Hinterg.",
+        "id": 50120,
+        "strassenbezeichnung": "Walbersdorf Hintergasse"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Rosengasse",
+        "id": 50121,
+        "strassenbezeichnung": "Walbersdorf Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Triftgasse",
+        "id": 50122,
+        "strassenbezeichnung": "Walbersdorf Triftgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Viehmarkt",
+        "id": 51685,
+        "strassenbezeichnung": "Am Viehmarkt"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 51687,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Hotterweg",
+        "id": 52858,
+        "strassenbezeichnung": "Walbersdorf Hotterweg"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Bauweltstr.",
+        "id": 52859,
+        "strassenbezeichnung": "Walbersdorf Bauweltstraße"
+    },
+    {
+        "kurzbezeichnung": "Wulkalände",
+        "id": 52860,
+        "strassenbezeichnung": "Wulkalände"
+    },
+    {
+        "kurzbezeichnung": "Ing. Leopold Figl-Str.",
+        "id": 64780,
+        "strassenbezeichnung": "Ing. Leopold Figl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Dr. Adolf Schärf-Str.",
+        "id": 64781,
+        "strassenbezeichnung": "Dr. Adolf Schärf-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kapellenweg",
+        "id": 74745,
+        "strassenbezeichnung": "Kapellenweg"
+    },
+    {
+        "kurzbezeichnung": "Herta-Kräftner-Gasse",
+        "id": 91589,
+        "strassenbezeichnung": "Herta-Kräftner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hans Suchard-Gasse",
+        "id": 95132,
+        "strassenbezeichnung": "Hans Suchard-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. R. Berczeller-G.",
+        "id": 96323,
+        "strassenbezeichnung": "Dr. Richard Berczeller-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Lindenplatz",
+        "id": 96324,
+        "strassenbezeichnung": "Lindenplatz"
+    },
+    {
+        "kurzbezeichnung": "Anton Wessely-Straße",
+        "id": 96999,
+        "strassenbezeichnung": "Anton Wessely-Straße"
+    },
+    {
+        "kurzbezeichnung": "Buchengasse",
+        "id": 97001,
+        "strassenbezeichnung": "Buchengasse"
+    },
+    {
+        "kurzbezeichnung": "Eichengasse",
+        "id": 97002,
+        "strassenbezeichnung": "Eichengasse"
+    },
+    {
+        "kurzbezeichnung": "Josef-Reichl-Gasse",
+        "id": 97143,
+        "strassenbezeichnung": "Josef-Reichel-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Peter Zauner-Gasse",
+        "id": 97145,
+        "strassenbezeichnung": "Peter Zauner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Richard Wagner-Gasse",
+        "id": 97146,
+        "strassenbezeichnung": "Richard Wagner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Robert Stolz-Gasse",
+        "id": 97147,
+        "strassenbezeichnung": "Robert Stolz-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Römerweg",
+        "id": 97148,
+        "strassenbezeichnung": "Römerweg"
+    },
+    {
+        "kurzbezeichnung": "Rudolf Strodl-Gasse",
+        "id": 97149,
+        "strassenbezeichnung": "Rudolf Strodl-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 97150,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Leitgebgasse",
+        "id": 97152,
+        "strassenbezeichnung": "Leitgebgasse"
+    },
+    {
+        "kurzbezeichnung": "Fasangasse",
+        "id": 97153,
+        "strassenbezeichnung": "Fasangasse"
+    },
+    {
+        "kurzbezeichnung": "Ederergasse",
+        "id": 97154,
+        "strassenbezeichnung": "Ederergasse"
+    },
+    {
+        "kurzbezeichnung": "Bründlweg",
+        "id": 99973,
+        "strassenbezeichnung": "Bründlweg"
+    },
+    {
+        "kurzbezeichnung": "W. Fachmarktzentrum",
+        "id": 100411,
+        "strassenbezeichnung": "Walbersdorf Fachmarktzentrum"
+    },
+    {
+        "kurzbezeichnung": "Rot Kreuz-Platz",
+        "id": 102045,
+        "strassenbezeichnung": "Rot Kreuz-Platz"
+    },
+    {
+        "kurzbezeichnung": "Theodor Körner-Straße",
+        "id": 103387,
+        "strassenbezeichnung": "Theodor Körner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Friedensgasse",
+        "id": 106954,
+        "strassenbezeichnung": "Friedensgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlgraben",
+        "id": 109765,
+        "strassenbezeichnung": "Mühlgraben"
+    },
+    {
+        "kurzbezeichnung": "Dr. Bruno Kreisky-Str.",
+        "id": 110249,
+        "strassenbezeichnung": "Dr. Bruno Kreisky-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hintergartenweg",
+        "id": 110250,
+        "strassenbezeichnung": "Hintergartenweg"
+    },
+    {
+        "kurzbezeichnung": "Walbersd. Ziegelofeng.",
+        "id": 110401,
+        "strassenbezeichnung": "Walbersdorf Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Josef Klaus-Gasse",
+        "id": 110798,
+        "strassenbezeichnung": "Dr. Josef Klaus-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Kirchschläger-Str.",
+        "id": 110799,
+        "strassenbezeichnung": "Dr. Rudolf Kirchschläger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz Jonas-Straße",
+        "id": 110800,
+        "strassenbezeichnung": "Franz Jonas-Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz Stocker-Gasse",
+        "id": 110801,
+        "strassenbezeichnung": "Franz Stocker-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Ing. Julius Raab-Str.",
+        "id": 110802,
+        "strassenbezeichnung": "Ing. Julius Raab-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mörzgasse",
+        "id": 110803,
+        "strassenbezeichnung": "Mörzgasse"
+    },
+    {
+        "kurzbezeichnung": "W. Kirchäckergasse",
+        "id": 110804,
+        "strassenbezeichnung": "Walbersdorf Kirchäckergasse"
+    },
+    {
+        "kurzbezeichnung": "DDr. Stefan Laszlo-G.",
+        "id": 113299,
+        "strassenbezeichnung": "DDr. Stefan Laszlo-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Anton Steiger-Gasse",
+        "id": 114267,
+        "strassenbezeichnung": "Anton Steiger-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Hans Paul-Gasse",
+        "id": 114268,
+        "strassenbezeichnung": "Dr. Hans Paul-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Josef Meidl-Weg",
+        "id": 114269,
+        "strassenbezeichnung": "Josef Meidl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Arenaplatz",
+        "id": 114270,
+        "strassenbezeichnung": "Walbersdorf Arenaplatz"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Wulkablick",
+        "id": 117370,
+        "strassenbezeichnung": "Walbersdorf Wulkablick"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Druckweg",
+        "id": 117371,
+        "strassenbezeichnung": "Walbersdorf Druckweg"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Am Anger",
+        "id": 119148,
+        "strassenbezeichnung": "Walbersdorf Am Anger"
+    },
+    {
+        "kurzbezeichnung": "W.Anton Schreiner-Gasse",
+        "id": 120752,
+        "strassenbezeichnung": "Walbersdorf Anton Schreiner-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Walbersdorf Koglweg",
+        "id": 125829,
+        "strassenbezeichnung": "Walbersdorf Koglweg"
+    }
+]

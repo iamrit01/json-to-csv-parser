@@ -1,0 +1,747 @@
+[
+    {
+        "kurzbezeichnung": "Flößerweg",
+        "id": -32612,
+        "strassenbezeichnung": "Flößerweg"
+    },
+    {
+        "kurzbezeichnung": "Solsteinhaus",
+        "id": -32559,
+        "strassenbezeichnung": "Solsteinhaus"
+    },
+    {
+        "kurzbezeichnung": "Europastraße",
+        "id": -32435,
+        "strassenbezeichnung": "Europastraße"
+    },
+    {
+        "kurzbezeichnung": "Enterbachweg",
+        "id": -32220,
+        "strassenbezeichnung": "Enterbachweg"
+    },
+    {
+        "kurzbezeichnung": "Giessenweg",
+        "id": -32213,
+        "strassenbezeichnung": "Gießenweg"
+    },
+    {
+        "kurzbezeichnung": "Neuraut",
+        "id": -32172,
+        "strassenbezeichnung": "Neuraut"
+    },
+    {
+        "kurzbezeichnung": "Brunnental",
+        "id": -30474,
+        "strassenbezeichnung": "Brunnental"
+    },
+    {
+        "kurzbezeichnung": "Kalkofenweg",
+        "id": -30387,
+        "strassenbezeichnung": "Kalkofenweg"
+    },
+    {
+        "kurzbezeichnung": "Toblaten",
+        "id": -15819,
+        "strassenbezeichnung": "Toblaten"
+    },
+    {
+        "kurzbezeichnung": "Angerweg",
+        "id": 40081,
+        "strassenbezeichnung": "Angerweg"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 40082,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Blasius-Hueber-Weg",
+        "id": 40083,
+        "strassenbezeichnung": "Blasius-Hueber-Weg"
+    },
+    {
+        "kurzbezeichnung": "Brechtenweg",
+        "id": 40084,
+        "strassenbezeichnung": "Brechtenweg"
+    },
+    {
+        "kurzbezeichnung": "Buchweg",
+        "id": 40085,
+        "strassenbezeichnung": "Buchweg"
+    },
+    {
+        "kurzbezeichnung": "Hans-Adler-Weg",
+        "id": 40087,
+        "strassenbezeichnung": "Hans-Adler-Weg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 40089,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hilberweg",
+        "id": 40090,
+        "strassenbezeichnung": "Hilberweg"
+    },
+    {
+        "kurzbezeichnung": "Hube",
+        "id": 40092,
+        "strassenbezeichnung": "Hube"
+    },
+    {
+        "kurzbezeichnung": "Jägerweg",
+        "id": 40094,
+        "strassenbezeichnung": "Jägerweg"
+    },
+    {
+        "kurzbezeichnung": "Jörg-Kölderer-Weg",
+        "id": 40095,
+        "strassenbezeichnung": "Jörg-Kölderer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Kirchgasse",
+        "id": 40096,
+        "strassenbezeichnung": "Kirchgasse"
+    },
+    {
+        "kurzbezeichnung": "Klotzweg",
+        "id": 40097,
+        "strassenbezeichnung": "Klotzweg"
+    },
+    {
+        "kurzbezeichnung": "Kohlstatt",
+        "id": 40098,
+        "strassenbezeichnung": "Kohlstatt"
+    },
+    {
+        "kurzbezeichnung": "Krippenweg",
+        "id": 40099,
+        "strassenbezeichnung": "Krippenweg"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 40101,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Mühlweg",
+        "id": 40102,
+        "strassenbezeichnung": "Mühlweg"
+    },
+    {
+        "kurzbezeichnung": "Peter-Anich-Weg",
+        "id": 40105,
+        "strassenbezeichnung": "Peter-Anich-Weg"
+    },
+    {
+        "kurzbezeichnung": "Prantlweg",
+        "id": 40106,
+        "strassenbezeichnung": "Prantlweg"
+    },
+    {
+        "kurzbezeichnung": "Ranggergasse",
+        "id": 40108,
+        "strassenbezeichnung": "Ranggergasse"
+    },
+    {
+        "kurzbezeichnung": "Rauthweg",
+        "id": 40109,
+        "strassenbezeichnung": "Rauthweg"
+    },
+    {
+        "kurzbezeichnung": "Riedweg",
+        "id": 40110,
+        "strassenbezeichnung": "Riedweg"
+    },
+    {
+        "kurzbezeichnung": "Salzstraße",
+        "id": 40111,
+        "strassenbezeichnung": "Salzstraße"
+    },
+    {
+        "kurzbezeichnung": "Samweg",
+        "id": 40112,
+        "strassenbezeichnung": "Samweg"
+    },
+    {
+        "kurzbezeichnung": "Schießstand",
+        "id": 40113,
+        "strassenbezeichnung": "Schießstand"
+    },
+    {
+        "kurzbezeichnung": "Schretterweg",
+        "id": 40115,
+        "strassenbezeichnung": "Schretterweg"
+    },
+    {
+        "kurzbezeichnung": "Toblatnerweg",
+        "id": 40119,
+        "strassenbezeichnung": "Toblatnerweg"
+    },
+    {
+        "kurzbezeichnung": "Vinzenz-Gasser-Weg",
+        "id": 40121,
+        "strassenbezeichnung": "Vinzenz-Gasser-Weg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelstraße",
+        "id": 40123,
+        "strassenbezeichnung": "Ziegelstraße"
+    },
+    {
+        "kurzbezeichnung": "Äueleweg",
+        "id": 40756,
+        "strassenbezeichnung": "Äueleweg"
+    },
+    {
+        "kurzbezeichnung": "Am Anger",
+        "id": 40757,
+        "strassenbezeichnung": "Am Anger"
+    },
+    {
+        "kurzbezeichnung": "Am Wackerrain",
+        "id": 40758,
+        "strassenbezeichnung": "Am Wackerrain"
+    },
+    {
+        "kurzbezeichnung": "Am Weingarten",
+        "id": 40759,
+        "strassenbezeichnung": "Am Weingarten"
+    },
+    {
+        "kurzbezeichnung": "Auergasse",
+        "id": 40760,
+        "strassenbezeichnung": "Auergasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhof Umgebung",
+        "id": 40761,
+        "strassenbezeichnung": "Bahnhof Umgebung"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 40762,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bühelstraße",
+        "id": 40764,
+        "strassenbezeichnung": "Bühelstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 40767,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Purtscheller-Str.",
+        "id": 40768,
+        "strassenbezeichnung": "Dr.-Purtscheller-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ehnbachfeldweg",
+        "id": 40769,
+        "strassenbezeichnung": "Ehnbachfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 40773,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Florianstraße",
+        "id": 40774,
+        "strassenbezeichnung": "Florianstraße"
+    },
+    {
+        "kurzbezeichnung": "Fragensteinweg",
+        "id": 40775,
+        "strassenbezeichnung": "Fragensteinweg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Gastl-Weg",
+        "id": 40776,
+        "strassenbezeichnung": "Franz-Gastl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Plattner-Straße",
+        "id": 40777,
+        "strassenbezeichnung": "Franz-Plattner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Geistbühelweg",
+        "id": 40778,
+        "strassenbezeichnung": "Geistbühelweg"
+    },
+    {
+        "kurzbezeichnung": "Hechenbergweg",
+        "id": 40779,
+        "strassenbezeichnung": "Hechenbergweg"
+    },
+    {
+        "kurzbezeichnung": "Innweg",
+        "id": 40781,
+        "strassenbezeichnung": "Innweg"
+    },
+    {
+        "kurzbezeichnung": "Kaiser-Max-Straße",
+        "id": 40782,
+        "strassenbezeichnung": "Kaiser-Max-Straße"
+    },
+    {
+        "kurzbezeichnung": "Kalvarienbergstraße",
+        "id": 40783,
+        "strassenbezeichnung": "Kalvarienbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Karwendelweg",
+        "id": 40784,
+        "strassenbezeichnung": "Karwendelweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchfeldstraße",
+        "id": 40786,
+        "strassenbezeichnung": "Kirchfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchstraße",
+        "id": 40787,
+        "strassenbezeichnung": "Kirchstraße"
+    },
+    {
+        "kurzbezeichnung": "Klammweg",
+        "id": 40788,
+        "strassenbezeichnung": "Klammweg"
+    },
+    {
+        "kurzbezeichnung": "Krippenweg",
+        "id": 40789,
+        "strassenbezeichnung": "Krippenweg"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 40790,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Martinswandweg",
+        "id": 40793,
+        "strassenbezeichnung": "Martinswandweg"
+    },
+    {
+        "kurzbezeichnung": "Meilbrunnen",
+        "id": 40794,
+        "strassenbezeichnung": "Meilbrunnen"
+    },
+    {
+        "kurzbezeichnung": "Meilstraße",
+        "id": 40795,
+        "strassenbezeichnung": "Meilstraße"
+    },
+    {
+        "kurzbezeichnung": "Morigglgasse",
+        "id": 40796,
+        "strassenbezeichnung": "Morigglgasse"
+    },
+    {
+        "kurzbezeichnung": "Mühlfeldweg",
+        "id": 40797,
+        "strassenbezeichnung": "Mühlfeldweg"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 40798,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Oberes Estrichfeld",
+        "id": 40799,
+        "strassenbezeichnung": "Oberes Estrichfeld"
+    },
+    {
+        "kurzbezeichnung": "Russhütte",
+        "id": 40800,
+        "strassenbezeichnung": "Russhütte"
+    },
+    {
+        "kurzbezeichnung": "Salzstraße",
+        "id": 40801,
+        "strassenbezeichnung": "Salzstraße"
+    },
+    {
+        "kurzbezeichnung": "Schöngasse",
+        "id": 40802,
+        "strassenbezeichnung": "Schöngasse"
+    },
+    {
+        "kurzbezeichnung": "Schützenweg",
+        "id": 40803,
+        "strassenbezeichnung": "Schützenweg"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 40804,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Schwabstraße",
+        "id": 40805,
+        "strassenbezeichnung": "Schwabstraße"
+    },
+    {
+        "kurzbezeichnung": "Solsteinstraße",
+        "id": 40807,
+        "strassenbezeichnung": "Solsteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Sonnenstraße",
+        "id": 40808,
+        "strassenbezeichnung": "Sonnenstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 40809,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Weinbergweg",
+        "id": 40810,
+        "strassenbezeichnung": "Weinbergweg"
+    },
+    {
+        "kurzbezeichnung": "Wetterkreuzweg",
+        "id": 40811,
+        "strassenbezeichnung": "Wetterkreuzweg"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 40812,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Zirlerberg",
+        "id": 40814,
+        "strassenbezeichnung": "Zirlerberg"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 52462,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Hans-Steiner-Weg",
+        "id": 52465,
+        "strassenbezeichnung": "Hans-Steiner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Weidach",
+        "id": 52466,
+        "strassenbezeichnung": "Weidach"
+    },
+    {
+        "kurzbezeichnung": "Wiesenweg",
+        "id": 54383,
+        "strassenbezeichnung": "Wiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Dirschenbach",
+        "id": 56005,
+        "strassenbezeichnung": "Dirschenbach"
+    },
+    {
+        "kurzbezeichnung": "Eigenhofen",
+        "id": 56006,
+        "strassenbezeichnung": "Eigenhofen"
+    },
+    {
+        "kurzbezeichnung": "Wörth",
+        "id": 56007,
+        "strassenbezeichnung": "Wörth"
+    },
+    {
+        "kurzbezeichnung": "Brunntal",
+        "id": 56008,
+        "strassenbezeichnung": "Brunntal"
+    },
+    {
+        "kurzbezeichnung": "Christenalm",
+        "id": 56009,
+        "strassenbezeichnung": "Christenalm"
+    },
+    {
+        "kurzbezeichnung": "Eppzirlalm",
+        "id": 56010,
+        "strassenbezeichnung": "Eppzirlalm"
+    },
+    {
+        "kurzbezeichnung": "Erlalm",
+        "id": 56011,
+        "strassenbezeichnung": "Erlalm"
+    },
+    {
+        "kurzbezeichnung": "Garbersalm",
+        "id": 56012,
+        "strassenbezeichnung": "Garbersalm"
+    },
+    {
+        "kurzbezeichnung": "Hochzirl",
+        "id": 56013,
+        "strassenbezeichnung": "Hochzirl"
+    },
+    {
+        "kurzbezeichnung": "Kirchbergalm",
+        "id": 56014,
+        "strassenbezeichnung": "Kirchbergalm"
+    },
+    {
+        "kurzbezeichnung": "Martinsberg",
+        "id": 56015,
+        "strassenbezeichnung": "Martinsberg"
+    },
+    {
+        "kurzbezeichnung": "Martinsbühel",
+        "id": 56016,
+        "strassenbezeichnung": "Martinsbühel"
+    },
+    {
+        "kurzbezeichnung": "Solnalm",
+        "id": 56017,
+        "strassenbezeichnung": "Solnalm"
+    },
+    {
+        "kurzbezeichnung": "Zirmalm",
+        "id": 56018,
+        "strassenbezeichnung": "Zirmalm"
+    },
+    {
+        "kurzbezeichnung": "Kaiserjägerstraße",
+        "id": 59403,
+        "strassenbezeichnung": "Kaiserjägerstraße"
+    },
+    {
+        "kurzbezeichnung": "Wenzel-Skop-Weg",
+        "id": 59404,
+        "strassenbezeichnung": "Wenzel-Skop-Weg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzweg",
+        "id": 66586,
+        "strassenbezeichnung": "Sportplatzweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Gustav-Markt-Weg",
+        "id": 66587,
+        "strassenbezeichnung": "Dr.-Gustav-Markt-Weg"
+    },
+    {
+        "kurzbezeichnung": "Schöllerweg",
+        "id": 66588,
+        "strassenbezeichnung": "Schöllerweg"
+    },
+    {
+        "kurzbezeichnung": "Schindeltal",
+        "id": 66591,
+        "strassenbezeichnung": "Schindeltal"
+    },
+    {
+        "kurzbezeichnung": "Gigglberg",
+        "id": 66592,
+        "strassenbezeichnung": "Gigglberg"
+    },
+    {
+        "kurzbezeichnung": "Gaisauweg",
+        "id": 66593,
+        "strassenbezeichnung": "Gaisauweg"
+    },
+    {
+        "kurzbezeichnung": "Weineckstraße",
+        "id": 66668,
+        "strassenbezeichnung": "Weineckstraße"
+    },
+    {
+        "kurzbezeichnung": "Schleifmühl",
+        "id": 67359,
+        "strassenbezeichnung": "Schleifmühl"
+    },
+    {
+        "kurzbezeichnung": "Burgweg",
+        "id": 71402,
+        "strassenbezeichnung": "Burgweg"
+    },
+    {
+        "kurzbezeichnung": "Schwimmbadweg",
+        "id": 72823,
+        "strassenbezeichnung": "Schwimmbadweg"
+    },
+    {
+        "kurzbezeichnung": "Schießstandweg",
+        "id": 75034,
+        "strassenbezeichnung": "Schießstandweg"
+    },
+    {
+        "kurzbezeichnung": "Eben",
+        "id": 89738,
+        "strassenbezeichnung": "Eben"
+    },
+    {
+        "kurzbezeichnung": "Hof",
+        "id": 89739,
+        "strassenbezeichnung": "Hof"
+    },
+    {
+        "kurzbezeichnung": "Toblaten",
+        "id": 89740,
+        "strassenbezeichnung": "Toblaten"
+    },
+    {
+        "kurzbezeichnung": "Johann-Paul-Gruber-Weg",
+        "id": 93967,
+        "strassenbezeichnung": "Johann-Paul-Gruber-Weg"
+    },
+    {
+        "kurzbezeichnung": "Galtererweg",
+        "id": 94493,
+        "strassenbezeichnung": "Galtererweg"
+    },
+    {
+        "kurzbezeichnung": "Kaiserstandweg",
+        "id": 94494,
+        "strassenbezeichnung": "Kaiserstandweg"
+    },
+    {
+        "kurzbezeichnung": "Xanderweg",
+        "id": 96277,
+        "strassenbezeichnung": "Xanderweg"
+    },
+    {
+        "kurzbezeichnung": "Plätzweg",
+        "id": 96278,
+        "strassenbezeichnung": "Plätzweg"
+    },
+    {
+        "kurzbezeichnung": "Teriolisweg",
+        "id": 96279,
+        "strassenbezeichnung": "Teriolisweg"
+    },
+    {
+        "kurzbezeichnung": "Brunnerweg",
+        "id": 96854,
+        "strassenbezeichnung": "Brunnerweg"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Kaserer-Weg",
+        "id": 96855,
+        "strassenbezeichnung": "Dr.-Kaserer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Esther-Reier-Weg",
+        "id": 96856,
+        "strassenbezeichnung": "Esther-Reier-Weg"
+    },
+    {
+        "kurzbezeichnung": "Franz-Seelos-Weg",
+        "id": 96857,
+        "strassenbezeichnung": "Franz-Seelos-Weg"
+    },
+    {
+        "kurzbezeichnung": "Glentweg",
+        "id": 96858,
+        "strassenbezeichnung": "Glentweg"
+    },
+    {
+        "kurzbezeichnung": "Goasserweg",
+        "id": 96859,
+        "strassenbezeichnung": "Goasserweg"
+    },
+    {
+        "kurzbezeichnung": "Kreuzbachweg",
+        "id": 96861,
+        "strassenbezeichnung": "Kreuzbachweg"
+    },
+    {
+        "kurzbezeichnung": "Krömerweg",
+        "id": 96862,
+        "strassenbezeichnung": "Krömerweg"
+    },
+    {
+        "kurzbezeichnung": "Kurat-Schranz-Weg",
+        "id": 96863,
+        "strassenbezeichnung": "Kurat-Schranz-Weg"
+    },
+    {
+        "kurzbezeichnung": "Lisa-Scholl-Weg",
+        "id": 96864,
+        "strassenbezeichnung": "Lisa-Scholl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Sailerweg",
+        "id": 96866,
+        "strassenbezeichnung": "Sailerweg"
+    },
+    {
+        "kurzbezeichnung": "Schaferweg",
+        "id": 96867,
+        "strassenbezeichnung": "Schaferweg"
+    },
+    {
+        "kurzbezeichnung": "Sylvanerweg",
+        "id": 96868,
+        "strassenbezeichnung": "Sylvanerweg"
+    },
+    {
+        "kurzbezeichnung": "T.-Tiefenbrunner-W.",
+        "id": 96869,
+        "strassenbezeichnung": "Thomas-Tiefenbrunner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Berger-Äcker",
+        "id": 98626,
+        "strassenbezeichnung": "Berger-Äcker"
+    },
+    {
+        "kurzbezeichnung": "Freiungweg",
+        "id": 98627,
+        "strassenbezeichnung": "Freiungweg"
+    },
+    {
+        "kurzbezeichnung": "Inzinger Alm",
+        "id": 100803,
+        "strassenbezeichnung": "Inzinger Alm"
+    },
+    {
+        "kurzbezeichnung": "Moosscheibe",
+        "id": 101063,
+        "strassenbezeichnung": "Moosscheibe"
+    },
+    {
+        "kurzbezeichnung": "Dornachweg",
+        "id": 101960,
+        "strassenbezeichnung": "Dornachweg"
+    },
+    {
+        "kurzbezeichnung": "Dir.-Prantl-Straße",
+        "id": 101961,
+        "strassenbezeichnung": "Dir.-Prantl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Ranggerweg",
+        "id": 105855,
+        "strassenbezeichnung": "Ranggerweg"
+    },
+    {
+        "kurzbezeichnung": "Mühltal",
+        "id": 109574,
+        "strassenbezeichnung": "Mühltal"
+    },
+    {
+        "kurzbezeichnung": "Gießenweg",
+        "id": 114758,
+        "strassenbezeichnung": "Gießenweg"
+    },
+    {
+        "kurzbezeichnung": "Europastraße",
+        "id": 118721,
+        "strassenbezeichnung": "Europastraße"
+    }
+]

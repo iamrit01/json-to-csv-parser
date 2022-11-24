@@ -1,0 +1,337 @@
+[
+    {
+        "kurzbezeichnung": "Rottersdorfer Straße",
+        "id": -30588,
+        "strassenbezeichnung": "Rottersdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Zehentgasse",
+        "id": -13141,
+        "strassenbezeichnung": "Zehentgasse"
+    },
+    {
+        "kurzbezeichnung": "Fugging",
+        "id": 80566,
+        "strassenbezeichnung": "Fugging"
+    },
+    {
+        "kurzbezeichnung": "Absdorf",
+        "id": 80661,
+        "strassenbezeichnung": "Absdorf"
+    },
+    {
+        "kurzbezeichnung": "Kuffern",
+        "id": 80662,
+        "strassenbezeichnung": "Kuffern"
+    },
+    {
+        "kurzbezeichnung": "Rottersdorf",
+        "id": 80663,
+        "strassenbezeichnung": "Rottersdorf"
+    },
+    {
+        "kurzbezeichnung": "Statzendorf",
+        "id": 80664,
+        "strassenbezeichnung": "Statzendorf"
+    },
+    {
+        "kurzbezeichnung": "Weidling",
+        "id": 80665,
+        "strassenbezeichnung": "Weidling"
+    },
+    {
+        "kurzbezeichnung": "Anzenhof",
+        "id": 80715,
+        "strassenbezeichnung": "Anzenhof"
+    },
+    {
+        "kurzbezeichnung": "Noppendorf",
+        "id": 80718,
+        "strassenbezeichnung": "Noppendorf"
+    },
+    {
+        "kurzbezeichnung": "Bergerlgasse",
+        "id": 120629,
+        "strassenbezeichnung": "Bergerlgasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 120630,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Dorfgasse",
+        "id": 120631,
+        "strassenbezeichnung": "Dorfgasse"
+    },
+    {
+        "kurzbezeichnung": "Kufferner Kellergasse",
+        "id": 120632,
+        "strassenbezeichnung": "Kufferner Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "St. Pöltner Straße",
+        "id": 120661,
+        "strassenbezeichnung": "St. Pöltner Straße"
+    },
+    {
+        "kurzbezeichnung": "Flurgasse",
+        "id": 120662,
+        "strassenbezeichnung": "Flurgasse"
+    },
+    {
+        "kurzbezeichnung": "Ederdinger Straße",
+        "id": 120666,
+        "strassenbezeichnung": "Ederdinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Untere Ortsstraße",
+        "id": 120667,
+        "strassenbezeichnung": "Untere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Fugginger Straße",
+        "id": 120668,
+        "strassenbezeichnung": "Fugginger Straße"
+    },
+    {
+        "kurzbezeichnung": "Alte Ortsstraße",
+        "id": 120679,
+        "strassenbezeichnung": "Alte Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 120680,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfstraße",
+        "id": 120681,
+        "strassenbezeichnung": "Dorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Obere Ortsstraße",
+        "id": 120682,
+        "strassenbezeichnung": "Obere Ortsstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßgasse",
+        "id": 120688,
+        "strassenbezeichnung": "Schlossgasse"
+    },
+    {
+        "kurzbezeichnung": "Vorstadt",
+        "id": 120689,
+        "strassenbezeichnung": "Vorstadt"
+    },
+    {
+        "kurzbezeichnung": "Pointweg",
+        "id": 120690,
+        "strassenbezeichnung": "Pointweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 120691,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Steinriedweg",
+        "id": 120692,
+        "strassenbezeichnung": "Steinriedweg"
+    },
+    {
+        "kurzbezeichnung": "Ziegelweg",
+        "id": 120693,
+        "strassenbezeichnung": "Ziegelweg"
+    },
+    {
+        "kurzbezeichnung": "Barbaraweg",
+        "id": 120694,
+        "strassenbezeichnung": "Barbaraweg"
+    },
+    {
+        "kurzbezeichnung": "Meierhofstraße",
+        "id": 120695,
+        "strassenbezeichnung": "Meierhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Koloniestraße",
+        "id": 120696,
+        "strassenbezeichnung": "Koloniestraße"
+    },
+    {
+        "kurzbezeichnung": "Am Bahndamm",
+        "id": 120697,
+        "strassenbezeichnung": "Am Bahndamm"
+    },
+    {
+        "kurzbezeichnung": "Am Krautgarten",
+        "id": 120698,
+        "strassenbezeichnung": "Am Krautgarten"
+    },
+    {
+        "kurzbezeichnung": "Am Schauerberg",
+        "id": 120699,
+        "strassenbezeichnung": "Am Schauerberg"
+    },
+    {
+        "kurzbezeichnung": "Am Spielplatz",
+        "id": 120700,
+        "strassenbezeichnung": "Am Spielplatz"
+    },
+    {
+        "kurzbezeichnung": "Am Spitz",
+        "id": 120701,
+        "strassenbezeichnung": "Am Spitz"
+    },
+    {
+        "kurzbezeichnung": "Am Sportplatz",
+        "id": 120702,
+        "strassenbezeichnung": "Am Sportplatz"
+    },
+    {
+        "kurzbezeichnung": "An der Schottergrube",
+        "id": 120703,
+        "strassenbezeichnung": "An der Schottergrube"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 120704,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofsiedlung",
+        "id": 120705,
+        "strassenbezeichnung": "Bahnhofsiedlung"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 120706,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Bergmannsweg",
+        "id": 120707,
+        "strassenbezeichnung": "Bergmannsweg"
+    },
+    {
+        "kurzbezeichnung": "Birkengasse",
+        "id": 120708,
+        "strassenbezeichnung": "Birkengasse"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 120709,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Edlweg",
+        "id": 120710,
+        "strassenbezeichnung": "Edlweg"
+    },
+    {
+        "kurzbezeichnung": "Feldbahnstraße",
+        "id": 120711,
+        "strassenbezeichnung": "Feldbahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Fladnitzweg",
+        "id": 120712,
+        "strassenbezeichnung": "Fladnitzweg"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": 120713,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Flurweg",
+        "id": 120714,
+        "strassenbezeichnung": "Flurweg"
+    },
+    {
+        "kurzbezeichnung": "Friedhofweg",
+        "id": 120715,
+        "strassenbezeichnung": "Friedhofweg"
+    },
+    {
+        "kurzbezeichnung": "Gartensiedlung",
+        "id": 120716,
+        "strassenbezeichnung": "Gartensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 120717,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Helenengasse",
+        "id": 120718,
+        "strassenbezeichnung": "Helenengasse"
+    },
+    {
+        "kurzbezeichnung": "Herzogenburger Straße",
+        "id": 120719,
+        "strassenbezeichnung": "Herzogenburger Straße"
+    },
+    {
+        "kurzbezeichnung": "Kellergasse",
+        "id": 120720,
+        "strassenbezeichnung": "Kellergasse"
+    },
+    {
+        "kurzbezeichnung": "Kellerstraße",
+        "id": 120721,
+        "strassenbezeichnung": "Kellerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kölblinggasse",
+        "id": 120722,
+        "strassenbezeichnung": "Kölblinggasse"
+    },
+    {
+        "kurzbezeichnung": "Kremser Straße",
+        "id": 120723,
+        "strassenbezeichnung": "Kremser Straße"
+    },
+    {
+        "kurzbezeichnung": "Kufferner Straße",
+        "id": 120724,
+        "strassenbezeichnung": "Kufferner Straße"
+    },
+    {
+        "kurzbezeichnung": "Neue Siedlung",
+        "id": 120725,
+        "strassenbezeichnung": "Neue Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Sandwerkgasse",
+        "id": 120726,
+        "strassenbezeichnung": "Sandwerkgasse"
+    },
+    {
+        "kurzbezeichnung": "Situlastraße",
+        "id": 120727,
+        "strassenbezeichnung": "Situlastraße"
+    },
+    {
+        "kurzbezeichnung": "Steinbrotweg",
+        "id": 120728,
+        "strassenbezeichnung": "Steinbrotweg"
+    },
+    {
+        "kurzbezeichnung": "Werksstraße",
+        "id": 120729,
+        "strassenbezeichnung": "Werksstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiesengasse",
+        "id": 120730,
+        "strassenbezeichnung": "Wiesengasse"
+    },
+    {
+        "kurzbezeichnung": "Siedlungsring",
+        "id": 125848,
+        "strassenbezeichnung": "Siedlungsring"
+    }
+]

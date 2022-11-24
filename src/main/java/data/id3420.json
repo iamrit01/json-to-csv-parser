@@ -1,0 +1,762 @@
+[
+    {
+        "kurzbezeichnung": "Strombad Tannenweg",
+        "id": -17258,
+        "strassenbezeichnung": "Strombad Tannenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Eberweg",
+        "id": -17257,
+        "strassenbezeichnung": "Strombad Eberweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Ulmenweg",
+        "id": -17170,
+        "strassenbezeichnung": "Strombad Ulmenweg"
+    },
+    {
+        "kurzbezeichnung": "Altenhofgasse",
+        "id": 22256,
+        "strassenbezeichnung": "Altenhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Am Durchstich",
+        "id": 22259,
+        "strassenbezeichnung": "Am Durchstich"
+    },
+    {
+        "kurzbezeichnung": "Am Silbersee",
+        "id": 22267,
+        "strassenbezeichnung": "Am Silbersee"
+    },
+    {
+        "kurzbezeichnung": "Auweg",
+        "id": 22280,
+        "strassenbezeichnung": "Auweg"
+    },
+    {
+        "kurzbezeichnung": "Badgasse",
+        "id": 22285,
+        "strassenbezeichnung": "Badgasse"
+    },
+    {
+        "kurzbezeichnung": "Bäckergasse",
+        "id": 22286,
+        "strassenbezeichnung": "Bäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Bahngasse",
+        "id": 22289,
+        "strassenbezeichnung": "Bahngasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofplatz",
+        "id": 22290,
+        "strassenbezeichnung": "Bahnhofplatz"
+    },
+    {
+        "kurzbezeichnung": "Bahnstrecke",
+        "id": 22292,
+        "strassenbezeichnung": "Bahnstrecke"
+    },
+    {
+        "kurzbezeichnung": "Bahnweg",
+        "id": 22295,
+        "strassenbezeichnung": "Bahnweg"
+    },
+    {
+        "kurzbezeichnung": "Beethovengasse",
+        "id": 22296,
+        "strassenbezeichnung": "Beethovengasse"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 22301,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Brahmsgasse",
+        "id": 22305,
+        "strassenbezeichnung": "Brahmsgasse"
+    },
+    {
+        "kurzbezeichnung": "Bremengasse",
+        "id": 22307,
+        "strassenbezeichnung": "Bremengasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. A. Weißenbäck-G.",
+        "id": 22332,
+        "strassenbezeichnung": "Dr. Andreas Weißenbäck-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Durchstichstraße",
+        "id": 22338,
+        "strassenbezeichnung": "Durchstichstraße"
+    },
+    {
+        "kurzbezeichnung": "Egon Schiele-Gasse",
+        "id": 22339,
+        "strassenbezeichnung": "Egon Schiele-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 22354,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Flexleitengasse",
+        "id": 22360,
+        "strassenbezeichnung": "Flexleitengasse"
+    },
+    {
+        "kurzbezeichnung": "Franz Schubert-Gasse",
+        "id": 22367,
+        "strassenbezeichnung": "Franz Schubert-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Freiberggasse",
+        "id": 22369,
+        "strassenbezeichnung": "Freiberggasse"
+    },
+    {
+        "kurzbezeichnung": "Fuchsgasse",
+        "id": 22376,
+        "strassenbezeichnung": "Fuchsgasse"
+    },
+    {
+        "kurzbezeichnung": "Weißer Hof",
+        "id": 22392,
+        "strassenbezeichnung": "Weißer Hof"
+    },
+    {
+        "kurzbezeichnung": "Hadergasse",
+        "id": 22393,
+        "strassenbezeichnung": "Hadergasse"
+    },
+    {
+        "kurzbezeichnung": "Hadersfelder Straße",
+        "id": 22394,
+        "strassenbezeichnung": "Hadersfelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Hartlweg",
+        "id": 22401,
+        "strassenbezeichnung": "Hartlweg"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 22412,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Haydngasse",
+        "id": 22415,
+        "strassenbezeichnung": "Haydngasse"
+    },
+    {
+        "kurzbezeichnung": "Herminengasse",
+        "id": 22423,
+        "strassenbezeichnung": "Herminengasse"
+    },
+    {
+        "kurzbezeichnung": "Herzogenburger Gasse",
+        "id": 22425,
+        "strassenbezeichnung": "Herzogenburger Gasse"
+    },
+    {
+        "kurzbezeichnung": "Heuweg",
+        "id": 22426,
+        "strassenbezeichnung": "Heuweg"
+    },
+    {
+        "kurzbezeichnung": "Hirschengasse",
+        "id": 22432,
+        "strassenbezeichnung": "Hirschengasse"
+    },
+    {
+        "kurzbezeichnung": "Hirschensteig",
+        "id": 22433,
+        "strassenbezeichnung": "Hirschensteig"
+    },
+    {
+        "kurzbezeichnung": "Hoheneggersteig",
+        "id": 22440,
+        "strassenbezeichnung": "Hoheneggersteig"
+    },
+    {
+        "kurzbezeichnung": "Holzgasse",
+        "id": 22443,
+        "strassenbezeichnung": "Holzgasse"
+    },
+    {
+        "kurzbezeichnung": "Hubergasse",
+        "id": 22445,
+        "strassenbezeichnung": "Hubergasse"
+    },
+    {
+        "kurzbezeichnung": "Keppergasse",
+        "id": 22470,
+        "strassenbezeichnung": "Keppergasse"
+    },
+    {
+        "kurzbezeichnung": "Kierlinger Gasse",
+        "id": 22472,
+        "strassenbezeichnung": "Kierlinger Gasse"
+    },
+    {
+        "kurzbezeichnung": "Klinggasse",
+        "id": 22480,
+        "strassenbezeichnung": "Klinggasse"
+    },
+    {
+        "kurzbezeichnung": "Ludwig Anzengruber-G.",
+        "id": 22492,
+        "strassenbezeichnung": "Ludwig Anzengruber-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Lauergasse",
+        "id": 22496,
+        "strassenbezeichnung": "Lauergasse"
+    },
+    {
+        "kurzbezeichnung": "Leander Köhler-Weg",
+        "id": 22497,
+        "strassenbezeichnung": "Leander Köhler-Weg"
+    },
+    {
+        "kurzbezeichnung": "Ludwig Jüngling-Gasse",
+        "id": 22508,
+        "strassenbezeichnung": "Ludwig Jüngling-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Max Frey-Gasse",
+        "id": 22519,
+        "strassenbezeichnung": "Max Frey-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Mittergasse",
+        "id": 22531,
+        "strassenbezeichnung": "Mittergasse"
+    },
+    {
+        "kurzbezeichnung": "Neudauerstraße",
+        "id": 22538,
+        "strassenbezeichnung": "Neudauerstraße"
+    },
+    {
+        "kurzbezeichnung": "Peter-Rosegger-Gasse",
+        "id": 22558,
+        "strassenbezeichnung": "Peter-Rosegger-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Pionierinsel",
+        "id": 22560,
+        "strassenbezeichnung": "Pionierinsel"
+    },
+    {
+        "kurzbezeichnung": "Goldfuchsgasse",
+        "id": 22574,
+        "strassenbezeichnung": "Goldfuchsgasse"
+    },
+    {
+        "kurzbezeichnung": "Schelhammergasse",
+        "id": 22595,
+        "strassenbezeichnung": "Schelhammergasse"
+    },
+    {
+        "kurzbezeichnung": "Schladgasse",
+        "id": 22599,
+        "strassenbezeichnung": "Schladgasse"
+    },
+    {
+        "kurzbezeichnung": "Schrebergartenweg",
+        "id": 22604,
+        "strassenbezeichnung": "Schrebergartenweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au",
+        "id": 22617,
+        "strassenbezeichnung": "Schwarze Au"
+    },
+    {
+        "kurzbezeichnung": "Sonnleiten",
+        "id": 22627,
+        "strassenbezeichnung": "Sonnleiten"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitengasse",
+        "id": 22628,
+        "strassenbezeichnung": "Sonnleitengasse"
+    },
+    {
+        "kurzbezeichnung": "Thomas Brunner-Weg",
+        "id": 22660,
+        "strassenbezeichnung": "Thomas Brunner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Töckergasse",
+        "id": 22661,
+        "strassenbezeichnung": "Töckergasse"
+    },
+    {
+        "kurzbezeichnung": "Unterer Silbersee",
+        "id": 22670,
+        "strassenbezeichnung": "Unterer Silbersee"
+    },
+    {
+        "kurzbezeichnung": "Weißenhofer Straße",
+        "id": 22690,
+        "strassenbezeichnung": "Weißenhofer Straße"
+    },
+    {
+        "kurzbezeichnung": "Ziegelofengasse",
+        "id": 22706,
+        "strassenbezeichnung": "Ziegelofengasse"
+    },
+    {
+        "kurzbezeichnung": "Zinnleiten",
+        "id": 22708,
+        "strassenbezeichnung": "Zinnleiten"
+    },
+    {
+        "kurzbezeichnung": "Altenhof",
+        "id": 49081,
+        "strassenbezeichnung": "Altenhof"
+    },
+    {
+        "kurzbezeichnung": "Martinsteg",
+        "id": 51722,
+        "strassenbezeichnung": "Martinsteg"
+    },
+    {
+        "kurzbezeichnung": "Preiseckergasse",
+        "id": 53202,
+        "strassenbezeichnung": "Preiseckergasse"
+    },
+    {
+        "kurzbezeichnung": "Strandbad Wohnkabine",
+        "id": 53207,
+        "strassenbezeichnung": "Strandbad Wohnkabine"
+    },
+    {
+        "kurzbezeichnung": "Zeinerngasse",
+        "id": 53209,
+        "strassenbezeichnung": "Zeinerngasse"
+    },
+    {
+        "kurzbezeichnung": "Johann Nagl-Gasse",
+        "id": 65009,
+        "strassenbezeichnung": "Johann Nagl-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Vitusplatz",
+        "id": 67910,
+        "strassenbezeichnung": "Vitusplatz"
+    },
+    {
+        "kurzbezeichnung": "Flexleiten",
+        "id": 92002,
+        "strassenbezeichnung": "Flexleiten"
+    },
+    {
+        "kurzbezeichnung": "Am unteren Silbersee",
+        "id": 93729,
+        "strassenbezeichnung": "Am unteren Silbersee"
+    },
+    {
+        "kurzbezeichnung": "Oberer Silbersee",
+        "id": 95657,
+        "strassenbezeichnung": "Oberer Silbersee"
+    },
+    {
+        "kurzbezeichnung": "Strombad Kiosk",
+        "id": 98914,
+        "strassenbezeichnung": "Strombad Kiosk"
+    },
+    {
+        "kurzbezeichnung": "Strombad Rondeau",
+        "id": 98915,
+        "strassenbezeichnung": "Strombad Rondeau"
+    },
+    {
+        "kurzbezeichnung": "Strombad Alte Badstr.",
+        "id": 98916,
+        "strassenbezeichnung": "Strombad Alte Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Strombad Am Sportplatz",
+        "id": 98917,
+        "strassenbezeichnung": "Strombad Am Sportplatz"
+    },
+    {
+        "kurzbezeichnung": "Strombad Am Strand",
+        "id": 98918,
+        "strassenbezeichnung": "Strombad Am Strand"
+    },
+    {
+        "kurzbezeichnung": "Strombad Austraße",
+        "id": 98919,
+        "strassenbezeichnung": "Strombad Austraße"
+    },
+    {
+        "kurzbezeichnung": "Strombad Birkenweg",
+        "id": 98920,
+        "strassenbezeichnung": "Strombad Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Brunnenweg",
+        "id": 98921,
+        "strassenbezeichnung": "Strombad Brunnenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Donaulände",
+        "id": 98922,
+        "strassenbezeichnung": "Strombad Donaulände"
+    },
+    {
+        "kurzbezeichnung": "Strombad Dreiföhrenpl.",
+        "id": 98923,
+        "strassenbezeichnung": "Strombad Dreiföhrenplatz"
+    },
+    {
+        "kurzbezeichnung": "Strombad Dreiföhrenweg",
+        "id": 98924,
+        "strassenbezeichnung": "Strombad Dreiföhrenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Dschungelweg",
+        "id": 98925,
+        "strassenbezeichnung": "Strombad Dschungelweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Erlenweg",
+        "id": 98926,
+        "strassenbezeichnung": "Strombad Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Finkenweg",
+        "id": 98928,
+        "strassenbezeichnung": "Strombad Finkenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Gartenlände",
+        "id": 98930,
+        "strassenbezeichnung": "Strombad Gartenlände"
+    },
+    {
+        "kurzbezeichnung": "Strombad Hasenweg",
+        "id": 98931,
+        "strassenbezeichnung": "Strombad Hasenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Hauptplatz",
+        "id": 98932,
+        "strassenbezeichnung": "Strombad Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Strombad Hüttenzeile",
+        "id": 98933,
+        "strassenbezeichnung": "Strombad Hüttenzeile"
+    },
+    {
+        "kurzbezeichnung": "Strombad Inselweg",
+        "id": 98934,
+        "strassenbezeichnung": "Strombad Inselweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Jägerzeile",
+        "id": 98935,
+        "strassenbezeichnung": "Strombad Jägerzeile"
+    },
+    {
+        "kurzbezeichnung": "Strombad Kabinenplatz",
+        "id": 98936,
+        "strassenbezeichnung": "Strombad Kabinenplatz"
+    },
+    {
+        "kurzbezeichnung": "Strombd.Klarlackenstr.",
+        "id": 98937,
+        "strassenbezeichnung": "Strombad Klarlackenstraße"
+    },
+    {
+        "kurzbezeichnung": "Strombad Klubstraße",
+        "id": 98938,
+        "strassenbezeichnung": "Strombad Klubstraße"
+    },
+    {
+        "kurzbezeichnung": "Strombad Krähenweg",
+        "id": 98939,
+        "strassenbezeichnung": "Strombad Krähenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Marschallweg",
+        "id": 98940,
+        "strassenbezeichnung": "Strombad Marschallweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Neue Badstr.",
+        "id": 98942,
+        "strassenbezeichnung": "Strombad Neue Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Strombad Neuer Weg",
+        "id": 98943,
+        "strassenbezeichnung": "Strombad Neuer Weg"
+    },
+    {
+        "kurzbezeichnung": "Stromb. O. Durchschlag",
+        "id": 98948,
+        "strassenbezeichnung": "Strombad Oberer Durchschlag"
+    },
+    {
+        "kurzbezeichnung": "Strombad Pappelweg",
+        "id": 98970,
+        "strassenbezeichnung": "Strombad Pappelweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Paradiesweg",
+        "id": 98971,
+        "strassenbezeichnung": "Strombad Paradiesweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Parkweg",
+        "id": 98972,
+        "strassenbezeichnung": "Strombad Parkweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Rebhuhnweg",
+        "id": 98973,
+        "strassenbezeichnung": "Strombad Rebhuhnweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Rehsteig",
+        "id": 98974,
+        "strassenbezeichnung": "Strombad Rehsteig"
+    },
+    {
+        "kurzbezeichnung": "Strombad Rustenweg",
+        "id": 98976,
+        "strassenbezeichnung": "Strombad Rustenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Schnepfenweg",
+        "id": 98977,
+        "strassenbezeichnung": "Strombad Schnepfenweg"
+    },
+    {
+        "kurzbezeichnung": "Stromb. SportplatzStr.",
+        "id": 98978,
+        "strassenbezeichnung": "Strombad Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Stromb. Strandwiesenw.",
+        "id": 98980,
+        "strassenbezeichnung": "Strombad Strandwiesenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Tennisplatz",
+        "id": 98981,
+        "strassenbezeichnung": "Strombad Tennisplatz"
+    },
+    {
+        "kurzbezeichnung": "Stromb. U. Durchschlag",
+        "id": 98982,
+        "strassenbezeichnung": "Strombad Unterer Durchschlag"
+    },
+    {
+        "kurzbezeichnung": "Strombad Villenstrand",
+        "id": 98983,
+        "strassenbezeichnung": "Strombad Villenstrand"
+    },
+    {
+        "kurzbezeichnung": "Strombad Villenstraße",
+        "id": 98984,
+        "strassenbezeichnung": "Strombad Villenstraße"
+    },
+    {
+        "kurzbezeichnung": "Strombad Waldzeile",
+        "id": 98985,
+        "strassenbezeichnung": "Strombad Waldzeile"
+    },
+    {
+        "kurzbezeichnung": "Strombad Wasserweg",
+        "id": 98986,
+        "strassenbezeichnung": "Strombad Wasserweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Weidenweg",
+        "id": 98987,
+        "strassenbezeichnung": "Strombad Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Wikingerweg",
+        "id": 98988,
+        "strassenbezeichnung": "Strombad Wikingerweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Ziegelofenl.",
+        "id": 98989,
+        "strassenbezeichnung": "Strombad Ziegelofenlacke"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Hagenweg",
+        "id": 102688,
+        "strassenbezeichnung": "Rollfährensiedlung Hagenweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Klosterweg",
+        "id": 102689,
+        "strassenbezeichnung": "Rollfährensiedlung Klosterweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl.Krimhildenw.",
+        "id": 102690,
+        "strassenbezeichnung": "Rollfährensiedlung Krimhildenweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Kurzweg",
+        "id": 102691,
+        "strassenbezeichnung": "Rollfährensiedlung Kurzweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Ludwigweg",
+        "id": 102692,
+        "strassenbezeichnung": "Rollfährensiedlung Ludwigweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Neuweg",
+        "id": 102693,
+        "strassenbezeichnung": "Rollfährensiedlung Neuweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl.Nibelungenw.",
+        "id": 102694,
+        "strassenbezeichnung": "Rollfährensiedlung Nibelungenweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Rudolfsweg",
+        "id": 102695,
+        "strassenbezeichnung": "Rollfährensiedlung Rudolfsweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Schillweg",
+        "id": 102696,
+        "strassenbezeichnung": "Rollfährensiedlung Schillweg"
+    },
+    {
+        "kurzbezeichnung": "Rollfährens. Treppelweg",
+        "id": 102697,
+        "strassenbezeichnung": "Rollfährensiedlung Treppelweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl.Rollf.str.",
+        "id": 102698,
+        "strassenbezeichnung": "Rollfährensiedlung Rollfährestraße"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Auweg",
+        "id": 103654,
+        "strassenbezeichnung": "Rollfährensiedlung Auweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Loreleiweg",
+        "id": 103655,
+        "strassenbezeichnung": "Strombad Loreleiweg"
+    },
+    {
+        "kurzbezeichnung": "Strombad Föhrenpark",
+        "id": 103656,
+        "strassenbezeichnung": "Strombad Föhrenpark"
+    },
+    {
+        "kurzbezeichnung": "Schatzlsteig",
+        "id": 103657,
+        "strassenbezeichnung": "Schatzlsteig"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au/Durchstich",
+        "id": 103678,
+        "strassenbezeichnung": "Schwarze Au Am Durchstich"
+    },
+    {
+        "kurzbezeichnung": "Schw. Au Durchschlagw.",
+        "id": 103679,
+        "strassenbezeichnung": "Schwarze Au Durchschlagweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Fliederweg",
+        "id": 103681,
+        "strassenbezeichnung": "Schwarze Au Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Jägersteig",
+        "id": 103682,
+        "strassenbezeichnung": "Schwarze Au Jägersteig"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Mittelweg",
+        "id": 103683,
+        "strassenbezeichnung": "Schwarze Au Mittelweg"
+    },
+    {
+        "kurzbezeichnung": "Schw. Au Rollfährestr.",
+        "id": 103691,
+        "strassenbezeichnung": "Schwarze Au Rollfährestraße"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Martinsweg",
+        "id": 103736,
+        "strassenbezeichnung": "Schwarze Au Martinsweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Krähenweg",
+        "id": 104242,
+        "strassenbezeichnung": "Schwarze Au Krähenweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Am Holzpl.",
+        "id": 104243,
+        "strassenbezeichnung": "Schwarze Au Am Holzplatz"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Spechtenw.",
+        "id": 104245,
+        "strassenbezeichnung": "Schwarze Au Spechtenweg"
+    },
+    {
+        "kurzbezeichnung": "Schwarze Au Meisenweg",
+        "id": 104246,
+        "strassenbezeichnung": "Schwarze Au Meisenweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Jägersteig",
+        "id": 104248,
+        "strassenbezeichnung": "Rollfährensiedlung Jägersteig"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Siegfriedw.",
+        "id": 104249,
+        "strassenbezeichnung": "Rollfährensiedlung Siegfriedweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Wotanweg",
+        "id": 104250,
+        "strassenbezeichnung": "Rollfährensiedlung Wotanweg"
+    },
+    {
+        "kurzbezeichnung": "Rollf.sdl. Stiftsweg",
+        "id": 104251,
+        "strassenbezeichnung": "Rollfährensiedlung Stiftsweg"
+    },
+    {
+        "kurzbezeichnung": "Max-Reisinger-Gasse",
+        "id": 104542,
+        "strassenbezeichnung": "Max-Reisinger-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Alfred-Schmid-Gasse",
+        "id": 115971,
+        "strassenbezeichnung": "Alfred-Schmid-Gasse"
+    }
+]

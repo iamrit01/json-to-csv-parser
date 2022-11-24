@@ -1,0 +1,537 @@
+[
+    {
+        "kurzbezeichnung": "Regierungsrat-Haas-Pl.",
+        "id": -4434,
+        "strassenbezeichnung": "Regierungsrat-Haas-Platz"
+    },
+    {
+        "kurzbezeichnung": "Melchartlweg",
+        "id": -4432,
+        "strassenbezeichnung": "Melchartlweg"
+    },
+    {
+        "kurzbezeichnung": "Göra",
+        "id": -4431,
+        "strassenbezeichnung": "Göra"
+    },
+    {
+        "kurzbezeichnung": "Hintergöra",
+        "id": -4430,
+        "strassenbezeichnung": "Hintergöra"
+    },
+    {
+        "kurzbezeichnung": "Tamsweg",
+        "id": -1678,
+        "strassenbezeichnung": "Tamsweg"
+    },
+    {
+        "kurzbezeichnung": "Otting",
+        "id": 9206,
+        "strassenbezeichnung": "Otting"
+    },
+    {
+        "kurzbezeichnung": "Amtsgasse",
+        "id": 49710,
+        "strassenbezeichnung": "Amtsgasse"
+    },
+    {
+        "kurzbezeichnung": "Bahnhofstraße",
+        "id": 49711,
+        "strassenbezeichnung": "Bahnhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Bräuergasse",
+        "id": 49712,
+        "strassenbezeichnung": "Bräuergasse"
+    },
+    {
+        "kurzbezeichnung": "Dechant-F.-Fuchs-Str.",
+        "id": 49713,
+        "strassenbezeichnung": "Dechant-Franz-Fuchs-Straße"
+    },
+    {
+        "kurzbezeichnung": "Forstamtsgasse",
+        "id": 49714,
+        "strassenbezeichnung": "Forstamtsgasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofstraße",
+        "id": 49715,
+        "strassenbezeichnung": "Friedhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 49716,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Glanzweg",
+        "id": 49717,
+        "strassenbezeichnung": "Glanzweg"
+    },
+    {
+        "kurzbezeichnung": "Griesgasse",
+        "id": 49720,
+        "strassenbezeichnung": "Griesgasse"
+    },
+    {
+        "kurzbezeichnung": "Hatheyergasse",
+        "id": 49721,
+        "strassenbezeichnung": "Hatheyergasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchengasse",
+        "id": 49723,
+        "strassenbezeichnung": "Kirchengasse"
+    },
+    {
+        "kurzbezeichnung": "Lasabergweg",
+        "id": 49725,
+        "strassenbezeichnung": "Lasabergweg"
+    },
+    {
+        "kurzbezeichnung": "Lebzelterweg",
+        "id": 49726,
+        "strassenbezeichnung": "Lebzelterweg"
+    },
+    {
+        "kurzbezeichnung": "Marktplatz",
+        "id": 49728,
+        "strassenbezeichnung": "Marktplatz"
+    },
+    {
+        "kurzbezeichnung": "Mehlhartlweg",
+        "id": 49729,
+        "strassenbezeichnung": "Mehlhartlweg"
+    },
+    {
+        "kurzbezeichnung": "Murgasse",
+        "id": 49731,
+        "strassenbezeichnung": "Murgasse"
+    },
+    {
+        "kurzbezeichnung": "Obere Postgasse",
+        "id": 49733,
+        "strassenbezeichnung": "Obere Postgasse"
+    },
+    {
+        "kurzbezeichnung": "Ottingweg",
+        "id": 49734,
+        "strassenbezeichnung": "Ottingweg"
+    },
+    {
+        "kurzbezeichnung": "Postplatz",
+        "id": 49736,
+        "strassenbezeichnung": "Postplatz"
+    },
+    {
+        "kurzbezeichnung": "Ramingsteiner Straße",
+        "id": 49738,
+        "strassenbezeichnung": "Ramingsteiner Straße"
+    },
+    {
+        "kurzbezeichnung": "Reg.Rat-Haas-Platz",
+        "id": 49739,
+        "strassenbezeichnung": "Reg.Rat-Haas-Platz"
+    },
+    {
+        "kurzbezeichnung": "Sauerfelder Straße",
+        "id": 49740,
+        "strassenbezeichnung": "Sauerfelder Straße"
+    },
+    {
+        "kurzbezeichnung": "Schattseitenweg",
+        "id": 49741,
+        "strassenbezeichnung": "Schattseitenweg"
+    },
+    {
+        "kurzbezeichnung": "Schwimmschulgasse",
+        "id": 49744,
+        "strassenbezeichnung": "Schwimmschulgasse"
+    },
+    {
+        "kurzbezeichnung": "Sankt Leonhard",
+        "id": 49746,
+        "strassenbezeichnung": "Sankt Leonhard"
+    },
+    {
+        "kurzbezeichnung": "Sankt-Leonhard-Gasse",
+        "id": 49747,
+        "strassenbezeichnung": "Sankt-Leonhard-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Untere Postgasse",
+        "id": 49748,
+        "strassenbezeichnung": "Untere Postgasse"
+    },
+    {
+        "kurzbezeichnung": "Wöltinger Straße",
+        "id": 49749,
+        "strassenbezeichnung": "Wöltinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Zinsgasse",
+        "id": 49750,
+        "strassenbezeichnung": "Zinsgasse"
+    },
+    {
+        "kurzbezeichnung": "Bröllsteig",
+        "id": 53647,
+        "strassenbezeichnung": "Bröllsteig"
+    },
+    {
+        "kurzbezeichnung": "Dr.-E.-Macheiner-Str.",
+        "id": 53648,
+        "strassenbezeichnung": "Dr.-Eduard-Macheiner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Hintergöra",
+        "id": 53649,
+        "strassenbezeichnung": "Am Hintergöra"
+    },
+    {
+        "kurzbezeichnung": "Hoferalmweg",
+        "id": 53650,
+        "strassenbezeichnung": "Hoferalmweg"
+    },
+    {
+        "kurzbezeichnung": "Kuenburgstraße",
+        "id": 53652,
+        "strassenbezeichnung": "Kuenburgstraße"
+    },
+    {
+        "kurzbezeichnung": "Kürsingerstraße",
+        "id": 53653,
+        "strassenbezeichnung": "Kürsingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lenzenkreuzweg",
+        "id": 53654,
+        "strassenbezeichnung": "Lenzenkreuzweg"
+    },
+    {
+        "kurzbezeichnung": "Lederwaschstraße",
+        "id": 53655,
+        "strassenbezeichnung": "Lederwaschstraße"
+    },
+    {
+        "kurzbezeichnung": "Murweg",
+        "id": 53656,
+        "strassenbezeichnung": "Murweg"
+    },
+    {
+        "kurzbezeichnung": "Peter-Harperger-Straße",
+        "id": 53657,
+        "strassenbezeichnung": "Peter-Harperger-Straße"
+    },
+    {
+        "kurzbezeichnung": "Schießstattstraße",
+        "id": 53658,
+        "strassenbezeichnung": "Schießstattstraße"
+    },
+    {
+        "kurzbezeichnung": "Schlossparkweg",
+        "id": 53659,
+        "strassenbezeichnung": "Schlossparkweg"
+    },
+    {
+        "kurzbezeichnung": "Stampflweg",
+        "id": 53660,
+        "strassenbezeichnung": "Stampflweg"
+    },
+    {
+        "kurzbezeichnung": "Taurachweg",
+        "id": 53661,
+        "strassenbezeichnung": "Taurachweg"
+    },
+    {
+        "kurzbezeichnung": "Baronfeldgasse",
+        "id": 60552,
+        "strassenbezeichnung": "Baronfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Ahornweg",
+        "id": 60553,
+        "strassenbezeichnung": "Ahornweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenweg",
+        "id": 60554,
+        "strassenbezeichnung": "Fichtenweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 60555,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Preberstraße",
+        "id": 60556,
+        "strassenbezeichnung": "Preberstraße"
+    },
+    {
+        "kurzbezeichnung": "Standlweg",
+        "id": 60557,
+        "strassenbezeichnung": "Standlweg"
+    },
+    {
+        "kurzbezeichnung": "Zirbenweg",
+        "id": 60558,
+        "strassenbezeichnung": "Zirbenweg"
+    },
+    {
+        "kurzbezeichnung": "Am Göra",
+        "id": 60560,
+        "strassenbezeichnung": "Am Göra"
+    },
+    {
+        "kurzbezeichnung": "Vordertullnberg",
+        "id": 60561,
+        "strassenbezeichnung": "Vordertullnberg"
+    },
+    {
+        "kurzbezeichnung": "Mehlhartlau",
+        "id": 60562,
+        "strassenbezeichnung": "Mehlhartlau"
+    },
+    {
+        "kurzbezeichnung": "Litzelsdorf",
+        "id": 60563,
+        "strassenbezeichnung": "Litzelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Tullnberg",
+        "id": 60567,
+        "strassenbezeichnung": "Tullnberg"
+    },
+    {
+        "kurzbezeichnung": "Einöd",
+        "id": 60568,
+        "strassenbezeichnung": "Einöd"
+    },
+    {
+        "kurzbezeichnung": "Keusching",
+        "id": 60569,
+        "strassenbezeichnung": "Keusching"
+    },
+    {
+        "kurzbezeichnung": "Mörtelsdorf",
+        "id": 68044,
+        "strassenbezeichnung": "Mörtelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Wölting",
+        "id": 68045,
+        "strassenbezeichnung": "Wölting"
+    },
+    {
+        "kurzbezeichnung": "Haiden",
+        "id": 71886,
+        "strassenbezeichnung": "Haiden"
+    },
+    {
+        "kurzbezeichnung": "Florianistraße",
+        "id": 74145,
+        "strassenbezeichnung": "Florianistraße"
+    },
+    {
+        "kurzbezeichnung": "S.-Schallhammer-Str.",
+        "id": 74146,
+        "strassenbezeichnung": "Sebastian-Schallhammer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Refling",
+        "id": 74289,
+        "strassenbezeichnung": "Refling"
+    },
+    {
+        "kurzbezeichnung": "Traning",
+        "id": 74290,
+        "strassenbezeichnung": "Traning"
+    },
+    {
+        "kurzbezeichnung": "Gensgitsch",
+        "id": 74291,
+        "strassenbezeichnung": "Gensgitsch"
+    },
+    {
+        "kurzbezeichnung": "Glanz",
+        "id": 74292,
+        "strassenbezeichnung": "Glanz"
+    },
+    {
+        "kurzbezeichnung": "Lasaberg",
+        "id": 74293,
+        "strassenbezeichnung": "Lasaberg"
+    },
+    {
+        "kurzbezeichnung": "Moos",
+        "id": 74294,
+        "strassenbezeichnung": "Moos"
+    },
+    {
+        "kurzbezeichnung": "Atzmannsdorf",
+        "id": 74295,
+        "strassenbezeichnung": "Atzmannsdorf"
+    },
+    {
+        "kurzbezeichnung": "Burgstall",
+        "id": 74296,
+        "strassenbezeichnung": "Burgstall"
+    },
+    {
+        "kurzbezeichnung": "Penk",
+        "id": 74297,
+        "strassenbezeichnung": "Penk"
+    },
+    {
+        "kurzbezeichnung": "Pöllitz",
+        "id": 74298,
+        "strassenbezeichnung": "Pöllitz"
+    },
+    {
+        "kurzbezeichnung": "Proding",
+        "id": 74299,
+        "strassenbezeichnung": "Proding"
+    },
+    {
+        "kurzbezeichnung": "Sauerfeld",
+        "id": 74300,
+        "strassenbezeichnung": "Sauerfeld"
+    },
+    {
+        "kurzbezeichnung": "Seetal",
+        "id": 74302,
+        "strassenbezeichnung": "Seetal"
+    },
+    {
+        "kurzbezeichnung": "Lessach",
+        "id": 87915,
+        "strassenbezeichnung": "Lessach"
+    },
+    {
+        "kurzbezeichnung": "Zoitzach",
+        "id": 87916,
+        "strassenbezeichnung": "Zoitzach"
+    },
+    {
+        "kurzbezeichnung": "Josef-Ehrenreich-Str.",
+        "id": 91447,
+        "strassenbezeichnung": "Josef-Ehrenreich-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef-Mühlbacher-Weg",
+        "id": 100233,
+        "strassenbezeichnung": "Josef-Mühlbacher-Weg"
+    },
+    {
+        "kurzbezeichnung": "Mitschegasse",
+        "id": 100356,
+        "strassenbezeichnung": "Mitschegasse"
+    },
+    {
+        "kurzbezeichnung": "Leisnitzgasse",
+        "id": 100357,
+        "strassenbezeichnung": "Leisnitzgasse"
+    },
+    {
+        "kurzbezeichnung": "Sportzentrumweg",
+        "id": 100358,
+        "strassenbezeichnung": "Sportzentrumweg"
+    },
+    {
+        "kurzbezeichnung": "Pötschingweg",
+        "id": 100359,
+        "strassenbezeichnung": "Pötschingweg"
+    },
+    {
+        "kurzbezeichnung": "Bäckergasse",
+        "id": 100360,
+        "strassenbezeichnung": "Bäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Größingau",
+        "id": 100361,
+        "strassenbezeichnung": "Größingau"
+    },
+    {
+        "kurzbezeichnung": "Johann-Kopfmüller-Str.",
+        "id": 100362,
+        "strassenbezeichnung": "Johann-Kopfmüller-Straße"
+    },
+    {
+        "kurzbezeichnung": "Jakob-Ferner-Straße",
+        "id": 100363,
+        "strassenbezeichnung": "Jakob-Ferner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Johann-Löcker-Straße",
+        "id": 100364,
+        "strassenbezeichnung": "Johann-Löcker-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hans-Schmid-Straße",
+        "id": 100365,
+        "strassenbezeichnung": "Hans-Schmid-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hans-Noggler-Straße",
+        "id": 100366,
+        "strassenbezeichnung": "Hans-Noggler-Straße"
+    },
+    {
+        "kurzbezeichnung": "Lenzlerweg",
+        "id": 100367,
+        "strassenbezeichnung": "Lenzlerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Leonhardsberg",
+        "id": 100368,
+        "strassenbezeichnung": "Am Leonhardsberg"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 100369,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Siebensternweg",
+        "id": 100370,
+        "strassenbezeichnung": "Siebensternweg"
+    },
+    {
+        "kurzbezeichnung": "Murpromenade",
+        "id": 100371,
+        "strassenbezeichnung": "Murpromenade"
+    },
+    {
+        "kurzbezeichnung": "Preber",
+        "id": 100483,
+        "strassenbezeichnung": "Preber"
+    },
+    {
+        "kurzbezeichnung": "Kapuzinerplatz",
+        "id": 100484,
+        "strassenbezeichnung": "Kapuzinerplatz"
+    },
+    {
+        "kurzbezeichnung": "Gew.pk. Litzelsdorf",
+        "id": 108231,
+        "strassenbezeichnung": "Gewerbepark Litzelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Johann-Rainer-Weg",
+        "id": 109562,
+        "strassenbezeichnung": "Johann-Rainer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Esserweg",
+        "id": 112834,
+        "strassenbezeichnung": "Esserweg"
+    },
+    {
+        "kurzbezeichnung": "Dechantsbühel",
+        "id": 113572,
+        "strassenbezeichnung": "Dechantsbühel"
+    }
+]

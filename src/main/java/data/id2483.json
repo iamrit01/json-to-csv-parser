@@ -1,0 +1,797 @@
+[
+    {
+        "kurzbezeichnung": "Am Klärwerk",
+        "id": -32745,
+        "strassenbezeichnung": "Am Klärwerk"
+    },
+    {
+        "kurzbezeichnung": "Krautgartenweg",
+        "id": -32642,
+        "strassenbezeichnung": "Krautgartenweg"
+    },
+    {
+        "kurzbezeichnung": "Breitenäckergasse",
+        "id": -30951,
+        "strassenbezeichnung": "Breitenäckergasse"
+    },
+    {
+        "kurzbezeichnung": "Raabmühle",
+        "id": -18792,
+        "strassenbezeichnung": "Raabmühle"
+    },
+    {
+        "kurzbezeichnung": "Florianiplatz",
+        "id": -18189,
+        "strassenbezeichnung": "Florianiplatz"
+    },
+    {
+        "kurzbezeichnung": "Dominostraße",
+        "id": -4089,
+        "strassenbezeichnung": "Dominostraße"
+    },
+    {
+        "kurzbezeichnung": "EHZ Weigelsdorf",
+        "id": 8432,
+        "strassenbezeichnung": "Erholungszentrum Weigelsdorf"
+    },
+    {
+        "kurzbezeichnung": "Pottendorfer Straße",
+        "id": 8439,
+        "strassenbezeichnung": "Pottendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Ackerweg",
+        "id": 10439,
+        "strassenbezeichnung": "Ackerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Bahnhof",
+        "id": 10441,
+        "strassenbezeichnung": "Am Bahnhof"
+    },
+    {
+        "kurzbezeichnung": "An der Fischa",
+        "id": 10442,
+        "strassenbezeichnung": "An der Fischa"
+    },
+    {
+        "kurzbezeichnung": "Anton Slezak-Straße",
+        "id": 10443,
+        "strassenbezeichnung": "Anton Slezak-Straße"
+    },
+    {
+        "kurzbezeichnung": "Arbeitergasse",
+        "id": 10444,
+        "strassenbezeichnung": "Arbeitergasse"
+    },
+    {
+        "kurzbezeichnung": "Augasse",
+        "id": 10445,
+        "strassenbezeichnung": "Augasse"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 10446,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Badener Straße",
+        "id": 10447,
+        "strassenbezeichnung": "Badener Straße"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 10448,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Bienengasse",
+        "id": 10450,
+        "strassenbezeichnung": "Bienengasse"
+    },
+    {
+        "kurzbezeichnung": "Boschanstraße",
+        "id": 10452,
+        "strassenbezeichnung": "Boschanstraße"
+    },
+    {
+        "kurzbezeichnung": "Dr.-Karl-Renner-Straße",
+        "id": 10455,
+        "strassenbezeichnung": "Dr.-Karl-Renner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Eisenstädter Straße",
+        "id": 10458,
+        "strassenbezeichnung": "Eisenstädter Straße"
+    },
+    {
+        "kurzbezeichnung": "Fabriksstraße",
+        "id": 10459,
+        "strassenbezeichnung": "Fabriksstraße"
+    },
+    {
+        "kurzbezeichnung": "Fasangasse",
+        "id": 10460,
+        "strassenbezeichnung": "Fasangasse"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 10462,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Feldstraße",
+        "id": 10463,
+        "strassenbezeichnung": "Feldstraße"
+    },
+    {
+        "kurzbezeichnung": "Finkenweg",
+        "id": 10464,
+        "strassenbezeichnung": "Finkenweg"
+    },
+    {
+        "kurzbezeichnung": "Fischagasse",
+        "id": 10465,
+        "strassenbezeichnung": "Fischagasse"
+    },
+    {
+        "kurzbezeichnung": "Franz Fasching-Gasse",
+        "id": 10467,
+        "strassenbezeichnung": "Franz Fasching-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofstraße",
+        "id": 10468,
+        "strassenbezeichnung": "Friedhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Gaernäckerstraße",
+        "id": 10469,
+        "strassenbezeichnung": "Gaernäckerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 10470,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Grabengasse",
+        "id": 10472,
+        "strassenbezeichnung": "Grabengasse"
+    },
+    {
+        "kurzbezeichnung": "Hans Ehlich-Gasse",
+        "id": 10473,
+        "strassenbezeichnung": "Hans Ehlich-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hans Hofer-Gasse",
+        "id": 10474,
+        "strassenbezeichnung": "Hans Hofer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptplatz",
+        "id": 10475,
+        "strassenbezeichnung": "Hauptplatz"
+    },
+    {
+        "kurzbezeichnung": "Heinrich Wesely-Straße",
+        "id": 10477,
+        "strassenbezeichnung": "Heinrich Wesely-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hermann Müller-Gasse",
+        "id": 10478,
+        "strassenbezeichnung": "Hermann Müller-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hofmühlgasse",
+        "id": 10479,
+        "strassenbezeichnung": "Hofmühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Jägerzeile",
+        "id": 10482,
+        "strassenbezeichnung": "Jägerzeile"
+    },
+    {
+        "kurzbezeichnung": "Johann Steyskal-Gasse",
+        "id": 10483,
+        "strassenbezeichnung": "Johann Steyskal-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Johann Strauß-Straße",
+        "id": 10484,
+        "strassenbezeichnung": "Johann Strauß-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef Bartmann-Straße",
+        "id": 10485,
+        "strassenbezeichnung": "Josef Bartmann-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef Haydn-Straße",
+        "id": 10486,
+        "strassenbezeichnung": "Josef Haydn-Straße"
+    },
+    {
+        "kurzbezeichnung": "Karl Lill-Straße",
+        "id": 10488,
+        "strassenbezeichnung": "Karl Lill-Straße"
+    },
+    {
+        "kurzbezeichnung": "Karl Meyer-Gasse",
+        "id": 10489,
+        "strassenbezeichnung": "Karl Meyer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Kienergasse",
+        "id": 10490,
+        "strassenbezeichnung": "Kienergasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 10492,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Lagerhausstraße",
+        "id": 10493,
+        "strassenbezeichnung": "Lagerhausstraße"
+    },
+    {
+        "kurzbezeichnung": "Leopold Schön-Straße",
+        "id": 10495,
+        "strassenbezeichnung": "Leopold Schön-Straße"
+    },
+    {
+        "kurzbezeichnung": "Linke Bahnzeile",
+        "id": 10496,
+        "strassenbezeichnung": "Linke Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Ludwig Kornhofer-Gasse",
+        "id": 10497,
+        "strassenbezeichnung": "Ludwig Kornhofer-Gasse"
+    },
+    {
+        "kurzbezeichnung": "L. v. Beethoven-Str.",
+        "id": 10498,
+        "strassenbezeichnung": "Ludwig van Beethoven-Straße"
+    },
+    {
+        "kurzbezeichnung": "Max Fränkel-Straße",
+        "id": 10500,
+        "strassenbezeichnung": "Max Fränkel-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mittergasse",
+        "id": 10501,
+        "strassenbezeichnung": "Mittergasse"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 10504,
+        "strassenbezeichnung": "Neubaugasse"
+    },
+    {
+        "kurzbezeichnung": "Neuriesgasse",
+        "id": 10505,
+        "strassenbezeichnung": "Neuriesgasse"
+    },
+    {
+        "kurzbezeichnung": "Nüsslgasse",
+        "id": 10506,
+        "strassenbezeichnung": "Nüsslgasse"
+    },
+    {
+        "kurzbezeichnung": "Parkallee",
+        "id": 10508,
+        "strassenbezeichnung": "Parkallee"
+    },
+    {
+        "kurzbezeichnung": "Peter Binder-Gasse",
+        "id": 10509,
+        "strassenbezeichnung": "Peter Binder-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Piestingweg",
+        "id": 10510,
+        "strassenbezeichnung": "Piestingweg"
+    },
+    {
+        "kurzbezeichnung": "Rechte Bahnzeile",
+        "id": 10513,
+        "strassenbezeichnung": "Rechte Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Rosenstraße",
+        "id": 10516,
+        "strassenbezeichnung": "Rosenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schafflerhofstraße",
+        "id": 10517,
+        "strassenbezeichnung": "Schafflerhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Schivitzhoffenstraße",
+        "id": 10519,
+        "strassenbezeichnung": "Schivitzhoffenstraße"
+    },
+    {
+        "kurzbezeichnung": "Schloßplatz",
+        "id": 10521,
+        "strassenbezeichnung": "Schloßplatz"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 10523,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Siedlergasse",
+        "id": 10524,
+        "strassenbezeichnung": "Siedlergasse"
+    },
+    {
+        "kurzbezeichnung": "Silogasse",
+        "id": 10525,
+        "strassenbezeichnung": "Silogasse"
+    },
+    {
+        "kurzbezeichnung": "Sportgasse",
+        "id": 10526,
+        "strassenbezeichnung": "Sportgasse"
+    },
+    {
+        "kurzbezeichnung": "Sportplatz",
+        "id": 10527,
+        "strassenbezeichnung": "Sportplatz"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 10528,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Theodor Körner-Straße",
+        "id": 10530,
+        "strassenbezeichnung": "Theodor Körner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Vorstadtl",
+        "id": 10533,
+        "strassenbezeichnung": "Vorstadtl"
+    },
+    {
+        "kurzbezeichnung": "Weidengasse",
+        "id": 10534,
+        "strassenbezeichnung": "Weidengasse"
+    },
+    {
+        "kurzbezeichnung": "Wiener Neustädter Str.",
+        "id": 10535,
+        "strassenbezeichnung": "Wiener Neustädter Straße"
+    },
+    {
+        "kurzbezeichnung": "Wiener Straße",
+        "id": 10536,
+        "strassenbezeichnung": "Wiener Straße"
+    },
+    {
+        "kurzbezeichnung": "W. A. Mozart-Str.",
+        "id": 10537,
+        "strassenbezeichnung": "Wolfgang Amadeus Mozart-Straße"
+    },
+    {
+        "kurzbezeichnung": "Zellingerteichgasse",
+        "id": 10538,
+        "strassenbezeichnung": "Zellingerteichgasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 46242,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Rechte Bahnzeile",
+        "id": 46243,
+        "strassenbezeichnung": "Rechte Bahnzeile"
+    },
+    {
+        "kurzbezeichnung": "Bahnstraße",
+        "id": 46254,
+        "strassenbezeichnung": "Bahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Schubert-Straße",
+        "id": 46255,
+        "strassenbezeichnung": "Franz Schubert-Straße"
+    },
+    {
+        "kurzbezeichnung": "Wiener Straße",
+        "id": 46256,
+        "strassenbezeichnung": "Wiener Straße"
+    },
+    {
+        "kurzbezeichnung": "Johannes Brahms-Platz",
+        "id": 50883,
+        "strassenbezeichnung": "Johannes Brahms-Platz"
+    },
+    {
+        "kurzbezeichnung": "Hasengasse",
+        "id": 53023,
+        "strassenbezeichnung": "Hasengasse"
+    },
+    {
+        "kurzbezeichnung": "Franz Friedau-Straße",
+        "id": 53059,
+        "strassenbezeichnung": "Franz Friedau-Straße"
+    },
+    {
+        "kurzbezeichnung": "Sechs-Erltumpf-Straße",
+        "id": 57984,
+        "strassenbezeichnung": "Sechs-Erltumpf-Straße"
+    },
+    {
+        "kurzbezeichnung": "Bachlechnerweg",
+        "id": 61993,
+        "strassenbezeichnung": "Bachlechnerweg"
+    },
+    {
+        "kurzbezeichnung": "Unterfeldzeile",
+        "id": 61994,
+        "strassenbezeichnung": "Unterfeldzeile"
+    },
+    {
+        "kurzbezeichnung": "Faulbachweg",
+        "id": 61995,
+        "strassenbezeichnung": "Faulbachweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 61996,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Tulpenweg",
+        "id": 61997,
+        "strassenbezeichnung": "Tulpenweg"
+    },
+    {
+        "kurzbezeichnung": "Piestingaustraße",
+        "id": 61998,
+        "strassenbezeichnung": "Piestingaustraße"
+    },
+    {
+        "kurzbezeichnung": "Welsche Halt-Gasse",
+        "id": 61999,
+        "strassenbezeichnung": "Welsche Halt-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Wasserstraße",
+        "id": 62000,
+        "strassenbezeichnung": "Wasserstraße"
+    },
+    {
+        "kurzbezeichnung": "J. von Bartenstein-G.",
+        "id": 62001,
+        "strassenbezeichnung": "Johann von Bartenstein-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Hans Czettel-Gasse",
+        "id": 62002,
+        "strassenbezeichnung": "Hans Czettel-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Sterngasse",
+        "id": 62003,
+        "strassenbezeichnung": "Sterngasse"
+    },
+    {
+        "kurzbezeichnung": "Am Piestingdamm",
+        "id": 62004,
+        "strassenbezeichnung": "Am Piestingdamm"
+    },
+    {
+        "kurzbezeichnung": "Hieronymus v.Beck-Str.",
+        "id": 62005,
+        "strassenbezeichnung": "Hieronymus von Beck-Straße"
+    },
+    {
+        "kurzbezeichnung": "Döllachgasse",
+        "id": 62006,
+        "strassenbezeichnung": "Döllachgasse"
+    },
+    {
+        "kurzbezeichnung": "Forellenweg",
+        "id": 62007,
+        "strassenbezeichnung": "Forellenweg"
+    },
+    {
+        "kurzbezeichnung": "Willibald Hinger-Gasse",
+        "id": 62008,
+        "strassenbezeichnung": "Willibald Hinger-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Werner Kafka-Gasse",
+        "id": 62009,
+        "strassenbezeichnung": "Werner Kafka-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Schloßallee",
+        "id": 62010,
+        "strassenbezeichnung": "Schloßallee"
+    },
+    {
+        "kurzbezeichnung": "Frauenbrückenweg",
+        "id": 62017,
+        "strassenbezeichnung": "Frauenbrückenweg"
+    },
+    {
+        "kurzbezeichnung": "Grubengasse",
+        "id": 62018,
+        "strassenbezeichnung": "Grubengasse"
+    },
+    {
+        "kurzbezeichnung": "Michael Moser-Straße",
+        "id": 62019,
+        "strassenbezeichnung": "Michael Moser-Straße"
+    },
+    {
+        "kurzbezeichnung": "Anton Reiner-Straße",
+        "id": 62020,
+        "strassenbezeichnung": "Anton Reiner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Schützenweg",
+        "id": 62021,
+        "strassenbezeichnung": "Schützenweg"
+    },
+    {
+        "kurzbezeichnung": "Matthias Sulzer-Straße",
+        "id": 62022,
+        "strassenbezeichnung": "Matthias Sulzer-Straße"
+    },
+    {
+        "kurzbezeichnung": "Spindelgasse",
+        "id": 62023,
+        "strassenbezeichnung": "Spindelgasse"
+    },
+    {
+        "kurzbezeichnung": "Karl Tschiedl-Straße",
+        "id": 62024,
+        "strassenbezeichnung": "Karl Tschiedl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Webgasse",
+        "id": 62025,
+        "strassenbezeichnung": "Webgasse"
+    },
+    {
+        "kurzbezeichnung": "Wiesmadgasse",
+        "id": 62026,
+        "strassenbezeichnung": "Wiesmadgasse"
+    },
+    {
+        "kurzbezeichnung": "Anton Bruckner-Straße",
+        "id": 62027,
+        "strassenbezeichnung": "Anton Bruckner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Josef Lanner-Weg",
+        "id": 62028,
+        "strassenbezeichnung": "Josef Lanner-Weg"
+    },
+    {
+        "kurzbezeichnung": "Robert Stolz-Straße",
+        "id": 62029,
+        "strassenbezeichnung": "Robert Stolz-Straße"
+    },
+    {
+        "kurzbezeichnung": "Hutfabrikweg",
+        "id": 62058,
+        "strassenbezeichnung": "Hutfabrikweg"
+    },
+    {
+        "kurzbezeichnung": "Gildenweg",
+        "id": 66876,
+        "strassenbezeichnung": "Gildenweg"
+    },
+    {
+        "kurzbezeichnung": "Feuerbachzeile",
+        "id": 67920,
+        "strassenbezeichnung": "Feuerbachzeile"
+    },
+    {
+        "kurzbezeichnung": "Rösselhofgasse",
+        "id": 67921,
+        "strassenbezeichnung": "Rösselhofgasse"
+    },
+    {
+        "kurzbezeichnung": "Mitterfeldzeile",
+        "id": 67922,
+        "strassenbezeichnung": "Mitterfeldzeile"
+    },
+    {
+        "kurzbezeichnung": "Schilfgasse",
+        "id": 67924,
+        "strassenbezeichnung": "Schilfgasse"
+    },
+    {
+        "kurzbezeichnung": "Grenzweg",
+        "id": 67928,
+        "strassenbezeichnung": "Grenzweg"
+    },
+    {
+        "kurzbezeichnung": "Judenweg",
+        "id": 67929,
+        "strassenbezeichnung": "Judenweg"
+    },
+    {
+        "kurzbezeichnung": "Schotterweg",
+        "id": 67930,
+        "strassenbezeichnung": "Schotterweg"
+    },
+    {
+        "kurzbezeichnung": "Dr. Adolf Schärf-Str.",
+        "id": 68982,
+        "strassenbezeichnung": "Dr. Adolf Schärf-Straße"
+    },
+    {
+        "kurzbezeichnung": "Europa Straße",
+        "id": 69507,
+        "strassenbezeichnung": "Europa Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz Lehar-Straße",
+        "id": 70914,
+        "strassenbezeichnung": "Franz Lehar-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mitterfeldstraße",
+        "id": 70917,
+        "strassenbezeichnung": "Mitterfeldstraße"
+    },
+    {
+        "kurzbezeichnung": "Anna Gastag-Straße",
+        "id": 74414,
+        "strassenbezeichnung": "Anna Gastag-Straße"
+    },
+    {
+        "kurzbezeichnung": "Carl M. Ziehrer-Weg",
+        "id": 75489,
+        "strassenbezeichnung": "Carl Michael Ziehrer-Weg"
+    },
+    {
+        "kurzbezeichnung": "Josef Prisching-Straße",
+        "id": 75661,
+        "strassenbezeichnung": "Josef Prisching-Straße"
+    },
+    {
+        "kurzbezeichnung": "Haltgasse",
+        "id": 91375,
+        "strassenbezeichnung": "Haltgasse"
+    },
+    {
+        "kurzbezeichnung": "Betriebsstraße",
+        "id": 94061,
+        "strassenbezeichnung": "Betriebsstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Wallner-Straße",
+        "id": 95058,
+        "strassenbezeichnung": "Franz Wallner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Mario Vian-Weg",
+        "id": 96943,
+        "strassenbezeichnung": "Mario Vian-Weg"
+    },
+    {
+        "kurzbezeichnung": "Gnadenbachweg",
+        "id": 98023,
+        "strassenbezeichnung": "Gnadenbachweg"
+    },
+    {
+        "kurzbezeichnung": "Postgasse",
+        "id": 98075,
+        "strassenbezeichnung": "Postgasse"
+    },
+    {
+        "kurzbezeichnung": "Lebenshilfeweg",
+        "id": 98076,
+        "strassenbezeichnung": "Lebenshilfeweg"
+    },
+    {
+        "kurzbezeichnung": "Im Schulgarten",
+        "id": 101615,
+        "strassenbezeichnung": "Im Schulgarten"
+    },
+    {
+        "kurzbezeichnung": "Am Kalten Gang",
+        "id": 103196,
+        "strassenbezeichnung": "Am Kalten Gang"
+    },
+    {
+        "kurzbezeichnung": "Rathausplatz",
+        "id": 103197,
+        "strassenbezeichnung": "Rathausplatz"
+    },
+    {
+        "kurzbezeichnung": "Hans Brandl-Straße",
+        "id": 103300,
+        "strassenbezeichnung": "Hans Brandl-Straße"
+    },
+    {
+        "kurzbezeichnung": "Karl Baumgartner-Str.",
+        "id": 103490,
+        "strassenbezeichnung": "Karl Baumgartner-Straße"
+    },
+    {
+        "kurzbezeichnung": "Pferdepromenade",
+        "id": 109286,
+        "strassenbezeichnung": "Pferdepromenade"
+    },
+    {
+        "kurzbezeichnung": "Racino Platz",
+        "id": 110234,
+        "strassenbezeichnung": "Racino Platz"
+    },
+    {
+        "kurzbezeichnung": "Magna Racino Allee",
+        "id": 110235,
+        "strassenbezeichnung": "Magna Racino Allee"
+    },
+    {
+        "kurzbezeichnung": "Kalman-Weg",
+        "id": 111139,
+        "strassenbezeichnung": "Kalman-Weg"
+    },
+    {
+        "kurzbezeichnung": "Chopin-Straße",
+        "id": 112096,
+        "strassenbezeichnung": "Chopin-Straße"
+    },
+    {
+        "kurzbezeichnung": "Liszt-Gasse",
+        "id": 112098,
+        "strassenbezeichnung": "Liszt-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Postäckerstraße",
+        "id": 114337,
+        "strassenbezeichnung": "Postäckerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gulda-Straße",
+        "id": 117781,
+        "strassenbezeichnung": "Gulda-Straße"
+    },
+    {
+        "kurzbezeichnung": "Schlehenweg",
+        "id": 121807,
+        "strassenbezeichnung": "Schlehenweg"
+    },
+    {
+        "kurzbezeichnung": "Schloßparkstraße",
+        "id": 122570,
+        "strassenbezeichnung": "Schloßparkstraße"
+    },
+    {
+        "kurzbezeichnung": "Betriebsring",
+        "id": 125153,
+        "strassenbezeichnung": "Betriebsring"
+    },
+    {
+        "kurzbezeichnung": "Försterbachzeile",
+        "id": 125394,
+        "strassenbezeichnung": "Försterbachzeile"
+    },
+    {
+        "kurzbezeichnung": "Seepromenade",
+        "id": 125891,
+        "strassenbezeichnung": "Seepromenade"
+    }
+]

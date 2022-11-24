@@ -1,0 +1,372 @@
+[
+    {
+        "kurzbezeichnung": "Pfarrgasse",
+        "id": 43642,
+        "strassenbezeichnung": "Pfarrgasse"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 43668,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Aschacherstraße",
+        "id": 43674,
+        "strassenbezeichnung": "Aschacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenplatz",
+        "id": 43678,
+        "strassenbezeichnung": "Kirchenplatz"
+    },
+    {
+        "kurzbezeichnung": "Schaunbergstraße",
+        "id": 43682,
+        "strassenbezeichnung": "Schaunbergstraße"
+    },
+    {
+        "kurzbezeichnung": "Haizingerstraße",
+        "id": 43696,
+        "strassenbezeichnung": "Haizingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schmiedstraße",
+        "id": 43698,
+        "strassenbezeichnung": "Schmiedstraße"
+    },
+    {
+        "kurzbezeichnung": "Kellneringerstraße",
+        "id": 43699,
+        "strassenbezeichnung": "Kellneringerstraße"
+    },
+    {
+        "kurzbezeichnung": "Am Bühel",
+        "id": 43703,
+        "strassenbezeichnung": "Am Bühel"
+    },
+    {
+        "kurzbezeichnung": "Kapellenstraße",
+        "id": 43706,
+        "strassenbezeichnung": "Kapellenstraße"
+    },
+    {
+        "kurzbezeichnung": "Friedhofstraße",
+        "id": 43711,
+        "strassenbezeichnung": "Friedhofstraße"
+    },
+    {
+        "kurzbezeichnung": "Moosweg",
+        "id": 43760,
+        "strassenbezeichnung": "Moosweg"
+    },
+    {
+        "kurzbezeichnung": "Staufgasse",
+        "id": 43762,
+        "strassenbezeichnung": "Staufgasse"
+    },
+    {
+        "kurzbezeichnung": "Stephanstraße",
+        "id": 43775,
+        "strassenbezeichnung": "Stephanstraße"
+    },
+    {
+        "kurzbezeichnung": "Lohningerstraße",
+        "id": 43784,
+        "strassenbezeichnung": "Lohningerstraße"
+    },
+    {
+        "kurzbezeichnung": "Eichenweg",
+        "id": 43795,
+        "strassenbezeichnung": "Eichenweg"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisenstraße",
+        "id": 43800,
+        "strassenbezeichnung": "Raiffeisenstraße"
+    },
+    {
+        "kurzbezeichnung": "Egedacherstraße",
+        "id": 43803,
+        "strassenbezeichnung": "Egedacherstraße"
+    },
+    {
+        "kurzbezeichnung": "Billingerstraße",
+        "id": 43808,
+        "strassenbezeichnung": "Billingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Langothweg",
+        "id": 43811,
+        "strassenbezeichnung": "Langothweg"
+    },
+    {
+        "kurzbezeichnung": "Pflegerstraße",
+        "id": 43829,
+        "strassenbezeichnung": "Pflegerstraße"
+    },
+    {
+        "kurzbezeichnung": "Ammerstorferstraße",
+        "id": 43830,
+        "strassenbezeichnung": "Ammerstorferstraße"
+    },
+    {
+        "kurzbezeichnung": "Karlingerstraße",
+        "id": 43841,
+        "strassenbezeichnung": "Karlingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lindenweg",
+        "id": 43855,
+        "strassenbezeichnung": "Lindenweg"
+    },
+    {
+        "kurzbezeichnung": "Staudachstraße",
+        "id": 43859,
+        "strassenbezeichnung": "Staudachstraße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 43868,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Deinhamerstraße",
+        "id": 43876,
+        "strassenbezeichnung": "Deinhamerstraße"
+    },
+    {
+        "kurzbezeichnung": "Halstenbekerstraße",
+        "id": 43892,
+        "strassenbezeichnung": "Halstenbekerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kornblumenweg",
+        "id": 43947,
+        "strassenbezeichnung": "Kornblumenweg"
+    },
+    {
+        "kurzbezeichnung": "Hacklweg",
+        "id": 59733,
+        "strassenbezeichnung": "Hacklweg"
+    },
+    {
+        "kurzbezeichnung": "Feldweg",
+        "id": 72693,
+        "strassenbezeichnung": "Feldweg"
+    },
+    {
+        "kurzbezeichnung": "Buchenweg",
+        "id": 72694,
+        "strassenbezeichnung": "Buchenweg"
+    },
+    {
+        "kurzbezeichnung": "Lackenweg",
+        "id": 73813,
+        "strassenbezeichnung": "Lackenweg"
+    },
+    {
+        "kurzbezeichnung": "Weidenweg",
+        "id": 73814,
+        "strassenbezeichnung": "Weidenweg"
+    },
+    {
+        "kurzbezeichnung": "Hinterberg",
+        "id": 82553,
+        "strassenbezeichnung": "Hinterberg"
+    },
+    {
+        "kurzbezeichnung": "Deinham",
+        "id": 82579,
+        "strassenbezeichnung": "Deinham"
+    },
+    {
+        "kurzbezeichnung": "Dorf",
+        "id": 82580,
+        "strassenbezeichnung": "Dorf"
+    },
+    {
+        "kurzbezeichnung": "Gfehret",
+        "id": 82581,
+        "strassenbezeichnung": "Gfehret"
+    },
+    {
+        "kurzbezeichnung": "Gstaltenhof",
+        "id": 82582,
+        "strassenbezeichnung": "Gstaltenhof"
+    },
+    {
+        "kurzbezeichnung": "Hachlham",
+        "id": 82583,
+        "strassenbezeichnung": "Hachlham"
+    },
+    {
+        "kurzbezeichnung": "Hacking",
+        "id": 82584,
+        "strassenbezeichnung": "Hacking"
+    },
+    {
+        "kurzbezeichnung": "Hainbach",
+        "id": 82585,
+        "strassenbezeichnung": "Hainbach"
+    },
+    {
+        "kurzbezeichnung": "Haizing",
+        "id": 82586,
+        "strassenbezeichnung": "Haizing"
+    },
+    {
+        "kurzbezeichnung": "Hart ob Hacking",
+        "id": 82588,
+        "strassenbezeichnung": "Hart ob Hacking"
+    },
+    {
+        "kurzbezeichnung": "Hart ob Haizing",
+        "id": 82589,
+        "strassenbezeichnung": "Hart ob Haizing"
+    },
+    {
+        "kurzbezeichnung": "Hilkering",
+        "id": 82590,
+        "strassenbezeichnung": "Hilkering"
+    },
+    {
+        "kurzbezeichnung": "Hinteraigen",
+        "id": 82591,
+        "strassenbezeichnung": "Hinteraigen"
+    },
+    {
+        "kurzbezeichnung": "Hörmannsedt",
+        "id": 82593,
+        "strassenbezeichnung": "Hörmannsedt"
+    },
+    {
+        "kurzbezeichnung": "Karling",
+        "id": 82594,
+        "strassenbezeichnung": "Karling"
+    },
+    {
+        "kurzbezeichnung": "Kellnering",
+        "id": 82595,
+        "strassenbezeichnung": "Kellnering"
+    },
+    {
+        "kurzbezeichnung": "Knieparz u. d. Leithen",
+        "id": 82596,
+        "strassenbezeichnung": "Knieparz unter der Leithen"
+    },
+    {
+        "kurzbezeichnung": "Koppl",
+        "id": 82597,
+        "strassenbezeichnung": "Koppl"
+    },
+    {
+        "kurzbezeichnung": "Lacken",
+        "id": 82598,
+        "strassenbezeichnung": "Lacken"
+    },
+    {
+        "kurzbezeichnung": "Mußbach",
+        "id": 82599,
+        "strassenbezeichnung": "Mußbach"
+    },
+    {
+        "kurzbezeichnung": "Öd in Bergen",
+        "id": 82600,
+        "strassenbezeichnung": "Öd in Bergen"
+    },
+    {
+        "kurzbezeichnung": "Paching",
+        "id": 82601,
+        "strassenbezeichnung": "Paching"
+    },
+    {
+        "kurzbezeichnung": "Pfaffing",
+        "id": 82602,
+        "strassenbezeichnung": "Pfaffing"
+    },
+    {
+        "kurzbezeichnung": "Poxham",
+        "id": 82603,
+        "strassenbezeichnung": "Poxham"
+    },
+    {
+        "kurzbezeichnung": "Rathen",
+        "id": 82605,
+        "strassenbezeichnung": "Rathen"
+    },
+    {
+        "kurzbezeichnung": "Reith",
+        "id": 82606,
+        "strassenbezeichnung": "Reith"
+    },
+    {
+        "kurzbezeichnung": "Rienberg",
+        "id": 82607,
+        "strassenbezeichnung": "Rienberg"
+    },
+    {
+        "kurzbezeichnung": "Schaumberg",
+        "id": 82608,
+        "strassenbezeichnung": "Schaumberg"
+    },
+    {
+        "kurzbezeichnung": "Schönleiten",
+        "id": 82609,
+        "strassenbezeichnung": "Schönleiten"
+    },
+    {
+        "kurzbezeichnung": "Senghübl",
+        "id": 82610,
+        "strassenbezeichnung": "Senghübl"
+    },
+    {
+        "kurzbezeichnung": "Steinwand",
+        "id": 82611,
+        "strassenbezeichnung": "Steinwand"
+    },
+    {
+        "kurzbezeichnung": "Vornholz",
+        "id": 82612,
+        "strassenbezeichnung": "Vornholz"
+    },
+    {
+        "kurzbezeichnung": "Wolfsfurth",
+        "id": 82613,
+        "strassenbezeichnung": "Wolfsfurth"
+    },
+    {
+        "kurzbezeichnung": "Würting",
+        "id": 82614,
+        "strassenbezeichnung": "Würting"
+    },
+    {
+        "kurzbezeichnung": "Zagl",
+        "id": 82615,
+        "strassenbezeichnung": "Zagl"
+    },
+    {
+        "kurzbezeichnung": "Gstaltenhof",
+        "id": 82669,
+        "strassenbezeichnung": "Gstaltenhof"
+    },
+    {
+        "kurzbezeichnung": "Dunzing",
+        "id": 82709,
+        "strassenbezeichnung": "Dunzing"
+    },
+    {
+        "kurzbezeichnung": "Achleitnerstraße",
+        "id": 102841,
+        "strassenbezeichnung": "Achleitnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Feuerwehrstraße",
+        "id": 110184,
+        "strassenbezeichnung": "Feuerwehrstraße"
+    },
+    {
+        "kurzbezeichnung": "Seestraße",
+        "id": 114251,
+        "strassenbezeichnung": "Seestraße"
+    }
+]

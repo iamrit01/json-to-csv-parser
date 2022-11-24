@@ -1,0 +1,612 @@
+[
+    {
+        "kurzbezeichnung": "Oftering",
+        "id": 11362,
+        "strassenbezeichnung": "Oftering"
+    },
+    {
+        "kurzbezeichnung": "Freiling",
+        "id": 84220,
+        "strassenbezeichnung": "Freiling"
+    },
+    {
+        "kurzbezeichnung": "Hausleiten",
+        "id": 84221,
+        "strassenbezeichnung": "Hausleiten"
+    },
+    {
+        "kurzbezeichnung": "Kirchstetten",
+        "id": 84222,
+        "strassenbezeichnung": "Kirchstetten"
+    },
+    {
+        "kurzbezeichnung": "Mitterbachham",
+        "id": 84223,
+        "strassenbezeichnung": "Mitterbachham"
+    },
+    {
+        "kurzbezeichnung": "Niederbachham",
+        "id": 84224,
+        "strassenbezeichnung": "Niederbachham"
+    },
+    {
+        "kurzbezeichnung": "Oberbachham",
+        "id": 84225,
+        "strassenbezeichnung": "Oberbachham"
+    },
+    {
+        "kurzbezeichnung": "Oberbuch",
+        "id": 84226,
+        "strassenbezeichnung": "Oberbuch"
+    },
+    {
+        "kurzbezeichnung": "Oberndorf",
+        "id": 84227,
+        "strassenbezeichnung": "Oberndorf"
+    },
+    {
+        "kurzbezeichnung": "Staudach",
+        "id": 84228,
+        "strassenbezeichnung": "Staudach"
+    },
+    {
+        "kurzbezeichnung": "Trindorf",
+        "id": 84229,
+        "strassenbezeichnung": "Trindorf"
+    },
+    {
+        "kurzbezeichnung": "Unterholz",
+        "id": 84230,
+        "strassenbezeichnung": "Unterholz"
+    },
+    {
+        "kurzbezeichnung": "Schlossweg",
+        "id": 112690,
+        "strassenbezeichnung": "Schlossweg"
+    },
+    {
+        "kurzbezeichnung": "Landgutstraße",
+        "id": 112691,
+        "strassenbezeichnung": "Landgutstraße"
+    },
+    {
+        "kurzbezeichnung": "Freilinger Straße",
+        "id": 112692,
+        "strassenbezeichnung": "Freilinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Reischekstraße",
+        "id": 112693,
+        "strassenbezeichnung": "Reischekstraße"
+    },
+    {
+        "kurzbezeichnung": "Keplerstraße",
+        "id": 112694,
+        "strassenbezeichnung": "Keplerstraße"
+    },
+    {
+        "kurzbezeichnung": "Lienemayerstraße",
+        "id": 112695,
+        "strassenbezeichnung": "Lienemayerstraße"
+    },
+    {
+        "kurzbezeichnung": "Holzstraße",
+        "id": 112696,
+        "strassenbezeichnung": "Holzstraße"
+    },
+    {
+        "kurzbezeichnung": "Negrellistraße",
+        "id": 112697,
+        "strassenbezeichnung": "Negrellistraße"
+    },
+    {
+        "kurzbezeichnung": "Kaplanstraße",
+        "id": 112698,
+        "strassenbezeichnung": "Kaplanstraße"
+    },
+    {
+        "kurzbezeichnung": "Paulistraße",
+        "id": 112699,
+        "strassenbezeichnung": "Paulistraße"
+    },
+    {
+        "kurzbezeichnung": "Einsteinstraße",
+        "id": 112700,
+        "strassenbezeichnung": "Einsteinstraße"
+    },
+    {
+        "kurzbezeichnung": "Resselstraße",
+        "id": 112701,
+        "strassenbezeichnung": "Resselstraße"
+    },
+    {
+        "kurzbezeichnung": "Dieselstraße",
+        "id": 112702,
+        "strassenbezeichnung": "Dieselstraße"
+    },
+    {
+        "kurzbezeichnung": "Marchtrenker Straße",
+        "id": 112703,
+        "strassenbezeichnung": "Marchtrenker Straße"
+    },
+    {
+        "kurzbezeichnung": "Dinkelweg",
+        "id": 112704,
+        "strassenbezeichnung": "Dinkelweg"
+    },
+    {
+        "kurzbezeichnung": "Rohrerstraße",
+        "id": 112705,
+        "strassenbezeichnung": "Rohrerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchstettener Straße",
+        "id": 112706,
+        "strassenbezeichnung": "Kirchstettener Straße"
+    },
+    {
+        "kurzbezeichnung": "Hopfenstraße",
+        "id": 112707,
+        "strassenbezeichnung": "Hopfenstraße"
+    },
+    {
+        "kurzbezeichnung": "Weizenstraße",
+        "id": 112708,
+        "strassenbezeichnung": "Weizenstraße"
+    },
+    {
+        "kurzbezeichnung": "Gerstenstraße",
+        "id": 112709,
+        "strassenbezeichnung": "Gerstenstraße"
+    },
+    {
+        "kurzbezeichnung": "Kornstraße",
+        "id": 112710,
+        "strassenbezeichnung": "Kornstraße"
+    },
+    {
+        "kurzbezeichnung": "Eisengraben",
+        "id": 112711,
+        "strassenbezeichnung": "Eisengraben"
+    },
+    {
+        "kurzbezeichnung": "Haferstraße",
+        "id": 112712,
+        "strassenbezeichnung": "Haferstraße"
+    },
+    {
+        "kurzbezeichnung": "Aichgraben",
+        "id": 112713,
+        "strassenbezeichnung": "Aichgraben"
+    },
+    {
+        "kurzbezeichnung": "Fischerstraße",
+        "id": 112714,
+        "strassenbezeichnung": "Fischerstraße"
+    },
+    {
+        "kurzbezeichnung": "Gruberstraße",
+        "id": 112715,
+        "strassenbezeichnung": "Gruberstraße"
+    },
+    {
+        "kurzbezeichnung": "Zimmermannweg",
+        "id": 112716,
+        "strassenbezeichnung": "Zimmermannweg"
+    },
+    {
+        "kurzbezeichnung": "Weberweg",
+        "id": 112717,
+        "strassenbezeichnung": "Weberweg"
+    },
+    {
+        "kurzbezeichnung": "Bründlweg",
+        "id": 112718,
+        "strassenbezeichnung": "Bründlweg"
+    },
+    {
+        "kurzbezeichnung": "Mayrgutstraße",
+        "id": 112719,
+        "strassenbezeichnung": "Mayrgutstraße"
+    },
+    {
+        "kurzbezeichnung": "Grillparzerstraße",
+        "id": 112720,
+        "strassenbezeichnung": "Grillparzerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schneiderweg",
+        "id": 112721,
+        "strassenbezeichnung": "Schneiderweg"
+    },
+    {
+        "kurzbezeichnung": "Schusterstraße",
+        "id": 112722,
+        "strassenbezeichnung": "Schusterstraße"
+    },
+    {
+        "kurzbezeichnung": "Tischlerweg",
+        "id": 112723,
+        "strassenbezeichnung": "Tischlerweg"
+    },
+    {
+        "kurzbezeichnung": "Bäckerweg",
+        "id": 112724,
+        "strassenbezeichnung": "Bäckerweg"
+    },
+    {
+        "kurzbezeichnung": "Binderstraße",
+        "id": 112725,
+        "strassenbezeichnung": "Binderstraße"
+    },
+    {
+        "kurzbezeichnung": "Seilerstraße",
+        "id": 112726,
+        "strassenbezeichnung": "Seilerstraße"
+    },
+    {
+        "kurzbezeichnung": "Heidingerstraße",
+        "id": 112727,
+        "strassenbezeichnung": "Heidingerstraße"
+    },
+    {
+        "kurzbezeichnung": "Eiselmayrstraße",
+        "id": 112728,
+        "strassenbezeichnung": "Eiselmayrstraße"
+    },
+    {
+        "kurzbezeichnung": "Drechslerstraße",
+        "id": 112729,
+        "strassenbezeichnung": "Drechslerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schmiedweg",
+        "id": 112730,
+        "strassenbezeichnung": "Schmiedweg"
+    },
+    {
+        "kurzbezeichnung": "Färberweg",
+        "id": 112731,
+        "strassenbezeichnung": "Färberweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterbachhamer Straße",
+        "id": 112732,
+        "strassenbezeichnung": "Mitterbachhamer Straße"
+    },
+    {
+        "kurzbezeichnung": "Fliederweg",
+        "id": 112733,
+        "strassenbezeichnung": "Fliederweg"
+    },
+    {
+        "kurzbezeichnung": "Niederbachhamer Straße",
+        "id": 112734,
+        "strassenbezeichnung": "Niederbachhamer Straße"
+    },
+    {
+        "kurzbezeichnung": "Hollerweg",
+        "id": 112735,
+        "strassenbezeichnung": "Hollerweg"
+    },
+    {
+        "kurzbezeichnung": "Westbahnstraße",
+        "id": 112736,
+        "strassenbezeichnung": "Westbahnstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberbrandhofweg",
+        "id": 112737,
+        "strassenbezeichnung": "Oberbrandhofweg"
+    },
+    {
+        "kurzbezeichnung": "Goldweg",
+        "id": 112738,
+        "strassenbezeichnung": "Goldweg"
+    },
+    {
+        "kurzbezeichnung": "Bärenstraße",
+        "id": 112739,
+        "strassenbezeichnung": "Bärenstraße"
+    },
+    {
+        "kurzbezeichnung": "Oberbachhamer Straße",
+        "id": 112740,
+        "strassenbezeichnung": "Oberbachhamer Straße"
+    },
+    {
+        "kurzbezeichnung": "Mühlgasse",
+        "id": 112741,
+        "strassenbezeichnung": "Mühlgasse"
+    },
+    {
+        "kurzbezeichnung": "Oberbucher Straße",
+        "id": 112742,
+        "strassenbezeichnung": "Oberbucher Straße"
+    },
+    {
+        "kurzbezeichnung": "Schülerstraße",
+        "id": 112743,
+        "strassenbezeichnung": "Schülerstraße"
+    },
+    {
+        "kurzbezeichnung": "Mittermayrweg",
+        "id": 112744,
+        "strassenbezeichnung": "Mittermayrweg"
+    },
+    {
+        "kurzbezeichnung": "Mitterlehnerstraße",
+        "id": 112745,
+        "strassenbezeichnung": "Mitterlehnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kubinstraße",
+        "id": 112746,
+        "strassenbezeichnung": "Kubinstraße"
+    },
+    {
+        "kurzbezeichnung": "Klimtweg",
+        "id": 112747,
+        "strassenbezeichnung": "Klimtweg"
+    },
+    {
+        "kurzbezeichnung": "Teichweg",
+        "id": 112748,
+        "strassenbezeichnung": "Teichweg"
+    },
+    {
+        "kurzbezeichnung": "Spatenstraße",
+        "id": 112749,
+        "strassenbezeichnung": "Spatenstraße"
+    },
+    {
+        "kurzbezeichnung": "Wurmstraße",
+        "id": 112750,
+        "strassenbezeichnung": "Wurmstraße"
+    },
+    {
+        "kurzbezeichnung": "Kranzinger Straße",
+        "id": 112751,
+        "strassenbezeichnung": "Kranzinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Ofteringer Straße",
+        "id": 112752,
+        "strassenbezeichnung": "Ofteringer Straße"
+    },
+    {
+        "kurzbezeichnung": "Lehnerstraße",
+        "id": 112753,
+        "strassenbezeichnung": "Lehnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Ehmayrstraße",
+        "id": 112754,
+        "strassenbezeichnung": "Ehmayrstraße"
+    },
+    {
+        "kurzbezeichnung": "Aubachstraße",
+        "id": 112755,
+        "strassenbezeichnung": "Aubachstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchenweg",
+        "id": 112756,
+        "strassenbezeichnung": "Kirchenweg"
+    },
+    {
+        "kurzbezeichnung": "Nestroystraße",
+        "id": 112757,
+        "strassenbezeichnung": "Nestroystraße"
+    },
+    {
+        "kurzbezeichnung": "Staudacher Straße",
+        "id": 112758,
+        "strassenbezeichnung": "Staudacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Roseggerstraße",
+        "id": 112759,
+        "strassenbezeichnung": "Roseggerstraße"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzstraße",
+        "id": 112760,
+        "strassenbezeichnung": "Sportplatzstraße"
+    },
+    {
+        "kurzbezeichnung": "Stifterweg",
+        "id": 112761,
+        "strassenbezeichnung": "Stifterweg"
+    },
+    {
+        "kurzbezeichnung": "Stelzhamerweg",
+        "id": 112762,
+        "strassenbezeichnung": "Stelzhamerweg"
+    },
+    {
+        "kurzbezeichnung": "Riegerstraße",
+        "id": 112763,
+        "strassenbezeichnung": "Riegerstraße"
+    },
+    {
+        "kurzbezeichnung": "Beethovenstraße",
+        "id": 112764,
+        "strassenbezeichnung": "Beethovenstraße"
+    },
+    {
+        "kurzbezeichnung": "Mozartstraße",
+        "id": 112765,
+        "strassenbezeichnung": "Mozartstraße"
+    },
+    {
+        "kurzbezeichnung": "Wagnerstraße",
+        "id": 112766,
+        "strassenbezeichnung": "Wagnerstraße"
+    },
+    {
+        "kurzbezeichnung": "Haydnweg",
+        "id": 112767,
+        "strassenbezeichnung": "Haydnweg"
+    },
+    {
+        "kurzbezeichnung": "Lannerweg",
+        "id": 112768,
+        "strassenbezeichnung": "Lannerweg"
+    },
+    {
+        "kurzbezeichnung": "Brucknerweg",
+        "id": 112769,
+        "strassenbezeichnung": "Brucknerweg"
+    },
+    {
+        "kurzbezeichnung": "Leharstraße",
+        "id": 112770,
+        "strassenbezeichnung": "Leharstraße"
+    },
+    {
+        "kurzbezeichnung": "Fennerlweg",
+        "id": 112771,
+        "strassenbezeichnung": "Fennerlweg"
+    },
+    {
+        "kurzbezeichnung": "Rothbergerstraße",
+        "id": 112772,
+        "strassenbezeichnung": "Rothbergerstraße"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 112773,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Gartenstraße",
+        "id": 112774,
+        "strassenbezeichnung": "Gartenstraße"
+    },
+    {
+        "kurzbezeichnung": "Trindorfer Straße",
+        "id": 112775,
+        "strassenbezeichnung": "Trindorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Haidbachstraße",
+        "id": 112776,
+        "strassenbezeichnung": "Haidbachstraße"
+    },
+    {
+        "kurzbezeichnung": "Lilienweg",
+        "id": 112777,
+        "strassenbezeichnung": "Lilienweg"
+    },
+    {
+        "kurzbezeichnung": "Bachweg",
+        "id": 112778,
+        "strassenbezeichnung": "Bachweg"
+    },
+    {
+        "kurzbezeichnung": "Samhaberstraße",
+        "id": 112779,
+        "strassenbezeichnung": "Samhaberstraße"
+    },
+    {
+        "kurzbezeichnung": "Enzianweg",
+        "id": 112780,
+        "strassenbezeichnung": "Enzianweg"
+    },
+    {
+        "kurzbezeichnung": "Tulpenstraße",
+        "id": 112781,
+        "strassenbezeichnung": "Tulpenstraße"
+    },
+    {
+        "kurzbezeichnung": "Primelweg",
+        "id": 112782,
+        "strassenbezeichnung": "Primelweg"
+    },
+    {
+        "kurzbezeichnung": "Narzissenweg",
+        "id": 112783,
+        "strassenbezeichnung": "Narzissenweg"
+    },
+    {
+        "kurzbezeichnung": "Rosenweg",
+        "id": 112784,
+        "strassenbezeichnung": "Rosenweg"
+    },
+    {
+        "kurzbezeichnung": "Nelkenstraße",
+        "id": 112785,
+        "strassenbezeichnung": "Nelkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Hörschinger Straße",
+        "id": 112786,
+        "strassenbezeichnung": "Hörschinger Straße"
+    },
+    {
+        "kurzbezeichnung": "Waldstraße",
+        "id": 112787,
+        "strassenbezeichnung": "Waldstraße"
+    },
+    {
+        "kurzbezeichnung": "Unterholzer Straße",
+        "id": 112788,
+        "strassenbezeichnung": "Unterholzer Straße"
+    },
+    {
+        "kurzbezeichnung": "Ulmenstraße",
+        "id": 112789,
+        "strassenbezeichnung": "Ulmenstraße"
+    },
+    {
+        "kurzbezeichnung": "Birkenstraße",
+        "id": 112790,
+        "strassenbezeichnung": "Birkenstraße"
+    },
+    {
+        "kurzbezeichnung": "Eichenstraße",
+        "id": 112791,
+        "strassenbezeichnung": "Eichenstraße"
+    },
+    {
+        "kurzbezeichnung": "Naturfreundestraße",
+        "id": 112792,
+        "strassenbezeichnung": "Naturfreundestraße"
+    },
+    {
+        "kurzbezeichnung": "Pappelweg",
+        "id": 112793,
+        "strassenbezeichnung": "Pappelweg"
+    },
+    {
+        "kurzbezeichnung": "Fichtenstraße",
+        "id": 112794,
+        "strassenbezeichnung": "Fichtenstraße"
+    },
+    {
+        "kurzbezeichnung": "Aignerstraße",
+        "id": 112795,
+        "strassenbezeichnung": "Aignerstraße"
+    },
+    {
+        "kurzbezeichnung": "Schubertstraße",
+        "id": 112796,
+        "strassenbezeichnung": "Schubertstraße"
+    },
+    {
+        "kurzbezeichnung": "Kirchmayrstraße",
+        "id": 114578,
+        "strassenbezeichnung": "Kirchmayrstraße"
+    },
+    {
+        "kurzbezeichnung": "Sattlerweg",
+        "id": 125061,
+        "strassenbezeichnung": "Sattlerweg"
+    },
+    {
+        "kurzbezeichnung": "Am Schmiedberg",
+        "id": 125062,
+        "strassenbezeichnung": "Am Schmiedberg"
+    }
+]

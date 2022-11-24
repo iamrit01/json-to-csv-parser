@@ -1,0 +1,442 @@
+[
+    {
+        "kurzbezeichnung": "Brennerkogelweg",
+        "id": -33351,
+        "strassenbezeichnung": "Brennerkogelweg"
+    },
+    {
+        "kurzbezeichnung": "Retschitz-Simonhöhe",
+        "id": 56449,
+        "strassenbezeichnung": "Retschitz-Simonhöhe"
+    },
+    {
+        "kurzbezeichnung": "Retschitz",
+        "id": 56450,
+        "strassenbezeichnung": "Retschitz"
+    },
+    {
+        "kurzbezeichnung": "Agsdorf",
+        "id": 76758,
+        "strassenbezeichnung": "Agsdorf"
+    },
+    {
+        "kurzbezeichnung": "Agsdorf-Gegend",
+        "id": 76759,
+        "strassenbezeichnung": "Agsdorf-Gegend"
+    },
+    {
+        "kurzbezeichnung": "Bach",
+        "id": 76760,
+        "strassenbezeichnung": "Bach"
+    },
+    {
+        "kurzbezeichnung": "Bach-Sankt Urban",
+        "id": 76761,
+        "strassenbezeichnung": "Bach-Sankt Urban"
+    },
+    {
+        "kurzbezeichnung": "Eggen",
+        "id": 76762,
+        "strassenbezeichnung": "Eggen"
+    },
+    {
+        "kurzbezeichnung": "Gall",
+        "id": 76763,
+        "strassenbezeichnung": "Gall"
+    },
+    {
+        "kurzbezeichnung": "Gasmai",
+        "id": 76764,
+        "strassenbezeichnung": "Gasmai"
+    },
+    {
+        "kurzbezeichnung": "Göschl",
+        "id": 76765,
+        "strassenbezeichnung": "Göschl"
+    },
+    {
+        "kurzbezeichnung": "Grai",
+        "id": 76766,
+        "strassenbezeichnung": "Grai"
+    },
+    {
+        "kurzbezeichnung": "Hafenberg",
+        "id": 76767,
+        "strassenbezeichnung": "Hafenberg"
+    },
+    {
+        "kurzbezeichnung": "Kleingradenegg",
+        "id": 76768,
+        "strassenbezeichnung": "Kleingradenegg"
+    },
+    {
+        "kurzbezeichnung": "Lawesen",
+        "id": 76769,
+        "strassenbezeichnung": "Lawesen"
+    },
+    {
+        "kurzbezeichnung": "Oberdorf",
+        "id": 76770,
+        "strassenbezeichnung": "Oberdorf"
+    },
+    {
+        "kurzbezeichnung": "Reggen",
+        "id": 76771,
+        "strassenbezeichnung": "Reggen"
+    },
+    {
+        "kurzbezeichnung": "Rittolach",
+        "id": 76772,
+        "strassenbezeichnung": "Rittolach"
+    },
+    {
+        "kurzbezeichnung": "Rogg",
+        "id": 76773,
+        "strassenbezeichnung": "Rogg"
+    },
+    {
+        "kurzbezeichnung": "Sankt Urban",
+        "id": 76775,
+        "strassenbezeichnung": "Sankt Urban"
+    },
+    {
+        "kurzbezeichnung": "Stattenberg",
+        "id": 76776,
+        "strassenbezeichnung": "Stattenberg"
+    },
+    {
+        "kurzbezeichnung": "Trenk",
+        "id": 76777,
+        "strassenbezeichnung": "Trenk"
+    },
+    {
+        "kurzbezeichnung": "Tumpf",
+        "id": 76778,
+        "strassenbezeichnung": "Tumpf"
+    },
+    {
+        "kurzbezeichnung": "Zirkitz",
+        "id": 76779,
+        "strassenbezeichnung": "Zirkitz"
+    },
+    {
+        "kurzbezeichnung": "Zwattendorf",
+        "id": 76780,
+        "strassenbezeichnung": "Zwattendorf"
+    },
+    {
+        "kurzbezeichnung": "Gößeberg",
+        "id": 90248,
+        "strassenbezeichnung": "Gößeberg"
+    },
+    {
+        "kurzbezeichnung": "Bundesstraße",
+        "id": 116278,
+        "strassenbezeichnung": "Bundesstraße"
+    },
+    {
+        "kurzbezeichnung": "Julius-Haberl-Weg",
+        "id": 116279,
+        "strassenbezeichnung": "Julius-Haberl-Weg"
+    },
+    {
+        "kurzbezeichnung": "Grabensägeweg",
+        "id": 116280,
+        "strassenbezeichnung": "Grabensägeweg"
+    },
+    {
+        "kurzbezeichnung": "Schoberweg",
+        "id": 116281,
+        "strassenbezeichnung": "Schoberweg"
+    },
+    {
+        "kurzbezeichnung": "Grubmühlenweg",
+        "id": 116282,
+        "strassenbezeichnung": "Grubmühlenweg"
+    },
+    {
+        "kurzbezeichnung": "Schupfenbauerweg",
+        "id": 116283,
+        "strassenbezeichnung": "Schupfenbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Glantalstraße",
+        "id": 116284,
+        "strassenbezeichnung": "Glantalstraße"
+    },
+    {
+        "kurzbezeichnung": "Aichwaldweg",
+        "id": 116285,
+        "strassenbezeichnung": "Aichwaldweg"
+    },
+    {
+        "kurzbezeichnung": "Rosenheimweg",
+        "id": 116286,
+        "strassenbezeichnung": "Rosenheimweg"
+    },
+    {
+        "kurzbezeichnung": "Agsdorfer Straße",
+        "id": 116287,
+        "strassenbezeichnung": "Agsdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Erik-Schinegger-Weg",
+        "id": 116288,
+        "strassenbezeichnung": "Erik-Schinegger-Weg"
+    },
+    {
+        "kurzbezeichnung": "Sonnrainweg",
+        "id": 116289,
+        "strassenbezeichnung": "Sonnrainweg"
+    },
+    {
+        "kurzbezeichnung": "Seeweg",
+        "id": 116290,
+        "strassenbezeichnung": "Seeweg"
+    },
+    {
+        "kurzbezeichnung": "Birkbichlweg",
+        "id": 116291,
+        "strassenbezeichnung": "Birkbichlweg"
+    },
+    {
+        "kurzbezeichnung": "Teichkogelweg",
+        "id": 116292,
+        "strassenbezeichnung": "Teichkogelweg"
+    },
+    {
+        "kurzbezeichnung": "Karawankenblickweg",
+        "id": 116293,
+        "strassenbezeichnung": "Karawankenblickweg"
+    },
+    {
+        "kurzbezeichnung": "Jakob-Wernig-Weg",
+        "id": 116294,
+        "strassenbezeichnung": "Jakob-Wernig-Weg"
+    },
+    {
+        "kurzbezeichnung": "Am Waldrand",
+        "id": 116295,
+        "strassenbezeichnung": "Am Waldrand"
+    },
+    {
+        "kurzbezeichnung": "Südblick",
+        "id": 116296,
+        "strassenbezeichnung": "Südblick"
+    },
+    {
+        "kurzbezeichnung": "Neuhoferweg",
+        "id": 116297,
+        "strassenbezeichnung": "Neuhoferweg"
+    },
+    {
+        "kurzbezeichnung": "Rottendorfer Straße",
+        "id": 116298,
+        "strassenbezeichnung": "Rottendorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Am Sonnenhang",
+        "id": 116299,
+        "strassenbezeichnung": "Am Sonnenhang"
+    },
+    {
+        "kurzbezeichnung": "Koflerweg",
+        "id": 116300,
+        "strassenbezeichnung": "Koflerweg"
+    },
+    {
+        "kurzbezeichnung": "Oberdorfer Straße",
+        "id": 116301,
+        "strassenbezeichnung": "Oberdorfer Straße"
+    },
+    {
+        "kurzbezeichnung": "Quellenweg",
+        "id": 116302,
+        "strassenbezeichnung": "Quellenweg"
+    },
+    {
+        "kurzbezeichnung": "Birkenweg",
+        "id": 116303,
+        "strassenbezeichnung": "Birkenweg"
+    },
+    {
+        "kurzbezeichnung": "Straklerweg",
+        "id": 116304,
+        "strassenbezeichnung": "Straklerweg"
+    },
+    {
+        "kurzbezeichnung": "Galler Straße",
+        "id": 116305,
+        "strassenbezeichnung": "Galler Straße"
+    },
+    {
+        "kurzbezeichnung": "Bartlweg",
+        "id": 116306,
+        "strassenbezeichnung": "Bartlweg"
+    },
+    {
+        "kurzbezeichnung": "Simonhöhe Straße",
+        "id": 116307,
+        "strassenbezeichnung": "Simonhöhe Straße"
+    },
+    {
+        "kurzbezeichnung": "Simonhöhe",
+        "id": 116308,
+        "strassenbezeichnung": "Simonhöhe"
+    },
+    {
+        "kurzbezeichnung": "Leitnweg",
+        "id": 116310,
+        "strassenbezeichnung": "Leitnweg"
+    },
+    {
+        "kurzbezeichnung": "Roggstraße",
+        "id": 116311,
+        "strassenbezeichnung": "Roggstraße"
+    },
+    {
+        "kurzbezeichnung": "Ochsenbödnerweg",
+        "id": 116312,
+        "strassenbezeichnung": "Ochsenbödnerweg"
+    },
+    {
+        "kurzbezeichnung": "Urbanstraße",
+        "id": 116313,
+        "strassenbezeichnung": "Urbanstraße"
+    },
+    {
+        "kurzbezeichnung": "Dorfplatz",
+        "id": 116314,
+        "strassenbezeichnung": "Dorfplatz"
+    },
+    {
+        "kurzbezeichnung": "Liemberger Straße",
+        "id": 116315,
+        "strassenbezeichnung": "Liemberger Straße"
+    },
+    {
+        "kurzbezeichnung": "Stattenberger Straße",
+        "id": 116316,
+        "strassenbezeichnung": "Stattenberger Straße"
+    },
+    {
+        "kurzbezeichnung": "Sonnleitnweg",
+        "id": 116317,
+        "strassenbezeichnung": "Sonnleitnweg"
+    },
+    {
+        "kurzbezeichnung": "Steinweg",
+        "id": 116318,
+        "strassenbezeichnung": "Steinweg"
+    },
+    {
+        "kurzbezeichnung": "Schlossstraße",
+        "id": 116319,
+        "strassenbezeichnung": "Schlossstraße"
+    },
+    {
+        "kurzbezeichnung": "Seeblick",
+        "id": 116320,
+        "strassenbezeichnung": "Seeblick"
+    },
+    {
+        "kurzbezeichnung": "Bacher Straße",
+        "id": 116321,
+        "strassenbezeichnung": "Bacher Straße"
+    },
+    {
+        "kurzbezeichnung": "Erlenweg",
+        "id": 116322,
+        "strassenbezeichnung": "Erlenweg"
+    },
+    {
+        "kurzbezeichnung": "Alois-Kogler-Weg",
+        "id": 116323,
+        "strassenbezeichnung": "Alois-Kogler-Weg"
+    },
+    {
+        "kurzbezeichnung": "Bacherschmiedweg",
+        "id": 116324,
+        "strassenbezeichnung": "Bacherschmiedweg"
+    },
+    {
+        "kurzbezeichnung": "Kirchweg",
+        "id": 116325,
+        "strassenbezeichnung": "Kirchweg"
+    },
+    {
+        "kurzbezeichnung": "Johann-Scheiber-Weg",
+        "id": 116326,
+        "strassenbezeichnung": "Johann-Scheiber-Weg"
+    },
+    {
+        "kurzbezeichnung": "Mithrasweg",
+        "id": 116328,
+        "strassenbezeichnung": "Mithrasweg"
+    },
+    {
+        "kurzbezeichnung": "Salisserweg",
+        "id": 116329,
+        "strassenbezeichnung": "Salisserweg"
+    },
+    {
+        "kurzbezeichnung": "Hafenberger Weg",
+        "id": 116330,
+        "strassenbezeichnung": "Hafenberger Weg"
+    },
+    {
+        "kurzbezeichnung": "Reggner Straße",
+        "id": 116331,
+        "strassenbezeichnung": "Reggner Straße"
+    },
+    {
+        "kurzbezeichnung": "Hannserweg",
+        "id": 116332,
+        "strassenbezeichnung": "Hannserweg"
+    },
+    {
+        "kurzbezeichnung": "Aschlerweg",
+        "id": 116333,
+        "strassenbezeichnung": "Aschlerweg"
+    },
+    {
+        "kurzbezeichnung": "Gargerweg",
+        "id": 116334,
+        "strassenbezeichnung": "Gargerweg"
+    },
+    {
+        "kurzbezeichnung": "Trenker Straße",
+        "id": 116335,
+        "strassenbezeichnung": "Trenker Straße"
+    },
+    {
+        "kurzbezeichnung": "Körausweg",
+        "id": 116336,
+        "strassenbezeichnung": "Körausweg"
+    },
+    {
+        "kurzbezeichnung": "Trenkbauerweg",
+        "id": 116337,
+        "strassenbezeichnung": "Trenkbauerweg"
+    },
+    {
+        "kurzbezeichnung": "Fernblick",
+        "id": 116338,
+        "strassenbezeichnung": "Fernblick"
+    },
+    {
+        "kurzbezeichnung": "Buggl in Bach",
+        "id": 116339,
+        "strassenbezeichnung": "Buggl in Bach"
+    },
+    {
+        "kurzbezeichnung": "St. Pauler Straße",
+        "id": 116342,
+        "strassenbezeichnung": "St. Pauler Straße"
+    },
+    {
+        "kurzbezeichnung": "Aussichtsweg",
+        "id": 125266,
+        "strassenbezeichnung": "Aussichtsweg"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "kurzbezeichnung": "Blütenweg",
+        "id": -32924,
+        "strassenbezeichnung": "Blütenweg"
+    },
+    {
+        "kurzbezeichnung": "Florianigasse",
+        "id": -30657,
+        "strassenbezeichnung": "Florianigasse"
+    },
+    {
+        "kurzbezeichnung": "Neuhausgasse",
+        "id": -18379,
+        "strassenbezeichnung": "Neuhausgasse"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": -17812,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Berggasse",
+        "id": 867,
+        "strassenbezeichnung": "Berggasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 875,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hirmerstraße",
+        "id": 877,
+        "strassenbezeichnung": "Hirmerstraße"
+    },
+    {
+        "kurzbezeichnung": "Kornfeldgasse",
+        "id": 880,
+        "strassenbezeichnung": "Kornfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Neustiftgasse",
+        "id": 897,
+        "strassenbezeichnung": "Neustiftgasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 917,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Amtsgebäude",
+        "id": 1715,
+        "strassenbezeichnung": "Amtsgebäude"
+    },
+    {
+        "kurzbezeichnung": "Römersee",
+        "id": 1716,
+        "strassenbezeichnung": "Römersee"
+    },
+    {
+        "kurzbezeichnung": "Brunngasse",
+        "id": 1718,
+        "strassenbezeichnung": "Brunngasse"
+    },
+    {
+        "kurzbezeichnung": "Eisenstädter Straße",
+        "id": 1719,
+        "strassenbezeichnung": "Eisenstädter Straße"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 1720,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrengasse",
+        "id": 1721,
+        "strassenbezeichnung": "Föhrengasse"
+    },
+    {
+        "kurzbezeichnung": "Gartengasse",
+        "id": 1722,
+        "strassenbezeichnung": "Gartengasse"
+    },
+    {
+        "kurzbezeichnung": "Hauptstraße",
+        "id": 1723,
+        "strassenbezeichnung": "Hauptstraße"
+    },
+    {
+        "kurzbezeichnung": "Hintergasse",
+        "id": 1725,
+        "strassenbezeichnung": "Hintergasse"
+    },
+    {
+        "kurzbezeichnung": "Industriestraße",
+        "id": 1726,
+        "strassenbezeichnung": "Industriestraße"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 1727,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Kinderdorf",
+        "id": 1728,
+        "strassenbezeichnung": "Kinderdorf"
+    },
+    {
+        "kurzbezeichnung": "Kinderdorfstraße",
+        "id": 1729,
+        "strassenbezeichnung": "Kinderdorfstraße"
+    },
+    {
+        "kurzbezeichnung": "Franz Leharstraße",
+        "id": 1730,
+        "strassenbezeichnung": "Franz Leharstraße"
+    },
+    {
+        "kurzbezeichnung": "Kurze Gasse",
+        "id": 1733,
+        "strassenbezeichnung": "Kurze Gasse"
+    },
+    {
+        "kurzbezeichnung": "Raiffeisengasse",
+        "id": 1734,
+        "strassenbezeichnung": "Raiffeisengasse"
+    },
+    {
+        "kurzbezeichnung": "Lichtenwörther Gasse",
+        "id": 1736,
+        "strassenbezeichnung": "Lichtenwörther Gasse"
+    },
+    {
+        "kurzbezeichnung": "Franz Lisztgasse",
+        "id": 1737,
+        "strassenbezeichnung": "Franz Lisztgasse"
+    },
+    {
+        "kurzbezeichnung": "W.A.Mozartstraße",
+        "id": 1738,
+        "strassenbezeichnung": "W.A.Mozartstraße"
+    },
+    {
+        "kurzbezeichnung": "Neubaugasse",
+        "id": 1739,
+        "strassenbezeichnung": "Neubaugasse"
+    },
+    {
+        "kurzbezeichnung": "Neugasse",
+        "id": 1740,
+        "strassenbezeichnung": "Neugasse"
+    },
+    {
+        "kurzbezeichnung": "Ödenburger Straße",
+        "id": 1741,
+        "strassenbezeichnung": "Ödenburger Straße"
+    },
+    {
+        "kurzbezeichnung": "See - V. Straße",
+        "id": 1742,
+        "strassenbezeichnung": "See - V. Straße"
+    },
+    {
+        "kurzbezeichnung": "Franz Schubertstraße",
+        "id": 1744,
+        "strassenbezeichnung": "Franz Schubertstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 1745,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "See - I. Straße",
+        "id": 1746,
+        "strassenbezeichnung": "See - I. Straße"
+    },
+    {
+        "kurzbezeichnung": "See - II. Straße",
+        "id": 1747,
+        "strassenbezeichnung": "See - II. Straße"
+    },
+    {
+        "kurzbezeichnung": "See - III. Straße",
+        "id": 1748,
+        "strassenbezeichnung": "See - III. Straße"
+    },
+    {
+        "kurzbezeichnung": "See - IV. Straße",
+        "id": 1749,
+        "strassenbezeichnung": "See - IV. Straße"
+    },
+    {
+        "kurzbezeichnung": "Pöttschinger See",
+        "id": 1750,
+        "strassenbezeichnung": "Pöttschinger See"
+    },
+    {
+        "kurzbezeichnung": "Seestraße",
+        "id": 1751,
+        "strassenbezeichnung": "Seestraße"
+    },
+    {
+        "kurzbezeichnung": "Siedlung",
+        "id": 1752,
+        "strassenbezeichnung": "Siedlung"
+    },
+    {
+        "kurzbezeichnung": "Stadlgasse",
+        "id": 1754,
+        "strassenbezeichnung": "Stadlgasse"
+    },
+    {
+        "kurzbezeichnung": "Johann Straußgasse",
+        "id": 1755,
+        "strassenbezeichnung": "Johann Straußgasse"
+    },
+    {
+        "kurzbezeichnung": "Josef Haydngasse",
+        "id": 1756,
+        "strassenbezeichnung": "Josef Haydngasse"
+    },
+    {
+        "kurzbezeichnung": "Waldgasse",
+        "id": 1757,
+        "strassenbezeichnung": "Waldgasse"
+    },
+    {
+        "kurzbezeichnung": "Waldweg",
+        "id": 1760,
+        "strassenbezeichnung": "Waldweg"
+    },
+    {
+        "kurzbezeichnung": "Wiener Neustädter Str.",
+        "id": 1761,
+        "strassenbezeichnung": "Wiener Neustädter Straße"
+    },
+    {
+        "kurzbezeichnung": "Bachgasse",
+        "id": 47204,
+        "strassenbezeichnung": "Bachgasse"
+    },
+    {
+        "kurzbezeichnung": "Steinbrunner Straße",
+        "id": 47205,
+        "strassenbezeichnung": "Steinbrunner Straße"
+    },
+    {
+        "kurzbezeichnung": "Landstraße",
+        "id": 47206,
+        "strassenbezeichnung": "Landstraße"
+    },
+    {
+        "kurzbezeichnung": "Schulgasse",
+        "id": 47207,
+        "strassenbezeichnung": "Schulgasse"
+    },
+    {
+        "kurzbezeichnung": "Kirchberggasse",
+        "id": 47208,
+        "strassenbezeichnung": "Kirchberggasse"
+    },
+    {
+        "kurzbezeichnung": "Blumengasse",
+        "id": 47210,
+        "strassenbezeichnung": "Blumengasse"
+    },
+    {
+        "kurzbezeichnung": "Grüngasse",
+        "id": 47211,
+        "strassenbezeichnung": "Grüngasse"
+    },
+    {
+        "kurzbezeichnung": "Kleine Gasse",
+        "id": 47212,
+        "strassenbezeichnung": "Kleine Gasse"
+    },
+    {
+        "kurzbezeichnung": "Beethovenstraße",
+        "id": 51692,
+        "strassenbezeichnung": "Beethovenstraße"
+    },
+    {
+        "kurzbezeichnung": "Wiener Neustädter Str.",
+        "id": 51693,
+        "strassenbezeichnung": "Wiener Neustädter Straße"
+    },
+    {
+        "kurzbezeichnung": "Zehentstraße",
+        "id": 51694,
+        "strassenbezeichnung": "Zehentstraße"
+    },
+    {
+        "kurzbezeichnung": "Peter Zaunergasse",
+        "id": 51695,
+        "strassenbezeichnung": "Peter Zaunergasse"
+    },
+    {
+        "kurzbezeichnung": "Siglesser Straße",
+        "id": 51696,
+        "strassenbezeichnung": "Siglesser Straße"
+    },
+    {
+        "kurzbezeichnung": "Pöttschinger See",
+        "id": 52191,
+        "strassenbezeichnung": "Pöttschinger See"
+    },
+    {
+        "kurzbezeichnung": "Badstraße",
+        "id": 64820,
+        "strassenbezeichnung": "Badstraße"
+    },
+    {
+        "kurzbezeichnung": "Kreuzfeldgasse",
+        "id": 64821,
+        "strassenbezeichnung": "Kreuzfeldgasse"
+    },
+    {
+        "kurzbezeichnung": "Scheibengasse",
+        "id": 64823,
+        "strassenbezeichnung": "Scheibengasse"
+    },
+    {
+        "kurzbezeichnung": "Friedhofsweg",
+        "id": 64947,
+        "strassenbezeichnung": "Friedhofsweg"
+    },
+    {
+        "kurzbezeichnung": "Arenaria",
+        "id": 68826,
+        "strassenbezeichnung": "Arenaria"
+    },
+    {
+        "kurzbezeichnung": "Belenusweg",
+        "id": 68827,
+        "strassenbezeichnung": "Belenusweg"
+    },
+    {
+        "kurzbezeichnung": "Eponaweg",
+        "id": 68828,
+        "strassenbezeichnung": "Eponaweg"
+    },
+    {
+        "kurzbezeichnung": "Taranisweg",
+        "id": 68829,
+        "strassenbezeichnung": "Taranisweg"
+    },
+    {
+        "kurzbezeichnung": "Obere Weideäcker",
+        "id": 73068,
+        "strassenbezeichnung": "Obere Weideäcker"
+    },
+    {
+        "kurzbezeichnung": "Esusweg",
+        "id": 75018,
+        "strassenbezeichnung": "Esusweg"
+    },
+    {
+        "kurzbezeichnung": "Donnerbesenweg",
+        "id": 75019,
+        "strassenbezeichnung": "Donnerbesenweg"
+    },
+    {
+        "kurzbezeichnung": "Belisamaweg",
+        "id": 75020,
+        "strassenbezeichnung": "Belisamaweg"
+    },
+    {
+        "kurzbezeichnung": "Nemetonaweg",
+        "id": 75021,
+        "strassenbezeichnung": "Nemetonaweg"
+    },
+    {
+        "kurzbezeichnung": "Arduinnaweg",
+        "id": 75022,
+        "strassenbezeichnung": "Arduinnaweg"
+    },
+    {
+        "kurzbezeichnung": "Selagoweg",
+        "id": 75023,
+        "strassenbezeichnung": "Selagoweg"
+    },
+    {
+        "kurzbezeichnung": "Scarbantiaweg",
+        "id": 75024,
+        "strassenbezeichnung": "Scarbantiaweg"
+    },
+    {
+        "kurzbezeichnung": "Smertriosweg",
+        "id": 75025,
+        "strassenbezeichnung": "Smertriosweg"
+    },
+    {
+        "kurzbezeichnung": "Damonaweg",
+        "id": 75026,
+        "strassenbezeichnung": "Damonaweg"
+    },
+    {
+        "kurzbezeichnung": "Zipfwald",
+        "id": 75046,
+        "strassenbezeichnung": "Zipfwald"
+    },
+    {
+        "kurzbezeichnung": "Sauerbrunner Straße",
+        "id": 91530,
+        "strassenbezeichnung": "Sauerbrunner Straße"
+    },
+    {
+        "kurzbezeichnung": "Pöttsching. See Rechts",
+        "id": 93649,
+        "strassenbezeichnung": "Pöttschinger See Rechts"
+    },
+    {
+        "kurzbezeichnung": "Feldgasse",
+        "id": 93786,
+        "strassenbezeichnung": "Feldgasse"
+    },
+    {
+        "kurzbezeichnung": "Isolde-Kuchler-Gasse",
+        "id": 93787,
+        "strassenbezeichnung": "Isolde-Kuchler-Gasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrensiedlung",
+        "id": 93794,
+        "strassenbezeichnung": "Föhrensiedlung"
+    },
+    {
+        "kurzbezeichnung": "Getreidegasse",
+        "id": 93795,
+        "strassenbezeichnung": "Getreidegasse"
+    },
+    {
+        "kurzbezeichnung": "Kirschengasse",
+        "id": 93796,
+        "strassenbezeichnung": "Kirschengasse"
+    },
+    {
+        "kurzbezeichnung": "Rosengasse",
+        "id": 96359,
+        "strassenbezeichnung": "Rosengasse"
+    },
+    {
+        "kurzbezeichnung": "Eichengasse",
+        "id": 96537,
+        "strassenbezeichnung": "Eichengasse"
+    },
+    {
+        "kurzbezeichnung": "Arbeitergasse",
+        "id": 96538,
+        "strassenbezeichnung": "Arbeitergasse"
+    },
+    {
+        "kurzbezeichnung": "Mariazellerweg",
+        "id": 96990,
+        "strassenbezeichnung": "Mariazellerweg"
+    },
+    {
+        "kurzbezeichnung": "Sportplatzgasse",
+        "id": 96993,
+        "strassenbezeichnung": "Sportplatzgasse"
+    },
+    {
+        "kurzbezeichnung": "Urbarialgasse",
+        "id": 96995,
+        "strassenbezeichnung": "Urbarialgasse"
+    },
+    {
+        "kurzbezeichnung": "Dr. Heinz Janschek G.",
+        "id": 97071,
+        "strassenbezeichnung": "Dr. Heinz Janschek Gasse"
+    },
+    {
+        "kurzbezeichnung": "Akazienweg",
+        "id": 97180,
+        "strassenbezeichnung": "Akazienweg"
+    },
+    {
+        "kurzbezeichnung": "Lerchengasse",
+        "id": 99647,
+        "strassenbezeichnung": "Lerchengasse"
+    },
+    {
+        "kurzbezeichnung": "Föhrenhof",
+        "id": 100018,
+        "strassenbezeichnung": "Föhrenhof"
+    },
+    {
+        "kurzbezeichnung": "Akaziensdl. III. Str.",
+        "id": 100057,
+        "strassenbezeichnung": "Akaziensiedlung III. Straße"
+    },
+    {
+        "kurzbezeichnung": "Fasangasse",
+        "id": 100937,
+        "strassenbezeichnung": "Fasangasse"
+    },
+    {
+        "kurzbezeichnung": "Hochweg",
+        "id": 102415,
+        "strassenbezeichnung": "Hochweg"
+    },
+    {
+        "kurzbezeichnung": "Mattersbu. Schnellstr.",
+        "id": 102665,
+        "strassenbezeichnung": "Mattersburger Schnellstraße"
+    },
+    {
+        "kurzbezeichnung": "Römersee-Fischerhaus",
+        "id": 103388,
+        "strassenbezeichnung": "Römersee-Fischerhaus"
+    },
+    {
+        "kurzbezeichnung": "Römersee-Mobilheime",
+        "id": 103389,
+        "strassenbezeichnung": "Römersee-Mobilheime"
+    },
+    {
+        "kurzbezeichnung": "Sonnenweg",
+        "id": 103390,
+        "strassenbezeichnung": "Sonnenweg"
+    },
+    {
+        "kurzbezeichnung": "Rechte Stadlgasse",
+        "id": 103391,
+        "strassenbezeichnung": "Rechte Stadlgasse"
+    },
+    {
+        "kurzbezeichnung": "Seestr.-Sozialzentrum",
+        "id": 107829,
+        "strassenbezeichnung": "Seestraße-Sozialzentrum"
+    },
+    {
+        "kurzbezeichnung": "Gärtnersiedlung",
+        "id": 126628,
+        "strassenbezeichnung": "Gärtnersiedlung"
+    }
+]
